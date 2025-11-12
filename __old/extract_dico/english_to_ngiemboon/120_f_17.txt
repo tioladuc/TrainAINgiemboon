@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "fruit, harvest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit leaving, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fwɔ̀ʼ fwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, passion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mambú mbÿàg pÿág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "laale",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit shells, dried",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kíi nnáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, sp. black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, sp. inedible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋ mvfǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fruit, velvet tamarind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿě ngem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "frying, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿâʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "full of something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kème legwe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwe nziŋte ziŋté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral cloth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral collection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngùb legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral, dance after",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral dance, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral offering",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funeral song",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fungus, sp. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsàpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fun, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funnel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "funny, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fun of, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "furrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿè ngwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm ngwóŋ",
+                "examples": []
+            }
+        ]
+    }
+]

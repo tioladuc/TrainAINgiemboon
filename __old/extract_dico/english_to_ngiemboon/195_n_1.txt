@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "nab",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkǐb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkèmbàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkim",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋa tʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkime",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nail, drive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nailed skin drumhead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa sèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nailed skin head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ sèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nail puller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̀ʼɔ mémbaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "name",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "name, first",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "péle lezíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "name someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nanny goat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nape of the neck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Napier grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "napkin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "táagwèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "narrative",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mápitsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "narrator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìte ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málekàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gyà shwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngyà shwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "narrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nastiness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nasty, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbád",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nasty person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa fʉ̌ʼ nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "native land",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùŋ letoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nature",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nausea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̀e lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "naval wound up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kántoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "navel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋ",
+                "examples": []
+            }
+        ]
+    }
+]

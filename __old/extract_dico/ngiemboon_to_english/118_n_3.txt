@@ -1,0 +1,453 @@
+[
+    {
+        "noun": "ńcʉ́e",
+        "pronounciation": "ń̩tʃɯ́é",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être lourd ; peser",
+                "definition_en": "be heavy; weigh",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́m",
+        "pronounciation": "ń̩tʃɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "achever",
+                "definition_en": "finish",
+                "examples": []
+            },
+            {
+                "definition_fr": "rendre l’âme",
+                "definition_en": "give up the ghost; pass away; die",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́m",
+        "pronounciation": "ń̩tʃɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égoutter",
+                "definition_en": "wring out; drain",
+                "examples": []
+            },
+            {
+                "definition_fr": "égoutter",
+                "definition_en": "drain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́m",
+        "pronounciation": "ń̩tʃɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrer ; pénétrer",
+                "definition_en": "enter; penetrate",
+                "examples": [
+                    {
+                        "dialect": "Anò gie ɔ̀ gɔɔn cʉmé letuŋó mèŋ.",
+                        "fr": "Ce que tu dis est entré dans mon oreille.",
+                        "en": "What you say has entered my ear."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́me",
+        "pronounciation": "ń̩tʃɯ́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arriver",
+                "definition_en": "arrive",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a tà ńcʉ́me mbʉ̀a.",
+                        "fr": "Il est parti jusqu’à arriver à la maison.",
+                        "en": "He left until he reached the house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́me",
+        "pronounciation": "ń̩tʃɯ́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "confier",
+                "definition_en": "confide in",
+                "examples": [
+                    {
+                        "dialect": "Cʉ́me pɔ̀ɔn jú mbwó yé.",
+                        "fr": "Confie ton sac à lui.",
+                        "en": "Entrust your bag to him."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "se mettre en route",
+                "definition_en": "set off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀ncʉ̀a",
+        "pronounciation": "ǹ̩tʃɯ̀ntʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ́ŋ",
+        "pronounciation": "ǹ̩tʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouteille",
+                "definition_en": "bottle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ́ŋ",
+        "pronounciation": "ǹ̩tʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bordure de la toiture",
+                "definition_en": "roof edge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀ŋ",
+        "pronounciation": "ǹ̩tʃɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "portique ; entrée chefferie ; galerie",
+                "definition_en": "portico; entrance to chief’s compound; gallery",
+                "examples": []
+            },
+            {
+                "definition_fr": "valeur",
+                "definition_en": "value",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉŋ",
+        "pronounciation": "ń̩tʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attacher",
+                "definition_en": "attach",
+                "examples": []
+            },
+            {
+                "definition_fr": "souiller ; ridiculiser",
+                "definition_en": "defile; ridicule",
+                "examples": []
+            },
+            {
+                "definition_fr": "se pendre",
+                "definition_en": "hang yourself",
+                "examples": []
+            },
+            {
+                "definition_fr": "pendre en désordre ; suspendre en désordre",
+                "definition_en": "hang in disorder; hang messy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉŋ",
+        "pronounciation": "ń̩tʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaspiller",
+                "definition_en": "waste",
+                "examples": []
+            },
+            {
+                "definition_fr": "gâter",
+                "definition_en": "spoil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀ŋ nzẅìŋ",
+        "pronounciation": "ǹ̩tʃɯ̃̏ŋ ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui ridiculise",
+                "definition_en": "one who ridicules",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀ŋe",
+        "pronounciation": "ǹ̩tʃɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nervosité ; colère",
+                "definition_en": "nervousness; anger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́ŋe",
+        "pronounciation": "ń̩tʃɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenir par la main",
+                "definition_en": "hold by the hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́ŋte",
+        "pronounciation": "ń̩tʃɯ̃́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pendre çà et là",
+                "definition_en": "hang here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉte",
+        "pronounciation": "ń̩tʃɯ̀tȅ",
+        "synonym": [
+            "ńdíe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regarder",
+                "definition_en": "look at",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉʼ",
+        "pronounciation": "ń̩tʃɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tamiser",
+                "definition_en": "sift",
+                "examples": []
+            },
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "influencer",
+                "definition_en": "influence",
+                "examples": []
+            },
+            {
+                "definition_fr": "agiter",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "troubler",
+                "definition_en": "disturb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́ʼ",
+        "pronounciation": "ń̩tʃɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "après ; par derrière",
+                "definition_en": "after; from behind",
+                "examples": [
+                    {
+                        "dialect": "À cʉ̌ʼ ńtó ka?",
+                        "fr": "Est-il venu après ?",
+                        "en": "Did he come later?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńcwée",
+        "pronounciation": "ń̩tʃːwéː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutter ; se battre",
+                "definition_en": "wrestle; fight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwò",
+        "pronounciation": "ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouche",
+                "definition_en": "mouth",
+                "examples": []
+            },
+            {
+                "definition_fr": "entrée",
+                "definition_en": "entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwò",
+        "pronounciation": "ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup",
+                "definition_en": "blow; hit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwò cʉ̀cʉ̀a",
+        "pronounciation": "ǹ̩tʃːwȍ tʃɯ̏tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. musaraigne",
+                "definition_en": "sp. shrew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòfàʼ",
+        "pronounciation": "ǹ̩tʃːwȍfȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profession ; métier",
+                "definition_en": "occupation; job",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwògʉ̀",
+        "pronounciation": "ǹ̩tʃːwȍɣɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouche béante",
+                "definition_en": "gaping mouth",
+                "examples": []
+            },
+            {
+                "definition_fr": "voyelle",
+                "definition_en": "vowel",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "F1",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "F2",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "piŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge piŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "F3",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge gÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "F4",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge táa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge tó tá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "F5",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fabric",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mmó nzso",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "face",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "face, frown",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "face, wrinkle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "facilitate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "facilitator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faeces",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́ʼɔ zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faggot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faggots of wood, put",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́d",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshwo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fail at getting engaged",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "failure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legʉa ntaʼ sí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fairylike",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faith",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅíŋe ntʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ́m lʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "falcon, Eleonora’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fall",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fall down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkeme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "falling, keep the rain from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaʼ mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fall many times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwete",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "shop, butcher",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwaŋ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shop, fish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá messó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shop front",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shopkeeper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ sɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ metʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shore",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tètùʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "levɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùtùʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short and skinny",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâshÿɔ́ʼ ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short cut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́gtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "záʼa nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shorten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short hairs",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ményìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tâtúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "short-tailed glossy starling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngénʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder blade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shú lekẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder, carry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder, carry on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder, give the cold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋéʼe nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder, hang from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder sack, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀ɔn lyɛb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoulder strap, carry by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shout down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ gwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "show",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋe",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "kèkège",
+        "pronounciation": "kèkə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écaille",
+                "definition_en": "scale; shell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kékɔ́gɔ",
+        "pronounciation": "kékɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit ; maigre",
+                "definition_en": "small; little; thin; skinny",
+                "examples": [
+                    {
+                        "dialect": "Tè náa pùʼ we lÿò; ná pɔ́ we kékɔ́gɔ.",
+                        "fr": "Ne donne pas le gros couteau ; ne donne que le petit.",
+                        "en": "Don't give the big knife; only give the small one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kékɔ́gɔ menÿɔ́g",
+        "pronounciation": "kékɔ́ʁɔ́ mèɳɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minuscule",
+                "definition_en": "lower case letter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekɔ́ɔ",
+        "pronounciation": "kèkɔ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔgɔ ńgɔɔn ngie pɔ́gɔ̀ gʉa kekɔ́ɔ?",
+                        "fr": "Tu veux par là dire que nous partions, n’est-ce pas ?",
+                        "en": "By that you mean we were leaving, right?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kèkɔ̀ɔn",
+        "pronounciation": "kȅkɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gâteau de maïs",
+                "definition_en": "cornbread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kékɔ́ʼ",
+        "pronounciation": "kékɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèkɔ̀ʼ",
+        "pronounciation": "kȅkɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courtilière",
+                "definition_en": "mole cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kékɔ́ʼ metÿǒ",
+        "pronounciation": "kékɔ́ʔ mèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pic (gén.)",
+                "definition_en": "woodpecker (generic)",
+                "examples": []
+            },
+            {
+                "definition_fr": "bûcheron",
+                "definition_en": "woodcutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèkɔ̀ʼ ncÿɔ̀ʼɔ",
+        "pronounciation": "kȅkɔ̏ʔ ǹ̩tʃɰɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. courtilière",
+                "definition_en": "sp. mole-cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekwóŋ",
+        "pronounciation": "kèkwṍŋ",
+        "synonym": [
+            "kukwóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèkwòon",
+        "pronounciation": "kȅkwõ̏ː",
+        "synonym": [
+            "kùkwòon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bélier ; mouton de sexe masculin",
+                "definition_en": "ram; male sheep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekwɔ́g",
+        "pronounciation": "kèkwɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèkwɔ̀ʼɔ",
+        "pronounciation": "kȅkwɔ̀ʔɔ̏",
+        "synonym": [
+            "kùkwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros ; grand ; épais",
+                "definition_en": "big; large; tall; thick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekÿɛ̀",
+        "pronounciation": "kèkɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crête",
+                "definition_en": "comb; crest; ridge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekÿɛ̀",
+        "pronounciation": "kèkɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piano à pouces",
+                "definition_en": "thumb piano",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kélêg",
+        "pronounciation": "kélə̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brouette",
+                "definition_en": "wheelbarrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèlekàʼ",
+        "pronounciation": "kȅlèkȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "friperie (chaussure)",
+                "definition_en": "second-hand (shoe)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kéléndeŋ",
+        "pronounciation": "kə́léndə̃̀ŋ",
+        "synonym": [
+            "ntsɔ̀ʼ ngɔ̌ɔn ",
+            " lengɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boubou tropical",
+                "definition_en": "puffback shrike",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kélèŋ",
+        "pronounciation": "kélə̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par une arme à feu",
+                "definition_en": "sound of a gun firing",
+                "examples": [
+                    {
+                        "dialect": "Mé těm ngǔ, é gÿo lê kélèŋ.",
+                        "fr": "On a tiré le fusil et ça a fait que « kélèŋ ».",
+                        "en": "We fired the gun and it went “kélèŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kelésemî",
+        "pronounciation": "kə̀lésə̀mî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noël",
+                "definition_en": "Christmas",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kelétè",
+        "pronounciation": "kə̀létȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chrétien",
+                "definition_en": "Christian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kelɔ̂g",
+        "pronounciation": "kèlɔ̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kélɔɔn",
+        "pronounciation": "kélɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouchardage ; commentaire vain ; trouble ; litanie",
+                "definition_en": "informing; vain commentary; turmoil; litany",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèm",
+        "pronounciation": "kə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souche ; morceau ; tranche",
+                "definition_en": "stump; piece; slice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kěm",
+        "pronounciation": "kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très calme",
+                "definition_en": "very calm",
+                "examples": [
+                    {
+                        "dialect": "Tâm ka zɔ́ʼɔ nzwě we, á láŋte lê kěm.",
+                        "fr": "Tam s’est marié ; sa femme est très calme.",
+                        "en": "Tam got married; his wife is very calm."
+                    }
+                ]
+            }
+        ]
+    }
+]

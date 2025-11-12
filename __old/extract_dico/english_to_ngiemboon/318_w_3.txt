@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "washbasin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash-bowl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zème ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash carefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkib",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash, half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdábte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash lightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash poorly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wasp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wasp, mason",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mápóon tsetsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfémpfelé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀ŋe nkáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉshÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waste away",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waste salt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèyàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waste sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waste time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "watch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wáasè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼte nÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáase",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gyà njÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "watchfulness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔgɔ́lɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "watch out for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "watch over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿóon múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, be cool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, cross over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, deep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leteŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, deep place",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zème",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, dirty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melabá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, disturb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, disturb several times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvoŋte",
+                "examples": []
+            }
+        ]
+    }
+]

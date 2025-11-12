@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "neighbourhood chief",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá lepfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neighbourhood of a village",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nerve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋaŋ nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngi nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nervousness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "net",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "net, mosquito",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tándì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "net-rattle, gourd",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nettle (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbâmbǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nettle, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbâmbǎ mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbâmbǎ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neurotic, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "never",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "laa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndaa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "le",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nevertheless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "new",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pesẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sesẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wesẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yesẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "new cocoyam (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákàba",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú lekàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "new red cocoyam, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákàba páŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋa tenùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ nkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "news",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "newspaper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mésáʼa kɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "next",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔntè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "next, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "next day",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿó lʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "next to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Ngiemboon language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò ngiembɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nibble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúmte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "niggardly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe ńkÿɛ́",
+                "examples": []
+            }
+        ]
+    }
+]

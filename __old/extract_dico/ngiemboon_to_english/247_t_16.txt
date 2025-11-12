@@ -1,0 +1,385 @@
+[
+    {
+        "noun": "tùʼu",
+        "pronounciation": "ʈùʔȕ",
+        "synonym": [
+            "kàtùʼu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. écuelle à base de calebasse",
+                "definition_en": "k. bowl made from a calabash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túʼu pfó",
+        "pronounciation": "ʈúʔú pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nielle ; s. maladie des épis des céréales",
+                "definition_en": "corn-cockle; k. disease of cereal ears",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̀",
+        "pronounciation": "ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force",
+                "definition_en": "strength; force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̀",
+        "pronounciation": "ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vite",
+                "definition_en": "fast",
+                "examples": [
+                    {
+                        "dialect": "Gɔɔn lé múɔ ngie à cʉa lê tʉ̀.",
+                        "fr": "Dis à l’enfant de passer vite.",
+                        "en": "Tell the child to come quickly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̌",
+        "pronounciation": "ʈɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fer",
+                "definition_en": "iron",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̌",
+        "pronounciation": "ʈɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prison",
+                "definition_en": "prison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̌ nʉ̀",
+        "pronounciation": "ʈɯ̌ ɳɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diamant",
+                "definition_en": "diamond",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̂a nkáʼ",
+        "pronounciation": "ʈɯ́à ŋ̩̀káʔ",
+        "synonym": [
+            "lepàa nkáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barrière ; haie",
+                "definition_en": "barrier; hedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ́m",
+        "pronounciation": "ʈɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cœur",
+                "definition_en": "heart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̀nzẅìŋ",
+        "pronounciation": "ʈɯ̏ndzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cher ; très cher",
+                "definition_en": "dear; expensive; very dear; very expensive",
+                "examples": [
+                    {
+                        "dialect": "Tʉ̀nzẅìŋ tá wɔ̀ɔn shúshu ná yɔ̀ɔn nkába sekúd.",
+                        "fr": "Très cher père, pardon donne mes frais de scolarité.",
+                        "en": "Dearest father, forgive me for my school fees."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tʉ́ŋ",
+        "pronounciation": "ʈɯ̃́ŋ",
+        "synonym": [
+            "téŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau ; s. instrument de danse",
+                "definition_en": "k. hat; k. dance instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̀ʉ twó",
+        "pronounciation": "ʈɯ̏ː ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entêtement ; opiniâtreté",
+                "definition_en": "stubbornness; opinionated",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tʉ̀zsǒ",
+        "pronounciation": "ʈɯ̏zsǒ",
+        "synonym": [
+            "táŋazsǒ ",
+            " tẅɛ̂b ",
+            " tsɛ̀ɛzsǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "midi",
+                "definition_en": "noon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tweente",
+        "pronounciation": "ʈwẽ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bonne ambiance ; gaieté dans l’air",
+                "definition_en": "good atmosphere; cheerfulness in the air",
+                "examples": [
+                    {
+                        "dialect": "À tweente jʉʼ yɔɔn.",
+                        "fr": "Voici un lieu d’ambiance.",
+                        "en": "This is an atmospheric place."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "twó",
+        "pronounciation": "ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tête",
+                "definition_en": "head",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó kǔ",
+        "pronounciation": "ʈθwó kǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tête du lit",
+                "definition_en": "head of the bed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó légwe",
+        "pronounciation": "ʈθwó léɣxwè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cause de la mort",
+                "definition_en": "cause of death",
+                "examples": []
+            },
+            {
+                "definition_fr": "tête rasée en signe de deuil",
+                "definition_en": "shaved head as a sign of mourning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó makùm",
+        "pronounciation": "tθwó màkȕm̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "masque",
+                "definition_en": "mask",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twò mvɛ̌",
+        "pronounciation": "ʈθwȍ ɱ̩̀bvɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hémorragie nasale",
+                "definition_en": "bloody nose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó ndá",
+        "pronounciation": "ʈθwó ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charpente",
+                "definition_en": "frame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó ngyǎŋ",
+        "pronounciation": "ʈθwó ŋ̩̀gjã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó tejúʼ",
+        "pronounciation": "ʈθwó tèʒúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "têtu ; délinquant",
+                "definition_en": "stubborn; delinquent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó tekwò",
+        "pronounciation": "ʈθwó tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bout de l’orteil",
+                "definition_en": "end of a toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twó tepwó",
+        "pronounciation": "ʈθwó tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bout du doigt",
+                "definition_en": "fingertip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twókáŋ",
+        "pronounciation": "ʈθwókã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuvette",
+                "definition_en": "basin; bowl",
+                "examples": []
+            }
+        ]
+    }
+]

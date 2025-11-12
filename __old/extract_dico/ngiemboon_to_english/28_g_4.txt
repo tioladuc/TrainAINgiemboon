@@ -1,0 +1,386 @@
+[
+    {
+        "noun": "guʼ ú",
+        "pronounciation": "ɣùʔ ú",
+        "synonym": [
+            "gu û"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le dédain)",
+                "definition_en": "(shows contempt)",
+                "examples": [
+                    {
+                        "dialect": "Guʼ ú! Tà á nyé pɔ́ yɛ̌ gie ɔ̀ shwóŋo?",
+                        "fr": "« Guʼ ú » ! C’est toujours de cela que tu parles ainsi ?",
+                        "en": "“Guʼú”! Is that what you always talk about?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gùʼte",
+        "pronounciation": "ɣùʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "respect ; honneur",
+                "definition_en": "respect; honour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gúʼu nɔ̀ɔn panzwě",
+        "pronounciation": "ɣúʔú nɔ̃̏ː pȁndzwě",
+        "synonym": [
+            "feláʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gúʼunɔ̀ɔn",
+        "pronounciation": "ɣúʔúnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̌",
+        "pronounciation": "ɣɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gobelet",
+                "definition_en": "cup; goblet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̌ mevɛ́",
+        "pronounciation": "ɣɯ̌ mèvɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse à huile",
+                "definition_en": "calabash for oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̌ nkʉ́a",
+        "pronounciation": "ɣɯ̌ ŋ̩̀kɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse pour cueillir du vin",
+                "definition_en": "calabash for collecting wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̌ ntse",
+        "pronounciation": "ɣɯ̌ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gobelet ; s. écuelle à base de calebasse",
+                "definition_en": "cup; goblet; k. bowl from a calabash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̌ tÿóon",
+        "pronounciation": "ɣɯ̌ tɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse utilisée pour boire",
+                "definition_en": "calabash used for drinking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀a",
+        "pronounciation": "ɣɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aller ; départ",
+                "definition_en": "going; leaving",
+                "examples": [
+                    {
+                        "dialect": "Agʉ̀a té tʉ, apìŋ zɔ̌ nò.",
+                        "fr": "L’aller est facile, mais le retour difficile.",
+                        "en": "The way there is easy, but the way back is difficult."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀gʉ̀",
+        "pronounciation": "ɣɯ̏ɣɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aliéné",
+                "definition_en": "lunatic",
+                "examples": []
+            },
+            {
+                "definition_fr": "imbécile",
+                "definition_en": "imbecile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀gʉ̀ʉ nò",
+        "pronounciation": "ɣɯ̏ɣɯ̏ː nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose ridicule",
+                "definition_en": "ridiculous thing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉgÿɛ́",
+        "pronounciation": "ɣɯ̀ɣɰɛ́",
+        "synonym": [
+            "gégÿɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papillon (gén.)",
+                "definition_en": "butterfly (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ́m",
+        "pronounciation": "ɣɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très rouge (fruit, peau, sang)",
+                "definition_en": "very red (fruit, skin, blood)",
+                "examples": [
+                    {
+                        "dialect": "Legɔ̀ʼ mmɔ́g tàalɔ̀ɔn páŋa lê gʉ́m.",
+                        "fr": "La braise du forgeron est très rouge.",
+                        "en": "The blacksmith's embers are very red."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gʉ́m",
+        "pronounciation": "ɣɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "kapokier",
+                "definition_en": "silk-cotton tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ́m",
+        "pronounciation": "ɣɯ́m",
+        "synonym": [
+            "gém ",
+            " táa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froid fort en temps brumeux ; brume",
+                "definition_en": "strong cold during times of fog; mist; fog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀me",
+        "pronounciation": "ɣɯ̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vert",
+                "definition_en": "green",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀me mmɔ́g",
+        "pronounciation": "ɣɯ̀mȅ m̩̀mɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bûche",
+                "definition_en": "log",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀ŋe",
+        "pronounciation": "ɣɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "asthme ; bronchite",
+                "definition_en": "asthma; bronchitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀ŋe ńkÿɛ́",
+        "pronounciation": "ɣɯ̃̀ŋȅ ŋ̩́kɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiche ; envahisseur ; saccageur",
+                "definition_en": "niggardly; stingy; invader; pillager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ̀ŋe nzsè",
+        "pronounciation": "ɣɯ̃̀ŋȅ ǹ̩dzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déviation",
+                "definition_en": "deflection; diversion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gʉ́ʼ",
+        "pronounciation": "ɣɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acier",
+                "definition_en": "stainless steel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwá",
+        "pronounciation": "ɣwá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri",
+                "definition_en": "cry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwà",
+        "pronounciation": "ɣwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lame ; ciseau ; ciseaux",
+                "definition_en": "blade; chisel; pair of scissors",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwà",
+        "pronounciation": "ɣwȁ",
+        "synonym": [
+            "gẅà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    }
+]

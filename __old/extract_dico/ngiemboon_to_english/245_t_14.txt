@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "tsẅɛ́ʼ",
+        "pronounciation": "tsɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuit",
+                "definition_en": "night",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅɛ́ʼ ntèbe",
+        "pronounciation": "tsɥɛ́ʔ ǹ̩tə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bricole",
+                "definition_en": "trinket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅì",
+        "pronounciation": "tsɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stress ; timidité ; maladie du couple",
+                "definition_en": "stress; shyness; timidity; marital problem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅǐd",
+        "pronounciation": "tsɥǐt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit fort du doigt sortant de la bouche",
+                "definition_en": "loud sound of a finger coming out of your mouth",
+                "examples": [
+                    {
+                        "dialect": "Múɔ sẅǐ tepwó lê tsẅǐd.",
+                        "fr": "L’enfant a sucé son doigt en produisant un bruit fort.",
+                        "en": "The child sucked his finger, making a loud noise."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "bruit de piaffement",
+                "definition_en": "sound of stamping, pawing",
+                "examples": [
+                    {
+                        "dialect": "N ne ńgɔɔn nò, á sóon lê tsẅǐd.",
+                        "fr": "J’étais en train de parler, il a piaffé.",
+                        "en": "I was talking, he pawed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsẅiŋ",
+        "pronounciation": "tsɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "têtu ; insoumis",
+                "definition_en": "stubborn; absent without leave",
+                "examples": []
+            },
+            {
+                "definition_fr": "porte-malheur",
+                "definition_en": "jinx",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅíŋ",
+        "pronounciation": "tsɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "galago de Sénégal",
+                "definition_en": "Senegal bush baby; Senegal galago",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅíŋ",
+        "pronounciation": "tsɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malheur ; malchance",
+                "definition_en": "misfortune; tragedy; bad luck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅìŋe lɔɔn",
+        "pronounciation": "tsɥĩ̀ŋȅ lɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "découragement",
+                "definition_en": "discouragement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅìte",
+        "pronounciation": "tsɥìtȅ",
+        "synonym": [
+            "nkentàʼntʉŋé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appât",
+                "definition_en": "bait",
+                "examples": []
+            },
+            {
+                "definition_fr": "ver de terre",
+                "definition_en": "earthworm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅíʼte",
+        "pronounciation": "tsɥíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commérage",
+                "definition_en": "gossip",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ tè ne ńkwoŋe tsẅíʼte wɔ́.",
+                        "fr": "Je ne veux pas le commérage.",
+                        "en": "I don't want the gossip."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsyàg",
+        "pronounciation": "tsjȁq̚",
+        "synonym": [
+            "tyàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte ; peu",
+                "definition_en": "drop; little",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyàg",
+        "pronounciation": "tsjȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchiré",
+                "definition_en": "torn",
+                "examples": [
+                    {
+                        "dialect": "Metsyàg menzsǒ.",
+                        "fr": "Les habits déchirés.",
+                        "en": "Clothes torn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsyâg",
+        "pronounciation": "tsjâq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit un fruit mûr qui tombe au sol",
+                "definition_en": "sound of a ripe fruit falling to the ground",
+                "examples": [
+                    {
+                        "dialect": "Pîɛ fǒ gwě ssé lê tsyâg.",
+                        "fr": "L’avocat est tombé que « tsyâg ».",
+                        "en": "The lawyer said “tsyâg”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsyǎg",
+        "pronounciation": "tsjǎq̚",
+        "synonym": [
+            "tsǎg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "placenta",
+                "definition_en": "placenta",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyágà",
+        "pronounciation": "tsjáʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très mou",
+                "definition_en": "very smooth",
+                "examples": [
+                    {
+                        "dialect": "Mesaŋá pÿɛɛ lê tsyágà.",
+                        "fr": "Le couscous est très mou.",
+                        "en": "The couscous is very soft."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsyàgte",
+        "pronounciation": "tsjàqtȅ",
+        "synonym": [
+            "tsàgte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchirure",
+                "definition_en": "tear; rip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsye",
+        "pronounciation": "tsːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grillon",
+                "definition_en": "sp. cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyee",
+        "pronounciation": "tsːjè:",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "est-ce que ?",
+                "definition_en": "do?",
+                "examples": [
+                    {
+                        "dialect": "Tsyee ɔ̀ cʉ́a tá weg Ssé ka?",
+                        "fr": "Est-ce que tu dépasses notre Dieu ?",
+                        "en": "Are you surpassing our God?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsyèen",
+        "pronounciation": "tsjẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bagasse ; déchets des choses dont on a pressés pour extraire quelque chose",
+                "definition_en": "bagasse; leftovers from squeezing something to extract something else",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyéente",
+        "pronounciation": "tsjẽ́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruse ; escroquerie ; fraude",
+                "definition_en": "trick; swindle; fraud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyɛ̀ɛ múɔ",
+        "pronounciation": "tsjɛ̏ː múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant conçu dans l’irrespect du planning familial",
+                "definition_en": "child conceived without respecting family planning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyɛ̀te nnɛ́",
+        "pronounciation": "tsjɛ̀tȅ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "impatience",
+                "definition_en": "impatience",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsyɛ̀ʼte",
+        "pronounciation": "tsjɛ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salutation",
+                "definition_en": "greeting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tù nkʉ̌a",
+        "pronounciation": "ʈȕ ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeune branche de raphia",
+                "definition_en": "raffia branch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùb lekʉŋ",
+        "pronounciation": "ʈȕp̚ lèkɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble fait ; désordonné ; mauvais type",
+                "definition_en": "spoilsport; untidy person; bad person",
+                "examples": []
+            }
+        ]
+    }
+]

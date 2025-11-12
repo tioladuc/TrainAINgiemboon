@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "ahead, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńduŋ mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ahead, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ahead of, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅige",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aid, mutual",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aiele",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ mbÿě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aiele sap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aim",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táleŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aim at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíŋe mmóm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "air",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "air force",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "air going by, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gû",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "air in, put",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "air moving, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Akoose language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pakɔsi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alarm, false",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó ncÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "albino",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèpòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekɛ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "albino, woman or girl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alcoholic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbí melùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píme melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "algae",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vakɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alibi",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndilétáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alienate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alienation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "align",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g nkàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alike, look",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéte",
+                "examples": []
+            }
+        ]
+    }
+]

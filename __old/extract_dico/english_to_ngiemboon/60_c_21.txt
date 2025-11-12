@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "compound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cùbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compressor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concave (eye)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìdte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concave, fold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbidte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concentration, lapse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́me",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concentration, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwáʼa lÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concerned person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concerning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉa na",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concession, abandoned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fòm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concession entrance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conciliatory, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́le",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conclude",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtége metwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concubinage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "concubine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mágàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "condiment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "condiment for sauce, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ndẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "condiment, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋáʼ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅiŋe gyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "twókɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ménjʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nŋaŋ mángém ntɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njáŋsáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lélum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉngʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo njÿòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔnŋwɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káŋwɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conference",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíŋ menò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confession",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅíŋe mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confidante",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mágàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confide in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́me",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confidence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezab ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confidence, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtém nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáb ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confidence in someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém nzèm ńná",
+                "examples": []
+            }
+        ]
+    }
+]

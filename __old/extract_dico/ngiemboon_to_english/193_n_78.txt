@@ -1,0 +1,414 @@
+[
+    {
+        "noun": "ńzéme",
+        "pronounciation": "ń̩dzə́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contourner",
+                "definition_en": "skirt around; bypass",
+                "examples": []
+            },
+            {
+                "definition_fr": "rouler",
+                "definition_en": "roll up",
+                "examples": []
+            },
+            {
+                "definition_fr": "tournoyer",
+                "definition_en": "swirl around",
+                "examples": []
+            },
+            {
+                "definition_fr": "être rond",
+                "definition_en": "be round",
+                "examples": []
+            },
+            {
+                "definition_fr": "enrouler ; rouler la corde",
+                "definition_en": "roll up; roll the rope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzème kwò",
+        "pronounciation": "ǹ̩dzə̀mȅ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mollet",
+                "definition_en": "calf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzème mmó",
+        "pronounciation": "ǹ̩dzə̀mȅ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cloche double en fer sans battant",
+                "definition_en": "double metal bell without clapper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzème pwó",
+        "pronounciation": "ǹ̩dzə̀mȅ pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dos de la main",
+                "definition_en": "back of the hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzème twó",
+        "pronounciation": "ǹ̩dzə̀mȅ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrière crâne ; nuque",
+                "definition_en": "back of the skull; nape of the neck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèmenzème",
+        "pronounciation": "ǹ̩dzə̀mȅndzə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèmessé",
+        "pronounciation": "ǹ̩dzȅmèsːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfer",
+                "definition_en": "hell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèmɔɔn",
+        "pronounciation": "ǹ̩dzȅmɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cour royale",
+                "definition_en": "royal court",
+                "examples": []
+            },
+            {
+                "definition_fr": "cour secondaire (grande concession)",
+                "definition_en": "second level law court",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzémte",
+        "pronounciation": "ń̩dzə́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chuchoter",
+                "definition_en": "whisper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzènzóŋ",
+        "pronounciation": "ǹ̩dzȅndzṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épine",
+                "definition_en": "thorn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzeŋe",
+        "pronounciation": "ń̩dzə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être léger",
+                "definition_en": "be light",
+                "examples": []
+            },
+            {
+                "definition_fr": "être poli",
+                "definition_en": "be polite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzeŋe",
+        "pronounciation": "ń̩dzə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guérir",
+                "definition_en": "cure; heal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèŋe ncwò",
+        "pronounciation": "ǹ̩dzə̃̀ŋȅ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne poli",
+                "definition_en": "polite person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèŋe nnɛ́",
+        "pronounciation": "ǹ̩dzə̃̀ŋȅ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vaillant",
+                "definition_en": "brave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèŋe nnɛ́",
+        "pronounciation": "ǹ̩dzə̃̀ŋȅ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courageux",
+                "definition_en": "courageous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzéʼe",
+        "pronounciation": "ń̩dzə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traverser",
+                "definition_en": "cross",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzéʼe",
+        "pronounciation": "ń̩dzə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vomir",
+                "definition_en": "vomit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɛ",
+        "pronounciation": "ń̩dzɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être lourd",
+                "definition_en": "be heavy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être impoli",
+                "definition_en": "be rude",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɛ",
+        "pronounciation": "ń̩dzɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɛ́te",
+        "pronounciation": "ń̩dzɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demander ; questionner",
+                "definition_en": "ask; question",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzí",
+        "pronounciation": "ń̩dzí",
+        "synonym": [
+            "ńzyéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développer ; évoluer",
+                "definition_en": "develop; evolve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzib",
+        "pronounciation": "ń̩dzìp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever la peau ; écorcher",
+                "definition_en": "remove the skin; peel",
+                "examples": []
+            },
+            {
+                "definition_fr": "écorcher",
+                "definition_en": "skin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìbe",
+        "pronounciation": "ǹ̩dzìβȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écorcheur ; éplucheur",
+                "definition_en": "skinner; peeler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìbte",
+        "pronounciation": "ǹ̩dzìptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clochardisation",
+                "definition_en": "homelessness",
+                "examples": []
+            },
+            {
+                "definition_fr": "honte ; confusion ; friandises",
+                "definition_en": "disgrace; shame; confusion; sweet; sweetmeat; candy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzibte",
+        "pronounciation": "ń̩dzìptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir honte",
+                "definition_en": "be ashamed",
+                "examples": []
+            },
+            {
+                "definition_fr": "être confus",
+                "definition_en": "be confused",
+                "examples": []
+            },
+            {
+                "definition_fr": "être embarrassé",
+                "definition_en": "be embarrassed",
+                "examples": []
+            }
+        ]
+    }
+]

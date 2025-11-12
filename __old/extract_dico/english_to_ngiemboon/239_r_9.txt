@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "retort",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "return",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋe nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "returns, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "return to the fold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋe láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "revenge for an insult, take",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅag shʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reverse the colours",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "review",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legiŋé nkímte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "revision",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legiŋé nkímte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "revive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "revive a conflict",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "revolt, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reward",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rheumatism",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfɛ́ kẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rhinoceros",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn tàʼ ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rhyme",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píme",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rib",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̌ mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rib, man’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekú léesè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tóo ńtsyeen ḿmi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rich person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "riddle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwá lʉʼʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwá lʉʼʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "riddle, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kème pwó mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ridge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ridge, edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉŋ ngwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ridges, space between",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿè ngwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ridicule",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉŋ nzẅìŋ",
+                "examples": []
+            }
+        ]
+    }
+]

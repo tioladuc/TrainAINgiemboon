@@ -1,0 +1,357 @@
+[
+    {
+        "noun": "sound, fat person sitting down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, finger out of mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅǐd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, flame going out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùbpùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, jigger that explodes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, low-pitched",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of a gun firing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kélèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of air going by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gû",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of a machete cutting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of a pebble falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of a stone falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "têm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of bamboo falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zwàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of cloth ripping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kîɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound  of cloth ripping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of corn popping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̀g tɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of dibble stick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of fruit leaving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fwɔ̀ʼ fwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of frying",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿâʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of glass objects falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿáŋaláŋláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of hands clapping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of hoe digging",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of instrument buried",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of object entering water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of rain beating down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of skirt during walking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of someone coughing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́hɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

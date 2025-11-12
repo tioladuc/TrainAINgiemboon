@@ -1,0 +1,378 @@
+[
+    {
+        "noun": "kěm",
+        "pronounciation": "kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "médiation ; négociation",
+                "definition_en": "mediation; negotiation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème legwe",
+        "pronounciation": "kə̀mȅ lèɣxwè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "funérailles",
+                "definition_en": "funeral",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème mmó",
+        "pronounciation": "kə̀mȅ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bâton",
+                "definition_en": "stick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème nnú",
+        "pronounciation": "kə̀mȅ ɳ̩̀ɳú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "atractaspide variable",
+                "definition_en": "variable burrowing asp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème pwó",
+        "pronounciation": "kə̀mȅ pɸwó",
+        "synonym": [
+            "nkème pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manchot",
+                "definition_en": "armless man; one-armed man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème pwó mmó",
+        "pronounciation": "kə̀mȅ pɸwó m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. devinette (d’objet caché dans la main)",
+                "definition_en": "k. riddle (object hidden in the hand)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kème shùu kwò",
+        "pronounciation": "kə̀mȅ ʃȕː kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "culotte",
+                "definition_en": "pants; knickers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèmùʼu",
+        "pronounciation": "kȅmùʔȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sangsue",
+                "definition_en": "leech",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kénáŋ",
+        "pronounciation": "kénã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caméléon (gén.)",
+                "definition_en": "chameleon (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kénáŋ mandóŋ",
+        "pronounciation": "kénã́ŋ màndṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caméléon d’Eisentraut",
+                "definition_en": "Eisentraut’s chameleon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kénʉʼ",
+        "pronounciation": "kéɳɯ̀ʔ",
+        "synonym": [
+            "nʉʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "impérate",
+                "definition_en": "congograss; speargrass; swordgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kénʉʼ ssé",
+        "pronounciation": "kéɳɯ̀ʔ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kényǎŋ",
+        "pronounciation": "kéɲã̌ŋ",
+        "synonym": [
+            "nyǎŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(expression donnant le signal de démarrage d’une action ou d’un défit)",
+                "definition_en": "(starting signal)",
+                "examples": [
+                    {
+                        "dialect": "Gɔ̌ɔn ngie kényǎŋ, n gʉa ɔ̀ gyá.",
+                        "fr": "Dis « kényǎŋ », je pars, tu vois.",
+                        "en": "Say “kényǎŋ”, I’m leaving, you see."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kéŋ",
+        "pronounciation": "kə́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par une cloche",
+                "definition_en": "sound of a bell ringing",
+                "examples": [
+                    {
+                        "dialect": "À cǔa ŋwʉ́ŋe á gye lê kéŋ.",
+                        "fr": "Il a tapé la cloche et elle a fait que « kéŋ ».",
+                        "en": "He hit the bell and it went “kéŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kèpàg",
+        "pronounciation": "kȅpȁq̚",
+        "synonym": [
+            "kàpàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carapace",
+                "definition_en": "shell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "képàʼ",
+        "pronounciation": "képȁʔ",
+        "synonym": [
+            "kápà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monnaie ancienne",
+                "definition_en": "ancient money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "késhʉ",
+        "pronounciation": "kéʃɯ̀",
+        "synonym": [
+            "kíshʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "késhʉʼ",
+        "pronounciation": "kéʃɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hoquet",
+                "definition_en": "hiccup",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "késhʉʼ",
+        "pronounciation": "kéʃɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "késiŋ",
+        "pronounciation": "késĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gourdin",
+                "definition_en": "club; bludgeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "késiŋ",
+        "pronounciation": "késĩ̀ŋ",
+        "synonym": [
+            "siŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gourdin",
+                "definition_en": "club; bludgeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kesse kǔ",
+        "pronounciation": "kèsːè kǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dessous du lit",
+                "definition_en": "under the bed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kétáʼtǔm",
+        "pronounciation": "kétáʔʈǔm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clapotis",
+                "definition_en": "lapping (waves)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kètsɔ̀ʼ",
+        "pronounciation": "kȅtsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "galop",
+                "definition_en": "gallop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèyàga",
+        "pronounciation": "kèjàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchet de sel",
+                "definition_en": "waste salt",
+                "examples": []
+            }
+        ]
+    }
+]

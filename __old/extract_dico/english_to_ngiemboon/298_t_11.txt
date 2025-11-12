@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "tiredness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̂a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tire, inflation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepóm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tire out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "title, nobility",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shǔ fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "title, royal notability",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔntsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lé-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lé-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "né",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "to (+verb)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tètɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toad, jump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toad larva",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmbyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tobacco (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tobacco, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pòŋo lé mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tobacco, sp. cultivated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ pòŋo lémbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tobacco, sp. wild",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ kénáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "to be hung",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "today",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̌ʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "today future",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "piŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge piŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "today past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ně",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ tekwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ tepwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tekwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toe, big",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toe, blow from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lóŋ tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toe, end",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toes, candidiasis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metsyɛmbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "together, die",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toilet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́ nnɛ́",
+                "examples": []
+            }
+        ]
+    }
+]

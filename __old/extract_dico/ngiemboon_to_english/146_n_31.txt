@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "ngwʉ̌ŋ",
+        "pronounciation": "ŋ̩̀gwɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canari ; récipient rond en terre cuite qui permet de réaliser une cuisson à l’étouffé sur un feu de braise dans la cuisine de l’Afrique de l’ouest ; petit pot en argile",
+                "definition_en": "canary; a round earthenware container that allows for cooking by steaming on a charcoal fire in the kitchens of West Africa; small clay cooking pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwʉ́ŋte",
+        "pronounciation": "ŋ̩́gwɯ̃́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épater",
+                "definition_en": "amaze",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgẅáŋte",
+        "pronounciation": "ŋ̩́gwã́ŋté",
+        "synonym": [
+            "ńkẅáŋte ",
+            " ńdoŋo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rabougrir ; s’étioler",
+                "definition_en": "shrivel up; become stunted; wilt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgẅe",
+        "pronounciation": "ŋ̩́gxɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rire ; se moquer de",
+                "definition_en": "laugh; make fun of; mock",
+                "examples": []
+            },
+            {
+                "definition_fr": "sourire ; être souriante",
+                "definition_en": "smile ; be smiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅɛ̀",
+        "pronounciation": "ŋ̩̀gɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semence",
+                "definition_en": "seed",
+                "examples": []
+            },
+            {
+                "definition_fr": "descendance ; progéniture",
+                "definition_en": "descendants; offspring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅɛ̀ ndá",
+        "pronounciation": "ŋ̩̀gɥɛ̏ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "descendance",
+                "definition_en": "descendants",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅi",
+        "pronounciation": "ŋ̩̀gɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "panthère ; léopard",
+                "definition_en": "panther; leopard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅi lelaŋ",
+        "pronounciation": "ŋ̩̀gɥì lèlã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅi lelaŋ",
+        "pronounciation": "ŋ̩̀gɥì lèlã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅi lepàb",
+        "pronounciation": "ŋ̩̀gɥì lèpȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écureuil volant",
+                "definition_en": "Beecroft’s flying squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅìin",
+        "pronounciation": "ŋ̩̀gɥĩ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détenteur ; tenancier ; possesseur",
+                "definition_en": "holder; manager; owner",
+                "examples": [
+                    {
+                        "dialect": "Angẅiin wɔɔn.",
+                        "fr": "Voici le détenteur.",
+                        "en": "Here is the holder."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńgẅiin",
+        "pronounciation": "ŋ̩́gɥĩ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir ; posséder",
+                "definition_en": "have; possess",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir de la chance",
+                "definition_en": "to be lucky",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir raison",
+                "definition_en": "be right",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngẅǐŋ",
+        "pronounciation": "ŋ̩̀gɥĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patate sèche ; biscuit",
+                "definition_en": "potato; spud; biscuit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgẅíŋ",
+        "pronounciation": "ŋ̩́gɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "durcir",
+                "definition_en": "harden",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgẅíʼi",
+        "pronounciation": "ŋ̩́gɥíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenter de vomir ; renvoyer une nourriture avalée",
+                "definition_en": "try to vomit; throw up swallowed food",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgyá",
+        "pronounciation": "ŋ̩́gjá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voir",
+                "definition_en": "see",
+                "examples": []
+            },
+            {
+                "definition_fr": "se mirer",
+                "definition_en": "to look at oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "souffrir",
+                "definition_en": "suffer",
+                "examples": []
+            },
+            {
+                "definition_fr": "se voir",
+                "definition_en": "see each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngyà shwóŋ",
+        "pronounciation": "ŋ̩̀gjȁ ʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narrateur",
+                "definition_en": "narrator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgyag",
+        "pronounciation": "ŋ̩́gjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blâmer une personne",
+                "definition_en": "blame someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "être prudent",
+                "definition_en": "be prudent",
+                "examples": []
+            },
+            {
+                "definition_fr": "bavarder",
+                "definition_en": "chat",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ne ńjúʼu páʼ pɔ́ gyaga shwǒŋ.",
+                        "fr": "J’entend comment ils bavardent.",
+                        "en": "I hear how they chatter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngyagyǎ",
+        "pronounciation": "ŋ̩̀gjàɣjǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "observateur",
+                "definition_en": "observer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgyáŋ",
+        "pronounciation": "ŋ̩́gjã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire de mal",
+                "definition_en": "hurt",
+                "examples": []
+            },
+            {
+                "definition_fr": "se fâcher",
+                "definition_en": "get angry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngye",
+        "pronounciation": "ŋ̩̀gxjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sage ; rusé",
+                "definition_en": "wise; good; cunning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngyè",
+        "pronounciation": "ŋ̩̀gxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voix",
+                "definition_en": "voice",
+                "examples": []
+            },
+            {
+                "definition_fr": "son",
+                "definition_en": "sound",
+                "examples": []
+            },
+            {
+                "definition_fr": "écho",
+                "definition_en": "echo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngyě",
+        "pronounciation": "ŋ̩̀gxjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brin ; fil",
+                "definition_en": "twig; wire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgye",
+        "pronounciation": "ŋ̩́gxjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "résonner ; retentir",
+                "definition_en": "resound; ring out",
+                "examples": []
+            },
+            {
+                "definition_fr": "être intelligent",
+                "definition_en": "be intelligent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngyè tetʉ̂",
+        "pronounciation": "ŋ̩̀gxjȅ tèʈɯ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri d’alarme",
+                "definition_en": "cry for help",
+                "examples": []
+            }
+        ]
+    }
+]

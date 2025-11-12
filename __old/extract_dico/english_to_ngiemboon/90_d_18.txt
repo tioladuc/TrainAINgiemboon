@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "drudgery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drug",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzîɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jÿòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drug, sleeping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo lelɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drug user",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, hourglass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làmbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, k. cylindrical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ sèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, k. large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, k. large vertical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa sèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, k. squat cylindrical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drum, k. very large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drumsticks, hit with two",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drunk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbí melùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píme melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drunkard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "núnú melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drunkenness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píme melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drunk, get",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúmte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésaŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jùmo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúmte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry, be completely",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry, be very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dryer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàlàngá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúmte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry out halfway",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry out, heat up to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dry season",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùm",
+                "examples": []
+            }
+        ]
+    }
+]

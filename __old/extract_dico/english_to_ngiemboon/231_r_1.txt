@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "rabbit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làpêŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "race",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rack, draining",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe lekyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndòŋ nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "radio",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jùʼu shwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia, bifurcated shoot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia branch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tù nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia cover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwòon nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia fibre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅǐŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia field",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia mat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mátà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia, notches",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia, seat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ nkʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia seed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raffia shoots, twin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rafter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gùmopàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rafter, angle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "málezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rag",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rain beating down, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rainbow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ nnù ngém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rain, fine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìnyɛ̀ʼ mbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ̀ʼnyɛ̀ʼ mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rain, keep from falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaʼ mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rain shower, local",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lúu nzǐŋ nzǐŋ",
+                "examples": []
+            }
+        ]
+    }
+]

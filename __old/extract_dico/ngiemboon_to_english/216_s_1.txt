@@ -1,0 +1,368 @@
+[
+    {
+        "noun": "sa",
+        "pronounciation": "sà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ce ... -là ; ces ... -là (adj. dém. qui modifie les noms des classes 5 et 8 ; cette chose est connue mais peut-être éloignée de la vue, dans le temps, dans l’espace.)",
+                "definition_en": "that ... there; those ... there (demonstrative adjective modifying class 5 or 8 nouns; the thing or things are known but might be far away as for sight, time or space)",
+                "examples": [
+                    {
+                        "dialect": "Cwóŋo ńzáʼ shúm sa ńdɔg ńtó.",
+                        "fr": "Descends couper ces choses-là pour apporter !",
+                        "en": "Come down and cut these things and bring them!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sà",
+        "pronounciation": "sȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance-pierre",
+                "definition_en": "catapult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǎ mékem",
+        "pronounciation": "sǎ mékə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. criquet",
+                "definition_en": "sp. cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sà ntí",
+        "pronounciation": "sȁ ǹ̩tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "changeable (caméléon)",
+                "definition_en": "changeable (chameleon)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàa nkÿo",
+        "pronounciation": "sȁː ŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saut à la corde",
+                "definition_en": "jump rope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàasè pɔ̂d",
+        "pronounciation": "sȁːsȅ pɔ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casserole",
+                "definition_en": "saucepan",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sáasekɔ̀b",
+        "pronounciation": "sáːsèkɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "margouillat commun",
+                "definition_en": "common agama",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sáasèndê",
+        "pronounciation": "sáːsȅndê",
+        "synonym": [
+            "màga lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "samedi",
+                "definition_en": "Saturday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàb",
+        "pronounciation": "sȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détail ; condiment",
+                "definition_en": "details; condiment; spice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàba",
+        "pronounciation": "sàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détaillant",
+                "definition_en": "retailer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàbte",
+        "pronounciation": "sàptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en détail (commerce)",
+                "definition_en": "retail (sales)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sadúkaye",
+        "pronounciation": "sàɖúkàjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saducéen",
+                "definition_en": "Sadducee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǎg",
+        "pronounciation": "sǎq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côté ; mur",
+                "definition_en": "side; wall",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàg legʉa",
+        "pronounciation": "sȁq̚ lèɣɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "proverbe",
+                "definition_en": "proverb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàga",
+        "pronounciation": "sàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui dit des proverbes",
+                "definition_en": "speaker of proverbs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàga mvɔ́gɔ",
+        "pronounciation": "sàʁȁ ɱ̩̀bvɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sagá ndá",
+        "pronounciation": "sàʁá ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mur",
+                "definition_en": "wall",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sagá nò",
+        "pronounciation": "sàʁá nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "proverbe ; parabole",
+                "definition_en": "proverb; parable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàmalí",
+        "pronounciation": "sȁmàlí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàmbà",
+        "pronounciation": "sȁmbȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sànzà",
+        "pronounciation": "sȁndzȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pagne",
+                "definition_en": "wrap-around cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ",
+        "pronounciation": "sã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lune ; période",
+                "definition_en": "moon; period",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sáŋ",
+        "pronounciation": "sã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nombre ; chiffre",
+                "definition_en": "number; figure",
+                "examples": [
+                    {
+                        "dialect": "Mé lɔɔn ńgabte sáŋa legém nzsè pʉ́a, tàʼ nzsè gwɔ́ méntʉ̂a.",
+                        "fr": "Si on partage le nombre dix par deux, chaque tas sera cinq.",
+                        "en": "If we divide the number ten by two, each pile will be five."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sàŋ",
+        "pronounciation": "sã̏ŋ",
+        "synonym": [
+            "sàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comptable",
+                "definition_en": "accountant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǎŋ",
+        "pronounciation": "sã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "queue ; émouchoir",
+                "definition_en": "tail; flyswatter",
+                "examples": []
+            }
+        ]
+    }
+]

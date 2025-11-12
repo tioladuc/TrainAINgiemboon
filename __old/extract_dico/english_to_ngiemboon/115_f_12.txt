@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "food offering",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food, plate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food service",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food shortage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwáŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food, throw up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅíʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food without sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "food without sauce added",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋe lé nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbùd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fool, act",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseenne",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foolish, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛʼɛ kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot amputee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "football",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkentsyɛ̀ʼ mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot, catch by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot launch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "téme kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "màʼa kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "footlocker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̌b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot of a plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsiŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot of the bed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋ kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "footrest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀gɔ kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot, sick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foot, side",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legʉŋe kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lé-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "né",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forbid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forbidden house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "force",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ tʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋège",
+                "examples": []
+            }
+        ]
+    }
+]

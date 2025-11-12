@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "bananas, hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùtùʼu mendóŋ nkandi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkandi pʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkandi tikú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋo ńcʉ́me",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana stalk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana tree bark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana, wild",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkandi nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana wine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melùʼ nkandi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bangang",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Ngǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bangang inhabitants",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mengǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bank, river",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nziŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bantam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâshÿɔ́ʼ ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baptism",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅe ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Baptist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnùʼ pʉ̀a ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baptize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼ pʉ̀a ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ ntse twó nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baptized, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baptize oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋkwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barbed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menzoŋ menzóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bark, dog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bark (dog)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gûg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bark of a banana tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barn owl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barrel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káasè",
+                "examples": []
+            }
+        ]
+    }
+]

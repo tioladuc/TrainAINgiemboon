@@ -1,0 +1,466 @@
+[
+    {
+        "noun": "éfʉʼ",
+        "pronounciation": "éfɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exagérer",
+                "definition_en": "exaggerate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉʼ",
+        "pronounciation": "éfɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesurer",
+                "definition_en": "measure",
+                "examples": []
+            },
+            {
+                "definition_fr": "peser",
+                "definition_en": "weigh",
+                "examples": []
+            },
+            {
+                "definition_fr": "mesurer",
+                "definition_en": "measure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉʼʉ",
+        "pronounciation": "éfɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer ; imiter",
+                "definition_en": "try; imitate",
+                "examples": []
+            },
+            {
+                "definition_fr": "essayer plusieurs fois",
+                "definition_en": "try several times",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́ʼʉ",
+        "pronounciation": "éfɯ́ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rapidement",
+                "definition_en": "rapidly",
+                "examples": [
+                    {
+                        "dialect": "À toŋó múɔ, á fʉ́ʼʉ ńtó.",
+                        "fr": "L’enfant est venu rapidement quand il l’a appelé.",
+                        "en": "The child came quickly when called."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfwoon",
+        "pronounciation": "éfwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "garder",
+                "definition_en": "keep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfwɔʼ",
+        "pronounciation": "éfwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déterrer",
+                "definition_en": "dig up",
+                "examples": []
+            },
+            {
+                "definition_fr": "déterrer de temps en temps",
+                "definition_en": "dig up from time to time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfwɔʼ",
+        "pronounciation": "éfwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déverser",
+                "definition_en": "spill",
+                "examples": []
+            },
+            {
+                "definition_fr": "déverser",
+                "definition_en": "pour out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿag",
+        "pronounciation": "éfɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’appauvrir",
+                "definition_en": "become poorer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿág",
+        "pronounciation": "éfɰáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffler",
+                "definition_en": "blow",
+                "examples": []
+            },
+            {
+                "definition_fr": "moucher",
+                "definition_en": "blow your nose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿe",
+        "pronounciation": "éfːɰè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "siester ; faire la sieste ; rêver",
+                "definition_en": "take a siesta; dream",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿée",
+        "pronounciation": "éfːɰéé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désintéresser ; faire l’occupé",
+                "definition_en": "lose interest in; act busy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿéen",
+        "pronounciation": "éfɰẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire semblant de ne pas voir",
+                "definition_en": "pretend not to see",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿéente nÿɔ́g",
+        "pronounciation": "éfɰẽ́ːté ɳɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "recréer",
+                "definition_en": "recreate; amuse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿɛ́",
+        "pronounciation": "éfɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "engraisser ; s’engraisser",
+                "definition_en": "fatten; fatten up; grow fat",
+                "examples": []
+            },
+            {
+                "definition_fr": "émanciper ; libérer",
+                "definition_en": "emancipate; liberate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfÿɔ́g",
+        "pronounciation": "éfɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever ; retirer",
+                "definition_en": "remove; withdraw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "élé",
+        "pronounciation": "élé",
+        "synonym": [
+            "ólé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "question-tag",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est-ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kaa yé gyá élé?",
+                        "fr": "Tu ne l’as pas vu, n’est-ce pas ?",
+                        "en": "You didn't see it, did you?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésa",
+        "pronounciation": "ésà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disperser",
+                "definition_en": "disperse",
+                "examples": []
+            },
+            {
+                "definition_fr": "répandre",
+                "definition_en": "spill",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en désordre",
+                "definition_en": "be messy",
+                "examples": []
+            },
+            {
+                "definition_fr": "éparpiller",
+                "definition_en": "scatter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésa",
+        "pronounciation": "ésà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourner; balancer",
+                "definition_en": "turn; balance",
+                "examples": []
+            },
+            {
+                "definition_fr": "répandre",
+                "definition_en": "spill",
+                "examples": []
+            },
+            {
+                "definition_fr": "pirouetter",
+                "definition_en": "pirouette",
+                "examples": []
+            },
+            {
+                "definition_fr": "tourner ; tournoyer",
+                "definition_en": "turn ; twirl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésa shÿó",
+        "pronounciation": "ésà ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrefaire",
+                "definition_en": "counterfeit; forge",
+                "examples": []
+            },
+            {
+                "definition_fr": "contrefaire",
+                "definition_en": "counterfeit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésab",
+        "pronounciation": "ésàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détailler",
+                "definition_en": "sell separately",
+                "examples": []
+            },
+            {
+                "definition_fr": "détailler en plusieurs tas",
+                "definition_en": "cut into several piles",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésáb",
+        "pronounciation": "ésáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désirer",
+                "definition_en": "desire",
+                "examples": []
+            },
+            {
+                "definition_fr": "être capable",
+                "definition_en": "be able",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésag",
+        "pronounciation": "ésàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être long",
+                "definition_en": "be long",
+                "examples": []
+            },
+            {
+                "definition_fr": "être profond",
+                "definition_en": "be deep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésag",
+        "pronounciation": "ésàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citer",
+                "definition_en": "cite; quote",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésaŋ",
+        "pronounciation": "ésã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner",
+                "definition_en": "divert",
+                "examples": []
+            },
+            {
+                "definition_fr": "échouer aux fiançailles",
+                "definition_en": "fail at getting engaged",
+                "examples": []
+            },
+            {
+                "definition_fr": "rompre les fiançailles",
+                "definition_en": "break the engagement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésaŋ",
+        "pronounciation": "ésã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disséminer",
+                "definition_en": "scatter",
+                "examples": []
+            },
+            {
+                "definition_fr": "éparpiller",
+                "definition_en": "scatter",
+                "examples": []
+            }
+        ]
+    }
+]

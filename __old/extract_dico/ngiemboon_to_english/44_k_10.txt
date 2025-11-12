@@ -1,0 +1,383 @@
+[
+    {
+        "noun": "kukúlu",
+        "pronounciation": "kùkúɭú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouillie",
+                "definition_en": "baby’s cereal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkùnêg",
+        "pronounciation": "kȕkȕnə̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix de coco",
+                "definition_en": "coconut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúkwò",
+        "pronounciation": "kúkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chique",
+                "definition_en": "chigoe flea; jigger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwò",
+        "pronounciation": "kȕkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guêpe",
+                "definition_en": "wasp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwò",
+        "pronounciation": "kȕkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insolvable",
+                "definition_en": "insolvent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwò",
+        "pronounciation": "kȕkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. association secrète",
+                "definition_en": "k. secret society",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúkwóŋ",
+        "pronounciation": "kúkwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haut",
+                "definition_en": "high",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwóŋ",
+        "pronounciation": "kȕkwṍŋ",
+        "synonym": [
+            "kèkwóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwóon",
+        "pronounciation": "kȕkwṍː",
+        "synonym": [
+            "lepfwɔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mortier",
+                "definition_en": "mortar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwòon",
+        "pronounciation": "kȕkwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "agame mâle",
+                "definition_en": "male agama lizard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwòon",
+        "pronounciation": "kȕkwõ̏ː",
+        "synonym": [
+            "kèkwòon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bélier ; mouton de sexe masculin",
+                "definition_en": "ram; male sheep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwòon melùŋo",
+        "pronounciation": "kȕkwõ̏ː mèɭũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. margouillat (dans les maisons)",
+                "definition_en": "sp. gecko (found in houses)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùkwɔ̀ʼɔ",
+        "pronounciation": "kȕkwɔ̀ʔɔ̏",
+        "synonym": [
+            "kèkwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros ; grand ; épais",
+                "definition_en": "big; large; tall; thick",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔgɔ kùkwɔ̀ʼɔ menÿɔ́g ńdíe wɔ́?",
+                        "fr": "Tu regardes qui avec les gros yeux ?",
+                        "en": "Who are you looking at with your big eyes?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kùkwɔ̀ʼɔ menÿɔ́g",
+        "pronounciation": "kȕkwɔ̀ʔɔ̏ mèɳɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majuscule",
+                "definition_en": "capital letter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùlâŋ",
+        "pronounciation": "kȕlã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courant",
+                "definition_en": "common; current",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúlú pâ",
+        "pronounciation": "kúɭú pâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "levier",
+                "definition_en": "lever",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúm",
+        "pronounciation": "kúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tine ; bassine",
+                "definition_en": "tin-bath",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùmá pÿágà",
+        "pronounciation": "kȕmá pɰáʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incurie ; destructeur",
+                "definition_en": "carelessness; destructive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùmbàaně",
+        "pronounciation": "kùmbȁːně",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "groupe ; ensemble",
+                "definition_en": "group; ensemble",
+                "examples": [
+                    {
+                        "dialect": "Pi cúʼte gẅi kùmbàaně, ńkẅiʼi jʉʼɔɔn.",
+                        "fr": "Formez votre groupe et ajoutez ici.",
+                        "en": "Form your group and add here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kúmbù",
+        "pronounciation": "kúmbȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soupière",
+                "definition_en": "soup tureen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùmnzsè",
+        "pronounciation": "kùmndzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourreau",
+                "definition_en": "executioner",
+                "examples": []
+            },
+            {
+                "definition_fr": "société secrète",
+                "definition_en": "secret society",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúmo",
+        "pronounciation": "kúmó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bûche ; gros morceau de bois",
+                "definition_en": "log; large piece of wood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùmo kẅíʼ múɔ",
+        "pronounciation": "kùmȍ kɥíʔ múɔ́",
+        "synonym": [
+            "kùbu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contondant",
+                "definition_en": "blunt instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúmò lǎŋ",
+        "pronounciation": "kúmȍ lã̌ŋ",
+        "synonym": [
+            "kúmò nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grande route ; autoroute",
+                "definition_en": "major road; motorway; freeway",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúmò nzsè",
+        "pronounciation": "kúmȍ ǹ̩dzsȅ",
+        "synonym": [
+            "kúmò lǎŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grande route ; autoroute",
+                "definition_en": "major road; motorway; freeway",
+                "examples": []
+            }
+        ]
+    }
+]

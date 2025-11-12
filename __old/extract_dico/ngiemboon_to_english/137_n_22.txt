@@ -1,0 +1,358 @@
+[
+    {
+        "noun": "ngàŋa cùb",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ tʃȕp̚",
+        "synonym": [
+            "ngàŋa ncùb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compositeur ; collectionneur",
+                "definition_en": "composer; collector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa fàʼ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviteur ; ouvrier ; agent",
+                "definition_en": "servant; worker; agent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa ffo",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ fːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traitant ; soigneur",
+                "definition_en": "doctor; trainer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa fùʼ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ fȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanceux",
+                "definition_en": "lucky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa fʉ̀te",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ fɯ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trompeur",
+                "definition_en": "deceiver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa fʉ̌ʼ nò",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ fɯ̌ʔ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malfaiteur ; méchant",
+                "definition_en": "lawbreaker; criminal; nasty person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa kwò",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compagnon ; compagnie ; disciple",
+                "definition_en": "companion; company; disciple",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa kwɔ́ʼte",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ kwɔ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hydropique ; personne atteint de la maladie hydropisie",
+                "definition_en": "hydropic; person who has hydrops sickness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa lʉ̀ŋte nnɛ́",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ɭɯ̃̀ŋtȅ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitateur",
+                "definition_en": "imitator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa lʉ̀te",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ɭɯ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flatteur ; cajoleur",
+                "definition_en": "flatterer; cuddler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa mmó",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourgeois ; riche",
+                "definition_en": "rich; bourgeois; rich",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa móm",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ mɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "zélé",
+                "definition_en": "zealous person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa náte",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ náté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fanfaron",
+                "definition_en": "braggart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa ncùb",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ǹ̩tʃȕp̚",
+        "synonym": [
+            "ngàŋa cùb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compositeur ; collectionneur",
+                "definition_en": "composer; collector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa nò",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne concerné",
+                "definition_en": "concerned person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa nɔ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ nɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blâmeur ; oppresseur ; dominateur",
+                "definition_en": "blamer; oppressor; ruler; bully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa nʉ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ nɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimeur",
+                "definition_en": "bully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa ŋáʼtè",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ŋáʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vantard",
+                "definition_en": "braggart; boaster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa pàb",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ pȁp̚",
+        "synonym": [
+            "ngàŋ pàb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trompeur",
+                "definition_en": "deceiver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa pàmbè",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ pȁmbȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tâcheron ; employé",
+                "definition_en": "jobber; employee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa pím",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ pím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animateur d’ambiance ; semeur d’ambiance",
+                "definition_en": "master of ceremonies",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa pú",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ pú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clochard",
+                "definition_en": "tramp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa pyé",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ pɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdant",
+                "definition_en": "loser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa shwǒŋ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ʃwõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bavard",
+                "definition_en": "gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa shÿɔ̀g",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ ʃɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courageux",
+                "definition_en": "courageous; brave",
+                "examples": []
+            }
+        ]
+    }
+]

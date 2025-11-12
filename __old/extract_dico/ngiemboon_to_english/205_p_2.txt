@@ -1,0 +1,374 @@
+[
+    {
+        "noun": "pajúʼu",
+        "pronounciation": "pàʒúʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "auditoire",
+                "definition_en": "audience",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pambè",
+        "pronounciation": "pàmbȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "job ; tâche",
+                "definition_en": "job; task",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "panáb",
+        "pronounciation": "pànáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canif",
+                "definition_en": "penknife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páŋ",
+        "pronounciation": "pã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pirogue",
+                "definition_en": "dugout canoe",
+                "examples": []
+            },
+            {
+                "definition_fr": "jardin",
+                "definition_en": "garden",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ",
+        "pronounciation": "pã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouge",
+                "definition_en": "red",
+                "examples": [
+                    {
+                        "dialect": "À jǔ pàŋ mekú.",
+                        "fr": "Il a acheté le haricot rouge.",
+                        "en": "He bought the red bean."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ kùkwò",
+        "pronounciation": "pã̏ŋ kȕkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frelon",
+                "definition_en": "hornet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ mbândum",
+        "pronounciation": "pã̏ŋ m̩̀bâɳɖùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rat ; surmulot",
+                "definition_en": "common rat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ mekwaʼá",
+        "pronounciation": "pã̏ŋ mèkwàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "latérite",
+                "definition_en": "laterite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ mekwaʼá",
+        "pronounciation": "pã̏ŋ mèkwàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jaunisse",
+                "definition_en": "k. jaundice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ ncwò",
+        "pronounciation": "pã̏ŋ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grenadin rouge",
+                "definition_en": "sp. red waxbill finch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ ndù",
+        "pronounciation": "pã̏ŋ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malimbe rouge",
+                "definition_en": "red malimbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paŋ ngesáŋ",
+        "pronounciation": "pàŋ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. maïs rouge",
+                "definition_en": "sp. red maize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ nkwoŋ",
+        "pronounciation": "pã̏ŋ ŋ̩̀kwõ̀ŋ",
+        "synonym": [
+            "mákàba páŋ ",
+            " pàŋa tenùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. macabo rouge",
+                "definition_en": "sp. new red cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ nkwʉŋ",
+        "pronounciation": "pã̏ŋ ŋ̩̀kwɯ̃̀ŋ",
+        "synonym": [
+            "pàʼ nkwʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangouste à queue blanche",
+                "definition_en": "white-tailed mongoose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ ntíŋ ntíŋ",
+        "pronounciation": "pã̏ŋ ǹ̩tĩ́ŋ ǹ̩tĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. banane (« banane des allemands »)",
+                "definition_en": "dessert banana (\"German banana\")",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ ntsàŋ",
+        "pronounciation": "pã̏ŋ ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écarlate",
+                "definition_en": "scarlet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ ntsẅɛ̀ʼ",
+        "pronounciation": "pã̏ŋ ǹ̩tsɥɛ̏ʔ",
+        "synonym": [
+            "pepàŋ ntsẅɛ̀ʼ ",
+            " lùmo tʉ̂atʉ̂a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éristale",
+                "definition_en": "hoverfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ nÿɔ́g",
+        "pronounciation": "pã̏ŋ nɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ nzèm mɔ́ʼɔ",
+        "pronounciation": "pã̏ŋ ǹ̩dzə̏m mɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋ tsetsáʼ",
+        "pronounciation": "pã̏ŋ tsètsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terre rouge",
+                "definition_en": "red earth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋa",
+        "pronounciation": "pã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "homme blanc",
+                "definition_en": "white man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paŋa jʉŋé",
+        "pronounciation": "pàŋà ʒɯ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros-bec ponceau",
+                "definition_en": "crimson seed cracker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋa tenùʼ",
+        "pronounciation": "pã̀ŋȁ tèɳȕʔ",
+        "synonym": [
+            "pàŋ nkwoŋ ",
+            " mákàba páŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. macabo rouge",
+                "definition_en": "sp. new red cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàŋa twó",
+        "pronounciation": "pã̀ŋȁ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pâquerette",
+                "definition_en": "daisy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páŋte",
+        "pronounciation": "pã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brancard",
+                "definition_en": "stretcher",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "noun": "púusè",
+        "pronounciation": "púːsȅ",
+        "synonym": [
+            "menyě ntsɔ́ɔn ",
+            " méneŋ nzáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chat domestique",
+                "definition_en": "domestic cat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púʼ",
+        "pronounciation": "púʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lion",
+                "definition_en": "lion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùʼ",
+        "pronounciation": "pȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couteau",
+                "definition_en": "knife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùʼ",
+        "pronounciation": "pȕʔ",
+        "synonym": [
+            "nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tranche ; partie",
+                "definition_en": "slice; part",
+                "examples": [
+                    {
+                        "dialect": "Á shʉ̌a pùʼ pʉ́a.",
+                        "fr": "C’est fendu en deux tranches.",
+                        "en": "It's split into two slices."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pùʼ",
+        "pronounciation": "pȕʔ",
+        "synonym": [
+            "pǔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclave",
+                "definition_en": "slave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pǔʼ",
+        "pronounciation": "pǔʔ",
+        "synonym": [
+            "pùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclave",
+                "definition_en": "slave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púʼ kwɔb",
+        "pronounciation": "púʔ kwɔ̀p̚",
+        "synonym": [
+            "nkanɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gorille",
+                "definition_en": "gorilla",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púʼ kwɔb",
+        "pronounciation": "púʔ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conte ; récit ; légende",
+                "definition_en": "tale; story; legend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùʼ levfo",
+        "pronounciation": "pȕʔ lèvfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couteau de sculpture",
+                "definition_en": "sculptor’s knife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùʼ sse",
+        "pronounciation": "pȕʔ sːè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commencement",
+                "definition_en": "beginning",
+                "examples": [
+                    {
+                        "dialect": "Apùʼ ssé na nò yɔɔn ńgwɔ́ kɔ́?",
+                        "fr": "Quel est le commencement de cette affaire ?",
+                        "en": "What is the beginning of this affair?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "púʼu",
+        "pronounciation": "púʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ainsi",
+                "definition_en": "so",
+                "examples": [
+                    {
+                        "dialect": "À cǔa wɔ́ɔn. Púʼu, mèŋ nge gʉa.",
+                        "fr": "Il m’a tapé. Ainsi, je vais partir.",
+                        "en": "He hit me. So, I'm going to leave."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ainsi ; comme ça; exacte",
+                "definition_en": "so; like that; exact",
+                "examples": [
+                    {
+                        "dialect": "Gÿo púʼu na fʉ̀ʼɔɔn.",
+                        "fr": "Fais ainsi pour le moment.",
+                        "en": "Do this for now."
+                    },
+                    {
+                        "dialect": "Nkʉ̀ gẅie ɔ̀ tsẅii, ée púʼu.",
+                        "fr": "Cette information que tu donnes est exacte.",
+                        "en": "This information you give is correct."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pùʼu",
+        "pronounciation": "pùʔȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baguette pour battre les instruments de musique",
+                "definition_en": "stick for hitting musical instruments",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púʼu la",
+        "pronounciation": "púʔú là",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ainsi ; donc",
+                "definition_en": "so; therefore",
+                "examples": [
+                    {
+                        "dialect": "N tǒ mbʉ̀a gù, ɔ̀ cúa wɔ́ɔn. Púʼu la, n cʉʼʉ́ tóo wó wɔ́.",
+                        "fr": "Je suis venu chez toi, tu m’as tapé. Ainsi, je ne viendrai plus.",
+                        "en": "I came to your house, you hit me. So I won't come anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pùʼu metuŋó",
+        "pronounciation": "pùʔȕ mèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dysacousie ; trouble de l’audition",
+                "definition_en": "dysacousia; hearing problem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùʼu ncù",
+        "pronounciation": "pùʔȕ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclave de guerre",
+                "definition_en": "war slave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̀",
+        "pronounciation": "pɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. malédiction",
+                "definition_en": "k. curse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ́a",
+        "pronounciation": "pɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taro (gén.)",
+                "definition_en": "taro (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̀a",
+        "pronounciation": "pɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fou",
+                "definition_en": "madman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̀a",
+        "pronounciation": "pɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personnes ; gens",
+                "definition_en": "persons; people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̀a mesoŋ",
+        "pronounciation": "pɯ̀ȁ mèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "êtres humains",
+                "definition_en": "human beings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̀e lóŋ",
+        "pronounciation": "pɯ̀ȅ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nausée ; dégoût",
+                "definition_en": "nausea; disgust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̌ŋ",
+        "pronounciation": "pɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un pet",
+                "definition_en": "sound of a fart",
+                "examples": [
+                    {
+                        "dialect": "À ssǒ lê pʉ̌ŋ.",
+                        "fr": "Il a pété que « pʉ̌ŋ ».",
+                        "en": "He farted that “pʉ̌ŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ",
+        "pronounciation": "pɯ̃̌ŋpɯ̃̌ŋpɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de l’eau qui sort d’un calebasse étroit",
+                "definition_en": "sound of water coming out of a skinny calabash",
+                "examples": [
+                    {
+                        "dialect": "Ntse ne ńkẅɛɛ tsɛ̀ɛ tÿóon lê pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ.",
+                        "fr": "L’eau est en train de sortir dans le calebasse que « pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ ».",
+                        "en": "The water is coming out into the calabash that “pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pʉpʉ̀",
+        "pronounciation": "pɯ̀pɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poisse",
+                "definition_en": "rotten luck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pʉ́pÿé",
+        "pronounciation": "pɯ́pɸɰé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coucou africain ; « oiseau annonceur »",
+                "definition_en": "African cuckoo; \"announcer bird\"",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "noun": "m",
+        "pronounciation": "m̀-",
+        "synonym": [
+            "n ",
+            " e"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je (pron. sujet, première personne singulier)",
+                "definition_en": "I",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "m-",
+        "pronounciation": "m̀-",
+        "synonym": [
+            "n- ",
+            " e-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "un (pour noms des classes 3 et 9)",
+                "definition_en": "a",
+                "examples": []
+            },
+            {
+                "definition_fr": "des (pour noms de la classe 10)",
+                "definition_en": "some",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿ-",
+        "pronounciation": "ḿ-",
+        "synonym": [
+            "ń- , é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "à (+verbe) ; de (+verbe)",
+                "definition_en": "to (+verb)",
+                "examples": [
+                    {
+                        "dialect": "ḿbáʼ,",
+                        "fr": "tisser.",
+                        "en": "weave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿ-",
+        "pronounciation": "ḿ-",
+        "synonym": [
+            "ń- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.suj",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; ils (même sujet que la proposition précédente)",
+                "definition_en": "he; they (same subject as the preceding clause)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿ-",
+        "pronounciation": "ḿ-",
+        "synonym": [
+            "ń- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.asp",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "(mode réalis, aspect imperfectif) ; vraiment",
+                "definition_en": "(realis mood, imperfective aspect); really",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿ-",
+        "pronounciation": "ḿ-",
+        "synonym": [
+            "ń- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.t",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui (P2)",
+                "definition_en": "today past;",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ma",
+        "pronounciation": "mà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ces ... -là (adj. dém. qui modifie les noms des classes 4 et 6 ; ces choses sont connues mais peuvent être éloignées de la vue, dans le temps, dans l’espace)",
+                "definition_en": "those ... there (demonstrative adjective modifying class 4 and 6 nouns; the things are known but can be distant in time, space or view)",
+                "examples": [
+                    {
+                        "dialect": "Pi gʉa ńkaa mekwɔ̀ʼɔ ma ńnáa jʉʼɔɔn.",
+                        "fr": "Allez porter ces tabourets-là pour donner ici.",
+                        "en": "Go carry these stools to donate here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "má",
+        "pronounciation": "má",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère",
+                "definition_en": "mother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mà",
+        "pronounciation": "mȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boubou ; gandoura",
+                "definition_en": "booboo; gandoura",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mà",
+        "pronounciation": "mȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "habitude qui est presque impossible à changer",
+                "definition_en": "habit that is almost impossible to change",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "má mpfó",
+        "pronounciation": "má ɱ̩̀pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère du défunt",
+                "definition_en": "mother of the deceased",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "má pà má",
+        "pronounciation": "má pȁ má",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-mère maternelle",
+                "definition_en": "maternal grandmother",
+                "examples": [
+                    {
+                        "dialect": "Má pà má wɔ̀ɔn aa ndÿò tɛʼ.",
+                        "fr": "Ma grand-mère maternelle est très âgée.",
+                        "en": "My maternal grandmother is very old."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "má pà má wɔ̀ɔn ndÿò",
+        "pronounciation": "má pȁ má wɔ̃̏ː ɳ̩̀ɖθɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrière-grand-mère",
+                "definition_en": "great-grandmother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "má pà tá",
+        "pronounciation": "má pȁ tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-mère paternelle",
+                "definition_en": "paternal grandmother",
+                "examples": [
+                    {
+                        "dialect": "Má pà tá we nyě pɔ́ wó.",
+                        "fr": "La mère de son père vit encore.",
+                        "en": "His father's mother is still alive."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "má we lÿò",
+        "pronounciation": "má wè ɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-mère",
+                "definition_en": "grandmother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa",
+        "pronounciation": "máː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros ; grand (qualifie les noms des classes singuliers)",
+                "definition_en": "big; large; tall (modifying singular noun classes)",
+                "examples": [
+                    {
+                        "dialect": "Máa tepwó wɔ̀ɔn fǎŋ ńcʉa mentsě.",
+                        "fr": "Mon pouce est plus gros que l’auriculaire.",
+                        "en": "My thumb is bigger than my little finger."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "máa lejÿɔ́g",
+        "pronounciation": "máː lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "globe oculaire",
+                "definition_en": "eyeball",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa nkà",
+        "pronounciation": "máː ŋ̩̀kȁ",
+        "synonym": [
+            "máa sèm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. grand tambour vertical à peau clouée",
+                "definition_en": "k. large vertical drum with a nailed skin drumhead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa nyìŋ",
+        "pronounciation": "máː ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "responsable",
+                "definition_en": "person responsible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa sèm",
+        "pronounciation": "máː sə̏m",
+        "synonym": [
+            "máa nkà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. grand tambour vertical à peau clouée",
+                "definition_en": "k. large vertical drum with a nailed skin drumhead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa tekwò",
+        "pronounciation": "máː tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros orteil",
+                "definition_en": "big toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máa tepwó",
+        "pronounciation": "máː tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pouce",
+                "definition_en": "thumb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máamáa",
+        "pronounciation": "máːmáː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand ; gigantesque ; énorme",
+                "definition_en": "tall; big; large; gigantic; enormous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máamáa mí",
+        "pronounciation": "máːmáː mí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mer ; océan",
+                "definition_en": "sea; ocean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máangɔ́ʼ",
+        "pronounciation": "máːŋgɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chérie",
+                "definition_en": "beloved; darling; dearest; girlfriend",
+                "examples": []
+            }
+        ]
+    }
+]

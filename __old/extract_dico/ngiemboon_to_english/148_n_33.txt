@@ -1,0 +1,445 @@
+[
+    {
+        "noun": "njúngù",
+        "pronounciation": "ǹ̩dʒúnɡȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pouzzolane ; s. roche volcanique utilisée dans la fabrication de ciment",
+                "definition_en": "pouzzolana; k. volcanic rock used in making cement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njùu",
+        "pronounciation": "ǹ̩dʒȕː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acheteur ; client",
+                "definition_en": "purchaser; client",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njùʼ",
+        "pronounciation": "ǹ̩dʒȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjúʼ",
+        "pronounciation": "ń̩dʒúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entendre",
+                "definition_en": "hear",
+                "examples": []
+            },
+            {
+                "definition_fr": "comprendre",
+                "definition_en": "understand",
+                "examples": []
+            },
+            {
+                "definition_fr": "obéir",
+                "definition_en": "obey",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’entendre",
+                "definition_en": "get along",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjúʼ mboŋó",
+        "pronounciation": "ń̩dʒúʔ m̩̀bõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être heureux",
+                "definition_en": "be happy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjúʼ ntÿɔgɔ́",
+        "pronounciation": "ń̩dʒúʔ ɳ̩̀ʈɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être discipliné",
+                "definition_en": "be disciplined",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njùʼu",
+        "pronounciation": "ǹ̩dʒùʔȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "auditeur ; écouteur",
+                "definition_en": "auditor; listener",
+                "examples": []
+            },
+            {
+                "definition_fr": "apprenant",
+                "definition_en": "learner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉ",
+        "pronounciation": "ń̩dʒɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voler (personne)",
+                "definition_en": "steal (person)",
+                "examples": []
+            },
+            {
+                "definition_fr": "voler de temps en temps",
+                "definition_en": "steal from time to time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉa",
+        "pronounciation": "ń̩dʒɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flamber",
+                "definition_en": "singe",
+                "examples": []
+            },
+            {
+                "definition_fr": "rôtir à moitié",
+                "definition_en": "half roast",
+                "examples": [
+                    {
+                        "dialect": "À ge jʉa ffo mmɔ̌g.",
+                        "fr": "Il va flamber la feuille au feu.",
+                        "en": "He will ignite the leaf in the fire."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "flamber",
+                "definition_en": "blaze",
+                "examples": []
+            },
+            {
+                "definition_fr": "rôtir à moitié",
+                "definition_en": "roast half",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉa",
+        "pronounciation": "ń̩dʒɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "reculer",
+                "definition_en": "back up",
+                "examples": []
+            },
+            {
+                "definition_fr": "reculer",
+                "definition_en": "to move back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉa",
+        "pronounciation": "ń̩dʒɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ratisser légèrement",
+                "definition_en": "rake lightly; comb lightly",
+                "examples": []
+            },
+            {
+                "definition_fr": "ratisser légèrement",
+                "definition_en": "rake lightly",
+                "examples": [
+                    {
+                        "dialect": "Ńjʉate tetʉ́a lé jÿɔ̀gɔ.",
+                        "fr": "Ratisser la cour avec le balai.",
+                        "en": "Rake the yard with the broom."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀gʉtáa",
+        "pronounciation": "ǹ̩dʒɯ̀ʁɯ̏táː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collier",
+                "definition_en": "necklace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́njyà",
+        "pronounciation": "ǹ̩dʒɯ́ndʒjȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gingembre",
+                "definition_en": "ginger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀njÿò",
+        "pronounciation": "ǹ̩dʒɯ̏ndʒʃɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouton",
+                "definition_en": "sheep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́ŋ",
+        "pronounciation": "ǹ̩dʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "métal",
+                "definition_en": "metal",
+                "examples": [
+                    {
+                        "dialect": "Tè púʼ menjʉ́ŋ metuŋó mèŋ.",
+                        "fr": "Ne tape pas le métal dans mes oreilles.",
+                        "en": "Don't hit the metal in my ears."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́ŋ",
+        "pronounciation": "ǹ̩dʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grelot",
+                "definition_en": "small bell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉŋ",
+        "pronounciation": "ń̩dʒɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aller horizontalement ; évoluer sur un chemin plat",
+                "definition_en": "go along horizontally; progress along a flat path",
+                "examples": []
+            },
+            {
+                "definition_fr": "mouvoir sur un chemin plat ; flâner",
+                "definition_en": "move on a flat path; stroll",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉ́ŋ",
+        "pronounciation": "ń̩dʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lécher du doigt",
+                "definition_en": "lick with a finger",
+                "examples": []
+            },
+            {
+                "definition_fr": "lécher",
+                "definition_en": "lick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉŋte",
+        "pronounciation": "ń̩dʒɯ̃̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côtoyer",
+                "definition_en": "skirt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀ʉ",
+        "pronounciation": "ǹ̩dʒɯ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tricheur ; voleur",
+                "definition_en": "trickster; thief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉʼ",
+        "pronounciation": "ǹ̩dʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graines des melons, courges, etc. (gén.) ; « pistache » (en français local)",
+                "definition_en": "pits of melon, squash, etc. (generic);  \"pistachio nut\" (en local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́ʼ",
+        "pronounciation": "ǹ̩dʒɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "balsam pear",
+                "examples": []
+            },
+            {
+                "definition_fr": "pied-de-bœuf",
+                "definition_en": "camel’s foot; monkey’s bread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjʉ́ʼ",
+        "pronounciation": "ń̩dʒɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cultiver ; labourer",
+                "definition_en": "farm; plough",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’appuyer",
+                "definition_en": "lean",
+                "examples": []
+            },
+            {
+                "definition_fr": "être accoudé ; s’adosser",
+                "definition_en": "be leaning; lean back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀ʼ ngálè",
+        "pronounciation": "ǹ̩dʒɯ̏ʔ ŋ̩̀gálȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jardinier",
+                "definition_en": "gardener",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀ʼ ngwóŋ",
+        "pronounciation": "ǹ̩dʒɯ̏ʔ ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cultivateur",
+                "definition_en": "farmer",
+                "examples": []
+            }
+        ]
+    }
+]

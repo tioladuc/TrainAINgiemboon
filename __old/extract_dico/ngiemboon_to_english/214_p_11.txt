@@ -1,0 +1,411 @@
+[
+    {
+        "noun": "pʉpÿɛ́ɛ",
+        "pronounciation": "pɯ̀pɰɛ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mou ; souple ; éponge",
+                "definition_en": "soft; supple; sponge",
+                "examples": [
+                    {
+                        "dialect": "Tsetsáʼ nyé pɔ́ pʉpÿɛ́ɛ; á kaa tiŋte.",
+                        "fr": "La terre est encore molle ; elle n’est pas solide.",
+                        "en": "The earth is still soft; it is not solid."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pʉ́ʼte",
+        "pronounciation": "pɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "agent vecteur",
+                "definition_en": "vector agent",
+                "examples": []
+            },
+            {
+                "definition_fr": "détonateur",
+                "definition_en": "detonator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó",
+        "pronounciation": "pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "branche",
+                "definition_en": "branch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó",
+        "pronounciation": "pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bras ; main",
+                "definition_en": "arm; hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó gém",
+        "pronounciation": "pɸwó ɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épouse",
+                "definition_en": "wife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó kyɛ̀bɛ",
+        "pronounciation": "pɸwó kjɛ̀βɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "main gauche",
+                "definition_en": "left hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó légɔʼ",
+        "pronounciation": "pɸwó léɣɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gifle",
+                "definition_en": "slap",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn légÿo pɛ́ʼɛ̀ tà ńkẅé pwó légɔʼ.",
+                        "fr": "Ne fais pas jusqu’à prendre une gifle.",
+                        "en": "Don't go so far as to take a slap."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pwó nzsó",
+        "pronounciation": "pɸwó ǹ̩dzsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tissu",
+                "definition_en": "cloth",
+                "examples": []
+            },
+            {
+                "definition_fr": "manche",
+                "definition_en": "sleeve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó tʉ̀",
+        "pronounciation": "pɸwó ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "main droite",
+                "definition_en": "right hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwó tÿǒ",
+        "pronounciation": "pɸwó ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "branche",
+                "definition_en": "branch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwóon",
+        "pronounciation": "pwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chasse",
+                "definition_en": "hunting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwòon nkʉ̌a",
+        "pronounciation": "pwõ̏ː ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvre-raphia",
+                "definition_en": "raffia cover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ́b",
+        "pronounciation": "pwɔ́p̚",
+        "synonym": [
+            "pÿɔ́b ",
+            " mêmbwɔ́b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouc ; mâle du chèvre",
+                "definition_en": "billygoat; male goat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ̀b",
+        "pronounciation": "pwɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit celui qui est gros au moment de s’asseoir",
+                "definition_en": "sound of a fat person sitting down",
+                "examples": [
+                    {
+                        "dialect": "À fǎŋ tà ńcʉ́ʼʉ lénéŋe ssé ńgӱo lê pwɔ̀b na kwɔ̀ʼɔ.",
+                        "fr": "Il est gros si bien que pour s’asseoir, il fait que « pwɔ̀b » sur la chaise.",
+                        "en": "He is so big that to sit down, he just “pwɔ̀b” on the chair."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ̀bte",
+        "pronounciation": "pwɔ̀ptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épaté",
+                "definition_en": "spread out",
+                "examples": [
+                    {
+                        "dialect": "Aa pwɔ̀bte mezẅé.",
+                        "fr": "Il a le nez épaté.",
+                        "en": "He has a flat nose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pwɔʼ",
+        "pronounciation": "pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "champignon (gén.)",
+                "definition_en": "mushroom (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔʼ",
+        "pronounciation": "pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sacrifice",
+                "definition_en": "k. sacrifice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ́ʼɔ zɛ́",
+        "pronounciation": "pwɔ́ʔɔ́ zɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "excrément",
+                "definition_en": "excrement; faeces",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ́ʼte",
+        "pronounciation": "pwɔ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poliomyélite",
+                "definition_en": "poliomyelitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pwɔ̀ʼte mekwò",
+        "pronounciation": "pwɔ̀ʔtȅ mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boiteux",
+                "definition_en": "lame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyàg",
+        "pronounciation": "pjȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bombe",
+                "definition_en": "bomb",
+                "examples": [
+                    {
+                        "dialect": "Mé ně ne ńzíŋe lǔŋ, á maʼa pyàg, á vɛ́ ńtuɔ múɔ.",
+                        "fr": "On était en train de danser, il a lancé la bombe, elle a brûlé l’enfant.",
+                        "en": "We were dancing, he threw the bomb, it burned the child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pyâg",
+        "pronounciation": "pjâq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de l’air qui s’éclate d’un papier",
+                "definition_en": "sound of air exploding from a piece of paper",
+                "examples": [
+                    {
+                        "dialect": "Pípà vɛ̌ lê pyâg.",
+                        "fr": "Le papier s’est éclaté que « pyâg ».",
+                        "en": "The paper burst as “pyâg”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pyága",
+        "pronounciation": "pjáʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destruction ; destructeur",
+                "definition_en": "destruction; destructive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyága gyé",
+        "pronounciation": "pjáʁá ɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désodorisant",
+                "definition_en": "deodorant",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui fait perdre le goût",
+                "definition_en": "one who loses his taste",
+                "examples": []
+            },
+            {
+                "definition_fr": "trouble-fête",
+                "definition_en": "spoilsport",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyé",
+        "pronounciation": "pɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perte",
+                "definition_en": "loss",
+                "examples": []
+            }
+        ]
+    }
+]

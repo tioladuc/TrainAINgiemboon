@@ -1,0 +1,443 @@
+[
+    {
+        "noun": "ngyè zɔ̀b",
+        "pronounciation": "ŋ̩̀gxjȅ zɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélodie",
+                "definition_en": "melody",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgyéte",
+        "pronounciation": "ŋ̩́gxjété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "informer dans les coulisses",
+                "definition_en": "inform behind the scene",
+                "examples": []
+            },
+            {
+                "definition_fr": "soupçonner",
+                "definition_en": "suspect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgyɔ́ɔn",
+        "pronounciation": "ŋ̩́gjɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abonder ; être beaucoup",
+                "definition_en": "abound; be plentiful",
+                "examples": [
+                    {
+                        "dialect": "Epʉ̀a tà ńgyɔ́ɔn laa jʉʼó.",
+                        "fr": "Beaucoup de gens étaient là.",
+                        "en": "Lots of people were there."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "gaspiller ; mal entretenir ; mal tenir",
+                "definition_en": "to waste ; poorly maintained; hold poorly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngÿàte",
+        "pronounciation": "ŋ̩̀gɰàtȅ",
+        "synonym": [
+            "ngàte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourneur",
+                "definition_en": "embezzler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿáte",
+        "pronounciation": "ŋ̩́gɰáté",
+        "synonym": [
+            "ńgáte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner ; désaxer",
+                "definition_en": "embezzle; throw off balance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿéente",
+        "pronounciation": "ŋ̩́gɰẽ́ːté",
+        "synonym": [
+            "ńgÿɛ́te"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tituber",
+                "definition_en": "stagger; reel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿɛ́",
+        "pronounciation": "ŋ̩́gɰɛ́",
+        "synonym": [
+            "ńdẅɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se targuer ; se vanter",
+                "definition_en": "boast; brag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿɛ́te",
+        "pronounciation": "ŋ̩́gɰɛ́té",
+        "synonym": [
+            "ńgÿéente"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tituber",
+                "definition_en": "stagger; reel",
+                "examples": [
+                    {
+                        "dialect": "Ńnú melùʼ tà ńgÿɛ́te.",
+                        "fr": "Boire le vin jusqu’à tituber.",
+                        "en": "Drink the wine until you stagger."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "perdre l’équilibre",
+                "definition_en": "lose balance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngÿò",
+        "pronounciation": "ŋ̩̀gxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pratiquant ; faiseur",
+                "definition_en": "churchgoer; maker of things",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngÿǒ",
+        "pronounciation": "ŋ̩̀gxɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "agissement ; façon de faire",
+                "definition_en": "manner; technique",
+                "examples": [
+                    {
+                        "dialect": "Ngÿǒ menò mé té poŋ.",
+                        "fr": "Son agissement n’est pas bien.",
+                        "en": "His behavior is not right."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿo",
+        "pronounciation": "ŋ̩́gxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire",
+                "definition_en": "do",
+                "examples": []
+            },
+            {
+                "definition_fr": "honorer",
+                "definition_en": "honor",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’amuser",
+                "definition_en": "have fun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngÿò mbòŋo",
+        "pronounciation": "ŋ̩̀gxɰȍ m̩̀bõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "expert",
+                "definition_en": "expert",
+                "examples": [
+                    {
+                        "dialect": "A ngÿò mbòŋo tǒ ńgyá fàʼ.",
+                        "fr": "L’expert est venu voir le travail.",
+                        "en": "The expert came to see the work."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngÿò meffo",
+        "pronounciation": "ŋ̩̀gxɰȍ mèfːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guérisseur",
+                "definition_en": "healer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngÿò nò mbòŋo",
+        "pronounciation": "ŋ̩̀gxɰȍ nȍ m̩̀bõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bienfaiteur",
+                "definition_en": "patron",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgÿɔ́bɔ",
+        "pronounciation": "ŋ̩́gɰɔ́βɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner sur la tête avec le doigt plié",
+                "definition_en": "knock on someone’s head with a knuckle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njámbù",
+        "pronounciation": "ǹ̩dʒámbȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeu de hasard",
+                "definition_en": "game of chance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njáŋsáŋ",
+        "pronounciation": "ǹ̩dʒã́ŋsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjéen",
+        "pronounciation": "ń̩dʒẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sécher",
+                "definition_en": "dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njǔ",
+        "pronounciation": "ǹ̩dʒǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dette ; rançon",
+                "definition_en": "debt; ransom",
+                "examples": []
+            },
+            {
+                "definition_fr": "malchance",
+                "definition_en": "misfortune; bad luck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjú",
+        "pronounciation": "ń̩dʒú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acheter ; racheter",
+                "definition_en": "buy; buy back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjúa",
+        "pronounciation": "ń̩dʒúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frôler",
+                "definition_en": "brush against; skim past",
+                "examples": []
+            },
+            {
+                "definition_fr": "ratisser",
+                "definition_en": "rake",
+                "examples": [
+                    {
+                        "dialect": "Ńjúate megǐ.",
+                        "fr": "Ratisser les herbes.",
+                        "en": "Rake the herbs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjúbe",
+        "pronounciation": "ńdʒúβé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être très sec",
+                "definition_en": "be very dry",
+                "examples": [
+                    {
+                        "dialect": "À tsetsáʼ ne ńjúbe.",
+                        "fr": "La terre est sèche.",
+                        "en": "The earth is dry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjum",
+        "pronounciation": "ń̩dʒùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éplucher",
+                "definition_en": "peel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjúm",
+        "pronounciation": "ń̩dʒúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sécher",
+                "definition_en": "dry",
+                "examples": []
+            },
+            {
+                "definition_fr": "sécher ; se dessécher",
+                "definition_en": "dry; to dry out",
+                "examples": []
+            },
+            {
+                "definition_fr": "devenir sec",
+                "definition_en": "become dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njúmbà",
+        "pronounciation": "ǹ̩dʒúmbȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boubou",
+                "definition_en": "booboo",
+                "examples": []
+            }
+        ]
+    }
+]

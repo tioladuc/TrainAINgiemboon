@@ -1,0 +1,469 @@
+[
+    {
+        "noun": "ḿmag",
+        "pronounciation": "ḿ̩màq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "finir ; terminer",
+                "definition_en": "finish; terminate",
+                "examples": []
+            },
+            {
+                "definition_fr": "réconcilier",
+                "definition_en": "reconcile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmág",
+        "pronounciation": "ḿ̩máq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "broder",
+                "definition_en": "embroider",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre des couleurs",
+                "definition_en": "show one’s colours",
+                "examples": []
+            },
+            {
+                "definition_fr": "masquer",
+                "definition_en": "mask",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmaŋte",
+        "pronounciation": "ḿ̩mã̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grignoter",
+                "definition_en": "nibble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmaʼ",
+        "pronounciation": "ḿ̩màʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cotiser ; contribuer",
+                "definition_en": "subscribe; contribute",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’habiller",
+                "definition_en": "get dressed",
+                "examples": []
+            },
+            {
+                "definition_fr": "pêcher",
+                "definition_en": "sin",
+                "examples": []
+            },
+            {
+                "definition_fr": "quêter",
+                "definition_en": "to beg",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’amuser",
+                "definition_en": "have fun",
+                "examples": []
+            },
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross",
+                "examples": []
+            },
+            {
+                "definition_fr": "fleurir",
+                "definition_en": "bloom",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire signe de main",
+                "definition_en": "wave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmaʼ",
+        "pronounciation": "ḿ̩màʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lancer",
+                "definition_en": "throw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmeen",
+        "pronounciation": "ḿ̩mẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quand même",
+                "definition_en": "even so",
+                "examples": [
+                    {
+                        "dialect": "À kaa wɔ́ɔn guu táʼ, mèŋ n ge meen gʉa.",
+                        "fr": "Il ne m’a pas invité, mais je vais quand même aller.",
+                        "en": "He didn't invite me, but I'm going to go anyway."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "malgré ; à peine ; à regret ; passablement",
+                "definition_en": "despite; hardly; reluctantly; passably",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ m pfɛ́ɛ páʼɔɔn, ḿmeen meen.",
+                        "fr": "Je mange comme ça, malgré (ma volonté).",
+                        "en": "I eat like that, despite (my will)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿmege",
+        "pronounciation": "ḿ̩mə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "achever un travail",
+                "definition_en": "finish a job",
+                "examples": []
+            },
+            {
+                "definition_fr": "terminer",
+                "definition_en": "finish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿméŋ",
+        "pronounciation": "ḿ̩mə̃́ŋ",
+        "synonym": [
+            "ḿmʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se gâter ; moisir",
+                "definition_en": "go bad; go mouldy; rot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmeŋe",
+        "pronounciation": "ḿ̩mə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disparaître",
+                "definition_en": "disappear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmeʼe",
+        "pronounciation": "ḿ̩mə̀ʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être profond",
+                "definition_en": "be deep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmi",
+        "pronounciation": "ḿ̩mì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avaler",
+                "definition_en": "swallow",
+                "examples": []
+            },
+            {
+                "definition_fr": "dévorer ; avaler vite",
+                "definition_en": "devour; swallow quickly",
+                "examples": []
+            },
+            {
+                "definition_fr": "finir",
+                "definition_en": "finish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmíŋe",
+        "pronounciation": "ḿ̩mĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saluer",
+                "definition_en": "greet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmíte",
+        "pronounciation": "ḿ̩míté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se faufiler",
+                "definition_en": "thread your way in between",
+                "examples": [
+                    {
+                        "dialect": "N ka gyá nnú, é kÿo ḿmíte tsɛ̀ɛ megǐ.",
+                        "fr": "J’ai vu le serpent, il a fuit pour se faufiler dans les herbes.",
+                        "en": "I saw the snake, it fled to slip through the grass."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿmiʼ",
+        "pronounciation": "ḿ̩mìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secouer (hanche)",
+                "definition_en": "shake (hip)",
+                "examples": []
+            },
+            {
+                "definition_fr": "agiter",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "secouer (les hanches)",
+                "definition_en": "shake (hips)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó",
+        "pronounciation": "m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose ; objet ; sujet",
+                "definition_en": "thing; object; subject",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó fàʼ",
+        "pronounciation": "m̩̀mó fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourniture",
+                "definition_en": "supply",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó láʼ",
+        "pronounciation": "m̩̀mó láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commune",
+                "definition_en": "commune",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó lejÿó",
+        "pronounciation": "m̩̀mó lèʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourriture",
+                "definition_en": "food",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó mbÿɔ́g",
+        "pronounciation": "m̩̀mó m̩̀bɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crue (nourriture)",
+                "definition_en": "rising (food)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó metʉ̌a",
+        "pronounciation": "m̩̀mó mèʈɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marchandise",
+                "definition_en": "goods; merchandise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó ndʉŋ",
+        "pronounciation": "m̩̀mó ɳ̩̀ɖɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cible",
+                "definition_en": "target",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó nzso",
+        "pronounciation": "m̩̀mó ǹ̩dzsò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étoffe ; mouchoir",
+                "definition_en": "fabric; handkerchief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmó tepòŋ",
+        "pronounciation": "m̩̀mó tèpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monstre ; démon",
+                "definition_en": "monster; demon",
+                "examples": [
+                    {
+                        "dialect": "Nzèm sǐŋ, à mmó tepòŋ giŋ.",
+                        "fr": "Quand il fait nuit, le monstre marche.",
+                        "en": "When it's dark, the monster walks."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mmóm",
+        "pronounciation": "m̩̀mɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "snob ; ambitieux",
+                "definition_en": "snobbish; ambitious",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ne fɛ̌ we ngie aa ngàŋa mmóm.",
+                        "fr": "Il a dit à son frère qu’il est snob (ambitieux).",
+                        "en": "He told his brother that he is a snob (ambitious)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿmóm",
+        "pronounciation": "ḿ̩mɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amasser",
+                "definition_en": "amass",
+                "examples": []
+            },
+            {
+                "definition_fr": "totaliser",
+                "definition_en": "total",
+                "examples": []
+            }
+        ]
+    }
+]

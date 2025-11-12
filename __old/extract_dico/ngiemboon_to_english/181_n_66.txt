@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "ńtsóonte",
+        "pronounciation": "ń̩tsṍːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ridiculiser",
+                "definition_en": "ridicule",
+                "examples": []
+            },
+            {
+                "definition_fr": "blâmer",
+                "definition_en": "blame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ́b",
+        "pronounciation": "ǹ̩tsɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "kwashiorkor",
+                "definition_en": "kwashiorkor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b",
+        "pronounciation": "ǹ̩tsɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "extraordinaire",
+                "definition_en": "extraordinary; special",
+                "examples": [
+                    {
+                        "dialect": "Tá we lɔ̌g ntsɔ̀b pà matûa ńtó á gẅiin mekwò méntá.",
+                        "fr": "Son père est venu avec une voiture extraordinaire, elle a trois roues.",
+                        "en": "His father came with an extraordinary car, it has three wheels."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́b",
+        "pronounciation": "ń̩tsɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goûter un mets avant qu’on le partage",
+                "definition_en": "taste a dish before sharing it",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́b",
+        "pronounciation": "ń̩tsɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répondre",
+                "definition_en": "respond",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́b",
+        "pronounciation": "ń̩tsɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tomber malade",
+                "definition_en": "fall sick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b lefɔ̌ɔn lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ lèfɔ̃̌ː lê léɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dix-huit",
+                "definition_en": "eighteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b lekùa lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ lèkùȁ lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatorze",
+                "definition_en": "fourteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b lepfwɔʼɔ́ lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ lèpfwɔ̀ʔɔ́ lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dix-neuf",
+                "definition_en": "nineteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b ntɔgɔ́ lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ ǹ̩tɔ̀ʁɔ́ lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seize",
+                "definition_en": "sixteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b pʉ́a lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ pɯ́á lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "douze",
+                "definition_en": "twelve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b sɔɔn mbʉ́a lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ sɔ̃̀ː m̩̀bɯ́á lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dix-sept",
+                "definition_en": "seventeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b tá lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ tá lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "treize",
+                "definition_en": "thirteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b tʉ̂a lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ ʈɯ́à lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quinze",
+                "definition_en": "fifteen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b wémɔʼɔ́ lé legém",
+        "pronounciation": "ǹ̩tsɔ̏p̚ wèmɔ̀ʔɔ́ lé lèɣə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "onze",
+                "definition_en": "eleven",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀b wémɔʼɔ́ lé móm mbʉ́a",
+        "pronounciation": "ǹ̩tsɔ̏p̚ wèmɔ̀ʔɔ́ lé mɤ́m m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vingt et un",
+                "definition_en": "twenty-one",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔbte",
+        "pronounciation": "ń̩tsɔ̀ptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tacheter",
+                "definition_en": "spot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ́g",
+        "pronounciation": "ǹ̩tsɔ́q̚",
+        "synonym": [
+            "ntsɔ́gè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cartouche ; coup",
+                "definition_en": "cartridge; blow",
+                "examples": []
+            },
+            {
+                "definition_fr": "coup ; tir",
+                "definition_en": "blow; shot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔg",
+        "pronounciation": "ń̩tsɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cracher",
+                "definition_en": "spit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́g",
+        "pronounciation": "ń̩tsɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mordre ; piquer",
+                "definition_en": "bite; sting",
+                "examples": []
+            },
+            {
+                "definition_fr": "picoter",
+                "definition_en": "tingle",
+                "examples": []
+            },
+            {
+                "definition_fr": "démanger",
+                "definition_en": "itch",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’accroupir",
+                "definition_en": "squat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ́gè",
+        "pronounciation": "ǹ̩tsɔ́ʁȅ",
+        "synonym": [
+            "ntsɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cartouche ; coup",
+                "definition_en": "cartridge; blow",
+                "examples": []
+            },
+            {
+                "definition_fr": "coup ; tir",
+                "definition_en": "blow; shot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ge",
+        "pronounciation": "ń̩tsɔ́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quereller ; bagarrer",
+                "definition_en": "scold; quarrel; fight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔgɔ",
+        "pronounciation": "ń̩tsɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échapper de justesse",
+                "definition_en": "barely escaped",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́gte",
+        "pronounciation": "ń̩tsɔ́qté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’accroupir",
+                "definition_en": "squat; crouch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ɔn",
+        "pronounciation": "ǹ̩tsɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui désire",
+                "definition_en": "one who desires",
+                "examples": []
+            }
+        ]
+    }
+]

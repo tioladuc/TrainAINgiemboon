@@ -1,0 +1,458 @@
+[
+    {
+        "noun": "ési nnɛ́",
+        "pronounciation": "ésì ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se vanter",
+                "definition_en": "boast; brag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésibe",
+        "pronounciation": "ésìβè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oindre avec soin",
+                "definition_en": "carefully oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésie",
+        "pronounciation": "ésìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclairer moins ; émettre une lueur",
+                "definition_en": "light up less; glow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíe",
+        "pronounciation": "ésíé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remercier",
+                "definition_en": "thank",
+                "examples": [
+                    {
+                        "dialect": "À ge síe wɔ́ɔn páʼ n gyǎ kí we.",
+                        "fr": "Il me remerciera comme j’ai vu sa clé.",
+                        "en": "He will thank me as I saw his key."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésiɛ",
+        "pronounciation": "ésìɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépecer ; débiter",
+                "definition_en": "dismember; debit; sell",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépecer ; débiter",
+                "definition_en": "to cut up; debit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésiɛ",
+        "pronounciation": "ésìɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvrir ; extirper",
+                "definition_en": "open; extirpate; eradicate",
+                "examples": []
+            },
+            {
+                "definition_fr": "déchirer",
+                "definition_en": "tear; rip",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir grandement les yeux",
+                "definition_en": "open your eyes widely",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíɛ",
+        "pronounciation": "ésíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrôler ; inspecter ; vérifier",
+                "definition_en": "control; inspect; verify",
+                "examples": []
+            },
+            {
+                "definition_fr": "vérifier ; inspecter",
+                "definition_en": "check ; inspect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíɛ",
+        "pronounciation": "ésíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laisser en jachère",
+                "definition_en": "lie fallow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíg",
+        "pronounciation": "ésíq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sentir",
+                "definition_en": "sense",
+                "examples": []
+            },
+            {
+                "definition_fr": "ressentir",
+                "definition_en": "feel",
+                "examples": []
+            },
+            {
+                "definition_fr": "ressentir",
+                "definition_en": "to feel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíle",
+        "pronounciation": "ésílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "économiser",
+                "definition_en": "save",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíle",
+        "pronounciation": "ésílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pincer",
+                "definition_en": "pinch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésiŋ",
+        "pronounciation": "ésĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "masser",
+                "definition_en": "massage",
+                "examples": []
+            },
+            {
+                "definition_fr": "redresser",
+                "definition_en": "to sort out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésiŋ",
+        "pronounciation": "ésĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tirer",
+                "definition_en": "pull",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’étirer",
+                "definition_en": "stretch",
+                "examples": []
+            },
+            {
+                "definition_fr": "étendre ; s’allonger",
+                "definition_en": "extend ; lie down",
+                "examples": []
+            },
+            {
+                "definition_fr": "dresser ; étendre ; élargir",
+                "definition_en": "draw up; extend ; expand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíŋ",
+        "pronounciation": "ésĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noircir",
+                "definition_en": "blacken",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésiŋte",
+        "pronounciation": "ésĩ̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corriger",
+                "definition_en": "correct",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíʼi",
+        "pronounciation": "ésíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commencer",
+                "definition_en": "begin; start; commence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésíʼte",
+        "pronounciation": "ésíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apparaître",
+                "definition_en": "appear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésoŋ",
+        "pronounciation": "ésõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soutirer",
+                "definition_en": "draw off",
+                "examples": []
+            },
+            {
+                "definition_fr": "dérober",
+                "definition_en": "steal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésóon",
+        "pronounciation": "ésṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piaffer ; tiquer",
+                "definition_en": "stamp; bat an eyelid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔb",
+        "pronounciation": "ésɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "injecter",
+                "definition_en": "inject",
+                "examples": []
+            },
+            {
+                "definition_fr": "piquer",
+                "definition_en": "sting; bite",
+                "examples": []
+            },
+            {
+                "definition_fr": "poignarder",
+                "definition_en": "stab",
+                "examples": []
+            },
+            {
+                "definition_fr": "repiquer",
+                "definition_en": "transplant",
+                "examples": []
+            },
+            {
+                "definition_fr": "réinjecter",
+                "definition_en": "reinject",
+                "examples": []
+            },
+            {
+                "definition_fr": "piqueter",
+                "definition_en": "picket",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’entretuer",
+                "definition_en": "kill each other",
+                "examples": []
+            },
+            {
+                "definition_fr": "poignarder",
+                "definition_en": "stab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔbte",
+        "pronounciation": "ésɔ̀ptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être rugueux",
+                "definition_en": "be rough",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔg",
+        "pronounciation": "ésɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laver",
+                "definition_en": "wash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔgɔ",
+        "pronounciation": "ésɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dresser ; étendre ; élargir",
+                "definition_en": "erect; stretch out; widen",
+                "examples": []
+            },
+            {
+                "definition_fr": "redresser ; corriger",
+                "definition_en": "set upright; correct; grade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔɔn",
+        "pronounciation": "ésɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleurir",
+                "definition_en": "flower",
+                "examples": []
+            },
+            {
+                "definition_fr": "écarter ; élargir",
+                "definition_en": "discard; expand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔ́ɔn",
+        "pronounciation": "ésɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne pas avoir sa part lors d’un partage ; perdre ; échouer",
+                "definition_en": "not have one’s part when things are shared out; lose; fail",
+                "examples": []
+            }
+        ]
+    }
+]

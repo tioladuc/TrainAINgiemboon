@@ -1,0 +1,376 @@
+[
+    {
+        "noun": "mbàlasí",
+        "pronounciation": "m̩̀bàlȁsí",
+        "synonym": [
+            "mbèlenjʉ̂ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "énergie ; essence",
+                "definition_en": "energy; petrol; gas",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbâmbǎ",
+        "pronounciation": "m̩̀bâmbǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ortie (gén.)",
+                "definition_en": "nettle (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbâmbǎ kwɔb",
+        "pronounciation": "m̩̀bâmbǎ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. ortie",
+                "definition_en": "sp. nettle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbâmbǎ mekú",
+        "pronounciation": "m̩̀bâmbǎ mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. ortie",
+                "definition_en": "sp. nettle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàndà",
+        "pronounciation": "m̩̀bȁndȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échafaudage",
+                "definition_en": "scaffolding",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàntsàʼ",
+        "pronounciation": "m̩̀bȁntsȁʔ",
+        "synonym": [
+            "tsétsáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hochet en vannerie, calebasse ou bois",
+                "definition_en": "rattle made of basketwork, calabash or wood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàntùʼ",
+        "pronounciation": "m̩̀bâɳʈùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋ",
+        "pronounciation": "m̩̀bã̀ŋ",
+        "synonym": [
+            "mbàŋa tʉ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clou ; pointe",
+                "definition_en": "nail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋ",
+        "pronounciation": "m̩̀bã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. taro",
+                "definition_en": "sp. cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋ",
+        "pronounciation": "m̩̀bã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grain ; noyau ; tubercule",
+                "definition_en": "grain; pit; tuber",
+                "examples": [
+                    {
+                        "dialect": "Cʉ̀cʉ̀a pfɛ̌ mɔ́ɔn membaŋ péli ma tà é mag.",
+                        "fr": "La souris a tout mangé mes grains d’arachides-là.",
+                        "en": "The mouse ate all my peanuts."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbâŋ",
+        "pronounciation": "m̩̀bã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "banc",
+                "definition_en": "bench",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbâŋ",
+        "pronounciation": "m̩̀bã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "banque",
+                "definition_en": "bank",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbaŋ",
+        "pronounciation": "ḿ̩bã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rougir",
+                "definition_en": "blush; redden",
+                "examples": []
+            },
+            {
+                "definition_fr": "mûrir",
+                "definition_en": "ripen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáŋ",
+        "pronounciation": "ḿ̩bã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross; fold",
+                "examples": []
+            },
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáŋ",
+        "pronounciation": "ḿ̩bã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner ; dérouter",
+                "definition_en": "embezzle; divert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋ mvfǒ",
+        "pronounciation": "m̩̀bã̀ŋ ɱ̩̀bvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit non-comestible",
+                "definition_en": "sp. inedible fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋa ffo",
+        "pronounciation": "m̩̀bã̀ŋȁ fːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comprimé",
+                "definition_en": "tablet; pill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋa mmó",
+        "pronounciation": "m̩̀bã̀ŋȁ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouton",
+                "definition_en": "button",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋa nèm",
+        "pronounciation": "m̩̀bã̀ŋȁ nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋa nò",
+        "pronounciation": "m̩̀bã̀ŋȁ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comportement",
+                "definition_en": "behaviour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋa tʉ̌",
+        "pronounciation": "m̩̀bã̀ŋȁ ʈɯ̌",
+        "synonym": [
+            "mbaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clou ; pointe",
+                "definition_en": "nail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋfɔ̌ɔn",
+        "pronounciation": "m̩̀bã̀ŋfɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boulon",
+                "definition_en": "bolt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋkwɔ́ʼ",
+        "pronounciation": "m̩̀bã̀ŋkwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barreau ; échelon",
+                "definition_en": "bar; grade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaŋlòŋ",
+        "pronounciation": "m̩̀bã̀ŋlõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "banlon ; slip",
+                "definition_en": "artificial fibre; briefs; underpants",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàŋte",
+        "pronounciation": "m̩̀bã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flânerie",
+                "definition_en": "stroll",
+                "examples": []
+            }
+        ]
+    }
+]

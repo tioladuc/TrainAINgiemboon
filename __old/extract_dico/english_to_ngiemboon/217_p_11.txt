@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "place, initiation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼakém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place in the water, deep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zème",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "placenta",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyǎg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place, old",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fòm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place, public",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mángyɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place, put in the same",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtemte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "places, press in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place to go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place, unclean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place, unspecified",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mǎŋŋwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place where one travels",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plague",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plague, poultry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsètsò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "peláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plane",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vyôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "viyôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "peláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "planorbis snail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼngwǎ ngwoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plantain, green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyága nkàndòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plantain peelings, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plantain, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwoon ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkandòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lemvwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkandi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùtùʼu mendóŋ nkandòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwoon málúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plantain, sp. fat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkandòŋ lemvwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plantain with thick fingers",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plant disease, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyè ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "plant, foot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsiŋé",
+                "examples": []
+            }
+        ]
+    }
+]

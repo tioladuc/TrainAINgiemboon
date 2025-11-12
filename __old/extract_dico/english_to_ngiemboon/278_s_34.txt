@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "steal (person)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "steam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "steel, stainless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "steel wire",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo tʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stem, grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stem, pipe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "step",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megiŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅǐɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sterile animal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɛ́ɛ nɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsemé mmó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tẅìʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kème mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick a little all over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick for musical instruments",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick, hit with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa nzẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa nzẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick, knock out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa nzẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa nzẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńda",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stick, walk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sticky, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdile",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sticky matter (in eye)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉkʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sticky sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwàlàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sticky sauce, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stifle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfóm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "still",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stilt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ ndʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stimulate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkute",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sting (pepper)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            }
+        ]
+    }
+]

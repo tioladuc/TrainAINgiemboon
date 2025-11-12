@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "peeling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peelings, remove plantain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pees, one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matsìtsìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pees, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pen, ball-point",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbîg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pencil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "penetrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "penis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "penknife",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "panáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pension",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pêen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pentatomid bug larva",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "people",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "séssé sɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, burn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, chili",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿóndÿɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùavolóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿóndÿɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùavolóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, sp. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sésɔg meshʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, sting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepper, white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ̀ sɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "perch on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "perfect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "perfection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepùme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "perfective",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kě",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "pege",
+        "pronounciation": "pə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nous (pron. sujet, 1ère personne pluriel inclusive)",
+                "definition_en": "we (first person plural inclusive subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Pege jʉʼɔɔn ńgÿo kɔ́?",
+                        "fr": "Que faisons-nous ici ?",
+                        "en": "What are we doing here?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pege",
+        "pronounciation": "pə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.poss.obj.prep",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notre incl. ; nos excl. (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de toutes les classes après une préposition ou un verbe de mouvement)",
+                "definition_en": "our, inclusive (first person inclusive plural possessive adjective modifying any class noun after preposition or a movement verb)",
+                "examples": [
+                    {
+                        "dialect": "À ka kuu nkáʼ pege.",
+                        "fr": "Il est entré dans notre champ.",
+                        "en": "He entered our field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pége",
+        "pronounciation": "pə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit ; dérangement ; abasourdissement",
+                "definition_en": "sound; failure; bewilderment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pégè",
+        "pronounciation": "pə́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 2)",
+                "definition_en": "ours, inclusive (first person plural inclusive possessive pronoun referring back to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Epɔ́b pʉ̀a ně ndáʼ ńtó, epégè gwɔ́ pɔ́ nzɔ̌?",
+                        "fr": "Leurs gens sont depuis venus, où sont alors les nôtres ?",
+                        "en": "Their people have since come, where are ours then?"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nos incl. (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms des classes 2)",
+                "definition_en": "our, inclusive (first person plural inclusive possessive adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a pége gÿɔ́ɔn.",
+                        "fr": "Nos gens sont beaucoup.",
+                        "en": "Our people are a lot."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nos incl. (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms des classes 2)",
+                "definition_en": "ours, inclusive (first person plural inclusive emphatic possessive adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pekʉ",
+        "pronounciation": "pèkɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit (qualifie les noms de la classe 2)",
+                "definition_en": "small; little (qualifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pelâg",
+        "pronounciation": "pèlâq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plaque",
+                "definition_en": "plaque; sheet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peláŋ",
+        "pronounciation": "pèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plan",
+                "definition_en": "plan",
+                "examples": []
+            },
+            {
+                "definition_fr": "projet",
+                "definition_en": "project",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peláŋ",
+        "pronounciation": "pèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "planche",
+                "definition_en": "plank; board",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pelé",
+        "pronounciation": "pə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blague ; amusement",
+                "definition_en": "joke; amusement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péle",
+        "pronounciation": "pə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ajout",
+                "definition_en": "addition",
+                "examples": []
+            },
+            {
+                "definition_fr": "branche",
+                "definition_en": "branch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péle lezíŋ",
+        "pronounciation": "pə́lé lèzĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prénom",
+                "definition_en": "first name",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɛté lezíŋ múɔ, á ná pɔ́ péle lezíŋ.",
+                        "fr": "J’ai demandé le nom de l’enfant, il n’a donné que le prénom.",
+                        "en": "I asked the child's name, he only gave the first name."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pèle mpfóŋ",
+        "pronounciation": "pə̀lȅ ɱ̩̀pfṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pélékùa",
+        "pronounciation": "pélékùà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre (modifiant les noms de la classe 2)",
+                "definition_en": "four (modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli",
+        "pronounciation": "pélì",
+        "synonym": [
+            "mênjwò ",
+            " mbèyáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arachide (gén.)",
+                "definition_en": "groundnut (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli galèwà",
+        "pronounciation": "pélì ɡàlȅwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide (de Garoua)",
+                "definition_en": "sp. groundnut (from Garoua)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli láʼ",
+        "pronounciation": "pélì láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide (locale)",
+                "definition_en": "sp. groundnut (local)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli lɔ̀ɔn ssé",
+        "pronounciation": "pélì lɔ̃̏ː sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide",
+                "definition_en": "sp. groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli ngǎndéle",
+        "pronounciation": "pélì ŋɡǎndə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide (de Ngaoundere)",
+                "definition_en": "sp. groundnut (from Ngaoundere)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli syɛ̀b ntsɔ̀ʼ",
+        "pronounciation": "pélì syɛ̏p ǹ̩tsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide",
+                "definition_en": "sp. groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli tÿǒ",
+        "pronounciation": "pélì ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "péli tÿɔ̀ʼ ntsɛ́",
+        "pronounciation": "pélì tɰɔ̏ʔ ǹ̩tsɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide",
+                "definition_en": "sp. groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pelʉ̌",
+        "pronounciation": "pèɭɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourri (qualifie les noms de la classe 2)",
+                "definition_en": "rotten (qualifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À pfɛ̌ menɔ̀ɔn pelʉ̌.",
+                        "fr": "Il a mangé les animaux pourries.",
+                        "en": "He ate the rotten animals."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pelÿò",
+        "pronounciation": "pèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand (qualifie les noms pour la classe 2)",
+                "definition_en": "great (modifies class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pembǐ",
+        "pronounciation": "pèmbǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prenable (qualifie les noms de la classe 2)",
+                "definition_en": "available (qualifies class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pembòŋo",
+        "pronounciation": "pèmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meilleurs (qualifie les noms de la classe 2)",
+                "definition_en": "better (modifying nouns from class 2)",
+                "examples": [
+                    {
+                        "dialect": "Líe mekúnɔ̀ɔn pembòŋo, mèŋ n ge jú.",
+                        "fr": "Regarde les meilleurs porcs, je vais acheter.",
+                        "en": "Look at the best pigs, I will buy."
+                    }
+                ]
+            }
+        ]
+    }
+]

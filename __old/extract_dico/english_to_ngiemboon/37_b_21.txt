@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "buried, sound of intrument",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Burmann’s basketgrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gaʼa ncÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtuɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntuɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burn oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burn (pepper in mouth)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burns, someone who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burnt by the sun (yam), be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burnt, get one’s fingers",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burn to ashes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ʼmbì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burrow in (chigoe)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkime",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burst",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burweed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndoŋtóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bury",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bury a corpse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bush",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bush baby, Senegal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"bush cat\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn nŋʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bush, Christmas",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntèntàŋ shʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bush, wild tea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túʼtoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bushy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fúʼtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bushy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼ",
+                "examples": []
+            }
+        ]
+    }
+]

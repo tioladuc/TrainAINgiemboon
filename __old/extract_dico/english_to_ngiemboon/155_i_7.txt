@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "interchange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefegé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefagá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefagá nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefegé nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interested, I’m not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ yɔ́ɔn áa mǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interfere",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvómo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interior",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsoló",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interior, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ wó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsoló",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intermittent movement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "international",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làʼaláʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùme túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "internet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interrogate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intersect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éféŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intersection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyɛʼɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intertribal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùme túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intertwine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "interval",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intervene",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtág nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inter-village",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làʼaláʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intestinal roundworm, giant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intestinal worm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngingi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intestine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "in this way",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔgɔ púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intimate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shǔ lepyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intimidate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbébe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "into",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intrigue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "introduce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ge",
+                "examples": []
+            }
+        ]
+    }
+]

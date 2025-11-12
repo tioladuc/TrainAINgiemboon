@@ -1,0 +1,431 @@
+[
+    {
+        "noun": "kátsyé mànku",
+        "pronounciation": "kátsːjé màŋkù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grillon (petit taille)",
+                "definition_en": "sp. cricket (small size)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "katúʼ",
+        "pronounciation": "kàʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "militaire ; soldat",
+                "definition_en": "serviceman; soldier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàtùʼu",
+        "pronounciation": "kȁʈùʔȕ",
+        "synonym": [
+            "tùʼu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. écuelle à base de calebasse",
+                "definition_en": "k. bowl made from a calabash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "katẅɛ̀",
+        "pronounciation": "kàtɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propreté",
+                "definition_en": "cleanliness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káʼa",
+        "pronounciation": "káʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alors que ; pourtant",
+                "definition_en": "so that; even though",
+                "examples": [
+                    {
+                        "dialect": "À gɔɔn ngie à tè pfɛ́ wɔ́ káʼa nzyè ké ne ńgyáŋa yé gyǎŋ.",
+                        "fr": "Il dit qu’il ne doit pas manger alors qu’il a toujours faim.",
+                        "en": "He says he must not eat while he is still hungry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kàʼa",
+        "pronounciation": "kàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse à vin (bout courbé)",
+                "definition_en": "calabash for wine (curved end)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàʼte",
+        "pronounciation": "kàʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaieté",
+                "definition_en": "cheerfulness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ké",
+        "pronounciation": "ké",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tout de même (P3)",
+                "definition_en": "all the same (P3)",
+                "examples": [
+                    {
+                        "dialect": "Tâm ké tó tó.",
+                        "fr": "Tâm est tout de même venu.",
+                        "en": "Tâm still came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kě",
+        "pronounciation": "kě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui, perfectif contre-attente",
+                "definition_en": "perfective counter-expectation today past",
+                "examples": [
+                    {
+                        "dialect": "À kě ńtó tó.",
+                        "fr": "Il vient d’arriver tout de même.",
+                        "en": "It just arrived anyway."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kee",
+        "pronounciation": "kèː",
+        "synonym": [
+            "kɛ̂"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quoi",
+                "definition_en": "what",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie kee? Ńgie à ne ńguɔ káa?",
+                        "fr": "Il a dit que quoi ? Qu’il est malade n’est ce pas ?",
+                        "en": "He said what? He's sick, isn't he?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "keen",
+        "pronounciation": "kẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjà (P3)",
+                "definition_en": "already (P3)",
+                "examples": [
+                    {
+                        "dialect": "À keen ńtó.",
+                        "fr": "Il est déjà venu.",
+                        "en": "He has already come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "keen",
+        "pronounciation": "kẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que",
+                "definition_en": "that",
+                "examples": [
+                    {
+                        "dialect": "Pi faʼa légɔɔn ngie pi kaa júʼu keen?",
+                        "fr": "Vous voulez dire que vous n’avez pas compris ?",
+                        "en": "You mean you don't understand?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kéen",
+        "pronounciation": "kẽ́ː",
+        "synonym": [
+            "nkéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’hier, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation yesterday past",
+                "examples": [
+                    {
+                        "dialect": "Gubé yé kéen ńgwáʼa yé ńgʉa lé túm metsèm.",
+                        "fr": "Ses enfants l’ont tous abandonné pour aller à l’étranger.",
+                        "en": "His children all abandoned him to go abroad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kěen",
+        "pronounciation": "kẽ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjà (P2)",
+                "definition_en": "already (P2)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kěen ńtó, tà ńzye leshwóŋo shwǒŋ.",
+                        "fr": "Tu es déjà venu jusqu’à commencer à bavarder.",
+                        "en": "You've already come so far as to start chatting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kěen",
+        "pronounciation": "kẽ̌ː",
+        "synonym": [
+            "nkěen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation today past",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kěen ńtó, tà ńzye leshwóŋo shwǒŋ.",
+                        "fr": "Tu es déjà venu jusqu’à commencer à bavarder.",
+                        "en": "You've already come so far as to start chatting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kège",
+        "pronounciation": "kə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incident ; discorde ; écailleux",
+                "definition_en": "incident; discord; scaly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kègɔ̀ʼ",
+        "pronounciation": "kȅɣɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avarice",
+                "definition_en": "avarice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kègte",
+        "pronounciation": "kə̀qtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écaille",
+                "definition_en": "scale; shell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kéjyága",
+        "pronounciation": "kéʒjáʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grelot en fer",
+                "definition_en": "pellet bell anklet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kèkàg",
+        "pronounciation": "kȅkȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "panier",
+                "definition_en": "basket",
+                "examples": []
+            },
+            {
+                "definition_fr": "cageot",
+                "definition_en": "crate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kékáŋ",
+        "pronounciation": "kékã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en vain ; sans succès",
+                "definition_en": "in vain; unsuccessfully",
+                "examples": [
+                    {
+                        "dialect": "À pǐ nkáb yɔ̀ɔn, n kẅé kékáŋ.",
+                        "fr": "Il a pris mon argent, je l’ai réclamé en vain.",
+                        "en": "He took my money, I asked for it in vain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kekáŋa letÿǒon",
+        "pronounciation": "kèkã́ŋá lèʈɰõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bagasse de noix de palme",
+                "definition_en": "bagasse from palmnuts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekàʼa",
+        "pronounciation": "kèkàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "roseau ; herbe à éléphant",
+                "definition_en": "reed; elephant grass; Napier grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kekàʼa ndóŋ",
+        "pronounciation": "kèkàʔȁ ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "wrinkle duck beak; saromacca grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kěkě",
+        "pronounciation": "kěkě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rien du tout",
+                "definition_en": "absolutely nothing",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ ee te kěkě.",
+                        "fr": "Je suis un rien du tout.",
+                        "en": "I'm nothing at all."
+                    }
+                ]
+            }
+        ]
+    }
+]

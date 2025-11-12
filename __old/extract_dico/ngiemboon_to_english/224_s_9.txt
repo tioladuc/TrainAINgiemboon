@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "shwóŋò mepʉa",
+        "pronounciation": "ʃwṍŋȍ mèpɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dialogue",
+                "definition_en": "dialogue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò ngáŋtʉɔʼ",
+        "pronounciation": "ʃwṍŋȍ ŋgáŋtɯ̀ɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue medumba",
+                "definition_en": "Medumba language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò ngiembɔɔn",
+        "pronounciation": "ʃwṍŋȍ ŋgjèmbɔ̃̀:",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue ngiemboon",
+                "definition_en": "Ngiemboon language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pafud",
+        "pronounciation": "ʃwṍŋȍ pàfùt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue bafut",
+                "definition_en": "Bafut language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pakɔsi",
+        "pronounciation": "ʃwṍŋȍ pàkɔ̀sì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue akoose",
+                "definition_en": "Akoose language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pamom",
+        "pronounciation": "ʃwṍŋȍ pàmɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue bamun",
+                "definition_en": "Bamun language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa mbasǎ",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à mbàsǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue basaa",
+                "definition_en": "Basaa language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa njinikom",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à ndʒìnìkɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue kom",
+                "definition_en": "Kom language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa nzsekàʼa",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à nzsèkàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue ghomala",
+                "definition_en": "Ghomala language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa shÿó Bɛgtùa",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à ʃːɰó bɛ̀qtùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue kako",
+                "definition_en": "Kako language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa shÿó Mbafia",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à ʃːɰó mbàfìà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue yangben",
+                "definition_en": "Yangben language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò pʉa Yɔɔnmendi",
+        "pronounciation": "ʃwṍŋȍ pɯ̀à yɔ̃̀:mèndì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue ewondo",
+                "definition_en": "Ewondo language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwòŋo tè gyá",
+        "pronounciation": "ʃwõ̀ŋȍ tè ɣjá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menteur",
+                "definition_en": "liar",
+                "examples": [
+                    {
+                        "dialect": "Ashwòŋo tè gya tÿɔ̌g sóon na mèŋ.",
+                        "fr": "Le menteur m’a fait une fausse accusation.",
+                        "en": "The liar made a false accusation against me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò Tsaŋ",
+        "pronounciation": "ʃwṍŋȍ tsàŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue yemba",
+                "definition_en": "Yemba language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwòŋondíŋe",
+        "pronounciation": "ʃwõ̀ŋȍndĩ́ŋé",
+        "synonym": [
+            "shʉ́a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« bois jaune » (en français local)",
+                "definition_en": "yellow wood (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋte",
+        "pronounciation": "ʃwṍŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "murmure ; mouchardage",
+                "definition_en": "murmur; informing; grassing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿàʼcʉ̀ʼʉnzàʼa",
+        "pronounciation": "ʃɰàʔtʃɯ̀ʔɯ́ǹ̩dzàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿàʼngaŋá",
+        "pronounciation": "ʃɰàʔ",
+        "synonym": [
+            "shÿàʼnzème"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿàʼnzème",
+        "pronounciation": "ʃɰàʔǹ̩dzə̀mȅ",
+        "synonym": [
+            "shÿàʼngaŋá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿéshÿe",
+        "pronounciation": "ʃːɰéʃːɰè",
+        "synonym": [
+            "shʉashʉa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "directement ; ouvertement",
+                "definition_en": "directly; openly",
+                "examples": [
+                    {
+                        "dialect": "Shÿéshÿe ńgɔɔn mmó gie á ne ńgyáŋa gú.",
+                        "fr": "Dis directement ce qui te dérange.",
+                        "en": "Say directly what bothers you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿéshÿɔ́g",
+        "pronounciation": "ʃːɰéʃɰɔ́q̚",
+        "synonym": [
+            "shʉ́shÿɔ́g ",
+            " shʉ́shʉ́m"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émotion",
+                "definition_en": "emotion",
+                "examples": []
+            },
+            {
+                "definition_fr": "influence",
+                "definition_en": "influence; effect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿó",
+        "pronounciation": "ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coin",
+                "definition_en": "corner; area",
+                "examples": []
+            },
+            {
+                "definition_fr": "direction",
+                "definition_en": "direction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿó",
+        "pronounciation": "ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. écureuil",
+                "definition_en": "sp. squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿó",
+        "pronounciation": "ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "visage ; face",
+                "definition_en": "face",
+                "examples": []
+            },
+            {
+                "definition_fr": "figure",
+                "definition_en": "figure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿó makùm",
+        "pronounciation": "ʃːɰó màkȕm̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "masque",
+                "definition_en": "mask",
+                "examples": []
+            }
+        ]
+    }
+]

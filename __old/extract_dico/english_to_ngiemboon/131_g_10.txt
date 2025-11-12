@@ -1,0 +1,477 @@
+[
+    {
+        "noun": "grief",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lemÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lemÿàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grigri, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo tág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grilled corn couscous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjẅaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzwaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdumo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grinder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsège",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzwàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grinding stone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grindstone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gris-gris, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo tág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gropingly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground after lying fallow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn tsèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground around a plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsiŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, dig",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, kneaded",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pòlopólo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, Bambara",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbeyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mênjwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìtsìi péli",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, immature",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tẅɛ́ péli",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground nuts, eat a lot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "péli lɔ̀ɔn ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀b ndɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli ngǎndéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli syɛ̀b ntsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli galèwà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli tÿɔ̀ʼ ntsɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, sp. local",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "péli láʼ",
+                "examples": []
+            }
+        ]
+    }
+]

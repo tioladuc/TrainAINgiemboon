@@ -1,0 +1,451 @@
+[
+    {
+        "noun": "ńkube",
+        "pronounciation": "ŋ̩́kùβè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être ladre ; être chiche",
+                "definition_en": "be miserly; be stingy; be meagre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkúbe",
+        "pronounciation": "ŋ̩́kúβé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "changer ; échanger",
+                "definition_en": "change; exchange",
+                "examples": []
+            },
+            {
+                "definition_fr": "alterner ; changer",
+                "definition_en": "alternate; to change",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńcʉ́ŋe pɔ̀ɔn tà pwó jú gyáŋ, ɔ̀ kúbe pwó.",
+                        "fr": "Si tu tiens le sac jusqu’a ce que ta main te fait mal, il faut changer de main.",
+                        "en": "If you hold the bag until your hand hurts, you need to change hands."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "remplacer",
+                "definition_en": "replace",
+                "examples": []
+            },
+            {
+                "definition_fr": "changer de temps en temps ; varier",
+                "definition_en": "change from time to time; vary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùbe twó",
+        "pronounciation": "ŋ̩̀kùβȅ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remplaçant",
+                "definition_en": "successor; replacement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùbo",
+        "pronounciation": "ŋ̩̀kùβȍ",
+        "synonym": [
+            "nkùbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "changeur",
+                "definition_en": "changer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùbo",
+        "pronounciation": "ŋ̩̀kùβȍ",
+        "synonym": [
+            "nkùbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiche ; avare",
+                "definition_en": "niggardly; stingy; miserly; tight-fisted",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkubte",
+        "pronounciation": "ŋ̩́kùptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manipuler en désordre",
+                "definition_en": "manipulate untidily; handle messily",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùd",
+        "pronounciation": "ŋ̩̀kȕt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "knock-out ; k.-o. (dans les jeux anglais)",
+                "definition_en": "knock-out; k.o. (for English games)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùe",
+        "pronounciation": "ŋ̩̀kùȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprivoiseur ; dompteur",
+                "definition_en": "tamer; breaker",
+                "examples": []
+            },
+            {
+                "definition_fr": "aubergiste",
+                "definition_en": "innkeeper; hotel-keeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkúe",
+        "pronounciation": "ŋ̩́kúé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprivoiser",
+                "definition_en": "provision",
+                "examples": []
+            },
+            {
+                "definition_fr": "recevoir ; héberger",
+                "definition_en": "receive; put up",
+                "examples": []
+            },
+            {
+                "definition_fr": "apprivoiser de temps en temps",
+                "definition_en": "tame from time to time",
+                "examples": []
+            },
+            {
+                "definition_fr": "recevoir de temps en temps ; héberger de temps en temps",
+                "definition_en": "receive from time to time; host from time to time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkúe",
+        "pronounciation": "ŋ̩́kúé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "harceler ; acculer",
+                "definition_en": "harry; harras; drive back",
+                "examples": [
+                    {
+                        "dialect": "Te lɔgɔ shwóŋò ńkúe wɔ́ɔn.",
+                        "fr": "Ne m’harcèle pas avec les paroles.",
+                        "en": "Don't harass me with the words."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkùm",
+        "pronounciation": "ŋ̩̀kȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moule ; cercueil",
+                "definition_en": "tin; coffin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkum",
+        "pronounciation": "ŋ̩́kùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se durcir ; s’endurcir",
+                "definition_en": "harden oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "voir personnellement",
+                "definition_en": "see personally",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger avec parcimonie (sauce)",
+                "definition_en": "eat sparingly (sauce)",
+                "examples": []
+            },
+            {
+                "definition_fr": "atteindre en attaquant",
+                "definition_en": "reach by attacking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkunjʉ̀njÿò",
+        "pronounciation": "ŋ̩̀kùndʒɯ̏ndʒʃɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "purple princess",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùnkùb",
+        "pronounciation": "ɲkȕɲkȕp",
+        "synonym": [
+            "kotôŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coton",
+                "definition_en": "cotton",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùnkùm",
+        "pronounciation": "ŋ̩̀kȕŋkȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fonio",
+                "definition_en": "fonio",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùnkùʼ",
+        "pronounciation": "ŋ̩̀kȕŋkȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canne à sucre",
+                "definition_en": "sugarcane",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkunkwɔɔn",
+        "pronounciation": "ŋ̩̀kùŋkwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seconde",
+                "definition_en": "second",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùɔ",
+        "pronounciation": "ŋ̩̀kùɔ̏",
+        "synonym": [
+            "nkùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plantoir local en bambou",
+                "definition_en": "local bamboo dibble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùɔ",
+        "pronounciation": "ŋ̟̀kùɔ̏",
+        "synonym": [
+            "nkùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racleur",
+                "definition_en": "scraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǔɔ",
+        "pronounciation": "ŋ̩̀kùɔ́",
+        "synonym": [
+            "nkǔa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cagoule",
+                "definition_en": "hood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkuɔ",
+        "pronounciation": "ŋ̩́kùɔ̀",
+        "synonym": [
+            "ńkua",
+            " ńkua mbù",
+            " ńkuate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racler",
+                "definition_en": "scrape",
+                "examples": []
+            },
+            {
+                "definition_fr": "glousser",
+                "definition_en": "chuckle; cluck",
+                "examples": []
+            },
+            {
+                "definition_fr": "discorder ; entretenir un sentiment de haine",
+                "definition_en": "discord; maintain a feeling of hatred",
+                "examples": []
+            },
+            {
+                "definition_fr": "racler ; gratter",
+                "definition_en": "scrape; scratch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùte",
+        "pronounciation": "ŋ̩̀kùtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac",
+                "definition_en": "k. sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùte",
+        "pronounciation": "ŋ̩̀kùtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incitateur",
+                "definition_en": "one who starts a fight",
+                "examples": [
+                    {
+                        "dialect": "Nkùte melàʼ cʉa tàga.",
+                        "fr": "L’incitateur de la lutte dépasse le lutteur.",
+                        "en": "The instigator of the fight goes beyond the wrestler."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkute",
+        "pronounciation": "ŋ̩́kùtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "susciter ; exciter",
+                "definition_en": "arouse; stimulate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùte melàʼ",
+        "pronounciation": "ŋ̩̀kùtȅ mèlȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "activeur ; promoteur",
+                "definition_en": "promoter; mover and shaker",
+                "examples": []
+            }
+        ]
+    }
+]

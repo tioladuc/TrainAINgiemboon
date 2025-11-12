@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "messed up, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "messenger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ntúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "messily, handle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkubte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkubte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mess up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meŋwʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metal bell, double",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metal dibble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně panzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metallic sponge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùsáa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metal, sheet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̂ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metamorphose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metatarsus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛʼɛ kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meticulously",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcwoŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿó nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mítà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metric system",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼʉ mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "micro",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "microphone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "middle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋo ffo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "soŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "soŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "middle-class",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔlàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔndàbnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "middle of the skull",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "midge (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ nzeennzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "midnight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛtsẅɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tẅɛ̂b lêtsẅɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "midwife",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánkẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "migrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿo láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mike",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ ncwò",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "noun": "kéyàʼ",
+        "pronounciation": "kéjȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chant de danse héroïque",
+                "definition_en": "song from a heroic dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɛ̂",
+        "pronounciation": "kɛ̂",
+        "synonym": [
+            "kee"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quoi",
+                "definition_en": "what",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔ̌ɔn né mèŋ ńgie kɛ̂?",
+                        "fr": "Tu m’as dit que quoi ?",
+                        "en": "What did you tell me?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kí",
+        "pronounciation": "kí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clé ; clef ; cadenas",
+                "definition_en": "key; padlock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kì",
+        "pronounciation": "kȉ",
+        "synonym": [
+            "kab"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porcherie",
+                "definition_en": "pigsty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kìb",
+        "pronounciation": "kȉp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une chose qui se place sans annonce",
+                "definition_en": "sound of something moving without giving notice",
+                "examples": [
+                    {
+                        "dialect": "Á kyɛ́, ńtyé mvfò mèŋ lê kìb.",
+                        "fr": "Il saute pour se placer devant moi que « kìb ».",
+                        "en": "He jumps to stand in front of me as “kìb”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kìb",
+        "pronounciation": "kȉp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quartier de viande",
+                "definition_en": "quarter of beef",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kíbà",
+        "pronounciation": "kíbȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "butin",
+                "definition_en": "booty; spoils",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kîɛ",
+        "pronounciation": "kíɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par un tissu qui déchire",
+                "definition_en": "sound of cloth ripping",
+                "examples": [
+                    {
+                        "dialect": "À shʉ̌a sànzà á gÿo lê kîɛ.",
+                        "fr": "Il a déchiré le pagne et ça a fait « kîɛ ».",
+                        "en": "He tore the loincloth and it went “kîɛ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kíi nnáʼ",
+        "pronounciation": "kíː ń̩náʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "sp. fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kíkí màwàʼ",
+        "pronounciation": "kíkí mȁwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souris rayée",
+                "definition_en": "zebra mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kikíi melùʼ",
+        "pronounciation": "kìkíí mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais vin",
+                "definition_en": "bad wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kíkim",
+        "pronounciation": "kíkìm",
+        "synonym": [
+            "kim"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égoïste",
+                "definition_en": "egoist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kíkyé",
+        "pronounciation": "kíkxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "os spongieux, surtout de côtelette",
+                "definition_en": "spongy bone, especially chops",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kíkyè",
+        "pronounciation": "kíkxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.indéf.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "telle chose",
+                "definition_en": "one of something",
+                "examples": [
+                    {
+                        "dialect": "N dǔɔ pɔ́ mmó, n kaa gɔɔn ngie ɔ̀ náa mmó kíkyè wɔ́.",
+                        "fr": "J’ai seulement demandé, je n’ai pas dit de me donner une telle chose.",
+                        "en": "I only asked, I didn't say to give me such a thing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kíkyɛ́d",
+        "pronounciation": "kíkjɛ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.rédup",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sessile",
+                "definition_en": "sessile joyweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kílòmità",
+        "pronounciation": "kílȍmìtȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "kilomètre",
+                "definition_en": "kilometre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kim",
+        "pronounciation": "kìm",
+        "synonym": [
+            "kíkim"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égoïste",
+                "definition_en": "egoist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kìm",
+        "pronounciation": "kȉm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quartier de viande ; part d’un partage",
+                "definition_en": "piece of meat; part of a dividing up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kìm ntse ntsẅɛ̀ʼɛ",
+        "pronounciation": "kȉm ǹ̩tsè ǹ̩tsɥɛ̀ʔɛ̏",
+        "synonym": [
+            "tatÿɔ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bulbul des jardins",
+                "definition_en": "common bulbul",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kímoonmbî",
+        "pronounciation": "kímõ̀mbî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soldat aux joues balafrées",
+                "definition_en": "soldier with scarred cheeks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kînáʼ",
+        "pronounciation": "kînáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cerise pithaya",
+                "definition_en": "pithaya cherry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǐŋ",
+        "pronounciation": "kĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stérilité",
+                "definition_en": "infertility; barrenness",
+                "examples": [
+                    {
+                        "dialect": "Ekǐŋ ée guɔ.",
+                        "fr": "La stérilité est une maladie.",
+                        "en": "Infertility is a disease."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kíshʉ",
+        "pronounciation": "kíʃɯ̀",
+        "synonym": [
+            "késhʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kòon",
+        "pronounciation": "kõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "falaise",
+                "definition_en": "cliff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kotôŋ",
+        "pronounciation": "kòtõ̂ŋ",
+        "synonym": [
+            "nkùnkùb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coton",
+                "definition_en": "cotton",
+                "examples": []
+            }
+        ]
+    }
+]

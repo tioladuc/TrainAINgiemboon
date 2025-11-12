@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "gain, ill gotten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèm lemʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gain nothing, I",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ yɔ́ɔn áa mǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gain weight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gait",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megiŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gait, improper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼ kwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "galago, Senegal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gallery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kábte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lemù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gallery, official",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ nkyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gallinacean (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ mvòm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gallon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkendɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gallop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kètsɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gamble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, card",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, goodbye",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, k. child’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ̀b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, k. pastime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́ɔn mbÿé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, k. woman’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, nuts",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game of chance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njámbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game of hide-and-seek",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánkɔ̌ɔn nkàndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game, pastime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém ntɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "games",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "game to be able to eat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gandoura",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "soŋ",
+        "pronounciation": "sõ̀ŋ",
+        "synonym": [
+            "soŋo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "milieu ; centre",
+                "definition_en": "middle; centre",
+                "examples": [
+                    {
+                        "dialect": "Esoŋ mbelég tyé tyě.",
+                        "fr": "Le milieu du pain est vide.",
+                        "en": "The middle of the bread is empty."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "au milieu de",
+                "definition_en": "in the centre of",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sóŋ",
+        "pronounciation": "sṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buse",
+                "definition_en": "flume",
+                "examples": [
+                    {
+                        "dialect": "Atsìtsyɛ shǔ tsɛ̀ɛ soŋ.",
+                        "fr": "Le torrent est passé dans la buse.",
+                        "en": "The torrent passed through the culvert."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sòŋ",
+        "pronounciation": "sõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vol (magique, mystique)",
+                "definition_en": "theft (magical, mystical)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sòŋ ndù",
+        "pronounciation": "sõ̏ŋ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "milieu du crâne",
+                "definition_en": "middle of the skull",
+                "examples": []
+            },
+            {
+                "definition_fr": "cuir chevelue",
+                "definition_en": "scalp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sòŋ nkàʼ",
+        "pronounciation": "sõ̏ŋ ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "médian dorsale",
+                "definition_en": "medial dorsal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sòŋ ntsíŋ",
+        "pronounciation": "sõ̏ŋ ǹ̩tsĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sud ; centre-sud",
+                "definition_en": "South; South central",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "soŋo",
+        "pronounciation": "sõ̀ŋò",
+        "synonym": [
+            "soŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "milieu ; centre",
+                "definition_en": "middle; centre",
+                "examples": []
+            },
+            {
+                "definition_fr": "au milieu de",
+                "definition_en": "in the centre of",
+                "examples": [
+                    {
+                        "dialect": "Pi fó soŋo tetʉ́a, ńkÿo.",
+                        "fr": "Quittez au milieu de la cour.",
+                        "en": "Leave in the middle of the yard."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sòŋo",
+        "pronounciation": "sõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pointu",
+                "definition_en": "pointed",
+                "examples": [
+                    {
+                        "dialect": "Aa sòŋo mezẅé.",
+                        "fr": "Il a le nez pointu.",
+                        "en": "He has a pointy nose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sòŋo ńcʉ́me",
+        "pronounciation": "sõ̀ŋȍ ń̩tʃɯ́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. banane",
+                "definition_en": "sp. banana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sòŋo ncwò cʉ̀cʉ̀a",
+        "pronounciation": "sõ̀ŋȍ ǹ̩tʃːwȍ tʃɯ̏tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. musaraigne",
+                "definition_en": "sp. shrew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sòŋo zǐ",
+        "pronounciation": "sõ̀ŋȍ zǐ",
+        "synonym": [
+            "kʉ́be zǐ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui a un front ressorti",
+                "definition_en": "someone with a jutting forehead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sóon",
+        "pronounciation": "sṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "méchanceté",
+                "definition_en": "nastiness",
+                "examples": [
+                    {
+                        "dialect": "Esóon te poŋ.",
+                        "fr": "La méchanceté n’est pas bien.",
+                        "en": "Meanness is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sóon",
+        "pronounciation": "sṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mensonge",
+                "definition_en": "lie",
+                "examples": []
+            },
+            {
+                "definition_fr": "opprobre",
+                "definition_en": "disgrace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sosí",
+        "pronounciation": "sòsí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saucisson",
+                "definition_en": "sausage; salami",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sossò",
+        "pronounciation": "sòsːȍ",
+        "synonym": [
+            "sessò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pet",
+                "definition_en": "fart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sózà",
+        "pronounciation": "sózȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soldat",
+                "definition_en": "soldier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̌",
+        "pronounciation": "sɔ̌",
+        "synonym": [
+            "sǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scie",
+                "definition_en": "saw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́b",
+        "pronounciation": "sɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le leur (pron. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 5) ; les leurs (pron. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 8)",
+                "definition_en": "his; theirs (3rd person plural possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 5) ; leurs (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 8)",
+                "definition_en": "his; their (3rd person plural possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 5) ; leurs  (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 8)",
+                "definition_en": "his; their (3rd person plural emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀b",
+        "pronounciation": "sɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poivre",
+                "definition_en": "pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀b ndɔɔn",
+        "pronounciation": "sɔ̏p ǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arachide",
+                "definition_en": "sp. groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̌b siŋ",
+        "pronounciation": "sɔ̌p̚ sĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moyens pour un travail",
+                "definition_en": "means needed for a job",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀bɔ",
+        "pronounciation": "sɔ̀βɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aîné d’une grande famille",
+                "definition_en": "oldest child of large family",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀bɔ",
+        "pronounciation": "sɔ̀βɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assassin",
+                "definition_en": "assassin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀bɔ mbyɛ́ʼte",
+        "pronounciation": "sɔ̀βɔ̏ m̩̀bjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crochet pour tisser la natte",
+                "definition_en": "hook for weaving a mat",
+                "examples": []
+            },
+            {
+                "definition_fr": "agrafe",
+                "definition_en": "staple",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀bɔ ŋwɛ̂ mmó",
+        "pronounciation": "sɔ̀βɔ̏ ŋwɛ̂ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "usurpateur",
+                "definition_en": "usurper",
+                "examples": []
+            }
+        ]
+    }
+]

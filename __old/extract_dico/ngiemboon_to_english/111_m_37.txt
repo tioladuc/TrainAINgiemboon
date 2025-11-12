@@ -1,0 +1,408 @@
+[
+    {
+        "noun": "ḿpfɛte",
+        "pronounciation": "ɱ̩́pfɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verser",
+                "definition_en": "pour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀te mennáʼ",
+        "pronounciation": "ɱ̩̀pfɛ̀tȅ mènnáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble-fête",
+                "definition_en": "spoilsport",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀te mennáʼ",
+        "pronounciation": "ɱ̩̀pfɛ̀tȅ mènnáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verseur de sauce",
+                "definition_en": "sauce dispenser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfó",
+        "pronounciation": "ɱ̩̀pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mort",
+                "definition_en": "death",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfò",
+        "pronounciation": "ɱ̩̀pfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuilleton ; épisode",
+                "definition_en": "serial; episode",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfo",
+        "pronounciation": "ɱ̩́pfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gronder (ciel)",
+                "definition_en": "rumble (sky)",
+                "examples": []
+            },
+            {
+                "definition_fr": "produire un son grave",
+                "definition_en": "make a low-pitched sound",
+                "examples": []
+            },
+            {
+                "definition_fr": "grogner",
+                "definition_en": "growl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfó",
+        "pronounciation": "ɱ̩́pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer",
+                "definition_en": "pass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfom",
+        "pronounciation": "ɱ̩́pfɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouetter",
+                "definition_en": "whip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfóŋte",
+        "pronounciation": "ɱ̩́pfṍŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diminuer ; amoindrir",
+                "definition_en": "diminish; reduce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɔ́g",
+        "pronounciation": "ɱ̩̀pfɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup ; tir",
+                "definition_en": "blow; hit; shot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɔ̌g",
+        "pronounciation": "ɱ̩̀pfɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veuf ; veuve",
+                "definition_en": "widow; widower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfɔ́gte",
+        "pronounciation": "ɱ̩́pfɔ́qté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "atténuer ; réduire ; amoindrir",
+                "definition_en": "alleviate; reduce; lessen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfʉ̀",
+        "pronounciation": "ɱ̩̀pfɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sauce gluante",
+                "definition_en": "k. sticky sauce",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. plante dont on extrait une sauce gluante",
+                "definition_en": "diamond burbank; plant where one extracts a sticky sauce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfʉ̀ kwɔb",
+        "pronounciation": "ɱ̩̀pfɯ̏ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. jute",
+                "definition_en": "sp. jute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfʉ̀mpfʉ̀",
+        "pronounciation": "ɱ̩̀pfɯ̏ɱpfɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "innocent",
+                "definition_en": "innocent person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfwɔ̀ʼ",
+        "pronounciation": "ɱ̩̀pfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concubinage ; fornication",
+                "definition_en": "concubinage; cohabitation; fornication",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfwɔʼɔ",
+        "pronounciation": "ɱ̩́pfwɔ̀ʔɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commettre l’adultère ; prostituer",
+                "definition_en": "commit adultery; make someone become a prostitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfwɔʼɔ",
+        "pronounciation": "ɱ̩́pfwɔ̀ʔɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émietter",
+                "definition_en": "crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mu",
+        "pronounciation": "mù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concession du chef de quartier",
+                "definition_en": "neighbourhood chief’s plot (land)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mú",
+        "pronounciation": "mú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les tiens (pron. poss. de la 2e personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À ně ńnyé melÿɔʼ mé, ńtúŋ mú.",
+                        "fr": "Il a laissé ses ignames pour déterrer les tiens.",
+                        "en": "He left his yams to dig up yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tes (adj. poss. de la 2e personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your (second person singular possessive adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Nyé melÿɔʼ mú.",
+                        "fr": "Laisse tes ignames.",
+                        "en": "Leave your yams."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tes (adj. poss. emph. de la 2e personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Emú melÿɔʼ gyɔ́ɔn.",
+                        "fr": "Tes ignames sont beaucoup.",
+                        "en": "Your yams are a lot."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pour toi (pron. poss. objet de la 2e personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "for you (second person singular possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mù",
+        "pronounciation": "mȕ",
+        "synonym": [
+            "fʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« singleton » (lamelle unique pour que le tissage d’un panier soit alterné)",
+                "definition_en": "\"bachelor\" (a unique vertical strip that results in an alternating weave when weaving a basket)",
+                "examples": [
+                    {
+                        "dialect": "Mé těen ḿbáʼa túŋ té kẅiʼi mù mǒ wɔ́.",
+                        "fr": "On ne tisse pas un panier sans introduire un singleton.",
+                        "en": "You don't weave a basket without introducing a singleton."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "múɔ",
+        "pronounciation": "múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant",
+                "definition_en": "child",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ fòŋ",
+        "pronounciation": "múɔ́ fõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veau",
+                "definition_en": "calf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ gag",
+        "pronounciation": "múɔ́ ɣàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canine (dent)",
+                "definition_en": "canine (tooth)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ láʼ",
+        "pronounciation": "múɔ́ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant du terroir",
+                "definition_en": "home-grown child",
+                "examples": []
+            }
+        ]
+    }
+]

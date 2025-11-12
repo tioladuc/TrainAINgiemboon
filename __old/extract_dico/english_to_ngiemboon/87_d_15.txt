@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "doing, feel like",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doing, stay without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋe lecwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do it openly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉashʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dominance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "domination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "donor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nàa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "don’t know, I",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "óon gòʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "door",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "door front",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "door, knock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwáʼ kwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dormitory",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dorsal, medial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dose up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do, slowly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "double",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "double-spurred francolin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ŋ ngẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doubt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doubt, cry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doubter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa tsìʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doubt, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "moon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dough, separate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńníagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dove (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb mánzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do with determination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "down below",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋɔɔn",
+                "examples": []
+            }
+        ]
+    }
+]

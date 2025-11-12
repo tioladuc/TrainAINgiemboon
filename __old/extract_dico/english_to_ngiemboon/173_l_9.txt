@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "liquid, mix",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtábte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liquid, pour out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liquid soap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀gɔ ntsentse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "list",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼne mezíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "listen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "listener",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njùʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "litany",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kélɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "litigation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesẅɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "little",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kékɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mentsɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "little active, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "live",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ wó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "live somewhere",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzso",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lizard, agama",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lizard, ornate monitor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnú mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "load",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "load by squeezing in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "loader onto the back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "paa nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "load, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "bîb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "load too much",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "load untidily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "loan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lobe, ear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́ʼ letuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "localize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    }
+]

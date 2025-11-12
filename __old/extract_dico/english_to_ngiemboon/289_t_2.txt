@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "tall, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tamarind fruit, velvet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿě ngem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tamarind tree, velvet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngemé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tamer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tapeworm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngingi mágsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tarantula",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwè mpfwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "target",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅɛ̌ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mmó ndʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tarmac",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùntâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro, bad part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro, grated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro, large volume",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro leaf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letèkǔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letòkǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro, serve oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taro tuber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "task",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pambè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tasks, have scattered",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tassleflower, yellow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwè méshʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ mefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taste a dish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tasteless, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaga tsẅaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taste, one who loses",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyága gyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅìʼi",
+                "examples": []
+            }
+        ]
+    }
+]

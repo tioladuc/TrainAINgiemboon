@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "la",
+        "pronounciation": "là",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé loin (P4)",
+                "definition_en": "distant past (P4)",
+                "examples": [
+                    {
+                        "dialect": "À la lʉ́ʼ tá mèŋ n gʉa.",
+                        "fr": "Il a refusé (loin) avant mon départ.",
+                        "en": "He refused (far) before I left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lá",
+        "pronounciation": "lá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "int",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la surprise)",
+                "definition_en": "(shows surprise)",
+                "examples": [
+                    {
+                        "dialect": "À kwǎʼ ńtó lá!",
+                        "fr": "Est-il vraiment venu !",
+                        "en": "Did he really come!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "là",
+        "pronounciation": "lȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lien ; liaison",
+                "definition_en": "tie; link; connection",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lâ",
+        "pronounciation": "lâ",
+        "synonym": [
+            "pâ ",
+            " lé ",
+            " né"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et ; avec",
+                "definition_en": "and; with",
+                "examples": [
+                    {
+                        "dialect": "Kaa yɔɔn lâ gi.",
+                        "fr": "Porte ceci et cela !",
+                        "en": "Wear this and that!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lǎ",
+        "pronounciation": "lǎ",
+        "synonym": [
+            "ndǎ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir déjà ; être déjà",
+                "definition_en": "already",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lǎ tóo jʉʼɔɔn.",
+                        "fr": "Tu as été déjà ici.",
+                        "en": "You've been here before."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lǎ",
+        "pronounciation": "lǎ",
+        "synonym": [
+            "ndǎ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(aspect itératif dans le passé)",
+                "definition_en": "(iterative aspect in the past)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dǎ táŋa létó tɛʼ.",
+                        "fr": "J’ai maintes fois pensé venir.",
+                        "en": "I have thought about coming many times."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "la láʼ",
+        "pronounciation": "là láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé lointain (P5)",
+                "definition_en": "distant past (P5)",
+                "examples": [
+                    {
+                        "dialect": "À la láʼ ńdʉ́ʼ tá mèŋ n gʉa.",
+                        "fr": "Il a refusé (lointain) avant mon départ.",
+                        "en": "He refused (distantly) before I left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "laa",
+        "pronounciation": "làː",
+        "synonym": [
+            "ndaa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... jamais",
+                "definition_en": "never",
+                "examples": [
+                    {
+                        "dialect": "À laa túm ntse wɔ́.",
+                        "fr": "Il n’a jamais voyagé.",
+                        "en": "He never traveled."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "láa",
+        "pronounciation": "láː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien (coute cet article) ?",
+                "definition_en": "how much (does that article cost)?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ sẅiŋe nkandi láa?",
+                        "fr": "Combien vends-tu la banane ?",
+                        "en": "How much do you sell bananas?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "làa",
+        "pronounciation": "lȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comparaison",
+                "definition_en": "comparison",
+                "examples": []
+            },
+            {
+                "definition_fr": "comparable ; mesurable ; pareil",
+                "definition_en": "comparable; measurable; similar",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn áa nò té làa.",
+                        "fr": "Ceci est une affaire sans pareil.",
+                        "en": "This is a deal like no other."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "laale",
+        "pronounciation": "làːlè",
+        "synonym": [
+            "màmbú mbÿàg pÿág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grenadine ; fruit de la passion",
+                "definition_en": "grenadine; passion fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lǎg",
+        "pronounciation": "lǎq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tache ; cicatrice",
+                "definition_en": "spot; scar",
+                "examples": []
+            },
+            {
+                "definition_fr": "flaque ; marre",
+                "definition_en": "puddle; marsh; swamp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lagá",
+        "pronounciation": "làʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aucun ; rien",
+                "definition_en": "none; nothing",
+                "examples": [
+                    {
+                        "dialect": "Alagá tàʼ ndólà té pɔ̀ɔn mèŋ wɔ́.",
+                        "fr": "Il n’y a aucune pièce de monnaie dans ma poche.",
+                        "en": "There are no coins in my pocket."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lagá fʉŋ",
+        "pronounciation": "làʁá fɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cicatrice",
+                "definition_en": "scar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làkùb",
+        "pronounciation": "lȁkȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hyène tachetée",
+                "definition_en": "spotted hyena",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lâm",
+        "pronounciation": "lâm",
+        "synonym": [
+            "nkàʼ ",
+            " túlékáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lampe ; torche",
+                "definition_en": "lamp; flare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lámáasè",
+        "pronounciation": "lámáːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orange",
+                "definition_en": "orange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làmbì",
+        "pronounciation": "lȁmbȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tambour-sablier",
+                "definition_en": "hourglass drum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làméndɔ̀ɔn",
+        "pronounciation": "lȁméndɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parfum",
+                "definition_en": "perfume; scent; aroma; flavour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lánzì",
+        "pronounciation": "lándzì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bateau",
+                "definition_en": "boat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làŋ",
+        "pronounciation": "lã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aphis de haricot noir",
+                "definition_en": "black bean aphid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lǎŋ",
+        "pronounciation": "lã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "route",
+                "definition_en": "road",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làŋa",
+        "pronounciation": "lã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "surface",
+                "definition_en": "surface",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làŋa",
+        "pronounciation": "lã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tableau",
+                "definition_en": "painting; picture",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lápà",
+        "pronounciation": "lápȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fronde",
+                "definition_en": "sling; slingshot",
+                "examples": []
+            }
+        ]
+    }
+]

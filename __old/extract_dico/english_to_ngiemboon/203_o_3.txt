@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "old person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "olive baboon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìndàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "na",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "on, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yémɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mákìkyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sélémɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mmɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wémɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mákyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "one another",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pi né pi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "one, choose only",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "one-eyed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyè lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "one of something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kíkyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "onion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɔ́ɔnsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "only",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "only at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼ páʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "only just",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ményaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "on top of the bed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ooze",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open greatly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open, half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "opening",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "openly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉashʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿéshÿe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "openly, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿéeshÿée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "openly, do it",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉashʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open-mouthed, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋa le nkwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "open one’s mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼ",
+                "examples": []
+            }
+        ]
+    }
+]

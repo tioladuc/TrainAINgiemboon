@@ -1,0 +1,540 @@
+[
+    {
+        "noun": "wa",
+        "pronounciation": "wà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ce ... -là (adj. dém. qui modifie les noms des classes 1 et 3 ; cette chose est connue mais peut-être éloignée de la vue, dans le temps, dans l’espace.)",
+                "definition_en": "that ... there; (demonstrative adjective modifying class 1 or 3 nouns; the thing is known but might be far away as for sight, time or space)",
+                "examples": [
+                    {
+                        "dialect": "Mafùɔ kaa nyìŋ wa gyá.",
+                        "fr": "Mafouo n’a pas vu cette personne-là.",
+                        "en": "Mafouo did not see this person."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wáa",
+        "pronounciation": "wáː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "int",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’étonnement)",
+                "definition_en": "(showing surprise)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gyǎ yé wáa!",
+                        "fr": "Tu l’as vu, n’est-ce pas ?",
+                        "en": "You saw it, didn't you?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wáasè",
+        "pronounciation": "wáːsȅ",
+        "synonym": [
+            "gyà njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "montre",
+                "definition_en": "watch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "we",
+        "pronounciation": "wè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le sien (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 1)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n kilé mêngáb wɔ̀ɔn, à kíle we.",
+                        "fr": "J’ai apprivoisé ma poule, qu’il apprivoise la sienne.",
+                        "en": "I tamed my chicken, let him tame his."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "his (third person singular possessive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "we",
+        "pronounciation": "wè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.poss",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui de (pron. poss. qui renvoie aux noms des classes 1 et 3)",
+                "definition_en": "that of (possessive pronoun referring back to class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mêngáb Fǒpaʼ pɔ́ we Nkʉŋne kẅɛ̌.",
+                        "fr": "La poule de Fopa et celle de Kenne est sortie.",
+                        "en": "Fopa's hen and Kenne's hen are out."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wé",
+        "pronounciation": "wé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le sien (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 3)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "his (third person singular possessive adjective modifying class 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À jǔ nkáʼ wé.",
+                        "fr": "Il a acheté son champ.",
+                        "en": "He bought his field."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "son (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weféfɔ́gɔ",
+        "pronounciation": "wèféfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc (qualifie les noms des classes 1 et 3)",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weg",
+        "pronounciation": "wə̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 1)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mé tǒo ńgwoon mekúnɔ̀ɔn, aweg kwɛ.",
+                        "fr": "En arrêtant les porcs, le nôtre est sorti.",
+                        "en": "Stopping the pigs, ours came out."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 1)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 1)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wég",
+        "pronounciation": "wə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nous (pron. obj. de la 1ère personne du pluriel exclusif)",
+                "definition_en": "us (first person plural exclusive object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "À zɛ́te wég.",
+                        "fr": "Il nous demande.",
+                        "en": "He asks us."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wég",
+        "pronounciation": "wə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 3)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ nkẅíŋ, n ge lúɔ wég.",
+                        "fr": "J’ai vu le bois, je vais demander le nôtre.",
+                        "en": "I saw the wood, I'll ask for ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 3)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 3)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wege",
+        "pronounciation": "wə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 1)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À lɔɔn ńgwoon mêngwé we, á nyé wege.",
+                        "fr": "S’il arrête son chien, il laisse le nôtre.",
+                        "en": "If he stops his dog, he leaves ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 1)",
+                "definition_en": "our (first person plural inclusive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 1)",
+                "definition_en": "our (first person plural inclusive emphatic adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wégè",
+        "pronounciation": "wə́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre et le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 3)",
+                "definition_en": "yours and ours (first person plural inclusive possessive pronoun referring back to class 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ jʉ̌ nkẅíŋ, pɔ́ té wégè jʉ.",
+                        "fr": "Ils ont volé le bois, ils n’ont pas volé le nôtre.",
+                        "en": "They stole the wood, they didn't steal ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 3)",
+                "definition_en": "your and our (first person plural inclusive possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 3)",
+                "definition_en": "your and our (first person plural emphatic inclusive possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wekʉ",
+        "pronounciation": "wèkɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit (qualifie les noms des classes 1 et 3)",
+                "definition_en": "small; little (qualifies class 1 and 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "welʉ̌",
+        "pronounciation": "ɯèɭɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourri (qualifie les noms des classes 1 et 3)",
+                "definition_en": "rotten (qualifying class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À pfɛ̌ɛ mákàba welʉ̌.",
+                        "fr": "Il a mangé le macabo pourri.",
+                        "en": "He ate the rotten macabo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "welÿò",
+        "pronounciation": "wèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand (qualifie les noms des classes 1 et 3)",
+                "definition_en": "great (modifies class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n kaa gyǎ mêngáb welÿò wɔ́.",
+                        "fr": "Je n’ai pas vu la grande poule.",
+                        "en": "I didn't see the big hen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wembǐ",
+        "pronounciation": "wèmbǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prenable (qualifie les noms des classes 1 et 3)",
+                "definition_en": "available (qualifies class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Cʉ̀cʉ̀a wɛ̂, aa wembǐ.",
+                        "fr": "Cette souris-là est prenable.",
+                        "en": "This mouse is catchable."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wembòŋo",
+        "pronounciation": "wèmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meilleurs (modifiant les noms des classes 1 et 3)",
+                "definition_en": "better (modifying nouns from classes 1 and 3)",
+                "examples": [
+                    {
+                        "dialect": "Líe kúnɔ̀ɔn wembòŋo, ńná né mèŋ.",
+                        "fr": "Regarde le meilleur porc pour me donner.",
+                        "en": "Look at the best pork to give me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wembÿag",
+        "pronounciation": "wèmbɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru (qualifie les noms des classes 1 et 3)",
+                "definition_en": "raw; uncooked (qualifying nouns from classes 1 and 3)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wémɔʼɔ́",
+        "pronounciation": "wémɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un ; une (modifiant les noms des classes 1 et 3)",
+                "definition_en": "one",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gẅiin nkáʼ wémɔʼɔ́.",
+                        "fr": "J’ai un champ.",
+                        "en": "I have a field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wendyɛ̀ʼɛ",
+        "pronounciation": "wèndjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autre ; certain (modifiant les noms des classes 1 et 3)",
+                "definition_en": "other; certain",
+                "examples": [
+                    {
+                        "dialect": "N kaŋá mêngáb, á náa wendyɛ̀ʼɛ né mèŋ.",
+                        "fr": "J’ai choisi la poule, il m’a plutôt donné une autre.",
+                        "en": "I chose the chicken, he gave me another one instead."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wenzẅìŋ",
+        "pronounciation": "wèndzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieil (qualifie les noms des classes 1 et 3)",
+                "definition_en": "old (qualifies class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Peg ge jú nkáʼ sẅé lɔg kúbe wenzẅìŋ.",
+                        "fr": "Nous allons acheter un nouveau champ, pour remplacer l’ancien.",
+                        "en": "We are going to buy a new field, to replace the old one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "weséssé",
+        "pronounciation": "ɯèsésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noir (qualifie les noms des classes 1 et 3)",
+                "definition_en": "black (modifies class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin mêngáb weséssé.",
+                        "fr": "Il a la poule noire.",
+                        "en": "He has the black hen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wéshÿɔ́ʼɔ",
+        "pronounciation": "wéʃɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien de ... ?",
+                "definition_en": "how many ...?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ sǎŋ tà ńkúu na wéshÿɔ́ʼɔ?",
+                        "fr": "Tu as compté jusqu’à combien ?",
+                        "en": "How many did you count?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wesẅé",
+        "pronounciation": "wèsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouveau ; neuf (qualifie les noms des classes 1 et 3)",
+                "definition_en": "new (modifies class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Kwáŋ gẅie à jǔ aa wesẅé.",
+                        "fr": "Le vélo qu’il a acheté est neuf.",
+                        "en": "The bike he bought is new."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wetsɔ́",
+        "pronounciation": "wètsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autre ; certain (modifiant les noms de la classe 3)",
+                "definition_en": "other; certain",
+                "examples": [
+                    {
+                        "dialect": "Wɔɔn nkáʼ kɔ́g ńcʉa wetsɔ́.",
+                        "fr": "Ce champ est plus petit que l’autre.",
+                        "en": "This field is smaller than the other."
+                    }
+                ]
+            }
+        ]
+    }
+]

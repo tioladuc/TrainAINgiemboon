@@ -1,0 +1,389 @@
+[
+    {
+        "noun": "fɔ́gɔ̀ lejÿɔ́g",
+        "pronounciation": "fɔ́ʁɔ̏ lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc de l’œil",
+                "definition_en": "white of the eye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ́gɔ̀ ncùm",
+        "pronounciation": "fɔ́ʁɔ̏ ǹ̩tʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pique-bœuf à bec jaune",
+                "definition_en": "yellow-billed oxpecker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ́gɔ̀ shʉ̀shʉ̀",
+        "pronounciation": "fɔ́ʁɔ̏ ʃɯ̏ʃɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. mangouste",
+                "definition_en": "sp. mongoose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̀ɔn",
+        "pronounciation": "fɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pompeur",
+                "definition_en": "pumper",
+                "examples": [
+                    {
+                        "dialect": "Tà ɔ̀ jǔ ffo kàafée péʼe tà ɔ̀ gyǎ fɔ̀ɔn?",
+                        "fr": "Comme tu as acheté le produit pour le caféier-là, est-ce que tu as vu le pompeur ?",
+                        "en": "Since you bought the product for the coffee tree, have you seen the pump?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̌ɔn",
+        "pronounciation": "fɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coin pour faciliter la fente du bois",
+                "definition_en": "log splitting wedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fù",
+        "pronounciation": "fȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêt ; crédit",
+                "definition_en": "loan; credit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùb",
+        "pronounciation": "fȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un instrument enfoncé dans un corps mou",
+                "definition_en": "sound of an instrument buried in a moist body",
+                "examples": [
+                    {
+                        "dialect": "À sɔbɔ́ pùʼ na kalém lê fùb.",
+                        "fr": "Il a enfoncé le couteau dans le melon que « fub ».",
+                        "en": "He stuck the knife into the melon that “fub”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fùbe",
+        "pronounciation": "fùβȅ",
+        "synonym": [
+            "fòbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ordure",
+                "definition_en": "filth",
+                "examples": []
+            },
+            {
+                "definition_fr": "pellicule",
+                "definition_en": "film",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùfùʼ",
+        "pronounciation": "fȕfȕʔ",
+        "synonym": [
+            "fèfùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mousse",
+                "definition_en": "foam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Fúmbɔ̀d",
+        "pronounciation": "fúmbɔ̏t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Foumbot",
+                "definition_en": "Foumbot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fúɔ",
+        "pronounciation": "fúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pou",
+                "definition_en": "louse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔ",
+        "pronounciation": "fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "roi ; chef",
+                "definition_en": "king; chief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔ má ntsɔ̀ʼ",
+        "pronounciation": "fùɔ̏ má ǹ̩tsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "responsable",
+                "definition_en": "person responsible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fúɔ nkèsàŋ",
+        "pronounciation": "fúɔ́ ǹ̩kȅsã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puce",
+                "definition_en": "flea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔ ntsɔ́ɔn",
+        "pronounciation": "fùɔ̏ ǹ̩tsɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "roi de la pitié ; compatissant",
+                "definition_en": "pity king; sympathetic; compassionate; soft-hearted",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔ tsìŋe ndá",
+        "pronounciation": "fùɔ̏ tsĩ̀ŋȅ ǹdá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chef de famille",
+                "definition_en": "family head",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔ tÿǒsoŋ",
+        "pronounciation": "fùɔ̏ ʈθɰǒsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maire",
+                "definition_en": "mayor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔlàb",
+        "pronounciation": "fùɔ̏lȁp̚",
+        "synonym": [
+            "fùɔndàbnɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourgeois",
+                "definition_en": "middle-class",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùɔndàbnɛ́",
+        "pronounciation": "fùɔ̏ndȁbnɛ́",
+        "synonym": [
+            "fùɔlàb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourgeois",
+                "definition_en": "middle-class",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Fùɔtɔ̀ʼ",
+        "pronounciation": "fùɔ̏tɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Foto",
+                "definition_en": "Foto",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùu",
+        "pronounciation": "fȕː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "créancier ; débiteur",
+                "definition_en": "creditor; debtor",
+                "examples": [
+                    {
+                        "dialect": "Nkáb yɔɔn, afùu gwɔ́ nzɔ̌?",
+                        "fr": "Voici de l’argent, ou est le créancier ?",
+                        "en": "Here is some money, where is the creditor?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fùu",
+        "pronounciation": "fȕː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêt",
+                "definition_en": "loan",
+                "examples": [
+                    {
+                        "dialect": "Afùu té poŋ.",
+                        "fr": "Le prêt n’est pas bien.",
+                        "en": "The loan is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fúʼ",
+        "pronounciation": "fúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vallée",
+                "definition_en": "valley",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùʼ",
+        "pronounciation": "fȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trésor ; quelque chose trouvé",
+                "definition_en": "treasure; something found",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fùʼmbùm",
+        "pronounciation": "fȕʔm̩̀bȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle à Batcham",
+                "definition_en": "k. cultural dance at Batcham",
+                "examples": []
+            }
+        ]
+    }
+]

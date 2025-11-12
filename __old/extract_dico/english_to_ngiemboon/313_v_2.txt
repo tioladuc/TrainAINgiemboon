@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "vassal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vault",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvwɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vector agent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vegetable (generic), sticky",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vegetable, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzab fàgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gèlegÿàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzab kéyàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅî",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzab gwág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkía",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vegetables, potatoes mixed with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vehicle, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vein",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋaŋ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "velvet tamarind fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿě ngem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "velvet tamarind tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngemé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "velvet, water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋngwò leloŋó ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùngwò leloŋó ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "venom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìsìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ventilate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vera, aloe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "verb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "verb, conjugate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "verifier",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "verify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáase",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "verse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vertebra",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅǐ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vertebrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn kẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vertigo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "síŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sésse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "very fond of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vibration",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "levàtsàʼ",
+                "examples": []
+            }
+        ]
+    }
+]

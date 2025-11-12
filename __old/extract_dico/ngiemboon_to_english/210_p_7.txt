@@ -1,0 +1,401 @@
+[
+    {
+        "noun": "pìd",
+        "pronounciation": "pȉt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blépharite",
+                "definition_en": "blepharitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìdte",
+        "pronounciation": "pìtːȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arqué ; concave (œil)",
+                "definition_en": "curved; arced; concave (eye)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ tyě pɔ́ páʼ pìdte mekwò la.",
+                        "fr": "Tu te tiens comme celui qui a des pieds arqués.",
+                        "en": "You stand like one who has arched feet."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pie",
+        "pronounciation": "pìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que ; qui (pron. relatif qui modifie les noms de la classe 2)",
+                "definition_en": "that; who (relative pronoun modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a pie n toŋó wɔ́b, pɔ́ kaa tóo.",
+                        "fr": "Les gens que j’ai appelées ne sont pas venues.",
+                        "en": "The people I called did not come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pîɛ",
+        "pronounciation": "píɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avocat",
+                "definition_en": "avocado",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "píge",
+        "pronounciation": "píʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interrogation ; concertation",
+                "definition_en": "questioning; dialogue; meeting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìi tenùŋe",
+        "pronounciation": "pȉː tèɲùŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voleur",
+                "definition_en": "thief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pile",
+        "pronounciation": "pìlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quantité minime ; piètre ; insignifiant",
+                "definition_en": "minimal quantity; poor; insignificant",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dúɔ mmó fʉ̀ʼʉ kɔ́ wɔ́, á ná pɔ́ méjʉʼ lê pilé.",
+                        "fr": "Chaque fois que je demande quelque chose, il donne toujours une quantité insignifiante.",
+                        "en": "Whenever I ask for something, he always gives an insignificant amount."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pilé",
+        "pronounciation": "pìlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réponse",
+                "definition_en": "response",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "píme",
+        "pronounciation": "pímé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rime",
+                "definition_en": "rhyme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "píme melùʼ",
+        "pronounciation": "pímé mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ivre ; ivrogne ; ivresse",
+                "definition_en": "drunk; alcoholic; drunkenness",
+                "examples": [
+                    {
+                        "dialect": "Peg gyǎ píme mélùʼ mbà á tsǐ tsɛ̀ɛ menzsǒ mé.",
+                        "fr": "Nous avons vu un ivrogne qui avait uriné dans ses habits.",
+                        "en": "We saw a drunk who had urinated in his clothes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pímte",
+        "pronounciation": "pímté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de musique",
+                "definition_en": "k. musical instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piŋ",
+        "pronounciation": "pìŋ",
+        "synonym": [
+            "ge piŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur d’aujourd’hui (F2)",
+                "definition_en": "today future (F2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìŋ",
+        "pronounciation": "pĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retour",
+                "definition_en": "return",
+                "examples": [
+                    {
+                        "dialect": "Agʉ̀a té nò wɔ́, apìŋ zɔ̌ nò.",
+                        "fr": "L’aller n’est pas difficile, c’est le retour qui l’est.",
+                        "en": "The way there is not difficult, it is the return that is."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pǐŋ",
+        "pronounciation": "pĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paille",
+                "definition_en": "straw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piŋé",
+        "pronounciation": "pĩ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réponse",
+                "definition_en": "response",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìŋe lé nzèm",
+        "pronounciation": "pĩ̀ŋȅ lé ndzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dadais ; niais ; nigaud ; sot",
+                "definition_en": "lump; simpleton; ninny; fool; idiot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìŋe ndù",
+        "pronounciation": "pĩ̀ŋȅ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "préfixe",
+                "definition_en": "prefix",
+                "examples": [
+                    {
+                        "dialect": "Áa na ngiembɔɔn, mé té ŋweʼe «b» nzyté té vɔg ŋweʼe pìŋe ndù «m» wɔ́.",
+                        "fr": "«",
+                        "en": "“"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pìŋe nzèm",
+        "pronounciation": "pĩ̀ŋȅ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retour",
+                "definition_en": "return",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìŋte",
+        "pronounciation": "pĩ̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "révision",
+                "definition_en": "revision",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pípà",
+        "pronounciation": "pípȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papier",
+                "definition_en": "paper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pípí",
+        "pronounciation": "pípí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "píte",
+        "pronounciation": "píté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "récitation ; narration",
+                "definition_en": "recitation; narrative",
+                "examples": []
+            },
+            {
+                "definition_fr": "rédaction",
+                "definition_en": "essay; composition",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pitsɔ̀ʼ",
+        "pronounciation": "pìtsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. animal",
+                "definition_en": "sp. animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìyôŋ",
+        "pronounciation": "pȉjõ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pion",
+                "definition_en": "pawn; draught",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "píʼ",
+        "pronounciation": "píʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouvement",
+                "definition_en": "movement",
+                "examples": [
+                    {
+                        "dialect": "Gÿo píʼ lé pwó ɔ́.",
+                        "fr": "Fait un mouvement avec ta main.",
+                        "en": "Make a movement with your hand."
+                    }
+                ]
+            }
+        ]
+    }
+]

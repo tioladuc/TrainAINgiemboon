@@ -1,0 +1,415 @@
+[
+    {
+        "noun": "kwò zɔ́gɔ",
+        "pronounciation": "kxwȍ zɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compagnie ; camaraderie ; camarade ; compagnon",
+                "definition_en": "company; companionship; friend; companion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwóŋ",
+        "pronounciation": "kwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauve-souris de guano",
+                "definition_en": "guano bat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwóŋ",
+        "pronounciation": "kwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en haut",
+                "definition_en": "up high",
+                "examples": []
+            },
+            {
+                "definition_fr": "amont",
+                "definition_en": "upstream",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwòŋ",
+        "pronounciation": "kwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souche ; tige de maïs",
+                "definition_en": "stump; maize or corn stalk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwóŋ wɔɔn",
+        "pronounciation": "kwṍŋ wɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amont",
+                "definition_en": "upstream water",
+                "examples": []
+            },
+            {
+                "definition_fr": "en haut",
+                "definition_en": "up above",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge gʉa kwóŋ wɔɔn.",
+                        "fr": "Je vais aller en haut.",
+                        "en": "I'm going to go upstairs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwóŋte",
+        "pronounciation": "kwṍŋté",
+        "synonym": [
+            "kwóonte ",
+            " gwɔ́bte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruse ; exploitation",
+                "definition_en": "trick; trickery; exploitation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwòon melÿò",
+        "pronounciation": "kwõ̏ː mèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ébarboir",
+                "definition_en": "scraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwóonte",
+        "pronounciation": "kwṍːté",
+        "synonym": [
+            "kwóŋte ",
+            " gwɔ́bte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruse ; exploitation",
+                "definition_en": "trick; trickery; exploitation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀",
+        "pronounciation": "kwɔ̏",
+        "synonym": [
+            "kɔ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.impér",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prends ! (impératif irrégulier)",
+                "definition_en": "take! (irregular imperative)",
+                "examples": [
+                    {
+                        "dialect": "Kɔ̀ ńgʉa ńná né tá gù.",
+                        "fr": "Prends, tu pars donner à ton père !",
+                        "en": "Take it, you're going to give it to your father!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwɔb",
+        "pronounciation": "kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceinture",
+                "definition_en": "belt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔb",
+        "pronounciation": "kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "champ de raphia ; vignoble",
+                "definition_en": "raffia field; vineyard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀bɔ pàʼa",
+        "pronounciation": "kwɔ̀βɔ̏ pàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faux-entrait",
+                "definition_en": "traverse beam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ́g",
+        "pronounciation": "kwɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuisinier ; domestique ; boy ; bonne",
+                "definition_en": "cook; servant; servant boy; maid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀g",
+        "pronounciation": "kwɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menotte",
+                "definition_en": "handcuff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀g kwɔ̀g",
+        "pronounciation": "kwɔ̏q̚ kwɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hululement (poule, duc)",
+                "definition_en": "hooting (chicken, duck)",
+                "examples": [
+                    {
+                        "dialect": "Mápfò mêngáb gÿǒ lê kwɔ̀g kwɔ̀g tà púɔ pé tó.",
+                        "fr": "La poule a fait « kwɔ̀g kwɔ̀g » jusqu’à ce que ses poussins sont venus.",
+                        "en": "The hen went “kwɔ̀g kwɔ̀g” until her chicks came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ́g lelúʼ",
+        "pronounciation": "kwɔ́q̚ lèɭúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "louche",
+                "definition_en": "shady; dubious",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀g mekẅǐ",
+        "pronounciation": "kwɔ̏q̚ mèkɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pian",
+                "definition_en": "yaws",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀g metsẅiŋ",
+        "pronounciation": "kwɔ̏q̚ mètsɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais sort",
+                "definition_en": "bad fate; bad lot",
+                "examples": [
+                    {
+                        "dialect": "Tè téme kwɔ̀g metsẅiŋ na sɔ̌ɔn wɔ́ɔn.",
+                        "fr": "Ne souhaite pas le mauvais sort sur mon marché.",
+                        "en": "Don't wish bad luck on my market."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀gkû",
+        "pronounciation": "kwɔ̏qkû",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hululement (hibou)",
+                "definition_en": "hooting (owl)",
+                "examples": [
+                    {
+                        "dialect": "Apfòŋ lǎʼ lêtsẅɛ́ʼ pɔ́ légÿo kwɔ̀gkû.",
+                        "fr": "Le hibou a passé toute la nuit à hululer « kwɔ̀gkû ».",
+                        "en": "The owl spent the whole night hooting “kwɔ̀gkû”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀gɔ",
+        "pronounciation": "kwɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éteule",
+                "definition_en": "stubble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀gɔ",
+        "pronounciation": "kwɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égreneuse ; outil pour couper les feuilles de bananier",
+                "definition_en": "corn sheller; cotton gin; tool for cutting banana leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀gɔ nnɛ́",
+        "pronounciation": "kwɔ̀ʁɔ̏ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patience",
+                "definition_en": "patience",
+                "examples": []
+            },
+            {
+                "definition_fr": "courtoisie",
+                "definition_en": "courtesy",
+                "examples": []
+            },
+            {
+                "definition_fr": "respect",
+                "definition_en": "respect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̌ɔn",
+        "pronounciation": "kwɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comparaison",
+                "definition_en": "comparison",
+                "examples": []
+            },
+            {
+                "definition_fr": "dicton ; proverbe ; adage ; parabole",
+                "definition_en": "saying; proverb; adage; parable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ́ʼ",
+        "pronounciation": "kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échelle",
+                "definition_en": "ladder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼ",
+        "pronounciation": "kwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rafle (maïs, bananier)",
+                "definition_en": "stalk (corn, banana)",
+                "examples": []
+            }
+        ]
+    }
+]

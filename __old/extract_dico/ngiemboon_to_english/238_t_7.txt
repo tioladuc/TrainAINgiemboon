@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "tétɔgɔ́",
+        "pronounciation": "tétɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétɔ́ʼ",
+        "pronounciation": "tétɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gobelet ; boîte",
+                "definition_en": "cup; goblet; box",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tètɔ̀ʼ",
+        "pronounciation": "tȅtɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crapaud",
+                "definition_en": "toad",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétɔ́ʼ ndyé",
+        "pronounciation": "tétɔ́ʔ ǹ̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfumoir ; boîte pour enfumer quelque chose",
+                "definition_en": "box used to blacken or smoke out something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tètɔ̀ʼ tsɔɔn",
+        "pronounciation": "tȅtɔ̏ʔ tsɔ̃̀ː",
+        "synonym": [
+            "ntàsòŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grenouille (gén.)",
+                "definition_en": "frog (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétúŋ nkʉŋ",
+        "pronounciation": "téʈṹŋ ŋ̩̀kɯ̃̀ŋ",
+        "synonym": [
+            "túŋ nkʉŋ ",
+            " tòŋ ncwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "martin pêcheur",
+                "definition_en": "kingfisher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétúʼ ntse mélʉ̀m",
+        "pronounciation": "téʈúʔ ǹ̩tsè méɭɯ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tètùʼu",
+        "pronounciation": "tȅʈùʔȕ",
+        "synonym": [
+            "tùtùʼu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "court",
+                "definition_en": "short",
+                "examples": [
+                    {
+                        "dialect": "Záʼa tàʼ ndʉŋ, á na ńtí gie à ge gwɔ́ tètùʼu.",
+                        "fr": "Coupe le bambou de sorte qu’il soit court.",
+                        "en": "Cut the bamboo so that it is short."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tetʉ́a",
+        "pronounciation": "tèʈɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cour",
+                "definition_en": "court; yard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tetʉ́a kwóŋɔɔn",
+        "pronounciation": "tèʈɯ́á kwṍŋɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cour publique ; esplanade",
+                "definition_en": "public square; esplanade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétyé nkwɔ̀ʼ",
+        "pronounciation": "tétθjé ŋ̩̀kwɔ̏ʔ",
+        "synonym": [
+            "tyétyé nkwɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "statue",
+                "definition_en": "statue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tetyɛ̀b",
+        "pronounciation": "tètjɛ̏p̚",
+        "synonym": [
+            "tetɔ̀b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boue",
+                "definition_en": "mud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tezáʼà",
+        "pronounciation": "tèzáʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incessant",
+                "definition_en": "incessant; unceasing",
+                "examples": [
+                    {
+                        "dialect": "Mbʉ̀ŋ tezáʼà kěm ndá.",
+                        "fr": "Une pluie incessante a detruit la maison.",
+                        "en": "Incessant rain destroyed the house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèzɛndeme",
+        "pronounciation": "tȅzɛ̀ndə̀mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miséricordieux",
+                "definition_en": "merciful; forgiving",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tezsě",
+        "pronounciation": "tèzsě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ingrat",
+                "definition_en": "ungrateful",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɛɛ",
+        "pronounciation": "tɛ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jusqu’à",
+                "definition_en": "until",
+                "examples": [
+                    {
+                        "dialect": "Gʉa tɛɛ! Tè cʉ́ʼ mèŋ n cúa gú!",
+                        "fr": "Pars ! Ne fais as que je te tape !",
+                        "en": "Leave! Don't let me hit you!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tɛʼ",
+        "pronounciation": "tɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beaucoup",
+                "definition_en": "many; lot of",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn léneŋ ntse lekʉŋ tɛʼ.",
+                        "fr": "Ne mets pas beaucoup d’eau dans la marmite.",
+                        "en": "Don't put a lot of water in the pot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tí",
+        "pronounciation": "tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "thé",
+                "definition_en": "tea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tiŋe lepfòm",
+        "pronounciation": "tĩ̀ŋè lèpfɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "constipation",
+                "definition_en": "constipation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tìʼi",
+        "pronounciation": "tìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fierté",
+                "definition_en": "pride",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tíʼi shÿo",
+        "pronounciation": "tíʔí ʃːɰò",
+        "synonym": [
+            "kʉ́ʼʉ́ ncù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouclier",
+                "definition_en": "shield",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toló ntsí",
+        "pronounciation": "tòló ǹ̩tsí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amende",
+                "definition_en": "fine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tólómí",
+        "pronounciation": "tólómí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égrugeoir ; s. petit mortier qui sert à égruger quelque chose",
+                "definition_en": "k. small mortar used to reduce something to powder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòmátè",
+        "pronounciation": "tȍmátȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tomate",
+                "definition_en": "tomato",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tǒŋ",
+        "pronounciation": "tõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saut qu’effectue une grenouille ou un crapaud",
+                "definition_en": "jump of a frog or toad",
+                "examples": [
+                    {
+                        "dialect": "Ntàsoŋ kӱɛ̌ lê tǒŋ, ńcʉ́me ntse.",
+                        "fr": "La grenouille a sauté que tǒŋ pour se jeter dans l’eau.",
+                        "en": "The frog only jumped to throw itself into the water."
+                    }
+                ]
+            }
+        ]
+    }
+]

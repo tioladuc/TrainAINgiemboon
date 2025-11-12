@@ -1,0 +1,251 @@
+[
+    {
+        "noun": "husband’s mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "husk, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "husk, remove the corn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá mbʉŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hut, construction",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melu nkóo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hut, construction implement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntà nkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hut, sacred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hut, straw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káa tàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hydropic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa kwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hydrops, person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa kwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hyena, spotted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làkùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hyena, striped",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn nŋʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hypocrisy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋ menÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋe menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hypocrite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋ menÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋe menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hyponomeute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntànkwàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hyrax, rock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùbténku",
+                "examples": []
+            }
+        ]
+    }
+]

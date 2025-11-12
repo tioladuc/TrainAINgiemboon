@@ -1,0 +1,148 @@
+[
+    {
+        "noun": "wring the laundry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wrinkle duck beak",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wrinkle (face)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wrist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ́ɔntè pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔntè pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wrist joint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejÿɔgɔ́ pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "write",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋweʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "write down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "writer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntẅè mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "write well",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅé",
+                "examples": []
+            }
+        ]
+    }
+]

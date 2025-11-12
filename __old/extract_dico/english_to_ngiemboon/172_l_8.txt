@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "like that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɛ́ʼɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɛ́ʼɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "like that, even",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "like this",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "páʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sitolóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "limit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndège",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "limit access",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "limits, don’t accept one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼʉ nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "limp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "limper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "line",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèkàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "line, put",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g nkàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lines, draw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "line, traced",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "line up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "linguistic group",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngiembɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "link",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "là",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lion cub",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ púʼ ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lipid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sísí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lips, eat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liqueur",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melùʼ ntʉtʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liquid, collect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liquid, empty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liquid, make cloudy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáb",
+                "examples": []
+            }
+        ]
+    }
+]

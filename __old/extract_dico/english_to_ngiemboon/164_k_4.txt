@@ -1,0 +1,100 @@
+[
+    {
+        "noun": "kola nut, piece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kola nut, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tálaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kola tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Kom language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa njinikom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Kunth dandy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ́ʼ ŋuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwashiorkor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyasuma grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùshwòŋ",
+                "examples": []
+            }
+        ]
+    }
+]

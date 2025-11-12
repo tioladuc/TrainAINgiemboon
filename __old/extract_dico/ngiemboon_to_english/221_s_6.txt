@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "sɛtifikâ",
+        "pronounciation": "sɛ̀tìfìkâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certificat",
+                "definition_en": "certificate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shú",
+        "pronounciation": "ʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "houe",
+                "definition_en": "hoe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shú",
+        "pronounciation": "ʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 5) ; les tiens (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 8)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtsɔ́ʼ lesoŋ sɔ́ɔn mbà mèŋ n ge tsɔ́ʼ shú.",
+                        "fr": "Si tu arraches ma dent, je vais arracher la tienne.",
+                        "en": "If you pull out my tooth, I'll pull out yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ton (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 5) ; tes (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "your (second person singular possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 5) ; tes (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shù",
+        "pronounciation": "ʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shû",
+        "pronounciation": "ʃû",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "choux",
+                "definition_en": "cabbage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shǔ",
+        "pronounciation": "ʃǔ",
+        "synonym": [
+            "sǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami",
+                "definition_en": "friend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shǔ",
+        "pronounciation": "ʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amitié",
+                "definition_en": "friendship",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shǔ fùɔ",
+        "pronounciation": "ʃǔ fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "titre de notabilité ; ami du chef",
+                "definition_en": "nobility title; chief’s friend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shú lekẅí",
+        "pronounciation": "ʃú lèkɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "omoplate",
+                "definition_en": "shoulder blade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shǔ lepyè",
+        "pronounciation": "ʃŭ lèpɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intime",
+                "definition_en": "intimate; close friend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shú nkùa",
+        "pronounciation": "ʃú ŋ̩̀kùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pelle-bêche",
+                "definition_en": "spade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shùb",
+        "pronounciation": "ʃȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit du plantoir enfoncé au sol",
+                "definition_en": "sound of dibble stick stabbed into the ground",
+                "examples": [
+                    {
+                        "dialect": "À pyě nɔ̀ɔn lê shùb shùb tà ḿmag.",
+                        "fr": "Il a semé la parcelle que « shub shub » jusqu’à finir.",
+                        "en": "He sowed the plot that “shub shub” until finished."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shúm",
+        "pronounciation": "ʃúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "choses",
+                "definition_en": "things",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shúm fàʼ",
+        "pronounciation": "ʃúm fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "outil ; matériel ; fourniture",
+                "definition_en": "tool; material; supply",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shúm leluŋó",
+        "pronounciation": "ʃúm lèɭũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "instrument de musique (gén.)",
+                "definition_en": "musical instrument (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shúm ssé ndá",
+        "pronounciation": "ʃúm sːé ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ustensile",
+                "definition_en": "utensil; implement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Shǔɔ",
+        "pronounciation": "ʃùɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Babadjou",
+                "definition_en": "Babadjou",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shúshu",
+        "pronounciation": "ʃúʃù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pardon",
+                "definition_en": "excuse me; pardon me; sorry; forgiveness",
+                "examples": []
+            },
+            {
+                "definition_fr": "pardon",
+                "definition_en": "excuse me; pardon me; sorry; forgiveness",
+                "examples": [
+                    {
+                        "dialect": "Shúshu te gÿo pɛ́ʼɛ̀.",
+                        "fr": "Pardon ne fait pas comme-ça.",
+                        "en": "Sorry don't do it like that."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shùshù",
+        "pronounciation": "ʃȕʃȕ",
+        "synonym": [
+            "shʉ́ŋ ncwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisserin (gén.)",
+                "definition_en": "weaverbird (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shùshwòŋ",
+        "pronounciation": "ʃȕʃwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "kyasuma grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shùshwòŋ",
+        "pronounciation": "ʃȕʃwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shùshwòŋo mêngwe",
+        "pronounciation": "ʃȕʃwõ̀ŋȍ mêŋgxwè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. kaysuma grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shútè shuté",
+        "pronounciation": "ʃútȅ ʃùté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clandestin",
+                "definition_en": "secret; clandestine",
+                "examples": [
+                    {
+                        "dialect": "Afàʼ shútè shuté té poŋ.",
+                        "fr": "Le travail clandestin n’est pas bien.",
+                        "en": "Clandestine work is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shùu kwò",
+        "pronounciation": "ʃȕː kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pantalon ; culotte",
+                "definition_en": "trousers; pants; knickers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́",
+        "pronounciation": "ʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aine ; bas ventre",
+                "definition_en": "groin; lower stomach",
+                "examples": []
+            }
+        ]
+    }
+]

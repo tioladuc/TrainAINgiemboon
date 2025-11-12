@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "tákẅìʼ",
+        "pronounciation": "tákɥȉʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beau-père",
+                "definition_en": "father-in-law",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tálaʼ",
+        "pronounciation": "tálàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. kola (avec seulement deux quartiers)",
+                "definition_en": "sp. kola nut (with only two sections)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táleluŋó",
+        "pronounciation": "tálèɭũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parrain",
+                "definition_en": "godfather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táleŋ",
+        "pronounciation": "tálə̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "objectif ; but",
+                "definition_en": "objective; goal; aim",
+                "examples": []
+            },
+            {
+                "definition_fr": "devise",
+                "definition_en": "currency",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tâlɔ̀ɔn",
+        "pronounciation": "tâlɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forgeron",
+                "definition_en": "blacksmith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tâm",
+        "pronounciation": "tâm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moment",
+                "definition_en": "moment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàmbǎʼ",
+        "pronounciation": "tȁmbǎʔ",
+        "synonym": [
+            "mbùʼ ncwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "muet",
+                "definition_en": "dumb; speechless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "támbìʼi",
+        "pronounciation": "támbìʔi",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "directeur ; responsable masculin",
+                "definition_en": "director; masculine person in charge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàmpfɛ̌yaŋ",
+        "pronounciation": "tȁmpfɛ̌jã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vaurien",
+                "definition_en": "good-for-nothing",
+                "examples": [
+                    {
+                        "dialect": "Peg tàmpfɛ̌yaŋ tè ne ńgiŋe wɔ́.",
+                        "fr": "Je ne marche pas avec un vaurien.",
+                        "en": "I don't walk with a scoundrel."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tánàŋa vèle",
+        "pronounciation": "tánã̀ŋȁ vèlȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui s’empresse",
+                "definition_en": "one who fusses over something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tándá",
+        "pronounciation": "tándá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "président",
+                "definition_en": "president",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tándà mànzòŋ",
+        "pronounciation": "tándȁ mȁndzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "général d’armée",
+                "definition_en": "army general",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tándá panùŋe pwɔʼ",
+        "pronounciation": "̀tándá pàɳũ̀ŋȅ pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chef des prêtres ; sacrificateur responsable",
+                "definition_en": "head priest; head sacrificer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tándì",
+        "pronounciation": "tándȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moustiquaire",
+                "definition_en": "mosquito net",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàndǔm",
+        "pronounciation": "tȁɳɖǔm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "père du mari (pour la femme)",
+                "definition_en": "father of the husband (for the wife)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tánè",
+        "pronounciation": "tánȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "père des jumeaux",
+                "definition_en": "father of twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tângɔ́ʼ",
+        "pronounciation": "tâŋɡɔ́ʔ",
+        "synonym": [
+            "táangɔ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chéri",
+                "definition_en": "beloved; darling; dearest; boyfriend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tánkáb",
+        "pronounciation": "táŋkáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondateur de la famille; ancêtre",
+                "definition_en": "family’s founder; ancestor; forefather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tánkɔɔn",
+        "pronounciation": "táŋkɔ̃̀ː",
+        "synonym": [
+            "nkɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seau ; s. panier avec anse",
+                "definition_en": "bucket; pail; k. basket with handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tánkʉŋ",
+        "pronounciation": "táŋkɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "singleton ; tout seul dans le lot",
+                "definition_en": "bachelor; alone in a group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tánɔ̀ʼɔ",
+        "pronounciation": "tánɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compresseur",
+                "definition_en": "compressor",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui brime",
+                "definition_en": "one who aggravates; bully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tántʉ̀",
+        "pronounciation": "táɳʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus fort",
+                "definition_en": "stronger",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ̌ tántʉ̀ tǒ ńzyága ngelâŋ pɔ̀ɔn ngesáŋ ńtÿɔ́gɔ twó ye.",
+                        "fr": "Un certain homme fort est venu porter un sac de maïs pour mettre sur sa tête.",
+                        "en": "A certain strong man came carrying a bag of corn to put on his head."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tâŋ",
+        "pronounciation": "tã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réservoir",
+                "definition_en": "reservoir",
+                "examples": []
+            },
+            {
+                "definition_fr": "étang",
+                "definition_en": "pond",
+                "examples": []
+            },
+            {
+                "definition_fr": "tuyau",
+                "definition_en": "pipe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàŋa",
+        "pronounciation": "tã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plafond",
+                "definition_en": "ceiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàŋa mbab",
+        "pronounciation": "tã̀ŋȁ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tendon de viande",
+                "definition_en": "meat tendon",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "noun": "yesterday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ gẅie à ka tɔ̌g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yesterday, day before",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ̌ júɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yesterday past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ka",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yes (to majestic rulers)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yield",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yoke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you also",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you and I",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you are",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɔ̀ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you, for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɔ̀ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young boy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ngwàshùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "younger brother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mémá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "younger sibling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mémá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "younger twin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉŋ mefág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young girl with a young married woman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼ nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young men",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púɔ shùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young people",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà shùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young people, dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mangɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyaga múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "young seedling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "your",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "your and my",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    }
+]

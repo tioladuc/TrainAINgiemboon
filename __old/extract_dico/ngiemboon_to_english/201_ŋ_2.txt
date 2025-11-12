@@ -1,0 +1,203 @@
+[
+    {
+        "noun": "ŋwèʼe nkʉ̀",
+        "pronounciation": "ŋwə̀ʔȅ ŋ̩̀kɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "expéditeur ; destinateur",
+                "definition_en": "sender; recipient",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwɛ́",
+        "pronounciation": "ŋwɛ́",
+        "synonym": [
+            "mɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.anaph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le ; la ; celui déjà mentionné (adjective anaphorique)",
+                "definition_en": "the; the same; the aforementioned (anaphoric adj.)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn kú, ɔ̀ tóŋo nyìŋ ŋwɛ́ ńgie à tó.",
+                        "fr": "Si tu arrives, appelle cette personne de venir.",
+                        "en": "If you arrive, call this person to come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwɛ́",
+        "pronounciation": "ŋwɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propriétaire",
+                "definition_en": "owner; landlord",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwɛ́ nkʉ̀",
+        "pronounciation": "ŋwɛ́ ŋ̩̀kɯ̏",
+        "synonym": [
+            "ngàŋ nkʉ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destinataire",
+                "definition_en": "addressee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwóŋ",
+        "pronounciation": "ŋwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très noir",
+                "definition_en": "very black",
+                "examples": [
+                    {
+                        "dialect": "Apǐ siŋe lê ŋwóŋ.",
+                        "fr": "Le dehors est très noir.",
+                        "en": "The outside is very dark."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwóon ngesáŋ",
+        "pronounciation": "ŋwṍː ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épi de maïs immature",
+                "definition_en": "immature ear of corn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwóon ŋwóon",
+        "pronounciation": "ŋwṍː ŋwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble",
+                "definition_en": "tumult; turmoil",
+                "examples": []
+            },
+            {
+                "definition_fr": "mouchardage",
+                "definition_en": "informing; grassing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwʉ́ŋ",
+        "pronounciation": "ŋwɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une cloche",
+                "definition_en": "sound of a clock",
+                "examples": [
+                    {
+                        "dialect": "À cǔa ŋwʉ́ŋe, á gye lê ŋwʉ́ŋ.",
+                        "fr": "Il a frappé la cloche et elle a résonné que « ŋwʉ́ŋ ».",
+                        "en": "He struck the bell and it rang out “ŋwʉ́ŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwʉ̀ŋ nèm",
+        "pronounciation": "ŋwɯ̃̏ŋ nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rayon solaire",
+                "definition_en": "ray of sunlight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwʉ́ŋe",
+        "pronounciation": "ŋwɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cloche ; sonnerie",
+                "definition_en": "bell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwʉ̀ŋwàʼ",
+        "pronounciation": "ŋwɯ̏ŋwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crépitement",
+                "definition_en": "crackling; rattle",
+                "examples": [
+                    {
+                        "dialect": "Ŋwʉ̀ŋwàʼ mbʉ̀ŋ tɔʼɔ́ wɔ́ɔn lélye.",
+                        "fr": "Le crépitement de la pluie m’a empêché de dormir.",
+                        "en": "The patter of the rain kept me from sleeping."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwʉ̀ŋwʉŋ",
+        "pronounciation": "ŋwɯ̃̏ŋwɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diamant ; pierre précieuse",
+                "definition_en": "diamond; precious stone",
+                "examples": []
+            }
+        ]
+    }
+]

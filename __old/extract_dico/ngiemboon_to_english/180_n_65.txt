@@ -1,0 +1,453 @@
+[
+    {
+        "noun": "ńtsíg",
+        "pronounciation": "ń̩tsíq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réfléchir",
+                "definition_en": "think about",
+                "examples": []
+            },
+            {
+                "definition_fr": "calculer",
+                "definition_en": "calculate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíge",
+        "pronounciation": "ń̩tsíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éternuer",
+                "definition_en": "sneeze",
+                "examples": []
+            },
+            {
+                "definition_fr": "étouffer",
+                "definition_en": "stifle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsìi",
+        "pronounciation": "ǹ̩tsȉː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pisseur",
+                "definition_en": "one who pees",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsìndá",
+        "pronounciation": "ǹ̩tsȉndá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviteur",
+                "definition_en": "servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsìntsì",
+        "pronounciation": "ǹ̩tsȉntsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "urine",
+                "definition_en": "urine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsìntsyè",
+        "pronounciation": "ǹ̩tsìntsːjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affaires",
+                "definition_en": "matter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsíŋ",
+        "pronounciation": "ǹ̩tsĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sud ; hors du terroir",
+                "definition_en": "South; outside the region",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsiŋ",
+        "pronounciation": "ń̩tsĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filtrer ; extraire",
+                "definition_en": "filter; screen; extract",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíŋe",
+        "pronounciation": "ń̩tsĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "obliger",
+                "definition_en": "make",
+                "examples": []
+            },
+            {
+                "definition_fr": "pousser",
+                "definition_en": "push",
+                "examples": []
+            },
+            {
+                "definition_fr": "attiser",
+                "definition_en": "poke",
+                "examples": [
+                    {
+                        "dialect": "Ńtsíŋe mmɔ̌g.",
+                        "fr": "Attiser le feu.",
+                        "en": "Fuel the fire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsìŋe kwò",
+        "pronounciation": "ǹ̩tsĩ̀ŋȅ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "talon",
+                "definition_en": "heel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsiŋe pwó",
+        "pronounciation": "ǹ̩tsĩ̀ŋè pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coude",
+                "definition_en": "elbow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsiŋe tÿoon",
+        "pronounciation": "ǹ̩tsĩ̀ŋè ʈɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apport personnel",
+                "definition_en": "personal support",
+                "examples": [
+                    {
+                        "dialect": "Mé těen ńdúɔ ntse té ntsiŋe tÿoon wɔ́.",
+                        "fr": "On ne demande pas l’eau sans l’apport personnel.",
+                        "en": "We do not ask for water without personal contribution."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsìŋte",
+        "pronounciation": "ǹ̩tsĩ̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui dorlote",
+                "definition_en": "coddler; pamperer",
+                "examples": []
+            },
+            {
+                "definition_fr": "continuateur",
+                "definition_en": "one who continues",
+                "examples": []
+            },
+            {
+                "definition_fr": "déplaçant",
+                "definition_en": "mover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíŋte",
+        "pronounciation": "ń̩tsĩ́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avantager ; favoriser",
+                "definition_en": "give advantage to; favour",
+                "examples": [
+                    {
+                        "dialect": "Má pa múɔ wɔɔn tsíŋte yé tɛʼ.",
+                        "fr": "La mère de cet enfant l’avantage beaucoup.",
+                        "en": "The mother of this child benefits him greatly."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "évoluer",
+                "definition_en": "evolve",
+                "examples": [
+                    {
+                        "dialect": "Afàʼ ne ńtsíŋte.",
+                        "fr": "Le travail évolue.",
+                        "en": "The work evolves."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíte",
+        "pronounciation": "ń̩tsíté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vider (liquide)",
+                "definition_en": "empty (liquid)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíʼi",
+        "pronounciation": "ń̩tsíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essuyer",
+                "definition_en": "dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíʼi",
+        "pronounciation": "ń̩tsíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lapider",
+                "definition_en": "stone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsiʼte",
+        "pronounciation": "ń̩tsìʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hésiter ; tergiverser ; paniquer",
+                "definition_en": "hesitate; shilly-shally; panic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsó",
+        "pronounciation": "ń̩tsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forger",
+                "definition_en": "forge",
+                "examples": []
+            },
+            {
+                "definition_fr": "broyer ; frapper (doucement)",
+                "definition_en": "grind; knock (gently)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsó",
+        "pronounciation": "ń̩tsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manquer",
+                "definition_en": "miss",
+                "examples": [
+                    {
+                        "dialect": "À tsǒ cúʼtè.",
+                        "fr": "Il a manqué la réunion.",
+                        "en": "He missed the meeting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsó",
+        "pronounciation": "ń̩tsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pousser",
+                "definition_en": "push",
+                "examples": []
+            },
+            {
+                "definition_fr": "bousculer",
+                "definition_en": "hustle",
+                "examples": []
+            },
+            {
+                "definition_fr": "obliger",
+                "definition_en": "to obligate",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’avancer",
+                "definition_en": "move forward",
+                "examples": [
+                    {
+                        "dialect": "Afàʼ ne ńtsóte.",
+                        "fr": "Le travail s’avance.",
+                        "en": "The work is progressing."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "progresser",
+                "definition_en": "progress",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsó",
+        "pronounciation": "ń̩tsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pousser",
+                "definition_en": "push",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire avancer",
+                "definition_en": "advance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsǒŋ",
+        "pronounciation": "ǹ̩tsõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voleur",
+                "definition_en": "thief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsóŋ",
+        "pronounciation": "ń̩tsṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forniquer ; coïter ; accomplir le coït",
+                "definition_en": "fornicate; copulate; accomplish coitus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsoon",
+        "pronounciation": "ń̩tsõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être peu actif",
+                "definition_en": "be a little active",
+                "examples": []
+            }
+        ]
+    }
+]

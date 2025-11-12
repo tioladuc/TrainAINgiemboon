@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "petrol",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlenjʉ̂ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàlasí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "phalanx",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leleŋé pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelʉŋé pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "phalanx, distal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉ́a pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Pharisee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "falísay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pharynx",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "philosophy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zéme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "phone, mobile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíkẅíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "photograph",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàa mejʉ́jʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "photo’s development",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepóm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "physic nut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekwé tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "physique",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáŋa shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piano, thumb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pick a lock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pickaxe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "picket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pick grapes off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pick up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pick up stools",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ nzɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "picture",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkendéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piece of clothing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̌ɔn nzsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piece of kola nut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piece of meat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kìm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "piece of wood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsemé tÿó",
+                "examples": []
+            }
+        ]
+    }
+]

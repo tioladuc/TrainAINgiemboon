@@ -1,0 +1,497 @@
+[
+    {
+        "noun": "I",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "e",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "n",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "idea, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "identity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàŋnditê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "idiot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋe lé nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsentsɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀kʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pupú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋáʼ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "idiot, play",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "idle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎg ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "idol",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tútú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "if",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kála",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "if beforehand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ páʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "if ever",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "if not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ignorance, be free of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ignorant person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwé té zsé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbùd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ignore",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmoŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ill-matched outfit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ʼ mémbàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "illusion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿonkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "im-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "te-",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "image",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́jʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "imagine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "imbecile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀gʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsentsɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋáʼ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ nkwʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "imitate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésate shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "imitation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "imitator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa lʉ̀ŋte nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "immature",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "immature groundnut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tẅɛ́ péli",
+                "examples": []
+            }
+        ]
+    }
+]

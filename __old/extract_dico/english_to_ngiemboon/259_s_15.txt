@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "shower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "show off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "show-off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnyuŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nùŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnùŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "show one’s colours",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "show oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyagte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shredder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrewd",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿòon menkǐb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrew, musk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrew, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋo ncwò cʉ̀cʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncwò cʉ̀cʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅíi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrike, puffback",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ ngɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kéléndeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lengɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrike’s call, puffback",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kukúkukúku",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrill, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrivel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrivel up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdoŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shrub, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shudder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shutter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwalákwàlà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvèmvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀ŋe ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shutter, join bamboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shuttle, weaver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùa pɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shyness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "siala",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwèle sẅɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sibling of the chief, older",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔntsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sibling of the chief, younger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn fùɔ",
+                "examples": []
+            }
+        ]
+    }
+]

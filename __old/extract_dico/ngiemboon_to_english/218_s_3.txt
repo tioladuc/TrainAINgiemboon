@@ -1,0 +1,470 @@
+[
+    {
+        "noun": "sàte",
+        "pronounciation": "sàtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffrance",
+                "definition_en": "suffering",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sate sate",
+        "pronounciation": "sàtè sàtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pêle-mêle",
+                "definition_en": "higgledy-piggledy",
+                "examples": [
+                    {
+                        "dialect": "À kǔu ndá ńgyá mezsǒ mé nuŋe sate sate.",
+                        "fr": "Il est entré et a vu ses habits posés pêle-mêle.",
+                        "en": "He came in and saw his clothes lying in a mess."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sàʼ",
+        "pronounciation": "sȁʔ",
+        "synonym": [
+            "hége"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǎʼ nèm",
+        "pronounciation": "sǎʔ nə̏m",
+        "synonym": [
+            "saʼá nèm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "est",
+                "definition_en": "East",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàʼ ntsaŋ",
+        "pronounciation": "sȁʔ ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avocat défenseur",
+                "definition_en": "defence lawyer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàʼa",
+        "pronounciation": "sàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracheur",
+                "definition_en": "uprooter",
+                "examples": [
+                    {
+                        "dialect": "Pasaʼa nkandi pɔ̀ɔn.",
+                        "fr": "Voici les arracheurs de banane.",
+                        "en": "Here are the banana pullers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sàʼa",
+        "pronounciation": "sàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commandant ; dirigeant",
+                "definition_en": "commander; manager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàʼa",
+        "pronounciation": "sàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rejeton",
+                "definition_en": "kid; offspring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saʼá nèm",
+        "pronounciation": "sàʔá nə̏m",
+        "synonym": [
+            "sǎʼ nèm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "est",
+                "definition_en": "East",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sáʼa ntse",
+        "pronounciation": "sáʔá ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "source",
+                "definition_en": "spring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "se",
+        "pronounciation": "sè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.poss",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui de (pron. poss. qui renvoie aux noms de la classe 5)",
+                "definition_en": "that of (possessive pronoun referring back to class 5 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Lenÿɔ́g mêngáb pɔ́ se múɔ ne ńgyáŋa.",
+                        "fr": "L’œil de la poule et celui du poussin est malade.",
+                        "en": "The hen's eye and that of the chick are sick."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ceux de (pron. poss. qui renvoie aux noms de la classe 8)",
+                "definition_en": "those of (possessive pronoun referring back to class 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À ge kaa pɔ̀ɔn sé pɔ́ se tá we.",
+                        "fr": "Il portera ses sacs et ceux de son père.",
+                        "en": "He will carry his bags and those of his father."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "se",
+        "pronounciation": "sè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pour lui (pronom bénéfactif)",
+                "definition_en": "for him (benefactive pronoun)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour (adjectif bénéfactif)",
+                "definition_en": "for (benefactive adjective)",
+                "examples": [
+                    {
+                        "dialect": "Pi tó ḿbí se Tâm ńdɔg ńtó.",
+                        "fr": "Venez prendre pour Tam pour apporter.",
+                        "en": "Come take for Tam to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sé",
+        "pronounciation": "sé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le sien (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 5) ; les siens  (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 8)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 5) ; ses  (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "his (third person singular possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 5) ; ses  (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour lui (pron. poss. obj. de la 3e personne du singulier qui renvoie aux noms des classes 5 et 8)",
+                "definition_en": "for him (third person singular possessive object pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seféfɔ́gɔ",
+        "pronounciation": "sèféfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc (qualifie les noms de la classe 5)",
+                "definition_en": "white",
+                "examples": []
+            },
+            {
+                "definition_fr": "blancs (qualifie les noms de la classe 8)",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ség",
+        "pronounciation": "sə́q̚",
+        "synonym": [
+            "shʉ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 5) ; les nôtres (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 8)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tè kwɛ́ legwaʼá shú té kwɛ́ ség.",
+                        "fr": "N’attache pas ton étagère sans attacher la nôtre.",
+                        "en": "Don’t attach your shelf without attaching ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 5) ; nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 8)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 5) ; nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 8)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ségè",
+        "pronounciation": "sə́ʁȅ",
+        "synonym": [
+            "shʉ́gè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre et le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 5) ; les vôtres et les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 8)",
+                "definition_en": "yours and ours (first person plural inclusive possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À lɔɔn shʉ́a lepfo, á ná ségè.",
+                        "fr": "S’il fend la cola, il donne la nôtre.",
+                        "en": "If he splits the cola, he gives us ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 5) ; vos et nos (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 8)",
+                "definition_en": "your and our (first person plural inclusive possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 5) ; vos et nos (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 8)",
+                "definition_en": "your and our (first person plural inclusive emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sekú",
+        "pronounciation": "sèkú",
+        "synonym": [
+            "sekúd"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "école",
+                "definition_en": "school",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sekúd",
+        "pronounciation": "sèkút̚",
+        "synonym": [
+            "sekú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "école",
+                "definition_en": "school",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sekʉ",
+        "pronounciation": "sèkɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit ; petits (qualifie les noms des classes 5 et 8)",
+                "definition_en": "small; little (qualifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sekwɛ̂",
+        "pronounciation": "sèkwɛ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "équerre",
+                "definition_en": "square",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sèle nzsè",
+        "pronounciation": "sə̀lȅ ǹ̩dzsȅ",
+        "synonym": [
+            "leselé nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déviateur ; déviation",
+                "definition_en": "diverter; deflection; diversion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sélékùa",
+        "pronounciation": "sélékùà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre (modifiant les noms de la classe 8)",
+                "definition_en": "four (modifying class 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sèlemáŋ",
+        "pronounciation": "sə̏lèmã́ŋ",
+        "synonym": [
+            "sèlenyɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinéma",
+                "definition_en": "cinema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sélémɔʼɔ́",
+        "pronounciation": "sə́lémɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un (modifiant les noms de la classe 5)",
+                "definition_en": "one",
+                "examples": [
+                    {
+                        "dialect": "À nǎ lelÿɔʼ né mèŋ pɔ́ sélémɔʼɔ́.",
+                        "fr": "Il ne m’a donné qu’une igname.",
+                        "en": "He only gave me a yam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sèlenyɛ́",
+        "pronounciation": "sə́léɲɛ́",
+        "synonym": [
+            "sèlemáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinéma",
+                "definition_en": "cinema",
+                "examples": []
+            }
+        ]
+    }
+]

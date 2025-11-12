@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "ńtʉa",
+        "pronounciation": "ɳ̩́ʈɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "habituer",
+                "definition_en": "get someone used to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉa",
+        "pronounciation": "ɳ̩́ʈɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tracer",
+                "definition_en": "draw; trace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ́a",
+        "pronounciation": "ɳ̩́ʈɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briller",
+                "definition_en": "shine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ́a",
+        "pronounciation": "ɳ̩́ʈɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piquer (piment)",
+                "definition_en": "sting (pepper)",
+                "examples": []
+            },
+            {
+                "definition_fr": "gratter ; piquer (piment)",
+                "definition_en": "scratch ; sting (chili pepper)",
+                "examples": []
+            },
+            {
+                "definition_fr": "être aigu",
+                "definition_en": "to be acute",
+                "examples": [
+                    {
+                        "dialect": "N jǔʼ páʼ ngyè nyìŋ tʉ́ate.",
+                        "fr": "J’ai entendu la voix aigu de quelqu’un.",
+                        "en": "I heard someone's high-pitched voice."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀a mángǐm",
+        "pronounciation": "ɳ̩̀ʈɯ̀ȁ máŋgǐm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "libellule",
+                "definition_en": "dragonfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀a mekěm",
+        "pronounciation": "ɳ̩̀ʈɯ̀ȁ mèkə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̌a nèm",
+        "pronounciation": "ɳ̩̀ʈɯ̀á nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rayon solaire",
+                "definition_en": "ray of sunlight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ́m lʉ́m",
+        "pronounciation": "ɳ̩̀ʈɯ́m ɭɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "âme",
+                "definition_en": "soul",
+                "examples": []
+            },
+            {
+                "definition_fr": "foi",
+                "definition_en": "faith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ́me nò",
+        "pronounciation": "ɳ̩́ʈɯ́mé nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "audacieux ; ambitieux",
+                "definition_en": "audacious; ambitious",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ́me nò",
+        "pronounciation": "ɳ̩́ʈɯ́mé nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ambitionner",
+                "definition_en": "aspire to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀ntʉ̀a",
+        "pronounciation": "ǹ̩tɯ̀ntɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trace",
+                "definition_en": "mark",
+                "examples": [
+                    {
+                        "dialect": "Á cǔa wɔ́ɔn tà ntʉ̀ntʉ̀a yɔɔn.",
+                        "fr": "Il m’a tapé si bien que voici la trace.",
+                        "en": "He hit me so well that here is the trace."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀ntʉ̀a soŋ",
+        "pronounciation": "ɳ̩̀ʈɯ̏ɳʈɯ̀ȁ sõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diamètre",
+                "definition_en": "diameter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ́ŋe",
+        "pronounciation": "ɳ̩́ʈɯ̃́ŋé",
+        "synonym": [
+            "ńtéŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pencher ; incliner",
+                "definition_en": "tilt; lean; incline",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉʉ lelÿò",
+        "pronounciation": "ɳ̩́ʈɯ̀ː lèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très souvent ; le plus souvent ; plus part",
+                "definition_en": "very often; most frequently; most part",
+                "examples": [
+                    {
+                        "dialect": "À tʉʉ lelÿò ńzɔ́gɔ mbʉ̀a.",
+                        "fr": "Le plus souvent, il reste à la maison.",
+                        "en": "Most often he stays at home."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ́ʼ",
+        "pronounciation": "ɳ̩̀ʈɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadi",
+                "definition_en": "kadi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉʼʉ",
+        "pronounciation": "ɳ̩́ʈɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être turbulent",
+                "definition_en": "be boisterous; be unruly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtween",
+        "pronounciation": "ɳ̩́ʈwẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauffer ; être chaud",
+                "definition_en": "warm up; be hot; be warm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtwo",
+        "pronounciation": "ɳ̩́ʈθwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bénir ; mettre en garde un peuple",
+                "definition_en": "bless; put people on guard",
+                "examples": []
+            },
+            {
+                "definition_fr": "purifier",
+                "definition_en": "purify",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtwó",
+        "pronounciation": "ɳ̩́ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insulter",
+                "definition_en": "insult",
+                "examples": []
+            },
+            {
+                "definition_fr": "maudire magiquement",
+                "definition_en": "magically curse",
+                "examples": []
+            },
+            {
+                "definition_fr": "se chamailler",
+                "definition_en": "bicker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntwo melùʼ",
+        "pronounciation": "ɳ̩̀ʈθwò mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier vin à être recueilli",
+                "definition_en": "fist wine to be collected",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntwo ntwó",
+        "pronounciation": "ɳ̩̀ʈθwò ɳ̩̀ʈθwó",
+        "synonym": [
+            "ndwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "au début ; premièrement",
+                "definition_en": "at the start; firstly",
+                "examples": [
+                    {
+                        "dialect": "Anò yɔɔn la nyé ntwo ntwo, á té gáʼ páʼɔɔn wɔ́.",
+                        "fr": "Cette affaire au début, n’était pas si grave comme-ça.",
+                        "en": "This matter at the beginning was not so serious as it was."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅag",
+        "pronounciation": "ń̩tɥàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire éclater ; bombarder",
+                "definition_en": "make something explode; bomb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntẅě",
+        "pronounciation": "ǹ̩tθɥě",
+        "synonym": [
+            "ntsẅě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colorant ; couleur",
+                "definition_en": "colouring; colour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅe",
+        "pronounciation": "ń̩tθɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piétiner",
+                "definition_en": "trample on",
+                "examples": []
+            },
+            {
+                "definition_fr": "écraser",
+                "definition_en": "crush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅé",
+        "pronounciation": "ń̩tθɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrire ; bien écrire",
+                "definition_en": "write; write well",
+                "examples": []
+            }
+        ]
+    }
+]

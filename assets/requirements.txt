@@ -1,0 +1,33 @@
+# Core
+numpy
+pandas
+torch
+torchaudio
+transformers>=4.40.0
+accelerate
+datasets
+evaluate
+sentencepiece
+sacremoses
+
+# ASR (Whisper)
+openai-whisper
+ffmpeg-python
+soundfile
+librosa
+jiwer
+
+# TTS (Coqui)
+TTS==0.22.0
+
+# Utilities
+tqdm
+pydub
+
+# UI (optional)
+gradio==4.44.0
+
+# Additionals
+wheel
+ffmpeg
+sacrebleu

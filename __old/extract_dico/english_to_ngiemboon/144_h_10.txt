@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "Holy Spirit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìge ndʉalʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holy water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holy water, vase",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "home",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekyè mmɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "home, front",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔʼɔ́ letsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "home-grown child",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "homelessness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "homonym",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honestly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉŋ ndʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndeŋ ndeŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelwò nŋwáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lwò nŋwáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndwò nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honorary appellations",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honorary greeting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbélòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honorary, yes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honorific slogan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "alálàlǔŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honorific, twins",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ̂málà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gùʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿo mekùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honourable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀ nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honour, give to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́gɔ nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "honour with a song",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkǔɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkǔa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoof",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hook",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ̀bɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀bɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hook for mat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔ mbyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hooting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀g kwɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hooting, duck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅâŋkẅâŋ",
+                "examples": []
+            }
+        ]
+    }
+]

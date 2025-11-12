@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "puncture",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "punctured, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "punish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́gɔ kɔ̌ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbónése",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńná ngɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńneŋe tsébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "punishment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pónésè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔʼɔ́ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "punishment by ordeal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mùʼ fáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pupil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ nzìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "puppet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ pfòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purchaser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njùu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pure, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purification",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purification decoction",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtwo láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purify (woman)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa lesẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purple princess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkunjʉ̀njÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "purse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pɔ̀ɔn nkáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsábte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pursue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pursues, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pus, abscess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zezsó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zʉzsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "push",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "push forward",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "push in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "push to do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbímte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "put",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g",
+                "examples": []
+            }
+        ]
+    }
+]

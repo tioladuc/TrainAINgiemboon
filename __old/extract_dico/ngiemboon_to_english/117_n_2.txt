@@ -1,0 +1,456 @@
+[
+    {
+        "noun": "ncùb",
+        "pronounciation": "ǹ̩tʃȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collecte ; impôt ; offrande ; assistance",
+                "definition_en": "collection; tax; offering; assistance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcub",
+        "pronounciation": "ń̩tʃùp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélanger ; collecter ; composer",
+                "definition_en": "mix; collect; compose",
+                "examples": []
+            },
+            {
+                "definition_fr": "collectionner ; composer ; additionner",
+                "definition_en": "collect; compose; compose; add",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùbte",
+        "pronounciation": "ǹ̩tʃùptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collecteur",
+                "definition_en": "collector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcúe",
+        "pronounciation": "ń̩tʃúé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dilapider",
+                "definition_en": "squander; embezzle",
+                "examples": []
+            },
+            {
+                "definition_fr": "livrer à la hâte",
+                "definition_en": "deliver quickly",
+                "examples": []
+            },
+            {
+                "definition_fr": "dissiper",
+                "definition_en": "clear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùm",
+        "pronounciation": "ǹ̩tʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "héron noir, aigrette noire",
+                "definition_en": "black heron; black egret",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùɔ",
+        "pronounciation": "ǹ̩tʃùɔ̏",
+        "synonym": [
+            "ncùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tas ; grappe",
+                "definition_en": "pile; cluster; bunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcúɔ",
+        "pronounciation": "ń̩tʃúɔ́",
+        "synonym": [
+            "ńcúa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frapper ; taper",
+                "definition_en": "hit",
+                "examples": []
+            },
+            {
+                "definition_fr": "assommer à coup de bâton",
+                "definition_en": "knock out with a stick",
+                "examples": []
+            },
+            {
+                "definition_fr": "tapoter",
+                "definition_en": "tap",
+                "examples": []
+            },
+            {
+                "definition_fr": "épousseter",
+                "definition_en": "dust",
+                "examples": []
+            },
+            {
+                "definition_fr": "purifier (femme) ; donner une claque au dos",
+                "definition_en": "purify (woman); give a slap on the back",
+                "examples": []
+            },
+            {
+                "definition_fr": "lutter ; bagarrer",
+                "definition_en": "to struggle against ; fight",
+                "examples": []
+            },
+            {
+                "definition_fr": "agiter ; se démener",
+                "definition_en": "shake; to struggle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùʼ",
+        "pronounciation": "ǹ̩tʃȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "libérateur",
+                "definition_en": "liberator",
+                "examples": [
+                    {
+                        "dialect": "Yěsô aa ncùʼ pʉ̀a.",
+                        "fr": "Jésus est le libérateur.",
+                        "en": "Jesus is the deliverer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ncùʼ",
+        "pronounciation": "ǹ̩tʃȕʔ",
+        "synonym": [
+            "mileyôŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "million",
+                "definition_en": "million",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcuʼ",
+        "pronounciation": "ń̩tʃùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aboyer",
+                "definition_en": "bark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcuʼ",
+        "pronounciation": "ń̩tʃùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fendre du bois",
+                "definition_en": "split wood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcuʼ",
+        "pronounciation": "ń̩tʃùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rincer ; secouer",
+                "definition_en": "rinse; shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "rincer ; secouer",
+                "definition_en": "rinse ; shake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcuʼ",
+        "pronounciation": "ń̩tʃùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racheter ; liberer",
+                "definition_en": "buy again; buy more; liberate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcúʼ",
+        "pronounciation": "ń̩tʃúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réunir ; entasser",
+                "definition_en": "gather together; pile up",
+                "examples": [
+                    {
+                        "dialect": "Cúʼu mmó yɛ̂ jʉʼɔɔn.",
+                        "fr": "Entasse ce truc ici.",
+                        "en": "Pile this stuff up here."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "réunir ; entasser",
+                "definition_en": "bring together; pile up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̌",
+        "pronounciation": "ǹ̩tʃɯ̌",
+        "synonym": [
+            "lecʉ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉ́",
+        "pronounciation": "ń̩tʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stresser ; pâlir ; blêmir",
+                "definition_en": "get stressed out; turn pale",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀a",
+        "pronounciation": "ǹ̩tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lièvre",
+                "definition_en": "scrub hare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉa",
+        "pronounciation": "ń̩tʃɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discorder ; entretenir un sentiment de haine",
+                "definition_en": "clash; conflict; maintain feelings of hate",
+                "examples": []
+            },
+            {
+                "definition_fr": "perdre la tête",
+                "definition_en": "lose one’s head",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcʉa",
+        "pronounciation": "ń̩tʃɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer",
+                "definition_en": "pass",
+                "examples": []
+            },
+            {
+                "definition_fr": "défiler ; passer beaucoup de fois",
+                "definition_en": "scroll; pass many times",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépasser",
+                "definition_en": "exceed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀a mánzsè",
+        "pronounciation": "ǹ̩tʃɯ̀ȁ mándzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passant",
+                "definition_en": "passer-by",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀a nzsè",
+        "pronounciation": "ǹ̩tʃɯ̀ȁ ǹ̩dzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passage",
+                "definition_en": "passage",
+                "examples": [
+                    {
+                        "dialect": "Epʉ̀a ée metʉ̌a tà tsɔ̌ ncʉ̀a nzsè te wó wɔ́.",
+                        "fr": "Il y a les gens au marché si bien qu’il n’y a aucun passage.",
+                        "en": "There are so many people at the market that there is no passage."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀a nzsè",
+        "pronounciation": "ǹ̩tʃɯ̀ȁ ǹ̩dzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passant",
+                "definition_en": "passer-by",
+                "examples": [
+                    {
+                        "dialect": "À fʉ̌a nzsè tà tsɔ̌ ncʉ̀a nzsè zɔ̌ laʼte yé.",
+                        "fr": "Il s’est trompé de route si bien que c’est un passant qui la lui a indiqué.",
+                        "en": "He took the wrong route so much so that it was a passerby who pointed it out to him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀a tsitsyɛ̀",
+        "pronounciation": "ǹ̩tʃɯ̀ȁ tsìtsjɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caniveau",
+                "definition_en": "gutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ́agwág",
+        "pronounciation": "ǹ̩tʃɯ́áɣwáq̚",
+        "synonym": [
+            "gwága meku"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille de niébé",
+                "definition_en": "cowpea leaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncʉ̀e",
+        "pronounciation": "ǹ̩tʃɯ̀ȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poids ; pesanteur",
+                "definition_en": "weight; gravity",
+                "examples": []
+            }
+        ]
+    }
+]

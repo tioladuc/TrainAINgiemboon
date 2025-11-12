@@ -1,0 +1,377 @@
+[
+    {
+        "noun": "jabber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jabberer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jam, be in a traffic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnúʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jammed, get",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnúʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "January",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ tsetsɛ̀ɛ lùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jaundice, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ mekwaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jaw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jealous, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼɔ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jealous of, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼɔ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jealousy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jester",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfómo lii",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jigger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúkwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jigger, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jigger that explodes, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jinx",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "levàtsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "job",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòfàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pambè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jobber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa pàmbè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "job, finish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "job, means",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̌b siŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "join",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "join bamboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    }
+]

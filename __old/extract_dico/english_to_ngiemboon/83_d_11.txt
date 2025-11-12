@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "discord",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kège",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discordant, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuɔ mbù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkua mbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discourage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋe lɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyɛte nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discouragement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅìŋe lɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discourager",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅiŋe lɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkem nzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discreetly, move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discriminate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéen nkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtuŋ metuŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ metuŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discrimination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metuŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discuss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "discussion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease caused by thunder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔgɔ́ lefaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease, endemic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "guɔ pàga láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mùʼ mbùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "záʼntɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ ngyǎŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "twó ngyǎŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tème ntɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kekwɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅi lelaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "hége",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease, k. plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyè ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease, k. potato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwà ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disease, k. skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔgɔ́ lefaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "láʼa ncÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disembowel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disfigured child",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwòŋmbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disgrace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disgust",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̀e lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàga káŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dishonour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńníag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníagte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dish, potato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dish, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "págalág",
+                "examples": []
+            }
+        ]
+    }
+]

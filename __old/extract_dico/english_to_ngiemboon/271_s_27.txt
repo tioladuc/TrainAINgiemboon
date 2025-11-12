@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "sound of something moving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kìb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound of tubers leaving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fwɔ̀ʼ fwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, ripe fruit falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sound, water leaving calabash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "soup stock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ndÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "soup tureen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúmbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sour, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "source",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "source, information",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "líɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "South",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "South central",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "South Central, comes from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "so well that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "soya bean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sójà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "space",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "space out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spacing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋáʼtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shú nkùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně mbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sèsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sparkle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwʉŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sparks, throw off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaŋ nné",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sparrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cúkwɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sparrow-hawk, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mágúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sparrow-hawk, West African little",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfùɔ metoŋó",
+                "examples": []
+            }
+        ]
+    }
+]

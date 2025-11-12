@@ -1,0 +1,380 @@
+[
+    {
+        "noun": "nʉ̀ mbum",
+        "pronounciation": "ɳɯ̏ m̩̀bùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ovipare",
+                "definition_en": "oviparous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nʉʼ",
+        "pronounciation": "ɳɯ̀ʔ",
+        "synonym": [
+            "kénʉʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "impérate",
+                "definition_en": "congograss; speargrass; swordgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nʉ̀ʼ",
+        "pronounciation": "ɳɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blâme",
+                "definition_en": "blame",
+                "examples": [
+                    {
+                        "dialect": "Anʉ̀ʼ té poŋ.",
+                        "fr": "Le blâme n’est pas bien.",
+                        "en": "Blame is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nʉ̀ʼʉ tsetsáʼ",
+        "pronounciation": "ɳɯ̀ʔɯ̏ tsètsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colonisateur",
+                "definition_en": "colonizer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nẅèen nkẅíʼ",
+        "pronounciation": "nɥẽ̏ː ŋ̩̀kɥíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "congélateur ; réfrigérateur",
+                "definition_en": "deep-freeze; freezer; refrigerator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nẅɛ̀",
+        "pronounciation": "nɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimade ; oppression",
+                "definition_en": "bullying; oppression",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nẅɛʼɛ́",
+        "pronounciation": "nɥɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nẅɛ̀ʼnẅɛ̀ʼ ńgwɔ́ nkʉŋkʉŋ",
+        "pronounciation": "nɥɛ̏ʔnɥɛ̏ʔ ŋ̩́gwɔ́ ŋ̩̀kɯ̀ŋkɯ̃̀ŋ",
+        "synonym": [
+            "nàʼnàʼ ńgwɔ́ nkʉŋkʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traître",
+                "definition_en": "traitor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyǎŋ",
+        "pronounciation": "ɲã̌ŋ",
+        "synonym": [
+            "kényǎŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(expression donnant le signal de démarrage d’une action ou d’un défit)",
+                "definition_en": "(stating signal)",
+                "examples": [
+                    {
+                        "dialect": "Gɔ̌ɔn ngie nyǎŋ, n gʉa ɔ̀ gyá.",
+                        "fr": "Dis « nyǎŋ », je pars, tu vois.",
+                        "en": "Say “nyǎŋ”, I’m leaving, you see."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nyɛ",
+        "pronounciation": "ɲɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "sp. fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyɛ̀ méshʉŋ",
+        "pronounciation": "ɲɛ̏ méʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyɛlôŋ",
+        "pronounciation": "ɲɛ̀lõ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyɛ́ʼ ŋuʼ",
+        "pronounciation": "ɲɛ́ʔ ŋùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. acroceras",
+                "definition_en": "Kunth dandy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyɛ̀ʼɛ",
+        "pronounciation": "ɲɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "immature ; faible ; inconsistant",
+                "definition_en": "immature; weak; inconsistent",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a nkáʼ, ésẅíʼi nyɛ̀ʼɛ twó nkandi.",
+                        "fr": "Il est parti au champ couper un régime de bananes immatures.",
+                        "en": "He went to the field to cut a bunch of unripe bananas."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nyɛ̀ʼnyɛ̀ʼ mbʉ̀ŋ",
+        "pronounciation": "ɲɛ̏ʔɲɛ̏ʔ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pluie fine ; crachin",
+                "definition_en": "fine rain; drizzle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyìnyɛ̀ʼ mbʉ̀ŋ",
+        "pronounciation": "ɲȉɲɛ̏ʔ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pluie fine",
+                "definition_en": "fine rain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyínyíŋe",
+        "pronounciation": "ɲíɲĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moustique",
+                "definition_en": "mosquito",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyìŋ",
+        "pronounciation": "ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne ; être ; quelqu’un",
+                "definition_en": "person; being; someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyìŋ mesoŋ",
+        "pronounciation": "ɲĩ̏ŋ mèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être humain",
+                "definition_en": "human being",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyìŋe láʼ",
+        "pronounciation": "ɲĩ̀ŋȅ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paysan ; villageois",
+                "definition_en": "farmer; peasant; villager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyìŋe túm",
+        "pronounciation": "ɲĩ̀ŋȅ ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étranger",
+                "definition_en": "foreigner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nyɔ́ɔnsè",
+        "pronounciation": "ɲɔ̃́ːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oignon",
+                "definition_en": "onion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nÿɔ́g",
+        "pronounciation": "nɰɔ́q̚",
+        "synonym": [
+            "menÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "yeux",
+                "definition_en": "eyes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńza",
+        "pronounciation": "ń̩dzà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voler ; détourner",
+                "definition_en": "steal; embezzle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzà ngèle",
+        "pronounciation": "ǹ̩dzȁ ŋ̩̀gə̀lȅ",
+        "synonym": [
+            "nzàŋ ngèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drêche",
+                "definition_en": "draff",
+                "examples": []
+            }
+        ]
+    }
+]

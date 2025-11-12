@@ -1,0 +1,492 @@
+[
+    {
+        "noun": "scrap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfémpfelé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrap (clothing)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkua",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuɔte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkágte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrape broom strands",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scraped by a metal bar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scraper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwòon melÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scraping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scraps",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scraps, dasheen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scratch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuɔte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scratch (from fingers)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scratch iteratively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scratch oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scream at each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóon ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "screen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "screw, tighten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "screw up one’s mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scribble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scribe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyàgte ŋwàʼne Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrounge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼjʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrounger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼjʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "scrubber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sculpt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sculpting tool, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sculptor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòon",
+                "examples": []
+            }
+        ]
+    }
+]

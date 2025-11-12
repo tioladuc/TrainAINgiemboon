@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "hoe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoe handle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkòonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoe working, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúnɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hog, red river",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm nɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hold by the hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅìin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hold in one’s arms",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́mte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hold up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepÿé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole in a needle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwòŋ lesyɛʼɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole in it, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole, pierce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holes, be perforated by several",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holes, block up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mencʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meshʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holes, pierce small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hole without bottom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿé telǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̀gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holiday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅɛté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holiday, initiation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼakém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "holiness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbǒŋ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hollow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

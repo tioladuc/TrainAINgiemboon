@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "towel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "táagwèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toy, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbábálobá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toy’s firing tool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétáŋ ndyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toy soldier",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traced line",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trace points",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "track",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyěen nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "track down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkem nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tradesman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ sɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ metʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traditional cloth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsǒ lekÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traditional week",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàba láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traffic jam, be in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnúʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tragedy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀a megʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyěen nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "train",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwoŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trainer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa ffo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "train oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traitor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nẅɛ̀ʼnẅɛ̀ʼ ńgwɔ́ nkʉŋkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅìŋ ngwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nàʼnàʼ ńgwɔ́ nkʉŋkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tramp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lème ńnéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa pú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trample on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńneŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńneŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "transformed, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "transition",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "translate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyagte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "translation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kyàgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntúm",
+                "examples": []
+            }
+        ]
+    }
+]

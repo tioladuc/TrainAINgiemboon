@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "reserve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reservoir",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reservoir, spring",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿɔ́bɔ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resilient",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resonator, harp with tin-can",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkoon kyɛ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gùʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńná mekùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔbɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔn múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respect, hands clapping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respect, lack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respect, showing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbà lóo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respect, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "respond",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "response",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "piŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pilé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "responsible, person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ má ntsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa nyìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "makwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málekùmo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málekwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pfwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezẅɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rest oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "restore",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "result, obtain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resurrection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "resuscitate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzím",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "retailer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "retail sales",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "retain a leaf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "retaliate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

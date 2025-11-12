@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "give an inheritance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give off smoke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gives, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give things",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́gɔ nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give to honour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́gɔ nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give up the ghost",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "give way",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gizzard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndǐe jʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gland",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mapʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glass objects falling, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿáŋaláŋláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glimmer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìsíi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesìe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glory",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glory, celebrating",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gugẅî",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwò metsǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìsíi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesìe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glucose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀mte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "glue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdele",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gnaw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go ahead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzie",
+                "examples": []
+            }
+        ]
+    }
+]

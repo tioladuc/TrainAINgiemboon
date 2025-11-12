@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "feral cat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ferment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fern",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉshʉ́ŋe kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fern, mosquito",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋngwò leloŋó ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùngwò leloŋó ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fern, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉshʉ́ŋe ntʉ́a nkáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fetish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fever",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fever, diminish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "few",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mentsɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "few days, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "é cʉ̂ʼ lyɛ̌ʼ shÿɔ́ʼɔ tsɔ́ wɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fibre, artificial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋlòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fibre dance skirt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zèzàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fibre, raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅǐŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fibre sack, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀ɔn sẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀ɔn mbÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fidget",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmyɛʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbége mbùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "field",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "field, clear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "field mouse, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùʼ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "field, raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fifteen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀b tʉ̂a lé legém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fifty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "móm ntʉ̂a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fig, African rock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkènkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcwée",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa melàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ melàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtág melàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fighter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàg melàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ melàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fig-mulberry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyé nkenkáb",
+                "examples": []
+            }
+        ]
+    }
+]

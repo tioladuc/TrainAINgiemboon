@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "birth certificate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅiŋ ngùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birthday party",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birth, difficult",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezyé ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birth, give",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birth, pain while giving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "biscuit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bit, a",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bit of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méjʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bitter, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bitter, be slightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bitterleaf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bitter, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̂ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yeséssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "seséssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "peséssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé nyìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meséssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "weséssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "séssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black bean, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "séssé mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú sséssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black bean, sp. large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mátswǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black bean, sp. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyéntsem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black-crowned waxbill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋé pʉ̀pÿɛ̂",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blacken",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blacken something, box",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétɔ́ʼ ndyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black-eyed pea seed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekú koké",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú múɔ láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú gwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blackjack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̀nÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelyɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blacksmith",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâlɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    }
+]

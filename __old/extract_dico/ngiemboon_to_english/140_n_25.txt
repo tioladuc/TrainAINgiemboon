@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "ngímè ntʉ̀",
+        "pronounciation": "ŋ̩̀gímȅ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punaise de lit",
+                "definition_en": "bed bug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngingi",
+        "pronounciation": "ŋ̩̀gìŋgì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ver intestinal",
+                "definition_en": "intestinal worm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngingi mágsè",
+        "pronounciation": "ŋ̩̀gìŋgì máqsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ténia",
+                "definition_en": "tapeworm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgiŋ",
+        "pronounciation": "ŋ̩́gĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marcher",
+                "definition_en": "walk",
+                "examples": []
+            },
+            {
+                "definition_fr": "négocier",
+                "definition_en": "negotiate",
+                "examples": []
+            },
+            {
+                "definition_fr": "se promener ; se balader ; errer",
+                "definition_en": "take a walk ; take a walk; wander",
+                "examples": []
+            },
+            {
+                "definition_fr": "être dérangé (corps)",
+                "definition_en": "to be disturbed (body)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgíŋ",
+        "pronounciation": "ŋ̩́gĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encore ; de nouveau",
+                "definition_en": "still; again",
+                "examples": [
+                    {
+                        "dialect": "Mêngwé giŋé ńdúmo múɔ.",
+                        "fr": "Le chien a encore mordu l’enfant.",
+                        "en": "The dog bit the child again."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngìŋ kěm",
+        "pronounciation": "ŋ̩̀gĩ̏ŋ kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "médiateur ; négociateur",
+                "definition_en": "mediator; negotiator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngiŋe ssé",
+        "pronounciation": "ŋ̩̀gĩ̀ŋè sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piéton",
+                "definition_en": "pedestrian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgiʼ",
+        "pronounciation": "ŋ̩́gìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondre",
+                "definition_en": "melt",
+                "examples": [
+                    {
+                        "dialect": "Megɔ̀ʼ ne ńgiʼi mmɔ̌g.",
+                        "fr": "Les braises se fond dans le feu.",
+                        "en": "The embers melt into the fire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngòŋngé",
+        "pronounciation": "ŋ̩̀gõ̏ŋːgé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngòon",
+        "pronounciation": "ŋ̩̀gõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brin ; tubercule effilée",
+                "definition_en": "twig; pointed tuber",
+                "examples": [
+                    {
+                        "dialect": "Soŋ ngòon jÿɔ̀gɔ, ńná né mèŋ!",
+                        "fr": "Soutire un brin de balai pour me donner !",
+                        "en": "Take a piece of broom to give me!"
+                    },
+                    {
+                        "dialect": "Mèŋ sɔ̌b ngòon mbaŋ.",
+                        "fr": "J’ai piqué une tubercule de taro.",
+                        "en": "I stole a taro tuber."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngòon yáŋ",
+        "pronounciation": "ŋ̩̀gõ̏ː jã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille de natte",
+                "definition_en": "mat leaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̂",
+        "pronounciation": "ŋ̩̀gɔ̂",
+        "synonym": [
+            "ngɔ̂l"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "or",
+                "definition_en": "gold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgɔg",
+        "pronounciation": "ŋ̩́gɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écarter les pieds",
+                "definition_en": "separate one’s feet",
+                "examples": []
+            },
+            {
+                "definition_fr": "écarter les pieds",
+                "definition_en": "spread your feet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̂l",
+        "pronounciation": "ŋ̩̀gɔ̂l",
+        "synonym": [
+            "ngɔ̂"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "or",
+                "definition_en": "gold",
+                "examples": [
+                    {
+                        "dialect": "À jÿɔ́gɔ tàʼshúm gẅie mé la lɔgɔ ngɔ̂l ńnyɛte.",
+                        "fr": "Elle porte un collier qu’on a fabriqué avec de l’or.",
+                        "en": "She wears a necklace that was made from gold."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ɔn",
+        "pronounciation": "ŋ̩̀gɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cabosse",
+                "definition_en": "dent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ɔn",
+        "pronounciation": "ŋ̩̀gɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diseur ; parleur ; l’ayant droit",
+                "definition_en": "talker; copyright holder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̌ɔn",
+        "pronounciation": "ŋ̩̀gɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fétiche ; pierre magique ; divination ; voyance",
+                "definition_en": "fetish; magic stone; divination; clairvoyance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgɔɔn",
+        "pronounciation": "ŋ̩́gɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dire ; parler ; communiquer",
+                "definition_en": "say; speak; communicate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ɔn ntse",
+        "pronounciation": "ŋ̩̀gɔ̃̏ː ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crabe (gén.)",
+                "definition_en": "crab (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ɔn ssé",
+        "pronounciation": "ŋ̩̀gɔ̃̏ː sːé",
+        "synonym": [
+            "mángɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scorpion empereur",
+                "definition_en": "Emperor scorpion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ɔnte",
+        "pronounciation": "ŋ̩̀gɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encouragement ; félicitations",
+                "definition_en": "encouragement; congratulations",
+                "examples": []
+            },
+            {
+                "definition_fr": "appréciation",
+                "definition_en": "appreciation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ́ʼ",
+        "pronounciation": "ŋ̩̀gɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffrance ; peine ; malheur",
+                "definition_en": "suffering; sorrow; punishment; misfortune",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ́ʼ",
+        "pronounciation": "ŋ̩̀gɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngɔ̀ʼmbì",
+        "pronounciation": "ŋ̩̀gɔ̏ʔm̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rot",
+                "definition_en": "belch; burp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgɔʼte",
+        "pronounciation": "ŋ̩́gɔ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprécier ; admirer",
+                "definition_en": "appreciate; admire",
+                "examples": []
+            }
+        ]
+    }
+]

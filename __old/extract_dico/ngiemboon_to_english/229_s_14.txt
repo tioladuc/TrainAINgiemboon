@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "ssé tepòŋ",
+        "pronounciation": "sːé tèpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diable ; Satan ; démon",
+                "definition_en": "devil; Satan; demon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé twó",
+        "pronounciation": "sːé ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. champignon",
+                "definition_en": "sp. mushroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé twó",
+        "pronounciation": "sːé ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "silure (gén.)",
+                "definition_en": "catfish (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssó",
+        "pronounciation": "sːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poisson (gén.)",
+                "definition_en": "fish (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "súlúmákà",
+        "pronounciation": "súlúmákȁ",
+        "synonym": [
+            "sólómákà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cordonnier",
+                "definition_en": "shoemaker; cobbler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swáŋlekyɛ̀bɛ",
+        "pronounciation": "swã́ŋlèkjɛ̀βɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "impertinent ; gaucherie",
+                "definition_en": "cheeky; awkwardness; clumsiness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅé",
+        "pronounciation": "sːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouveau (modifie les noms dans tous les classes)",
+                "definition_en": "new (modifies nouns from all classes)",
+                "examples": [
+                    {
+                        "dialect": "À ne ḿpfɛ́ɛ ngesáŋ sẅé.",
+                        "fr": "Il mange le maïs neuf.",
+                        "en": "He eats the new corn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅè",
+        "pronounciation": "sːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avarice",
+                "definition_en": "miserliness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅè",
+        "pronounciation": "sːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bique",
+                "definition_en": "nanny goat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅe sẅé",
+        "pronounciation": "sːɥè sːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "de nouveau",
+                "definition_en": "again",
+                "examples": [
+                    {
+                        "dialect": "À ka tág ndá ye, ḿbwóon sẅe sẅé.",
+                        "fr": "Il a détruit sa maison pour construire de nouveau.",
+                        "en": "He destroyed his house to build again."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅèen",
+        "pronounciation": "sɥẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourbillon ; vent fort",
+                "definition_en": "whirlwind; strong wind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅétè",
+        "pronounciation": "sːɥétȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paix ; convalescence ; guérison",
+                "definition_en": "peace; convalescence; healing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ́",
+        "pronounciation": "sɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couloir",
+                "definition_en": "corridor",
+                "examples": []
+            },
+            {
+                "definition_fr": "entrailles",
+                "definition_en": "entrails; guts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ́",
+        "pronounciation": "sɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pression ; domination",
+                "definition_en": "pressure; domination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ menɔ̀ɔn",
+        "pronounciation": "sɥɛ̏ mènɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éleveur",
+                "definition_en": "stock breeder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ mvfó",
+        "pronounciation": "sɥɛ̏ ɱ̩̀bvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chevrier",
+                "definition_en": "goatherd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ ŋwáʼ",
+        "pronounciation": "sɥɛ̏ ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apiculteur",
+                "definition_en": "beekeeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ́ɛ",
+        "pronounciation": "sɥɛ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fête de naissance ; fête de mariage ; entraide",
+                "definition_en": "birthday party; wedding; mutual assistance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ",
+        "pronounciation": "sɥɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadeau ; gratuit",
+                "definition_en": "gift; free",
+                "examples": [
+                    {
+                        "dialect": "Ná né mèŋ sẅɛ̀ɛ sẅɛ̀ɛ.",
+                        "fr": "Donne-moi gratuitement.",
+                        "en": "Give me for free."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ",
+        "pronounciation": "sɥɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éleveur",
+                "definition_en": "stock breeder",
+                "examples": [
+                    {
+                        "dialect": "Pasẅɛɛ ngwé pɔɔn.",
+                        "fr": "Voici les éleveurs des chiens.",
+                        "en": "Here are the breeders of the dogs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ",
+        "pronounciation": "sɥɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vide",
+                "definition_en": "empty",
+                "examples": [
+                    {
+                        "dialect": "Tè tÿɔ́gɔ na mmó; tÿɔ́g pɔ́ jʉʼʉ sẅɛ̀ɛ.",
+                        "fr": "Ne pose pas sur quelque chose ; pose sur un endroit vide.",
+                        "en": "Don't put it on anything; place on an empty place."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "gratuit",
+                "definition_en": "free",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ áa sẅɛ̀ɛ mmó.",
+                        "fr": "Ça, c’est une chose gratuite.",
+                        "en": "That's a free thing."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "rien",
+                "definition_en": "nothing",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ áa jʉʼʉ sẅɛ̀ɛ.",
+                        "fr": "Ça, c’est rien.",
+                        "en": "That's nothing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ",
+        "pronounciation": "sɥɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vide ; nul",
+                "definition_en": "empty; nil",
+                "examples": [
+                    {
+                        "dialect": "Te nyé jʉʼɛ á tyé sẅɛ̀ɛ.",
+                        "fr": "Ne laisse pas cet endroit resté vide.",
+                        "en": "Don't let this place remain empty."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ kʉ́kʉ́b",
+        "pronounciation": "sɥɛ̏ː kɯ́kɯ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embrasseur",
+                "definition_en": "kisser; hugger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ mbɔ̀ɔn",
+        "pronounciation": "sɥɛ̏ː m̩̀bɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mue du boa",
+                "definition_en": "moulted boa skin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ɛ nnú",
+        "pronounciation": "sɥɛ̏ː ɳ̩̀ɳú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mue du serpent",
+                "definition_en": "moulted snake skin",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "he",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "e",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "à",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "headband",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head, family",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ tsìŋe ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head hair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lenoŋo twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head, necklace worn around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head, nod",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head of hair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head of the bed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head of the country",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head priest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tándá panùŋe pwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head sacrificer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tándá panùŋe pwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "head, shaved",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzeŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "healer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkem ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿò meffo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzwě ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "healing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "health",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tentʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "health, get back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "health, recover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "healthy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tentʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "healthy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtentʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hear each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíge",
+                "examples": []
+            }
+        ]
+    }
+]

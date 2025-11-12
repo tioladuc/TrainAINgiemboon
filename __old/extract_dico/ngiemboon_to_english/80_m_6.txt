@@ -1,0 +1,404 @@
+[
+    {
+        "noun": "mandèle",
+        "pronounciation": "màndə̀lȅ",
+        "synonym": [
+            "letagá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflet cruciforme en bois",
+                "definition_en": "cruciform wooden whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandelevûm",
+        "pronounciation": "màndə̀lèvûm",
+        "synonym": [
+            "mandʉ̂avûm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disque tournant",
+                "definition_en": "spinning disk used by children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandelevûm nkyɛ̀",
+        "pronounciation": "màndə̀lèvûm ŋ̩̀kyɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rhombe",
+                "definition_en": "bullroarer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mándèndèle",
+        "pronounciation": "mándȅǹ̩də̀lȅ",
+        "synonym": [
+            "mánèndèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paire",
+                "definition_en": "pair",
+                "examples": []
+            },
+            {
+                "definition_fr": "chose accolé (graines de maïs)",
+                "definition_en": "things side by side (corn kernels)",
+                "examples": []
+            },
+            {
+                "definition_fr": "dilemme",
+                "definition_en": "dilemma",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandúm",
+        "pronounciation": "màɳɖúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère du mari",
+                "definition_en": "husband’s mother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mándunzse",
+        "pronounciation": "máɳɖùndzsè",
+        "synonym": [
+            "njÿonzse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandʉ̂avûm",
+        "pronounciation": "màndɯ́àvûm",
+        "synonym": [
+            "mandelevûm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disque tournant",
+                "definition_en": "spinning disk used by children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandÿoonmacǔ",
+        "pronounciation": "màɳɖɰõ̀ːmàtʃǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coucal du Sénégal",
+                "definition_en": "Senegal coucal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandÿɔ́ʼ",
+        "pronounciation": "màɳɖɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cordia",
+                "definition_en": "cordia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánè",
+        "pronounciation": "mánȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère des jumeaux",
+                "definition_en": "mother of twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánèndèle",
+        "pronounciation": "mánȅǹ̩də̀lȅ",
+        "synonym": [
+            "mándèndèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paire",
+                "definition_en": "pair",
+                "examples": []
+            },
+            {
+                "definition_fr": "chose accolé (graines de maïs)",
+                "definition_en": "things side by side (corn kernels)",
+                "examples": []
+            },
+            {
+                "definition_fr": "dilemme",
+                "definition_en": "dilemma",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánènẅèen",
+        "pronounciation": "mánȅnɥẽ̏ː",
+        "synonym": [
+            "mánẅìnẅì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille poilue qui pique",
+                "definition_en": "sp. furry caterpillar that stings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángém ntɔ́ɔn",
+        "pronounciation": "máŋgə́m ntɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "luffa",
+                "definition_en": "loofah plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mângoŋ kéloŋ",
+        "pronounciation": "mâŋgõ̀ŋ kélõ̀ŋ",
+        "synonym": [
+            "mânkoŋ kéloŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "sp. vine",
+                "examples": [
+                    {
+                        "dialect": "Néŋ membaŋ mângoŋ kéloŋ tsɛ̀ɛ lâm ńdɔg sɔg.",
+                        "fr": "Mets les grains de « mângoŋ kéloŋ » dans la lampe pour laver (l’intérieur).",
+                        "en": "Put the grains of “mângoŋ kéloŋ” in the lamp to wash (the inside)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mángɔɔn",
+        "pronounciation": "máŋgɔ̃̀ː",
+        "synonym": [
+            "ngɔ̀ɔn ssé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scorpion empereur",
+                "definition_en": "Emperor scorpion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángɔɔn lekye",
+        "pronounciation": "máŋgɔ̃̀ː lèkxjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourmilion ; fourmi-lion",
+                "definition_en": "ant lion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángɔɔn njʉ̀ʼ",
+        "pronounciation": "máŋgɔ̃̀ː ǹ̩dʒɯ̏ʔ",
+        "synonym": [
+            "mángʉa njʉ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ancêtre",
+                "definition_en": "ancestor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mangɔ́ʼ",
+        "pronounciation": "màŋgɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle pour les jeunes",
+                "definition_en": "k. cultural dance for young people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángʉa njʉ̀ʼ",
+        "pronounciation": "máŋgɯ̀à ǹ̩dʒɯ̏ʔ",
+        "synonym": [
+            "mángɔɔn njʉ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ancêtre",
+                "definition_en": "ancestor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángʉm",
+        "pronounciation": "máŋgɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "merveille",
+                "definition_en": "marvel; wonder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mangwá",
+        "pronounciation": "màŋgwá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mont Bamboutos",
+                "definition_en": "Bamboutos mountain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mángyɛ̌",
+        "pronounciation": "máŋgjɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "place publique ; podium ; terrasse",
+                "definition_en": "public place; podium; terrace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manjÿàngà",
+        "pronounciation": "màndʒɰã̏ŋɡȁ",
+        "synonym": [
+            "menjÿàngà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. petite crevette",
+                "definition_en": "sp. small prawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manjÿò",
+        "pronounciation": "màndʒʃɰȍ",
+        "synonym": [
+            "mâjÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "estomac",
+                "definition_en": "stomach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mankànjùʼ",
+        "pronounciation": "màŋkȁndʒȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    }
+]

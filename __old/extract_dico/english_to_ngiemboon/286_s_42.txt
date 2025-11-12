@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "surprising thing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "surround",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "surroundings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkekéle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suspend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suspended, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swallow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swallower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swallow (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swallow quickly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swamp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǎg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swamp morning-glory",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mânkɔ́ʼ mêngwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swarm of bees",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéʼe wétá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaŋa tsetsáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ nkwèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńziʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweater",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsǒ fÿág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋmbôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet, be a bit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉmte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet, be less",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaga tsẅaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweetmeat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet potato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mânkɔ́ʼ féfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sweet-talk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋte",
+                "examples": []
+            }
+        ]
+    }
+]

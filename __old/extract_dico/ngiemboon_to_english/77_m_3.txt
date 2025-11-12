@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "mága",
+        "pronounciation": "máʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insigne ; remarque ; tatouage",
+                "definition_en": "badge; remark; tattoo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "màga lyɛ̌ʼ",
+        "pronounciation": "màʁȁ ljɛ̌ʔ",
+        "synonym": [
+            "sáasèndê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "samedi",
+                "definition_en": "Saturday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mágàb",
+        "pronounciation": "máɣȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concubine",
+                "definition_en": "concubine; cohabitant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mágàb",
+        "pronounciation": "máɣȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "confidente",
+                "definition_en": "confidante",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "magmag",
+        "pronounciation": "màqmàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vaguement",
+                "definition_en": "vaguely",
+                "examples": [
+                    {
+                        "dialect": "À líe jʉʼ pɔ́ magmag.",
+                        "fr": "Il regarde vaguement.",
+                        "en": "He looks vaguely."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "finalement",
+                "definition_en": "finally",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mágɔ̀ʼpʉ̌ŋ",
+        "pronounciation": "máɣɔ̏ʔpɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mágúm",
+        "pronounciation": "máɣúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. épervier",
+                "definition_en": "sp. sparrow-hawk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "májÿò",
+        "pronounciation": "máʒʃɰȍ",
+        "synonym": [
+            "manjÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "estomac",
+                "definition_en": "stomach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákàba",
+        "pronounciation": "mákàβȁ",
+        "synonym": [
+            "kuʼú lekàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "macabo (gén.)",
+                "definition_en": "new cocoyam (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákàba páŋ",
+        "pronounciation": "mákàβȁ pã́ŋ",
+        "synonym": [
+            "pàŋ nkwoŋ ",
+            " pàŋa tenùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. macabo rouge",
+                "definition_en": "sp. new red cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákaláʼ",
+        "pronounciation": "mákàláʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aînée directe des jumeaux",
+                "definition_en": "oldest sibling of twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makánè",
+        "pronounciation": "màkánȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mécanicien",
+                "definition_en": "mechanic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákěm nkwàʼ",
+        "pronounciation": "mákə̌m ŋ̩̀kwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (venimeux)",
+                "definition_en": "sp. ant (poisonous)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákemte púɔ",
+        "pronounciation": "mákə̀mtè púɔ́",
+        "synonym": [
+            "mákʉmte púɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plante sensitive",
+                "definition_en": "life plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákemte púɔ nzóŋ",
+        "pronounciation": "mákə̀mtè púɔ́ ǹ̩dzṍŋ",
+        "synonym": [
+            "mákʉmte púɔ nzóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákìkyè",
+        "pronounciation": "mákȉkxjȅ",
+        "synonym": [
+            "mákyè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.c.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tel ; quelqu’un",
+                "definition_en": "one; someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makòŋ ngé",
+        "pronounciation": "màkõ̏ŋ ŋ̩̀gé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makósǎ",
+        "pronounciation": "màkósǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tricotage",
+                "definition_en": "knitting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákɔ̀ɔn",
+        "pronounciation": "mákɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte comestible",
+                "definition_en": "sp. edible insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makúkú",
+        "pronounciation": "màkúkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tissu blanc",
+                "definition_en": "k. white cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákùm",
+        "pronounciation": "mákȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne masqué",
+                "definition_en": "masked person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mâkùmbà",
+        "pronounciation": "mâkȕmbȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. taro",
+                "definition_en": "sp. cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákʉ̀",
+        "pronounciation": "mákɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. pierre",
+                "definition_en": "k. stone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákʉmte púɔ",
+        "pronounciation": "mákɯ̀mtè púɔ́",
+        "synonym": [
+            "mákemte púɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plante sensitive",
+                "definition_en": "life plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákʉmte púɔ nzóŋ",
+        "pronounciation": "mákɯ̀mtè púɔ́ ǹ̩dzṍŋ",
+        "synonym": [
+            "mákemte púɔ nzóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    }
+]

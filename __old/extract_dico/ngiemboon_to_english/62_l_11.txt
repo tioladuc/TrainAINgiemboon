@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "lèm ndyé",
+        "pronounciation": "lə̏m ǹ̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourdonnement du ventre",
+                "definition_en": "stomach hum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemaŋ",
+        "pronounciation": "lèmã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose étonnante ; miracle ; chose incroyable ; chose extraordinaire",
+                "definition_en": "something surprising; miracle; something unbelievable; something extraordinary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lembʉ̀le",
+        "pronounciation": "lèmbɯ̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "criquet ; sauterelle",
+                "definition_en": "locust; grasshopper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lème",
+        "pronounciation": "lə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pudicité",
+                "definition_en": "modesty",
+                "examples": []
+            },
+            {
+                "definition_fr": "pollution",
+                "definition_en": "pollution",
+                "examples": []
+            },
+            {
+                "definition_fr": "termite conservé",
+                "definition_en": "canned termites",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lème ńnéŋe",
+        "pronounciation": "lə̀mȅ ń̩nə̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot",
+                "definition_en": "sp. bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lème ńnéŋe",
+        "pronounciation": "lə̀mȅ ń̩nə̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parasite ; clochard",
+                "definition_en": "parasite; tramp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemí",
+        "pronounciation": "lèmí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflotement ; sifflement",
+                "definition_en": "whistling; hissing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemù",
+        "pronounciation": "lèmȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tribune",
+                "definition_en": "gallery; grandstand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemvwɔ̀ʼɔ",
+        "pronounciation": "lèmbvwɔ̀ʔɔ̏",
+        "synonym": [
+            "mántǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemÿàg",
+        "pronounciation": "lèmɰȁq̚",
+        "synonym": [
+            "lemÿɔ̀g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chagrin",
+                "definition_en": "grief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemÿɔ̀g",
+        "pronounciation": "lèmɰɔ̏q̚",
+        "synonym": [
+            "lemÿàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chagrin",
+                "definition_en": "grief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lengaŋ",
+        "pronounciation": "lèŋgã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lengɔ̀ɔn",
+        "pronounciation": "lèŋgɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lengɔ̀ʼɔ",
+        "pronounciation": "lèŋgɔ̀ʔɔ̏",
+        "synonym": [
+            "kéléndeŋ ",
+            " ntsɔ̀ʼ ngɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boubou tropical",
+                "definition_en": "puffback shrike",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lenoŋ",
+        "pronounciation": "lènõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poil",
+                "definition_en": "hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lenoŋo twó",
+        "pronounciation": "lènõ̀ŋȍ ʈθwó",
+        "synonym": [
+            "nnoŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chevelure",
+                "definition_en": "head hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lenuŋé",
+        "pronounciation": "lèɳũ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépôt ; dépotoir",
+                "definition_en": "depot; warehouse; rubbish dump; garbage dump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leŋ",
+        "pronounciation": "lə̃̀ŋ",
+        "synonym": [
+            "lʉŋ ",
+            " kwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabouret",
+                "definition_en": "stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "léŋ",
+        "pronounciation": "lə̃́ŋ",
+        "synonym": [
+            "lʉ́ŋ ",
+            " máleŋ ",
+            " malʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balançoire",
+                "definition_en": "swing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèŋ",
+        "pronounciation": "lə̃̏ŋ",
+        "synonym": [
+            "lʉ̀ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. écureuil",
+                "definition_en": "sp. squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lêŋ",
+        "pronounciation": "lə̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit des pieds cognés au sol",
+                "definition_en": "sound of feet striking the ground",
+                "examples": [
+                    {
+                        "dialect": "À temé kwò yé ssé lê lêŋ páʼ kàtúʼ.",
+                        "fr": "Il a cogné son pied au sol que « lêŋ » comme un soldat.",
+                        "en": "He stomped his foot on the ground like a soldier."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "léŋ ndá",
+        "pronounciation": "lə̃́ŋ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dalle",
+                "definition_en": "slab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leŋaŋ",
+        "pronounciation": "lèŋã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racine",
+                "definition_en": "root",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèŋe",
+        "pronounciation": "lə̃̀ŋȅ",
+        "synonym": [
+            "lʉ̀ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvaise partie de macabo",
+                "definition_en": "bad part of taro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèŋe",
+        "pronounciation": "lə̃̀ŋȅ",
+        "synonym": [
+            "lʉ̀ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "placenta",
+                "definition_en": "placenta",
+                "examples": []
+            }
+        ]
+    }
+]

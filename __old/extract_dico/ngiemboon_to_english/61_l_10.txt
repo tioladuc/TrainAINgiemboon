@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "lelíb",
+        "pronounciation": "lèlíp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anse",
+                "definition_en": "handle; loop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelíb ndù",
+        "pronounciation": "lèlíp̚ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affixe",
+                "definition_en": "affix",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelíɛ ntse",
+        "pronounciation": "lèlíɛ́ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dytique",
+                "definition_en": "predaceous diving beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelɔ́g",
+        "pronounciation": "lèlɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sommeil",
+                "definition_en": "sleep",
+                "examples": []
+            },
+            {
+                "definition_fr": "dormeur",
+                "definition_en": "sleeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelùb",
+        "pronounciation": "lèɭȕp̚",
+        "synonym": [
+            "lùbo lengwɔʼɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lélum",
+        "pronounciation": "léɭùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment fait de l’écorce",
+                "definition_en": "k. condiment from bark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leluŋó",
+        "pronounciation": "lèɭũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ensemble musicale",
+                "definition_en": "musical ensemble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelùŋo",
+        "pronounciation": "lèɭũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balle",
+                "definition_en": "ball; bullet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelúʼ",
+        "pronounciation": "lèɭúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuillère",
+                "definition_en": "spoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leluʼú",
+        "pronounciation": "lèɭùʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bosse",
+                "definition_en": "bump; hump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leluʼú kwò",
+        "pronounciation": "lèɭùʔú kxwȍ",
+        "synonym": [
+            "lelÿɔʼtě kwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cheville",
+                "definition_en": "ankle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelʉ̀a",
+        "pronounciation": "lèlɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le fait de pleurer",
+                "definition_en": "crying",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔgɔ lelʉ̀a ḿvege wɔ́?",
+                        "fr": "Tu utilises les pleurs pour effrayer qui ?",
+                        "en": "Who are you using crying to scare?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lelʉŋé",
+        "pronounciation": "lèlɯ̃̀ŋé",
+        "synonym": [
+            "leleŋé",
+            " leleŋé pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anneau ; boucle",
+                "definition_en": "ring; buckle",
+                "examples": []
+            },
+            {
+                "definition_fr": "phalange",
+                "definition_en": "phalanx",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelʉ̀ʼʉ twó",
+        "pronounciation": "lèɭɯ̀ʔɯ̏ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arbalétrier ; poutre",
+                "definition_en": "crossbowman; beam; girder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelwò nŋwáʼ",
+        "pronounciation": "lèɭɬwȍ ŋ̩̀ŋwáʔ",
+        "synonym": [
+            "lwò nŋwáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miel",
+                "definition_en": "honey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelẅe múɔ",
+        "pronounciation": "lèlɬɥè múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. criquet",
+                "definition_en": "sp. cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelyè",
+        "pronounciation": "lèlɬjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "service de nourriture",
+                "definition_en": "food service",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelyèen",
+        "pronounciation": "lèljẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cachette",
+                "definition_en": "hiding place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelyɛ̌",
+        "pronounciation": "léljɛ̌",
+        "synonym": [
+            "lyɛ̀nÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bident",
+                "definition_en": "blackjack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelÿò",
+        "pronounciation": "lèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barbe",
+                "definition_en": "beard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelÿò",
+        "pronounciation": "lèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majorité ; plupart",
+                "definition_en": "majority; most",
+                "examples": [
+                    {
+                        "dialect": "Lelÿò melÿò kwoŋe pʉ́a tɛʼ.",
+                        "fr": "La majorité des vieux aiment le taro.",
+                        "en": "The majority of old people like taro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lelÿò ngesáŋ",
+        "pronounciation": "lèɭɬɰȍ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barbe de maïs",
+                "definition_en": "corn silk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelÿɔʼ",
+        "pronounciation": "lèɭɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname jaune",
+                "definition_en": "sp. yellow yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelÿɔʼté kwò",
+        "pronounciation": "lèɭɰɔ̀ʔté kxwȍ",
+        "synonym": [
+            "leluʼú kwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cheville",
+                "definition_en": "ankle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lém",
+        "pronounciation": "lə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuage",
+                "definition_en": "cloud",
+                "examples": []
+            },
+            {
+                "definition_fr": "esprit",
+                "definition_en": "spirit",
+                "examples": []
+            }
+        ]
+    }
+]

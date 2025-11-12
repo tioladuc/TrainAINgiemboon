@@ -1,0 +1,446 @@
+[
+    {
+        "noun": "mezẅìŋ",
+        "pronounciation": "mèzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieux (qualifie les noms des classes 4 et 6)",
+                "definition_en": "old (qualifies class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À nǎ mezẅìŋ nzsǒ né pʉ̀a.",
+                        "fr": "Il a donné les vieux habits au fou.",
+                        "en": "He gave the old clothes to the madman."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɛ́",
+        "pronounciation": "mɛ́",
+        "synonym": [
+            "ŋwɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.anaph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le ; la ; celui déjà mentionné (adj. anaphorique)",
+                "definition_en": "the; the same (anaphoric adj.)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ně ńtóŋo nyìŋ mɛ́, à tè zẅíŋ.",
+                        "fr": "Ils ont appelé cette personne-là, elle n’a pas répondu.",
+                        "en": "They called that person, she didn't answer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɛ̀",
+        "pronounciation": "mɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux ; ceux-là (pron. dém. de moyen proximité désignant les noms des classes 4 et 6)",
+                "definition_en": "those; those there (middle distant demonstrative pronoun that refers to class 4 or 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mekwɔ̀ʼɔ mé mɛ.",
+                        "fr": "Ses tabourets sont ceux-là.",
+                        "en": "His stools are these."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ces ; ces ... -là (adj. dém. de moyen proximité qui modifie les noms des classes 4 et 6)",
+                "definition_en": "those; those there (middle demonstrative adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tâm ge jú menkáʼ mɛ.",
+                        "fr": "Tam achètera ces champs-là.",
+                        "en": "Tam will buy these fields."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɛ̌",
+        "pronounciation": "mɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lesquels ? (demandant pour les noms des classes 4 et 6)",
+                "definition_en": "which ones? (asking for classes 4 and 6)",
+                "examples": [
+                    {
+                        "dialect": "Pi ge gʉa na mepɔ̀ɔn mɔɔn é kaa mɛ̌?",
+                        "fr": "Parmi les sacs-ci, vous allez porter lesquels ?",
+                        "en": "Which of the following bags will you wear?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɛ̌ɛʼ",
+        "pronounciation": "mɛ̌ːʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêlement du chèvre",
+                "definition_en": "bleat of a goat",
+                "examples": [
+                    {
+                        "dialect": "Mêmvfó gaʼté lê mɛ̌ɛʼ, ńdɔg ńtóŋo múɔ.",
+                        "fr": "Pour appeler le chevreau, la chèvre a chevroté.",
+                        "en": "To call the kid, the goat quavered."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɛ̌ʼ",
+        "pronounciation": "mɛ̌ʔ",
+        "synonym": [
+            "mbɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêlement du mouton",
+                "definition_en": "bleat of a sheep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mi",
+        "pronounciation": "mì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux ; ceux-là (pron. dém. de loin qui modifie les noms des classes 4 et 6)",
+                "definition_en": "those; those there (distant demonstrative pronoun referring to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Metÿǒ mɔɔn, é té sag, emi ésag mboŋó.",
+                        "fr": "Ces arbres ne sont pas longs, ceux-là sont bien longs.",
+                        "en": "These trees are not long, these are very long."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ces ; ces ... -là (adj. dém. de loin qui modifie les noms des classes 4 et 6)",
+                "definition_en": "those; those ... there (distant demonstrative adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mepɔ̀ɔn mi té poŋ.",
+                        "fr": "Ces sacs-là ne sont pas bons.",
+                        "en": "These bags are not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mí",
+        "pronounciation": "mí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand cour d’eau",
+                "definition_en": "large river of water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mí",
+        "pronounciation": "mí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les vôtres (pron. poss. de la 2e personne du pluriel qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "yours (second person plural possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie n too ńjú mencʉ́ŋ, ńjú mí.",
+                        "fr": "Il a dit qu’en achetant les bouteilles, j’achète les vôtres.",
+                        "en": "He said when I buy the bottles, I buy yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vos (adj. poss. de la 2e personne du pluriel qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your (second person plural possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vos (adj. poss.  emph. de la 2eme personne du pluriel qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mí gyeen guu",
+        "pronounciation": "mí ɣjẽ̀ː ɣùː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miaulement (chat)",
+                "definition_en": "meow (cat)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mi lé mèŋ",
+        "pronounciation": "mì lé mə̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je-m’en-foutiste",
+                "definition_en": "indifferent person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mie",
+        "pronounciation": "mìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que ; qui (pron. relatif qui modifie les noms des classes 4 et 6)",
+                "definition_en": "that; who (relative pronoun modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mekwɔ̀ʼɔ mie é kɔʼɔ́ jʉʼɔɔn pfǒ nzɔ̌?",
+                        "fr": "Où sont les tabourets qui étaient ici ?",
+                        "en": "Where are the stools that were here?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mìi",
+        "pronounciation": "mȉː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avaleur",
+                "definition_en": "swallower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mìi lóŋ",
+        "pronounciation": "mȉː lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œsophage ; gorge ; gosier",
+                "definition_en": "oesophagus; throat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "míile",
+        "pronounciation": "mí:lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "myrrhe ; s. gomme-résine odorante et médicinale",
+                "definition_en": "myrrh; k. smelly medicinal gum resin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mileyôŋ",
+        "pronounciation": "mìlèjõ̂ŋ",
+        "synonym": [
+            "ncùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "million",
+                "definition_en": "million",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin nkáb tà é tɔ́gɔ tàʼ mileyôŋ.",
+                        "fr": "Il a l’argent plus d’un million.",
+                        "en": "He has money over a million."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "miliyâ",
+        "pronounciation": "mìlìjâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "milliard",
+                "definition_en": "billion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mìmbum",
+        "pronounciation": "mȉmbùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. serpent",
+                "definition_en": "Central African egg-eating snake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "míndèlèwɔg",
+        "pronounciation": "míndȅlȅwɔ̀q̚",
+        "synonym": [
+            "tsetsɛ̀ɛ lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mercredi",
+                "definition_en": "Wednesday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mínẅîd",
+        "pronounciation": "mínɥît̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minute",
+                "definition_en": "minute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "míŋ",
+        "pronounciation": "mĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fils",
+                "definition_en": "son",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "míŋ míŋ múɔ",
+        "pronounciation": "mĩ́ŋ mĩ́ŋ múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrière-petit-fils",
+                "definition_en": "great-grandson",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "misîoŋ",
+        "pronounciation": "mìsíõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mission",
+                "definition_en": "mission",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mítà",
+        "pronounciation": "mítȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mètre",
+                "definition_en": "metre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miʼté",
+        "pronounciation": "mìʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "légère inflammation de la gorge",
+                "definition_en": "light inflammation of the throat",
+                "examples": []
+            }
+        ]
+    }
+]

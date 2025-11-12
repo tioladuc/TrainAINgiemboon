@@ -1,0 +1,424 @@
+[
+    {
+        "noun": "ḿmÿɛ́te",
+        "pronounciation": "ḿ̩mɰɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être enceinte",
+                "definition_en": "be pregnant",
+                "examples": []
+            },
+            {
+                "definition_fr": "prendre du poids",
+                "definition_en": "gain weight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmÿɔb",
+        "pronounciation": "ḿ̩mɰɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger en allongeant les lèvres",
+                "definition_en": "eat while lengthening the lips",
+                "examples": []
+            },
+            {
+                "definition_fr": "distordre la bouche",
+                "definition_en": "distort the mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmÿɔg",
+        "pronounciation": "ḿ̩mɰɔ̀q̚",
+        "synonym": [
+            "ḿmÿag"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regretter ; s’inquiéter",
+                "definition_en": "regret; worry",
+                "examples": []
+            },
+            {
+                "definition_fr": "regretter ; inquiéter ; se soucier ; irriter",
+                "definition_en": "regret; worry; to care; irritate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mǒ",
+        "pronounciation": "mǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sur ; au-dessus",
+                "definition_en": "on; above",
+                "examples": [
+                    {
+                        "dialect": "À nyɛ̌ mmɔ̌g, ńkaa lekʉŋ ńtÿɔ́gɔ mǒ.",
+                        "fr": "Il a allumé le feu et a porté la marmite pour mettre au-dessus.",
+                        "en": "He lit the fire and carried the pot to put on top."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "móm lefɔ̌ɔn",
+        "pronounciation": "mɤ́m lèfɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre-vingt",
+                "definition_en": "eighty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm lekùa",
+        "pronounciation": "mɤ́m lèkùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quarante",
+                "definition_en": "forty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm lepfwɔʼɔ́",
+        "pronounciation": "mɤ́m lèpfwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre-vingt-dix",
+                "definition_en": "ninety",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm mbʉ́a",
+        "pronounciation": "mɤ́m m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vingt",
+                "definition_en": "twenty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm ntá",
+        "pronounciation": "mɤ́m ǹ̩tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trente",
+                "definition_en": "thirty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm ntɔgɔ́",
+        "pronounciation": "mɤ́m ǹ̩tɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soixante",
+                "definition_en": "sixty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm ntʉ̂a",
+        "pronounciation": "mɤ́m ɳ̩̀ʈɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinquante",
+                "definition_en": "fifty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móm sɔɔn mbʉ́a",
+        "pronounciation": "mɤ́m sɔ̃̀ː m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soixante-dix",
+                "definition_en": "seventy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "momte",
+        "pronounciation": "mɤ̀mtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "total",
+                "definition_en": "total",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moŋo nzẅìŋ",
+        "pronounciation": "mõ̀ŋò ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cher",
+                "definition_en": "dear; expensive",
+                "examples": []
+            },
+            {
+                "definition_fr": "chose à prix inestimable",
+                "definition_en": "priceless thing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moon",
+        "pronounciation": "mõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sans doute",
+                "definition_en": "without doubt",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ge kaa gú jú, é gʉa túŋ moon!",
+                        "fr": "Ils te porteront aussi pour aller enterrer, sans doute !",
+                        "en": "They will also carry you to go to bury, no doubt!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mòon",
+        "pronounciation": "mõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "réponse.honor",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oui (aux majestés)",
+                "definition_en": "yes (to majestic rulers)",
+                "examples": [
+                    {
+                        "dialect": "À fùɔ lɔɔn ńtóŋo ɔ́, ɔ̀ zẅíŋ ngie mòon.",
+                        "fr": "Si sa majesté t’appelle, accepte en disant oui.",
+                        "en": "If his majesty calls you, accept by saying yes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mòon",
+        "pronounciation": "mõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "péri ; petit",
+                "definition_en": "fairylike; small",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ jʉʼɛ ńgÿo kɔ́ mòon?",
+                        "fr": "Que fais-tu là petit ?",
+                        "en": "What are you doing there little one?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mòon mbì",
+        "pronounciation": "mõ̏ː m̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "longue tige sur laquelle on tisse la natte",
+                "definition_en": "long rod for weaving a mat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mòon ngékule",
+        "pronounciation": "mõ̏ː ŋ̩̀ɡékùlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenue de guerre ; s. habit velu",
+                "definition_en": "war fatigues; k. hairy clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mòon nkíle",
+        "pronounciation": "mõ̏ː ŋ̩̀kílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guide servant pour diriger la natte qu’on tisse",
+                "definition_en": "guide for guiding a mat being woven",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móonndi",
+        "pronounciation": "mṍːndì",
+        "synonym": [
+            "mvfò lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lundi",
+                "definition_en": "Monday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "móonpuʼ",
+        "pronounciation": "mṍːpùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notable sacrificateur",
+                "definition_en": "prominent sacrificer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ́",
+        "pronounciation": "mɔ́",
+        "synonym": [
+            "wɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pas (variante de wɔ́ seulement après pron. 1s)",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ té mmó yɔ́ɔn mɔ́.",
+                        "fr": "Cette chose ne m’appartient pas.",
+                        "en": "This thing doesn't belong to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔ́b",
+        "pronounciation": "mɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les leurs (pron. poss. de la 3e personne du pluriel qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "theirs (3rd person plural possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leurs (adj. poss. de la 3e personne du pluriel qui modifie les noms des classes 4 et 6)",
+                "definition_en": "theirs (3rd person plural possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leurs (adj. poss.  emph. de la 3e personne du pluriel qui modifie les noms des classes 4 et 6)",
+                "definition_en": "theirs (3rd person emphatic plural possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̀g",
+        "pronounciation": "mɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouvement intermittent (fumée, œsophage)",
+                "definition_en": "intermittent movement (smoke, oesophagus)",
+                "examples": [
+                    {
+                        "dialect": "À nǔu káb we tà ndyé ne ńkẅɛɛ lê mɔ̀g.",
+                        "fr": "Il a fumé sa pipe jusqu’à ce que la fumé se dégage d’une manière intermittente.",
+                        "en": "He smoked his pipe until the smoke came out intermittently."
+                    }
+                ]
+            }
+        ]
+    }
+]

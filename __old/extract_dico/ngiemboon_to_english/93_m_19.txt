@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "mbùʼ ngwòŋ",
+        "pronounciation": "m̩̀bȕʔ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "créateur",
+                "definition_en": "creator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbùʼndɔɔn",
+        "pronounciation": "m̩̀bȕʔǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Mbouda",
+                "definition_en": "Mbouda",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùʼu",
+        "pronounciation": "m̩̀bùʔȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joueur",
+                "definition_en": "player",
+                "examples": []
+            },
+            {
+                "definition_fr": "frappeur",
+                "definition_en": "striker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbuʼú ŋwèʼe",
+        "pronounciation": "m̩̀bùʔú ŋwèʔȅ",
+        "synonym": [
+            "lepuʼú ŋwèʼe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "document ; livre",
+                "definition_en": "document; book",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀",
+        "pronounciation": "m̩̀bɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brique",
+                "definition_en": "brick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ",
+        "pronounciation": "ḿ̩bɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monter ; grimper",
+                "definition_en": "go up; climb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́",
+        "pronounciation": "ḿ̩bɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interdire ; refuser",
+                "definition_en": "forbid; ban; refuse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ́a",
+        "pronounciation": "m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (seulement pour compter)",
+                "definition_en": "two (only for counting)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ́a",
+        "pronounciation": "m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourreau",
+                "definition_en": "sheath",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀a",
+        "pronounciation": "m̩̀bɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concession",
+                "definition_en": "plot (land)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉa",
+        "pronounciation": "ḿ̩bɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haïr",
+                "definition_en": "hate; detest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́a",
+        "pronounciation": "ḿ̩bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fou",
+                "definition_en": "be crazy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀a ŋàg",
+        "pronounciation": "m̩̀bɯ̀ȁ ŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "palais de justice ; cour d’appel",
+                "definition_en": "law court; appeal court",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉe",
+        "pronounciation": "ḿ̩bɯ̀è",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remuer ; tourner",
+                "definition_en": "stir; turn",
+                "examples": []
+            },
+            {
+                "definition_fr": "remuer régulièrement ; retourner",
+                "definition_en": "stir regularly; return",
+                "examples": []
+            },
+            {
+                "definition_fr": "fouiller",
+                "definition_en": "rummage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉe",
+        "pronounciation": "ḿ̩bɯ̀è",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourmenter",
+                "definition_en": "torment",
+                "examples": []
+            },
+            {
+                "definition_fr": "tourmenter",
+                "definition_en": "torment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ́lè",
+        "pronounciation": "m̩̀bɯ́lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paix",
+                "definition_en": "peace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉle",
+        "pronounciation": "ḿ̩bɯ̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déverser ; tomber ; se verser ; se déverser",
+                "definition_en": "pour out; fall; pour for oneself; pour out for oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́le",
+        "pronounciation": "ḿ̩bɯ́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être facile",
+                "definition_en": "be easy",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramollir ; adoucir",
+                "definition_en": "soften; make milder",
+                "examples": []
+            },
+            {
+                "definition_fr": "être conciliant",
+                "definition_en": "be conciliatory",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀le pʉlé",
+        "pronounciation": "m̩̀bɯ̀lȅ pɯ̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paisible",
+                "definition_en": "peaceful",
+                "examples": [
+                    {
+                        "dialect": "À neŋé na jʉʼʉ mbʉ̀le pʉlé.",
+                        "fr": "Il est assis sur un lieu paisible.",
+                        "en": "He is sitting in a peaceful place."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ́ŋ",
+        "pronounciation": "m̩̀bɯ̃́ŋ",
+        "synonym": [
+            "mbéŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traverse du lit",
+                "definition_en": "bed strut; bed crosspiece",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀ŋ",
+        "pronounciation": "m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pluie",
+                "definition_en": "rain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ŋ",
+        "pronounciation": "ḿ̩bɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brailler",
+                "definition_en": "bawl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ŋ",
+        "pronounciation": "ḿ̩bɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire un grand feu",
+                "definition_en": "make a big fire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ́ŋ mezẅé",
+        "pronounciation": "m̩̀bɯ̃́ŋ mèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narine",
+                "definition_en": "nostril",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉŋe",
+        "pronounciation": "ḿ̩bɯ̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire mûrir ; laisser mûrir",
+                "definition_en": "make ripe; let ripen",
+                "examples": []
+            },
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross",
+                "examples": []
+            }
+        ]
+    }
+]

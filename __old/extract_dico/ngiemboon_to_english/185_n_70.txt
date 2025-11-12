@@ -1,0 +1,460 @@
+[
+    {
+        "noun": "ńtsyɛ́te",
+        "pronounciation": "ń̩tsjɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner itérativement",
+                "definition_en": "keep knocking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyɛ̀ʼ",
+        "pronounciation": "ǹ̩tsjɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sabot",
+                "definition_en": "hoof; clog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyɛʼ",
+        "pronounciation": "ń̩tsjɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entailler",
+                "definition_en": "cut",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’entailler",
+                "definition_en": "cut oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "se fendiller çà et là",
+                "definition_en": "crack here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyɛʼɛ́",
+        "pronounciation": "ǹ̩tsjɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante sauvage",
+                "definition_en": "sp. wild grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyɛʼɛ kwò",
+        "pronounciation": "ǹ̩tsjɛ̀ʔɛ̀ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pied ; métatarse",
+                "definition_en": "foot; metatarsus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyɛʼte",
+        "pronounciation": "ń̩tsjɛ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saluer",
+                "definition_en": "greet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntú",
+        "pronounciation": "ɳ̩̀ʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intestin",
+                "definition_en": "intestine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtu",
+        "pronounciation": "ɳ̩́ʈù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déverser",
+                "definition_en": "pour out",
+                "examples": [
+                    {
+                        "dialect": "À tǔ ntse jʉʼɔɔn.",
+                        "fr": "Il a déversé l’eau ici.",
+                        "en": "He dumped the water here."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "entonner",
+                "definition_en": "start singing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtu",
+        "pronounciation": "ɳ̩́ʈù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "penser",
+                "definition_en": "think",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtú",
+        "pronounciation": "ɳ̩́ʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner",
+                "definition_en": "bump; strike",
+                "examples": []
+            },
+            {
+                "definition_fr": "dénigrer",
+                "definition_en": "denigrate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtú",
+        "pronounciation": "ɳ̩́ʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "critiquer",
+                "definition_en": "criticize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtú",
+        "pronounciation": "ɳ̩́ʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer",
+                "definition_en": "try",
+                "examples": []
+            },
+            {
+                "definition_fr": "essayer",
+                "definition_en": "to try",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtú",
+        "pronounciation": "ɳ̩́ʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retirer (chique)",
+                "definition_en": "remove (jigger, chigoe flea)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtub",
+        "pronounciation": "ɳ̩́ʈùp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gonfler ; ballonner",
+                "definition_en": "blow up; inflate",
+                "examples": [
+                    {
+                        "dialect": "Nɔ̀ɔn pfɛ̌ɛ mmó tà lepfòm sé túbe.",
+                        "fr": "L’animal a mangé jusqu’à ce que son ventre est ballonné.",
+                        "en": "The animal ate until its belly was bloated."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être penché ; être ovale",
+                "definition_en": "be leaning; be oval",
+                "examples": []
+            },
+            {
+                "definition_fr": "être bombé ; être renflé",
+                "definition_en": "be bulging; to be bulged",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en désaccord ; être dans un désordre moral",
+                "definition_en": "disagree; to be in a moral disorder",
+                "examples": []
+            },
+            {
+                "definition_fr": "être penché ; être ovale",
+                "definition_en": "be leaning; be oval",
+                "examples": []
+            },
+            {
+                "definition_fr": "être bombé ; être renflé",
+                "definition_en": "be bulging; to be bulged",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùbo",
+        "pronounciation": "ɳ̩́ʈùβȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miracle ; quelque chose de jamais vu ; rage, dans faire rage",
+                "definition_en": "miracle; something beyond what was thought possible",
+                "examples": [
+                    {
+                        "dialect": "A nǎ nkáb né mèŋ tà ńzsé pɔ ngie à tǐɛ ntùbo, tá n te gyá.",
+                        "fr": "Il m’a donné de l’argent jusqu’à croire qu’il a fait un miracle, mais je n’ai pas vu.",
+                        "en": "He gave me money until I thought he had performed a miracle, but I didn't see it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtue",
+        "pronounciation": "ɳ̩́ʈùè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déverser ; étendre",
+                "definition_en": "pour out; stretch out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntúlesẅɛ",
+        "pronounciation": "ɳ̩̀ʈúlèsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntúm",
+        "pronounciation": "ɳ̩̀ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pont",
+                "definition_en": "bridge",
+                "examples": []
+            },
+            {
+                "definition_fr": "transition",
+                "definition_en": "transition",
+                "examples": []
+            },
+            {
+                "definition_fr": "traduction",
+                "definition_en": "translation",
+                "examples": []
+            },
+            {
+                "definition_fr": "lien",
+                "definition_en": "tie; link",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtúm",
+        "pronounciation": "ɳ̩́ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "envoyer",
+                "definition_en": "send",
+                "examples": []
+            },
+            {
+                "definition_fr": "traverser un cour d’eau",
+                "definition_en": "cross a waterway",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntuntú",
+        "pronounciation": "ɳ̩̀ʈùɳʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtúŋ",
+        "pronounciation": "ɳ̩́ʈṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "creuser ; moissonner les tubercules",
+                "definition_en": "dig; harvest tubers",
+                "examples": []
+            },
+            {
+                "definition_fr": "enterrer un cadavre",
+                "definition_en": "bury a corpse",
+                "examples": []
+            },
+            {
+                "definition_fr": "creuser ; moissonner les tubercules",
+                "definition_en": "dig ; harvest the tubers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtúŋ",
+        "pronounciation": "ɳ̩́ʈṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ficeler",
+                "definition_en": "tie up",
+                "examples": []
+            },
+            {
+                "definition_fr": "ficeler",
+                "definition_en": "tie up",
+                "examples": []
+            },
+            {
+                "definition_fr": "joindre les bambous pour en faire un battant",
+                "definition_en": "join the bamboos to make a clapper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùŋ letoŋ",
+        "pronounciation": "ɳ̩̀ʈũ̏ŋ lètõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terre natale",
+                "definition_en": "native land",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùŋ mepfó",
+        "pronounciation": "ɳ̩̀ʈũ̏ŋ mèpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fossoyeur",
+                "definition_en": "gravedigger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtuŋ metuŋ",
+        "pronounciation": "ɳ̩́ʈṹŋ mèʈũ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désobéir ; discriminer",
+                "definition_en": "disobey; discriminate",
+                "examples": []
+            }
+        ]
+    }
+]

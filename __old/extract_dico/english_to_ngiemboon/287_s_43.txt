@@ -1,0 +1,316 @@
+[
+    {
+        "noun": "sweet, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swell up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swiftly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swim",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyé kɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyé kɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mápye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swindle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsíte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máleŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "léŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swing, swing on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛɛ malʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swirl around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzéme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sword",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀shʉ̀a pùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kapáŋapùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sword, dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně lǔŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "swordgrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kénʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sycamore fig",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyé nkenkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sycamore fig tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ zyé nkenkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sympathetic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ ntsɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syphilis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "záʼŋwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metsì",
+                "examples": []
+            }
+        ]
+    }
+]

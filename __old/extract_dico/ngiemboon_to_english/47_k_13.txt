@@ -1,0 +1,419 @@
+[
+    {
+        "noun": "kwàʼ gù",
+        "pronounciation": "kwȁʔ ɣȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toi-même (pron. sujet emph., 2e personne singulier)",
+                "definition_en": "you yourself (emphatic subject pronoun, second person singular)",
+                "examples": [
+                    {
+                        "dialect": "Kwàʼ gù zɔ ge gʉa ntse.",
+                        "fr": "Toi-même, tu vas aller à l’eau.",
+                        "en": "You yourself are going to go into the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwáʼ kwáʼ",
+        "pronounciation": "kwáʔ kwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(signal à la porte)",
+                "definition_en": "(knock at the door)",
+                "examples": [
+                    {
+                        "dialect": "À tyé ncwò ndá ne ḿbúʼte kwáʼ kwáʼ.",
+                        "fr": "Il est en train de toquer à la porte.",
+                        "en": "He is knocking on the door."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ mboŋó",
+        "pronounciation": "kwȁʔ m̩̀bõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magnifique",
+                "definition_en": "magnificent",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gÿǒ kwàʼ mboŋó na mèŋ.",
+                        "fr": "Tu m’as fait quelque chose de magnifique.",
+                        "en": "You did something magnificent to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ mèŋ",
+        "pronounciation": "kwȁʔ mə̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moi-même (pron. sujet emph., 1ère personne singulier)",
+                "definition_en": "I myself (emphatic subject pronoun, first person singular)",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie kwàʼ mèŋ tó.",
+                        "fr": "Il a dit que je vienne, moi-même.",
+                        "en": "He said let me come myself."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ peg",
+        "pronounciation": "kwȁʔ pə̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nous-mêmes (pron. sujet emph., 1ère personne pluriel exclusif)",
+                "definition_en": "we ourselves (emphatic subject pronoun, first person plural exclusive)",
+                "examples": [
+                    {
+                        "dialect": "Kwàʼ peg zɔ ge gʉa ntse.",
+                        "fr": "Nous-mêmes (sans vous), allons partir à l’eau.",
+                        "en": "We ourselves (without you), are going to go into the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ pege",
+        "pronounciation": "kwȁʔ pə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nous-mêmes (pron. sujet emph., 1ère personne pluriel inclusif)",
+                "definition_en": "we ourselves (emphatic subject pronoun, first person plural inclusive)",
+                "examples": [
+                    {
+                        "dialect": "Kwàʼ pege zɔ ge gʉa ntse.",
+                        "fr": "Nous-mêmes (avec vous), allons partir à l’eau.",
+                        "en": "We ourselves (with you) are going to go into the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ pi",
+        "pronounciation": "kwȁʔ pì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vous-mêmes (pron. sujet emph., 2e personne pluriel)",
+                "definition_en": "you yourselves (emphatic subject pronoun, second person plural)",
+                "examples": [
+                    {
+                        "dialect": "Kwàʼ pi zɔ ge gʉa ntse.",
+                        "fr": "Vous-mêmes, allez partir à l’eau.",
+                        "en": "Yourselves, go into the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ pɔ́b",
+        "pronounciation": "kwȁʔ pɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eux-mêmes (pron. sujet emph., 3e personne pluriel)",
+                "definition_en": "they themselves (emphatic subject pronoun, third person plural)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ne ńzẅíʼte ngie kwàʼ pɔ́b tó ńzɛ́te wɔ́ɔn.",
+                        "fr": "J’attends qu’eux-mêmes viennent me demander.",
+                        "en": "I'm waiting for them to come and ask me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ yé",
+        "pronounciation": "kwȁʔ jé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.suj.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lui-même (pron. sujet emph., 3e personne singulier)",
+                "definition_en": "he himself (emphatic subject pronoun, third person singular)",
+                "examples": [
+                    {
+                        "dialect": "Kwàʼ yé zɔ ge gʉa ntse.",
+                        "fr": "Lui-même va aller à l’eau.",
+                        "en": "He himself is going to go into the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwáʼa",
+        "pronounciation": "kwáʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caillou",
+                "definition_en": "pebble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwè",
+        "pronounciation": "kxwȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moribond ; mourant",
+                "definition_en": "moribund; dying",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwè ńdíe jʉʼ",
+        "pronounciation": "kxwȅ ń̩díé ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwé nê kùʼu lɔ̌ɔn pɔ̀ɔn",
+        "pronounciation": "kxwé nê kùʔȕ lɔ̃̌ː pɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avare",
+                "definition_en": "miser",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ tsɔ̌ kwé nê kùʼu lɔ̌ɔn pɔ̀ɔn á gaʼte nzyè.",
+                        "fr": "J’ai vu un avare, il criait famine.",
+                        "en": "I saw a miser, he was crying famine."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwé nkùbo",
+        "pronounciation": "kxwé ŋ̩̀kùβȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avare",
+                "definition_en": "miser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwé té zsé",
+        "pronounciation": "kxwé té zsé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ignorant ; innocent",
+                "definition_en": "ignorant person; innocent person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwéntum",
+        "pronounciation": "kxwéɳʈùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenaille ; serre-joint",
+                "definition_en": "pincers; clamp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwéʼte",
+        "pronounciation": "kwéʔté",
+        "synonym": [
+            "kwʉ́ʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paralysie",
+                "definition_en": "paralysis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɛ",
+        "pronounciation": "kwɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "latrines ; w.c.",
+                "definition_en": "latrines; W.C.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɛ̀ɛ",
+        "pronounciation": "kwɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attache",
+                "definition_en": "tie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɛ̀ɛ twó",
+        "pronounciation": "kwàː ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foulard",
+                "definition_en": "scarf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɛ̀te",
+        "pronounciation": "kwɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rancune",
+                "definition_en": "grudge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwó",
+        "pronounciation": "kxwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "engoulevent à balanciers",
+                "definition_en": "standard-winged nightjar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwò",
+        "pronounciation": "kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pied ; patte",
+                "definition_en": "foot; paw",
+                "examples": []
+            },
+            {
+                "definition_fr": "pneu",
+                "definition_en": "tyre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwò metsǒŋ",
+        "pronounciation": "kxwȍ mètsõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gant",
+                "definition_en": "glove",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwò nkàŋ",
+        "pronounciation": "kxwȍ ŋ̩̀kã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "génération ; groupe d’un même âge ; tranche d’âge",
+                "definition_en": "generation; age group",
+                "examples": []
+            }
+        ]
+    }
+]

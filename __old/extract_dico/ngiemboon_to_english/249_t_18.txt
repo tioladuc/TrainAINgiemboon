@@ -1,0 +1,352 @@
+[
+    {
+        "noun": "tÿǒ kùbo ndèndʉ́m",
+        "pronounciation": "ʈθɰǒ kùβȍ ǹ̩dȅɳɖɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lámáasè",
+        "pronounciation": "ʈθɰǒ lámáːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oranger",
+                "definition_en": "orange tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lélum",
+        "pronounciation": "ʈθɰǒ léɭùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lepfo",
+        "pronounciation": "ʈθɰǒ lèpfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "kolatier",
+                "definition_en": "kola tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lepwó",
+        "pronounciation": "ʈθɰǒ lèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ciel ; royaume de cieux",
+                "definition_en": "sky; kingdom of heaven",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lùbo lengwɔʼɔ́",
+        "pronounciation": "ʈθɰǒ ɭùβȍ lèŋgwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ lÿɔ́b",
+        "pronounciation": "ʈθɰǒ ɭɰɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papayer",
+                "definition_en": "pawpaw tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ máangwèle",
+        "pronounciation": "ʈθɰǒ má:ŋgwə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manguier (gén.)",
+                "definition_en": "mango tree (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ màndalîn",
+        "pronounciation": "ʈθɰǒ mȁndȁlîn",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mandarinier",
+                "definition_en": "mandarin tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ mandâm",
+        "pronounciation": "ʈθɰǒ màndâm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nefkier",
+                "definition_en": "common medlar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ mbàg",
+        "pronounciation": "ʈθɰǒ m̩̀bȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ mbÿě",
+        "pronounciation": "ʈθɰǒ m̩̀bɸɰě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aiélé",
+                "definition_en": "aiele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ mekú nnu",
+        "pronounciation": "ʈθɰǒ mèkú ɳ̩̀ɳù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ menjʉ́ʼ",
+        "pronounciation": "ʈθɰǒ mèndʒɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ múɔ",
+        "pronounciation": "ʈθɰǒ múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ncʉ́a mekú",
+        "pronounciation": "ʈθɰǒ ǹ̩tʃɯ́á mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sesbania",
+                "definition_en": "common sesban",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ndùm máshúɔ",
+        "pronounciation": "ʈθɰǒ ɳ̩̀ɖȕm máʃúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ébène",
+                "definition_en": "ebony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ndyèente",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ngág",
+        "pronounciation": "ʈθɰǒ ŋ̩̀gáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ngelávù",
+        "pronounciation": "ʈθɰǒ ŋ̩̀gèlávȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goyavier",
+                "definition_en": "guava tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ngem",
+        "pronounciation": "ʈθɰǒ ŋ̩̀gə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prunier noir",
+                "definition_en": "black plum tree; African plum tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ nkuzsò",
+        "pronounciation": "ʈθɰǒ ŋ̩̀kùzsȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arbre des forgerons",
+                "definition_en": "African mesquite tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ ntsàʼ lɔ̀ɔn",
+        "pronounciation": "ʈθɰǒ ǹ̩tsȁʔ lɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arbre de gui",
+                "definition_en": "mistletoe tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ nzem",
+        "pronounciation": "ʈθɰǒ ǹ̩dzə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ébène",
+                "definition_en": "ebony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ pîɛ",
+        "pronounciation": "ʈθɰǒ píɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avocatier",
+                "definition_en": "avocado tree",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "tightrope, walk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tilapia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ́ʼ múɔ lyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tilt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tilted, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtube",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtubte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, another",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ fʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼʉ yɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, harvest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ʼ mbÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, lost",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyè njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, small space",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mencʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meshʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "times, many",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a ngʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "times of fog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "times, several",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a ngʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, third",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time to time, from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time to time, steal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "time, waste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "timid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "timidity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tin-bath",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tiny",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀ʼɔ fùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tipsy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tired, be really",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáŋ",
+                "examples": []
+            }
+        ]
+    }
+]

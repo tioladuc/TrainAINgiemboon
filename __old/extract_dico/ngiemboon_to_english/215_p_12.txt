@@ -1,0 +1,282 @@
+[
+    {
+        "noun": "pyè",
+        "pronounciation": "pɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeune plant",
+                "definition_en": "young seedling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyé kɔ́ɔn",
+        "pronounciation": "pɸjé kɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nage",
+                "definition_en": "swim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyè lejÿɔ́g",
+        "pronounciation": "pɸjȅ lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "borgne",
+                "definition_en": "one-eyed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyè mbyɛ́b",
+        "pronounciation": "pɸjȅ m̩̀bjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée d’avant-garde",
+                "definition_en": "army vanguard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyè njÿó",
+        "pronounciation": "pɸjȅ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perte de temps",
+                "definition_en": "lost time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyè ntʉ̀",
+        "pronounciation": "pɸjȅ ɳ̩̀ʈɯ̏",
+        "synonym": [
+            "lepyè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourridié ; s. maladie des plantes",
+                "definition_en": "root rot; k. plant disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyɛ̀b",
+        "pronounciation": "pjɛ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jeu d’enfant à base de noix",
+                "definition_en": "k. child’s game that uses nuts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyɛ́bɛ lyɛʼ",
+        "pronounciation": "pjɛ́βɛ́ ljɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "provisoire ; précaire",
+                "definition_en": "provisional; temporary; people in insecure jobs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyɛ́ʼ",
+        "pronounciation": "pjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blague ; théâtre",
+                "definition_en": "joke; theatre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pyɛ́ʼte",
+        "pronounciation": "pjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blague ; racontar ; narration",
+                "definition_en": "joke; story; lie; narrative",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pÿè",
+        "pronounciation": "pɸɰȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre de padauk utilisée pour des cérémonies",
+                "definition_en": "camwood; padauk powder used for ceremonies",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pÿé telǎŋ",
+        "pronounciation": "pɸɰé tèlã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abîme ; gouffre ; creux sans fond",
+                "definition_en": "hole without bottom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pÿěpÿě",
+        "pronounciation": "pɸɰěpɸɰě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bavette",
+                "definition_en": "bib",
+                "examples": []
+            },
+            {
+                "definition_fr": "aloyau",
+                "definition_en": "porterhouse; sirloin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pÿɛ́",
+        "pronounciation": "pɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grossesse",
+                "definition_en": "pregnancy",
+                "examples": [
+                    {
+                        "dialect": "Anzwě ngʉ̀ keen ḿbíi pÿɛ́.",
+                        "fr": "La jeune mariée a attrapé́ la grossesse.",
+                        "en": "The young bride became pregnant."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pÿɛ̀",
+        "pronounciation": "pɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanc",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pÿɛ̀",
+        "pronounciation": "pɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moelle",
+                "definition_en": "marrow",
+                "examples": [
+                    {
+                        "dialect": "pÿɛ̀ ngwoon,",
+                        "fr": "moelle de bananier.",
+                        "en": "banana pith."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pÿɛ̌",
+        "pronounciation": "pɰɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réponse",
+                "definition_en": "response",
+                "examples": [
+                    {
+                        "dialect": "N zɛté yé nò táʼ, mɔ́b mbÿɛ̌ gwɔ́ pɔ́ lézoonte wɔ́ɔn.",
+                        "fr": "Je lui est demandé qqch, mais ses réponses était de m’insulter.",
+                        "en": "I asked him something, but his answers were to insult me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pÿɔ́b",
+        "pronounciation": "pɰɔ́p̚",
+        "synonym": [
+            "pwɔ́b ",
+            " mêmbwɔ́b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouc ; mâle du chèvre",
+                "definition_en": "billygoat; male goat",
+                "examples": []
+            }
+        ]
+    }
+]

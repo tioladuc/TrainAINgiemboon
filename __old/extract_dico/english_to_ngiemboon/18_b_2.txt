@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "Bafoussam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Fwɔ̀ʼsab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bafut language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pafud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bagasse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bagasse, palmnuts",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekáŋa letÿǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bail out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bait",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅìte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balafon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzóŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balance, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balance, throw off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Balatchi",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Láʼatsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bald",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ziɛ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baldness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ziɛ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Balessing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Leshʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ball",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelùŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mâsî",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̂g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ball of the foot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̌ɔn kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ball-point pen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbîg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balls, concussion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿáŋcÿáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balls, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwóonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "balsam pear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bambara groundnut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo ceiling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo, Chinese",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefÿàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo dibble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo falling, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zwàʼ",
+                "examples": []
+            }
+        ]
+    }
+]

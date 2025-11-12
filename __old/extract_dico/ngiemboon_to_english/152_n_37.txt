@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "nkáŋ",
+        "pronounciation": "ŋ̩̀kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "châssis",
+                "definition_en": "chassis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋ",
+        "pronounciation": "ŋ̩̀kã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rang",
+                "definition_en": "row",
+                "examples": []
+            },
+            {
+                "definition_fr": "verset ; ligne",
+                "definition_en": "verse; line",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaŋ",
+        "pronounciation": "ŋ̩́kã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "choisir",
+                "definition_en": "chose",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’approprier",
+                "definition_en": "embezzle",
+                "examples": []
+            },
+            {
+                "definition_fr": "décanter",
+                "definition_en": "decant",
+                "examples": [
+                    {
+                        "dialect": "Ntse tepòŋ kaŋá.",
+                        "fr": "L’eau sale s’est décantée.",
+                        "en": "The dirty water has settled."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tisser le fond d’un panier",
+                "definition_en": "weave the bottom of a basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkáŋ",
+        "pronounciation": "ŋ̩́kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frire ; griller",
+                "definition_en": "fry; grill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋ ndá",
+        "pronounciation": "ŋ̩̀kã̏ŋ ǹ̩dá",
+        "synonym": [
+            "nkàŋa ndá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rangée de maisons",
+                "definition_en": "row of houses",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋ nkáʼ",
+        "pronounciation": "ŋ̩̀kã̏ŋ ŋ̩̀káʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barrière",
+                "definition_en": "barrier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkáŋ nkyɛ",
+        "pronounciation": "ŋ̩̀kã́ŋ ŋ̩̀kjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tribune officielle ; tribune d’honneur",
+                "definition_en": "official gallery; grandstand",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋ nyìŋ",
+        "pronounciation": "ŋ̩̀kã̏ŋ ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeunesse",
+                "definition_en": "youth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋa",
+        "pronounciation": "ŋ̩̀kã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ligne tracée",
+                "definition_en": "traced line",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaŋa",
+        "pronounciation": "ŋ̩́kã̀ŋà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisser le fond d’un panier",
+                "definition_en": "weave the bottom of a basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàŋa ndá",
+        "pronounciation": "ŋ̩̀kã̀ŋȁ ǹ̩dá",
+        "synonym": [
+            "nkàŋ ndá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rangée de maisons",
+                "definition_en": "row of houses",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàte",
+        "pronounciation": "ŋ̩̀kàtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui enroule",
+                "definition_en": "one who winds; one who coils",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkáte",
+        "pronounciation": "ŋ̩́káté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouler ; enrouler",
+                "definition_en": "roll; wind up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkáʼ",
+        "pronounciation": "ŋ̩̀káʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "champ",
+                "definition_en": "field",
+                "examples": []
+            },
+            {
+                "definition_fr": "clôture",
+                "definition_en": "fence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàʼ",
+        "pronounciation": "ŋ̩̀kȁʔ",
+        "synonym": [
+            "lâm ",
+            " túlékáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou fendu",
+                "definition_en": "split bamboo",
+                "examples": []
+            },
+            {
+                "definition_fr": "lampe ; torche",
+                "definition_en": "lamp; flare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàʼ",
+        "pronounciation": "ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dos",
+                "definition_en": "back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàʼ",
+        "pronounciation": "ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lèpre",
+                "definition_en": "leprosy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaʼ",
+        "pronounciation": "ŋ̩́kàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suggérer ; promettre ; réfléchir ; penser",
+                "definition_en": "suggest; promise; reflect; think",
+                "examples": []
+            },
+            {
+                "definition_fr": "dire à moitié",
+                "definition_en": "tell half the story",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire l’effort ; faire l’extraordinaire",
+                "definition_en": "make the effort; do the extraordinary",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kaʼ nzàʼ tà ńtó lyɛ̌ʼɔɔn ka?",
+                        "fr": "As-tu fait l’effort jusqu’à venir ?",
+                        "en": "Did you make the effort to come?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkaʼ",
+        "pronounciation": "ŋ̩́kàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commencer à fendre; fendre à moitié (plantain ou banane)",
+                "definition_en": "start splitting; cut in half (plantain or banana)",
+                "examples": []
+            },
+            {
+                "definition_fr": "se fendiller",
+                "definition_en": "crack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaʼte",
+        "pronounciation": "ŋ̩́kàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’amuser ; se réjouir en dansant",
+                "definition_en": "play; rejoice by dancing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńké",
+        "pronounciation": "ŋ̩́ké",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toujours (aspect habituel emphatique)",
+                "definition_en": "always (emphatic habitual aspect)",
+                "examples": [
+                    {
+                        "dialect": "Aa nké néŋe pɔ́ jʉʼɔɔn.",
+                        "fr": "Il vit toujours ici.",
+                        "en": "He still lives here."
+                    },
+                    {
+                        "dialect": "Aa nké ńtóo tǒ.",
+                        "fr": "Il vient comme d’habitude.",
+                        "en": "He comes as usual."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkée",
+        "pronounciation": "ŋ̩́kéː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire souffrir",
+                "definition_en": "make to suffer",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gÿo mmó yɛ̂, pɔgɔ kée.",
+                        "fr": "Si tu fais cela, je vais te faire souffrir.",
+                        "en": "If you do this, I will make you suffer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkéen",
+        "pronounciation": "ŋ̩̀kẽ́ː",
+        "synonym": [
+            "kéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’hier, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation yesterday past",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkěen",
+        "pronounciation": "ŋ̩̀kẽ̌ː",
+        "synonym": [
+            "kěen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation today past",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèkàŋa",
+        "pronounciation": "ŋ̩̀kȅkã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trait ; ligne",
+                "definition_en": "stroke; line",
+                "examples": []
+            }
+        ]
+    }
+]

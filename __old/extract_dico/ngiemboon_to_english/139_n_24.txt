@@ -1,0 +1,398 @@
+[
+    {
+        "noun": "ńgéle",
+        "pronounciation": "ŋ̩́gə́lé",
+        "synonym": [
+            "ńgʉ́le"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjouer ; détourner",
+                "definition_en": "foil; thwart; divert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngèle kécÿɔ̀",
+        "pronounciation": "ŋ̩̀gə̀lȅ kétʃɰɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose empruntée ; toutes esp. introduitent par les spécialistes d’agriculture (comme le dindon)",
+                "definition_en": "borrowed things; those sp. introduced by agricultural specialists (like the turkey)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngelésè",
+        "pronounciation": "ŋ̩̀gə̀lésȅ",
+        "synonym": [
+            "ngilísè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anglais",
+                "definition_en": "English",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngem",
+        "pronounciation": "ŋ̩̀gə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prune noir",
+                "definition_en": "black plum; African plum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngěm",
+        "pronounciation": "ŋ̩̀gə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appellation de la mère de la femme par les beaux",
+                "definition_en": "appellation of the wife’s mother by the in-laws",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngěm ndÿɔ́ʼɔ",
+        "pronounciation": "ŋ̩̀gə̌m ɳ̩̀ɖɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prophète",
+                "definition_en": "prophet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngemé",
+        "pronounciation": "ŋ̩̀gə̀mé",
+        "synonym": [
+            "tÿǒ ngem"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "velvet tamarind tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgémte",
+        "pronounciation": "ŋ̩́gə́mté",
+        "synonym": [
+            "ńgámte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adorer ; louer",
+                "definition_en": "adore; praise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngénʉ̀ŋ",
+        "pronounciation": "ŋ̩̀géɳɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "merle métallique à queue violette",
+                "definition_en": "short-tailed glossy starling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngesáŋ",
+        "pronounciation": "ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maïs (gén.)",
+                "definition_en": "maize (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngesáŋ ffòffò",
+        "pronounciation": "ŋ̩̀gèsã́ŋ fːȍfːȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tige de maïs qui n’a pas réussi à produire un épi",
+                "definition_en": "maize or corn stalk that didn’t produce an ear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngesáŋ mànzòŋ",
+        "pronounciation": "ŋ̩̀gèsã́ŋ mȁndzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prostitué",
+                "definition_en": "prostitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngesáŋ ntsíŋ",
+        "pronounciation": "ŋ̩̀gèsã́ŋ ǹ̩tsĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mil (gén.) ; sorgho",
+                "definition_en": "millet (generic); sorghum",
+                "examples": []
+            },
+            {
+                "definition_fr": "blé (gén.)",
+                "definition_en": "wheat (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngeyávò",
+        "pronounciation": "ŋ̩̀gèjávȍ",
+        "synonym": [
+            "ngalávù ",
+            " ngelávù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goyave",
+                "definition_en": "guava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgéʼe",
+        "pronounciation": "ŋ̩́gə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "augmenter la valeur ; surpasser ; aggraver",
+                "definition_en": "increase the value; surpass; aggravate",
+                "examples": []
+            },
+            {
+                "definition_fr": "surévaluer ; renchérir",
+                "definition_en": "overvalue; increase",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngi",
+        "pronounciation": "ŋ̩̀gì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. ver de terre",
+                "definition_en": "sp. earthworm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngí",
+        "pronounciation": "ŋ̩̀gí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carie dentaire",
+                "definition_en": "dental cavity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngi nnɛ́",
+        "pronounciation": "ŋ̩̀gì ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nerf",
+                "definition_en": "nerve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngie",
+        "pronounciation": "ŋ̩̀gìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj.comp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que",
+                "definition_en": "that",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn né mèŋ ngie n gÿo lêkɔ́?",
+                        "fr": "Tu me dis que je fasse comment ?",
+                        "en": "You tell me what should I do?"
+                    },
+                    {
+                        "dialect": "À gɔ̌ɔn né mèŋ ngie: « Tóo ḿpfɛ́ɛ mmó! »",
+                        "fr": "Il m’a dit que : « Viens manger ! »",
+                        "en": "He told me: “Come and eat!” »"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngie mbà loo",
+        "pronounciation": "ŋ̩̀gìè m̩̀bȁ lòː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je dis que (noblement)",
+                "definition_en": "I’m speaking to you (nobly)",
+                "examples": [
+                    {
+                        "dialect": "Ngie mbà loo, wóo mé gʉa lê!",
+                        "fr": "Je dis qu’hein ? Qu’on parte !",
+                        "en": "I say that eh? Let's go!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngie mbɔɔn",
+        "pronounciation": "ŋ̩̀gìè m̩̀bɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je dis que",
+                "definition_en": "I’m speaking",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɛ́te ɔ́ ngie mbɔɔn? Ńgie ɔ̀ gwǎ tó, ńgẅiin kɔ́ wɔ́?",
+                        "fr": "Je te demande qu’hein ? Qu’en venant, tu avais quoi ?",
+                        "en": "I ask you that, eh? When you came, what did you have?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngiembɔɔn",
+        "pronounciation": "ŋ̩̀gìèmbɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des groupes linguistiques de la Région de l’Ouest du Cameroun",
+                "definition_en": "one of the linguistic groups of Western Region of Cameroon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngìle",
+        "pronounciation": "ŋ̩̀gìlȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "morceau de bois qu’on lance pour cueillir",
+                "definition_en": "piece of wood that one uses to gather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngilísè",
+        "pronounciation": "ŋ̩̀gìlísȅ",
+        "synonym": [
+            "ngelésè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anglais",
+                "definition_en": "English",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngǐm",
+        "pronounciation": "ŋ̩̀gǐm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. criquet (migrateur)",
+                "definition_en": "sp. cricket (migratory)",
+                "examples": []
+            }
+        ]
+    }
+]

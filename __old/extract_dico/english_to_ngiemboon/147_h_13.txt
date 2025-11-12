@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "humble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "teŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humidity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humid, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅɛ̂d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humid (wood)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅisẅê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"hummingbird\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leluʼú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humpback",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùbo nkàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hump, obvious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdule",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "humps, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hum, stomach",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèm ndyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hundred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo lé menzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hundred, bit over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo lé menzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hunger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hungry, eat without being",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hungry, not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hunter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "màʼ nkàtém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntèm menɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hunting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hurry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hurt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hurt oneself in places",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅidte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅile",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hurt someone, decide to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa kwɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "husband",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "husband, father",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàndǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "husband’s family",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "noun": "féfɔ́gɔ̀ sɔ̀b",
+        "pronounciation": "féfɔ́ʁɔ̏ sɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poivre blanc",
+                "definition_en": "white pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèfùʼ",
+        "pronounciation": "fȅfȕʔ",
+        "synonym": [
+            "fùfùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mousse",
+                "definition_en": "foam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèfùʼ metyé",
+        "pronounciation": "fȅfȕʔ mètθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. sauterelle verte",
+                "definition_en": "sp. green grasshopper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fègte",
+        "pronounciation": "fə̀qtȅ",
+        "synonym": [
+            "tyɛ̀ʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "différence ; séparation ; distinction",
+                "definition_en": "difference; separation; distinction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fégyaŋngwɔʼ",
+        "pronounciation": "féɣjã̀ŋŋgwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. termite blanc",
+                "definition_en": "sp. white termite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feláŋ",
+        "pronounciation": "fèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jetons ; pièces de monnaie",
+                "definition_en": "tokens; coins; pieces of money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feláŋ sépʉ́a",
+        "pronounciation": "fèlã́ŋ sépɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux francs",
+                "definition_en": "two francs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "felaŋsée",
+        "pronounciation": "fèlã̀ŋsé:",
+        "synonym": [
+            "felaŋsíi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "français",
+                "definition_en": "French",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "felaŋsíi",
+        "pronounciation": "fèlã̀ŋsí:",
+        "synonym": [
+            "felaŋsée"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "français",
+                "definition_en": "French",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feláʼ",
+        "pronounciation": "fèláʔ",
+        "synonym": [
+            "gúʼu nɔ̀ɔn panzwě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fème",
+        "pronounciation": "fə̀mȅ",
+        "synonym": [
+            "fòme"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saleté ; excrément",
+                "definition_en": "dirtiness; dirt; excrement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fènɛ́tèle",
+        "pronounciation": "fȅnɛ́tə̀lȅ",
+        "synonym": [
+            "tɔ̀gɔ nkyɛʼ ",
+            " wúndù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fenêtre",
+                "definition_en": "window",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèŋe fÿag",
+        "pronounciation": "fə̃̀ŋȅ fɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "changement de saison ; changement de climat",
+                "definition_en": "season change; climate change",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɛ́",
+        "pronounciation": "fɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frère",
+                "definition_en": "brother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo",
+        "pronounciation": "fːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille",
+                "definition_en": "leaf",
+                "examples": []
+            },
+            {
+                "definition_fr": "plume",
+                "definition_en": "feather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo",
+        "pronounciation": "fːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remède",
+                "definition_en": "medicine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffó",
+        "pronounciation": "fːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pus",
+                "definition_en": "pus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffó",
+        "pronounciation": "fːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Ffó",
+        "pronounciation": "fːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bafou",
+                "definition_en": "Bafou",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo cʉcʉ̀a",
+        "pronounciation": "fːò tʃɯ̀tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raticide",
+                "definition_en": "rat poison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo lelɔ́g",
+        "pronounciation": "fːò lèlɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "somnifère",
+                "definition_en": "sleeping drug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffó letuŋó",
+        "pronounciation": "fːó lèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cérumen",
+                "definition_en": "earwax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo ndèpàʼ",
+        "pronounciation": "fːò ń̩dȅpȁʔ",
+        "synonym": [
+            "cú ntóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cravatte",
+                "definition_en": "tie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo pàŋ",
+        "pronounciation": "fːò pã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "toothache plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ffo ssé",
+        "pronounciation": "fːò sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre ; terre (sur les lieux de sacrifices)",
+                "definition_en": "powder; ground (at a sacrificial site)",
+                "examples": []
+            }
+        ]
+    }
+]

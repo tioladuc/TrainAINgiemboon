@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "epididymis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "epilepsy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "epileptic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwè gwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "episode",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "equalize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "equally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yég",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "equity, shareholder’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzyè letaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eradicate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "erase",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvéle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "erect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "erect, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "erode",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "err",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "error",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀a pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̂d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "error while subtracting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "escape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "escaped, barely",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "escape from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "escape from shame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅag shʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "esplanade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tetʉ́a kwóŋɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "esplanade of the chief’s compound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "essay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùu nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "establish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "estuary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwága ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉmé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eternal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ ngʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "temì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "temàg",
+                "examples": []
+            }
+        ]
+    }
+]

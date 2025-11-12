@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "éfege",
+        "pronounciation": "éfə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se séparer",
+                "definition_en": "separate; split up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfége",
+        "pronounciation": "éfə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire sortir de la bouche",
+                "definition_en": "make it come out of the mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfegte",
+        "pronounciation": "éfə̀qtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "différencier",
+                "definition_en": "differentiate",
+                "examples": []
+            },
+            {
+                "definition_fr": "séparer",
+                "definition_en": "separate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfele",
+        "pronounciation": "éfə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réussir ; être libre d’une ignorance",
+                "definition_en": "succeed; be free of ignorance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfeŋe",
+        "pronounciation": "éfə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trébucher",
+                "definition_en": "stumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éféŋe",
+        "pronounciation": "éfə̃́ŋé",
+        "synonym": [
+            "éfʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser ; se croiser",
+                "definition_en": "cross; fold; intersect; pass each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éffo",
+        "pronounciation": "éfːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combler ; enterrer",
+                "definition_en": "fill up; bury",
+                "examples": []
+            },
+            {
+                "definition_fr": "conserver la kola sous terre",
+                "definition_en": "keep kola underground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éffote",
+        "pronounciation": "éfːòtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pleuvasser ; pleuvoter",
+                "definition_en": "drizzle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfím",
+        "pronounciation": "éfím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détaler ; s’enfuir",
+                "definition_en": "take off; flee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfiŋ",
+        "pronounciation": "éfĩ̀ŋ",
+        "synonym": [
+            "ésẅiŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendre",
+                "definition_en": "sell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfiŋ",
+        "pronounciation": "éfĩ̀ŋ",
+        "synonym": [
+            "ésẅiŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écorcher ; décaper",
+                "definition_en": "skin; strip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfó",
+        "pronounciation": "éfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "venir de ; provenir",
+                "definition_en": "come from",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfom",
+        "pronounciation": "éfɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfoncer",
+                "definition_en": "drive in",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfom",
+        "pronounciation": "éfɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moisir",
+                "definition_en": "rot; go mouldy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfóm",
+        "pronounciation": "éfɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étouffer",
+                "definition_en": "stifle",
+                "examples": [
+                    {
+                        "dialect": "À fomó nɔ̀ɔn lezẅé nkáʼ.",
+                        "fr": "Il a étouffé l’animal au coin du champ.",
+                        "en": "He suffocated the animal in the corner of the field."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "s’étouffer",
+                "definition_en": "choke",
+                "examples": [
+                    {
+                        "dialect": "Múɔ fomó tsɛ̀ɛ ndyé.",
+                        "fr": "L’enfant s’est étouffé dans la fumée.",
+                        "en": "The child suffocated in the smoke."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfóm",
+        "pronounciation": "éfɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer",
+                "definition_en": "close",
+                "examples": []
+            },
+            {
+                "definition_fr": "fermer hermétiquement",
+                "definition_en": "close tightly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfomo",
+        "pronounciation": "éfɤ̀mò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être sale",
+                "definition_en": "be dirty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfómte",
+        "pronounciation": "éfɤ́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être orgueilleux",
+                "definition_en": "be proud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfoŋ",
+        "pronounciation": "éfõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être touffu",
+                "definition_en": "be bushy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfoŋ",
+        "pronounciation": "éfõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "griffonner",
+                "definition_en": "scribble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfóŋ",
+        "pronounciation": "éfṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "renseigner",
+                "definition_en": "inform",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfóŋ",
+        "pronounciation": "éfṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "visiter un malade",
+                "definition_en": "visit someone sick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfoo lepfo",
+        "pronounciation": "éfò: lèpfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conserver la kola dans des corbeilles",
+                "definition_en": "keep cola in a basket; store cola in a basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfɔb",
+        "pronounciation": "éfɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir l’œdème et ventre ballonné",
+                "definition_en": "have oedema and bloated stomach",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir l’œdème et ventre ballonné",
+                "definition_en": "have edema and bloated stomach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfɔb",
+        "pronounciation": "éfɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre moins d’huile sur un met",
+                "definition_en": "put less oil on the food",
+                "examples": []
+            }
+        ]
+    }
+]

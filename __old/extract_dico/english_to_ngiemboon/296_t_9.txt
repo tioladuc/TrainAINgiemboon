@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "thrush, song",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsɔ́ʼɔ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thumb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa tepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thumb piano",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thunder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thunder, rumble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thunder, skin sickness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔgɔ́ lefaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Thursday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́ɔsèndê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔgɔ púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thwart",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́le",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgéle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tibia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tickle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tick off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lékɔ̂d",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cú ntóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "là",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ffo ndèpàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie-beam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máatàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkuu tàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie lightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie made from a plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀shʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie on, put",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ties up, person who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tie up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"tiger-cat\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyèmelùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tiger lotus, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwɔʼ kʉ́kʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éseme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tighten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tighten the screw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tight-fisted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbe",
+                "examples": []
+            }
+        ]
+    }
+]

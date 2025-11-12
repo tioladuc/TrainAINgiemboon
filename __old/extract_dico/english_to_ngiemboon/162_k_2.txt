@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "king, initiation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ménkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "king’s nursemaid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyè fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kings, praise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔn múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kings, respect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔn múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "king’s servant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́ʼfùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "king, valet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́ʼfùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kiss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéle kʉ́kʉ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kiss all at once",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kisser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ kʉ́kʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kitchen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kitchen, arrange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kitchen utensil, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mankwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńníagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńniag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knead bread",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kneaded ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pòlopólo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knead mud",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅiʼté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kneel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knickers",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùu kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kème shùu kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife handle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà pùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyè nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife, sculptor’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ levfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mépùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "knife, wine grower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyè nkʉ̌a",
+                "examples": []
+            }
+        ]
+    }
+]

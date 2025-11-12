@@ -1,0 +1,455 @@
+[
+    {
+        "noun": "mbùb",
+        "pronounciation": "m̩̀bȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empoisonneur ; celui qui maudit",
+                "definition_en": "poisoner; one who curses",
+                "examples": [
+                    {
+                        "dialect": "Megàŋ lekàŋ ée papúbo mmó etsɔ́ té wó wɔ́.",
+                        "fr": "Les sorciers sont des redoutables empoisonneurs.",
+                        "en": "Wizards are formidable poisoners."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbúb",
+        "pronounciation": "ḿ̩búp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gâter ; maudire",
+                "definition_en": "spoil; curse",
+                "examples": []
+            },
+            {
+                "definition_fr": "maudire ; refuser",
+                "definition_en": "curse; refuse",
+                "examples": []
+            },
+            {
+                "definition_fr": "gâter réciproquement ; détruire",
+                "definition_en": "spoil each other; destroy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùbte",
+        "pronounciation": "m̩̀bùptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bègue",
+                "definition_en": "stammerer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbubte",
+        "pronounciation": "ḿ̩bùptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bégayer",
+                "definition_en": "stutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùd",
+        "pronounciation": "m̩̀bȕt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne ignorant ; niais ; nigaud",
+                "definition_en": "ignorant person; silly person; fool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǔe",
+        "pronounciation": "m̩̀bùé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêtise ; bête",
+                "definition_en": "stupidity; animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbue",
+        "pronounciation": "ḿ̩bùè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’embrouiller",
+                "definition_en": "become confused",
+                "examples": []
+            },
+            {
+                "definition_fr": "bêtifier ; abêtir ; étourdir",
+                "definition_en": "talk nonsense;  rot someone’s brains; stun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbum",
+        "pronounciation": "m̩̀bùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œufs",
+                "definition_en": "eggs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbúm",
+        "pronounciation": "m̩̀búm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cauris",
+                "definition_en": "cowry shells",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùm",
+        "pronounciation": "ḿ̩bȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corps ; tronc",
+                "definition_en": "body; trunk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbum",
+        "pronounciation": "ḿ̩bùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suffire",
+                "definition_en": "suffice",
+                "examples": []
+            },
+            {
+                "definition_fr": "convenir ; accomplir",
+                "definition_en": "suit; fit; accomplish",
+                "examples": []
+            },
+            {
+                "definition_fr": "contourner ; faire la ronde",
+                "definition_en": "circumvent; go around",
+                "examples": []
+            },
+            {
+                "definition_fr": "rencontrer",
+                "definition_en": "meet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùm ngyaŋgyǎŋ",
+        "pronounciation": "m̩̀bȕm ŋ̩̀gjã̀ŋɣjã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courbature",
+                "definition_en": "ache",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùm nnɛ́",
+        "pronounciation": "m̩̀bȕm ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corps",
+                "definition_en": "body",
+                "examples": []
+            },
+            {
+                "definition_fr": "tronc",
+                "definition_en": "trunk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùmɔ̀ɔn",
+        "pronounciation": "m̩̀bȕmɔ̃̏ː",
+        "synonym": [
+            "ndʉ̀ nnú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. boa",
+                "definition_en": "sp. boa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbúte",
+        "pronounciation": "ḿ̩búté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réunir ; rassembler ; joindre",
+                "definition_en": "gather together; assemble; join",
+                "examples": []
+            },
+            {
+                "definition_fr": "communier",
+                "definition_en": "receive communion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbúte",
+        "pronounciation": "ḿ̩búté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter plainte",
+                "definition_en": "sue",
+                "examples": [
+                    {
+                        "dialect": "À puté metsǒŋ nɔʼ.",
+                        "fr": "Il a porté plainte contre les bandits à la chefferie.",
+                        "en": "He filed a complaint against the bandits at the chiefdom."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbuʼ",
+        "pronounciation": "m̩̀bùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrée d’une concession",
+                "definition_en": "concession entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùʼ",
+        "pronounciation": "m̩̀bȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "burin",
+                "definition_en": "cold chisel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùʼ",
+        "pronounciation": "m̩̀bȕʔ",
+        "synonym": [
+            "ndùm ndùm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. mortier",
+                "definition_en": "k. mortar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùʼ",
+        "pronounciation": "m̩̀bȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. vin",
+                "definition_en": "k. wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǔʼ",
+        "pronounciation": "m̩̀bǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "innocent",
+                "definition_en": "innocent person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbuʼ",
+        "pronounciation": "ḿ̩bùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "percer",
+                "definition_en": "pierce",
+                "examples": []
+            },
+            {
+                "definition_fr": "acheter définitivement",
+                "definition_en": "definitely buy",
+                "examples": []
+            },
+            {
+                "definition_fr": "commencer ; débuter",
+                "definition_en": "to start ; start",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbúʼ",
+        "pronounciation": "ḿ̩búʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taper",
+                "definition_en": "beat; hit",
+                "examples": []
+            },
+            {
+                "definition_fr": "applaudir ; taper les mains",
+                "definition_en": "applaud; clap your hands",
+                "examples": []
+            },
+            {
+                "definition_fr": "claquer la langue",
+                "definition_en": "click your tongue",
+                "examples": []
+            },
+            {
+                "definition_fr": "circoncire",
+                "definition_en": "circumcise",
+                "examples": []
+            },
+            {
+                "definition_fr": "tapoter",
+                "definition_en": "tap",
+                "examples": []
+            },
+            {
+                "definition_fr": "applaudir",
+                "definition_en": "applaud",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’assourdir",
+                "definition_en": "become deaf",
+                "examples": []
+            },
+            {
+                "definition_fr": "étouffer ; faire les dernières efforts ; se taper",
+                "definition_en": "suffocate; make the last efforts; to bang",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǔʼ metuŋó",
+        "pronounciation": "m̩̀bǔʔ mèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sourd",
+                "definition_en": "deaf person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbùʼ ncwò",
+        "pronounciation": "m̩̀bȕʔ ǹ̩tʃːwȍ",
+        "synonym": [
+            "tàmbǎʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "muet",
+                "definition_en": "dumb; speechless",
+                "examples": []
+            }
+        ]
+    }
+]

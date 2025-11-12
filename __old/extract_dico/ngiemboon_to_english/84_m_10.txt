@@ -1,0 +1,454 @@
+[
+    {
+        "noun": "mbá",
+        "pronounciation": "m̩̀bá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rate",
+                "definition_en": "spleen",
+                "examples": []
+            },
+            {
+                "definition_fr": "maladie de la rate",
+                "definition_en": "spleen sickness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbà",
+        "pronounciation": "m̩̀bȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alors",
+                "definition_en": "then",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńdɔ́ɔn, mbà à te pfɛ́ wɔ́.",
+                        "fr": "Si tu prépares, alors il ne mangera pas.",
+                        "en": "If you cook, then he won't eat."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "(marquant le respect)",
+                "definition_en": "(shows respect)",
+                "examples": [
+                    {
+                        "dialect": "Tó ndɔɔn ndɔɔn mbà!",
+                        "fr": "Bienvenu « mbà » !",
+                        "en": "Welcome “mbà”!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbǎ",
+        "pronounciation": "m̩̀bǎ",
+        "synonym": [
+            "mbɔ̌ ",
+            " mbɔɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aussi ; même ; y compris",
+                "definition_en": "also; even; including",
+                "examples": [
+                    {
+                        "dialect": "À těen tóŋo ndàʼ melÿò wɔ́; à tóŋo mbǎ penkʉ́.",
+                        "fr": "Il n’appelle pas seulement les grands ; il appelle aussi les enfants.",
+                        "en": "He does not only call the great ones; he also calls the children."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿba",
+        "pronounciation": "ḿ̩bà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter à califourchon sur le dos",
+                "definition_en": "carry straddling the back",
+                "examples": []
+            },
+            {
+                "definition_fr": "porter à califourchon sur le dos",
+                "definition_en": "carry astride one's back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbá",
+        "pronounciation": "ḿ̩bá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "repiquer",
+                "definition_en": "plant out; re-record",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbá",
+        "pronounciation": "ḿ̩bá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soigner",
+                "definition_en": "treat; nurse; look after",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbá",
+        "pronounciation": "ḿ̩bá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercher",
+                "definition_en": "search for",
+                "examples": []
+            },
+            {
+                "definition_fr": "penser ; considérer",
+                "definition_en": "think; consider",
+                "examples": []
+            },
+            {
+                "definition_fr": "chercher en suivant les traces ; enquêter",
+                "definition_en": "search by following the tracks; investigate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbà lóo",
+        "pronounciation": "m̩̀bȁ lóó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.honor",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le respect)",
+                "definition_en": "(showing respect)",
+                "examples": [
+                    {
+                        "dialect": "Tóo pɔ̀gɔ gʉa mbà lóo!",
+                        "fr": "Viens pour que nous partions « mbà lóo » !",
+                        "en": "Come so we can go “mbà lóo”!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbàa",
+        "pronounciation": "m̩̀bȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui repique",
+                "definition_en": "one who plants out; one who re-records",
+                "examples": [
+                    {
+                        "dialect": "Papáa mânkɔ́ʼ ne faʼa mbyè.",
+                        "fr": "Ceux qui repiquent la patate sont en train de chercher la semence.",
+                        "en": "Those who transplant the potato are looking for the seed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbàa",
+        "pronounciation": "m̩̀bȁː",
+        "synonym": [
+            "mbɔ̀ɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "même",
+                "definition_en": "same",
+                "examples": [
+                    {
+                        "dialect": "Náa pʉ́a mbàa lé lelÿɔʼ.",
+                        "fr": "Donne le taro et même l’igname.",
+                        "en": "Give taro and even yam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbàandum",
+        "pronounciation": "m̩̀bȁ:ɳɖùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rat géant",
+                "definition_en": "giant pouched rat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbáasékù",
+        "pronounciation": "m̩̀bá:sékȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bicyclette",
+                "definition_en": "bicycle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbab",
+        "pronounciation": "m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viande",
+                "definition_en": "meat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbab",
+        "pronounciation": "ḿ̩bàp̚",
+        "synonym": [
+            "ḿbɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aplanir",
+                "definition_en": "level out",
+                "examples": []
+            },
+            {
+                "definition_fr": "aplanir ; être plat",
+                "definition_en": "flatten; to be flat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbab",
+        "pronounciation": "ḿ̩bàp̚",
+        "synonym": [
+            "ḿbɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "penser faire avec détermination",
+                "definition_en": "think of doing with determination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbab",
+        "pronounciation": "ḿ̩bàp̚",
+        "synonym": [
+            "ḿbɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            },
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáb",
+        "pronounciation": "ḿ̩báp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauffer",
+                "definition_en": "heat; warm",
+                "examples": []
+            },
+            {
+                "definition_fr": "flamber",
+                "definition_en": "blaze",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàba",
+        "pronounciation": "m̩̀bàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui flambe",
+                "definition_en": "one who singes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbábálobá",
+        "pronounciation": "m̩̀báβálòβá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jouet",
+                "definition_en": "k. toy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbád",
+        "pronounciation": "ḿ̩bát̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être méchant ; être sévère",
+                "definition_en": "be nasty; be strict",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàg",
+        "pronounciation": "m̩̀bȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quartier de kola",
+                "definition_en": "piece of kola nut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbag",
+        "pronounciation": "ḿ̩bàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diviser ; casser",
+                "definition_en": "divide; break",
+                "examples": []
+            },
+            {
+                "definition_fr": "se fendiller",
+                "definition_en": "crack",
+                "examples": []
+            },
+            {
+                "definition_fr": "diviser ; fendiller ; craqueler ; émietter",
+                "definition_en": "divide ; crack; crack; crack; crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbag",
+        "pronounciation": "ḿ̩bàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever des épluchures du plantain",
+                "definition_en": "remove plantain peelings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbág",
+        "pronounciation": "ḿ̩báq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermenter",
+                "definition_en": "ferment",
+                "examples": []
+            },
+            {
+                "definition_fr": "déjeuner",
+                "definition_en": "lunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàgapǐ",
+        "pronounciation": "m̩̀bàʁȁpǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    }
+]

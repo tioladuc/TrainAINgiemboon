@@ -1,0 +1,438 @@
+[
+    {
+        "noun": "éshʉashʉa",
+        "pronounciation": "éʃɯ̀àʃɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire ouvertement",
+                "definition_en": "do it openly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉge",
+        "pronounciation": "éʃɯ̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gonfler",
+                "definition_en": "blow up; inflate",
+                "examples": []
+            },
+            {
+                "definition_fr": "tuméfier",
+                "definition_en": "tumefy; swell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́ge",
+        "pronounciation": "éʃɯ́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfoncer",
+                "definition_en": "drive in",
+                "examples": [
+                    {
+                        "dialect": "Shʉ́ge pwó jú pɔ̀ɔn mèŋ, ńkẅele kí.",
+                        "fr": "Enfonce ta main dans ma poche pour retirer la clé.",
+                        "en": "Stick your hand in my pocket to remove the key."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "introduire",
+                "definition_en": "introduce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́m",
+        "pronounciation": "éʃɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "envier",
+                "definition_en": "envy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉŋ",
+        "pronounciation": "éʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lisser ; crépir",
+                "definition_en": "smooth; roughcast; plaster",
+                "examples": []
+            },
+            {
+                "definition_fr": "lisser",
+                "definition_en": "smooth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́ŋ",
+        "pronounciation": "éʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trembler ; frissonner",
+                "definition_en": "tremble; shake; shudder; shiver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉʼ",
+        "pronounciation": "éʃɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perforer",
+                "definition_en": "perforate",
+                "examples": []
+            },
+            {
+                "definition_fr": "percer des petits trous",
+                "definition_en": "drill small holes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́ʼʉ",
+        "pronounciation": "éʃɯ́ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frotter",
+                "definition_en": "rub",
+                "examples": []
+            },
+            {
+                "definition_fr": "froisser dans la main",
+                "definition_en": "wrinkle in the hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwo",
+        "pronounciation": "éʃːwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rater",
+                "definition_en": "fail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwoŋ",
+        "pronounciation": "éʃwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tirer",
+                "definition_en": "pull",
+                "examples": []
+            },
+            {
+                "definition_fr": "tirailler",
+                "definition_en": "tug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwoŋ",
+        "pronounciation": "éʃwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être enceinte",
+                "definition_en": "be pregnant",
+                "examples": []
+            },
+            {
+                "definition_fr": "être enceinte",
+                "definition_en": "be pregnant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwoŋ",
+        "pronounciation": "éʃwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conduire",
+                "definition_en": "drive",
+                "examples": []
+            },
+            {
+                "definition_fr": "entraîner",
+                "definition_en": "train",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwóŋ",
+        "pronounciation": "éʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dire ; informer",
+                "definition_en": "say; inform",
+                "examples": []
+            },
+            {
+                "definition_fr": "causer ; s’entretenir",
+                "definition_en": "cause; talk",
+                "examples": []
+            },
+            {
+                "definition_fr": "parler réciproquement",
+                "definition_en": "talk to each other",
+                "examples": []
+            },
+            {
+                "definition_fr": "dialoguer",
+                "definition_en": "dialogue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshwóŋte",
+        "pronounciation": "éʃwṍŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bavarder ; moucharder ; murmurer",
+                "definition_en": "chatter; split on; squeal on; murmur",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿée",
+        "pronounciation": "éʃːɰée",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déplacer une grande masse",
+                "definition_en": "move a great bulk",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire ouvertement",
+                "definition_en": "do openly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿó",
+        "pronounciation": "éʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se brûler ; se consumer",
+                "definition_en": "burn oneself; waste away",
+                "examples": []
+            },
+            {
+                "definition_fr": "se brûler",
+                "definition_en": "to burn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿó",
+        "pronounciation": "éʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se vanter",
+                "definition_en": "boast; brag",
+                "examples": []
+            },
+            {
+                "definition_fr": "se vanter",
+                "definition_en": "boast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿoon",
+        "pronounciation": "éʃɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être friand de",
+                "definition_en": "be very fond of",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿɔ́bte",
+        "pronounciation": "éʃɰɔ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grossir démesurément",
+                "definition_en": "put on weight disproportionately",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿɔg",
+        "pronounciation": "éʃɰɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "supporter ; être courageux",
+                "definition_en": "support; be courageous; be brave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿɔ́g",
+        "pronounciation": "éʃɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourrer ; enfoncer",
+                "definition_en": "stick; put; drive in; push in",
+                "examples": []
+            },
+            {
+                "definition_fr": "enfoncer itérativement",
+                "definition_en": "push iteratively",
+                "examples": []
+            },
+            {
+                "definition_fr": "porter (pantalons, habits)",
+                "definition_en": "to wear (trousers, clothes)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿɔ́ʼ",
+        "pronounciation": "éʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concasser ; écraser légèrement",
+                "definition_en": "crush; grind; lightly crush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshÿɔ́ʼ",
+        "pronounciation": "éʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger sans crainte",
+                "definition_en": "eat without fear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésí",
+        "pronounciation": "ésí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être propre",
+                "definition_en": "be clean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésí",
+        "pronounciation": "ésí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondre ; dissoudre",
+                "definition_en": "melt; dissolve",
+                "examples": []
+            }
+        ]
+    }
+]

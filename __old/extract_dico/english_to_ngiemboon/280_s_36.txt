@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "stool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mapúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stool, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ ndʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stools",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stools, pick up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ nzɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅé jʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letyě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop, come to a",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop forcefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop, go without stopping at first",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzábte zábte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop over at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop (rain)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stop working",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "store",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "store all over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "store cola in basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "store cola underground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éffo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "storey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "story",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mápitsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mándagá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "púʼ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "storyteller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "straddle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "straddling the back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "straight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndeŋ ndeŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "straight away",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "strainer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "strange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pǒŋ ménò",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,481 @@
+[
+    {
+        "noun": "nzab",
+        "pronounciation": "ǹ̩dzàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "légume gluant (gén.)",
+                "definition_en": "sticky vegetable (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzab",
+        "pronounciation": "ń̩dzàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrêter ; niveler",
+                "definition_en": "clip; level",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzáb",
+        "pronounciation": "ń̩dzáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre ; poser ; placer",
+                "definition_en": "put; put down; place",
+                "examples": []
+            },
+            {
+                "definition_fr": "croire ; avoir confiance ; être dévoué",
+                "definition_en": "believe ; have confidence; be devoted",
+                "examples": []
+            },
+            {
+                "definition_fr": "superposer",
+                "definition_en": "superimpose",
+                "examples": []
+            },
+            {
+                "definition_fr": "aller sans s’arrêter à une première destination supposée",
+                "definition_en": "go without stopping at a first supposed destination",
+                "examples": [
+                    {
+                        "dialect": "À zábte zábte ńgʉa.",
+                        "fr": "Il est parti sans arrêt.",
+                        "en": "He kept leaving."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzáb",
+        "pronounciation": "ń̩dzáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décider",
+                "definition_en": "decide",
+                "examples": [
+                    {
+                        "dialect": "À zǎb ngie à ge gʉa.",
+                        "fr": "Il a décidé qu’il va partir.",
+                        "en": "He has decided that he is going to leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzab fàgte",
+        "pronounciation": "ǹ̩dzàp fàqtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzab gwág",
+        "pronounciation": "ǹ̩dzàp ɣwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzab kéyàʼ",
+        "pronounciation": "ǹ̩dzàp kéjȁʔ",
+        "synonym": [
+            "gèlegÿàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzab meffo kasálà",
+        "pronounciation": "ǹ̩dzàp mèfːò kàsálȁ",
+        "synonym": [
+            "ncùashùm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuilles de manioc",
+                "definition_en": "cassava leaves; manioc leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzab sẅísẅé",
+        "pronounciation": "ǹ̩dzàp sɥísːɥé",
+        "synonym": [
+            "fólóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "spiny amaranth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàba",
+        "pronounciation": "ǹ̩dzàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand aulacode ; « hérisson » (en français local)",
+                "definition_en": "greater cane rat; \"hedgehog\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàba mentÿǒ ngum",
+        "pronounciation": "ǹ̩dzàβȁ mèɳʈθɰǒ ŋ̩̀gùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porc-épic",
+                "definition_en": "porcupine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzág",
+        "pronounciation": "ń̩dzáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manquer",
+                "definition_en": "miss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzǎg ngě",
+        "pronounciation": "ǹ̩dzǎq̚ ŋ̩̀gě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désœuvré ; sans soutiens ; délaissé",
+                "definition_en": "idle; without support; abandoned; deserted; neglected",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn giŋ pɔ́ páʼ nzǎʼ ngě la.",
+                        "fr": "Cet enfant marche comme un désœuvré.",
+                        "en": "This child walks like an idle person."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzǎmɔ̂ɔn",
+        "pronounciation": "ǹ̩dzǎmɔ̃̂ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "allemand",
+                "definition_en": "German",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzaŋ",
+        "pronounciation": "ǹ̩dzã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brin de paille",
+                "definition_en": "blade of straw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzǎŋ",
+        "pronounciation": "ǹ̩dzã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balafon ; xylophone sur troncs de bananier",
+                "definition_en": "balafon; banana-log xylophone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàŋ ngèle",
+        "pronounciation": "ǹ̩dzã̏ŋ ŋ̩̀gə̀lȅ",
+        "synonym": [
+            "nzà ngèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drêche",
+                "definition_en": "draff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzaza",
+        "pronounciation": "ǹ̩dzàzà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lourdement",
+                "definition_en": "heavily",
+                "examples": [
+                    {
+                        "dialect": "Nyìŋ gẅie à fǎŋ, giŋ pɔ́ nzaza.",
+                        "fr": "Celui qui est gros marche lourdement.",
+                        "en": "The one who is fat walks heavily."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼ",
+        "pronounciation": "ǹ̩dzȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étrange",
+                "definition_en": "strange",
+                "examples": [
+                    {
+                        "dialect": "Tâm gyǎ tsɔ̌ nzàʼ pà nɔ̀ɔn wá á gẅiin mendóŋ twó yé méntá.",
+                        "fr": "Tam a vu un étrange animal qui avait trois cornes sur la tête.",
+                        "en": "Tam saw a strange animal that had three horns on its head."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "extraordinaire",
+                "definition_en": "extraordinary",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ tsɔ̌ nzàʼ pà nɔ̀ɔn á gẅiin mekwò ntɔgɔ́.",
+                        "fr": "J’ai vu un animal extraordinaire possédant six pattes.",
+                        "en": "I saw an extraordinary animal with six legs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzaʼ",
+        "pronounciation": "ń̩dzàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graduer",
+                "definition_en": "graduate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzáʼ",
+        "pronounciation": "ń̩dzáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couper",
+                "definition_en": "cut",
+                "examples": []
+            },
+            {
+                "definition_fr": "prévenir",
+                "definition_en": "prevent",
+                "examples": []
+            },
+            {
+                "definition_fr": "décommander",
+                "definition_en": "cancel",
+                "examples": []
+            },
+            {
+                "definition_fr": "jurer ; parier",
+                "definition_en": "swear ; bet",
+                "examples": []
+            },
+            {
+                "definition_fr": "garder une dent",
+                "definition_en": "keep a tooth",
+                "examples": []
+            },
+            {
+                "definition_fr": "sauver ; liberer ; délivrer",
+                "definition_en": "save ; release ; issue",
+                "examples": []
+            },
+            {
+                "definition_fr": "cesser",
+                "definition_en": "cease",
+                "examples": []
+            },
+            {
+                "definition_fr": "se couper",
+                "definition_en": "cut yourself",
+                "examples": []
+            },
+            {
+                "definition_fr": "garder rancune ; se décider à mal agir sur quelq’un",
+                "definition_en": "hold a grudge; decide to act badly on someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "écornifler ; mendier",
+                "definition_en": "to scratch; beg",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper",
+                "definition_en": "cut out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzáʼ",
+        "pronounciation": "ń̩dzáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêter",
+                "definition_en": "lend",
+                "examples": []
+            },
+            {
+                "definition_fr": "emprunter",
+                "definition_en": "borrow",
+                "examples": []
+            },
+            {
+                "definition_fr": "prêter",
+                "definition_en": "lend",
+                "examples": []
+            },
+            {
+                "definition_fr": "emprunter",
+                "definition_en": "borrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼ lekwɔɔn",
+        "pronounciation": "ǹ̩dzȁʔ lèkwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comploteur ; conspirateur",
+                "definition_en": "plotter; conspirer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼ ncù",
+        "pronounciation": "ǹ̩dzȁʔ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contre-attaque",
+                "definition_en": "counter-attack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼ nkwɔɔn",
+        "pronounciation": "ǹ̩dzȁʔ ŋ̩̀kwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comploteur",
+                "definition_en": "plotter",
+                "examples": []
+            }
+        ]
+    }
+]

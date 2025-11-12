@@ -1,0 +1,484 @@
+[
+    {
+        "noun": "làpêŋ",
+        "pronounciation": "lȁpə̃̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lapin",
+                "definition_en": "rabbit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "latÿɔ́ʼ",
+        "pronounciation": "làntɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combinaison",
+                "definition_en": "combination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láyè",
+        "pronounciation": "lájȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ail",
+                "definition_en": "garlic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láʼ",
+        "pronounciation": "láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gens",
+                "definition_en": "people",
+                "examples": [
+                    {
+                        "dialect": "Á yɔɔn gie láʼ tǒ lɔɔn.",
+                        "fr": "Voici comme les gens sont venus.",
+                        "en": "This is how the people came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "láʼ",
+        "pronounciation": "láʔ",
+        "synonym": [
+            "ńdáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjà",
+                "definition_en": "already",
+                "examples": [
+                    {
+                        "dialect": "N gwaa tó, mbà à ka láʼ faʼa fàʼ.",
+                        "fr": "Avant que je n’arrive, il avait déjà travaillé.",
+                        "en": "Before I arrived, he had already worked."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "depuis",
+                "definition_en": "since",
+                "examples": [
+                    {
+                        "dialect": "À ka láʼ ńtó.",
+                        "fr": "Il était venu depuis.",
+                        "en": "He had come since."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "láʼ",
+        "pronounciation": "láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "village",
+                "definition_en": "village",
+                "examples": [
+                    {
+                        "dialect": "Aláʼ yɔɔn té póŋ.",
+                        "fr": "Ce village n’est pas bien.",
+                        "en": "This village is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "láʼ",
+        "pronounciation": "láʔ",
+        "synonym": [
+            "ge láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur lointain (F5)",
+                "definition_en": "very distant future (F5)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láʼ tá",
+        "pronounciation": "láʔ tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus tard",
+                "definition_en": "later",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge láʼ tá tsɔ́ɔn.",
+                        "fr": "Tu regretteras plus tard.",
+                        "en": "You'll regret it later."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "laʼá",
+        "pronounciation": "làʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "blanketgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laʼá",
+        "pronounciation": "làʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nasse pour la pêche",
+                "definition_en": "fish-trap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làʼa",
+        "pronounciation": "làʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeu d’au revoir",
+                "definition_en": "goodbye game",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láʼa ncÿɔ̀b",
+        "pronounciation": "láʔá ǹtʃɰɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie de la peau",
+                "definition_en": "k. skin disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láʼa ncÿɔ̀b letuŋó shÿoo",
+        "pronounciation": "láʔá ǹtʃɰɔ̏p lèʈũ̀ŋó ʃɰóː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "Japenese tea; tea senna",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laʼá ndÿɔgɔ́",
+        "pronounciation": "làʔá ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "antelope grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "láʼakém",
+        "pronounciation": "láʔákə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu d’initiation",
+                "definition_en": "initiation place",
+                "examples": []
+            },
+            {
+                "definition_fr": "période d’initiation ; congé d’initiation",
+                "definition_en": "initiation period; initiation holiday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "làʼaláʼ",
+        "pronounciation": "làʔȁláʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inter village ; international",
+                "definition_en": "inter-village; international",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Láʼatsẅɛ",
+        "pronounciation": "láʔátsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Balatchi",
+                "definition_en": "Balatchi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "le",
+        "pronounciation": "lè",
+        "synonym": [
+            "nde"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne (pouvoir) pas",
+                "definition_en": "(can) not",
+                "examples": [
+                    {
+                        "dialect": "Ńgwɔ́ ɔ́ le pfɛ́ɛ mmó yé wɔ́, à fomo tɛʼ.",
+                        "fr": "Tu ne peux pas manger sa nourriture, il est très sale.",
+                        "en": "You can't eat his food, he's very dirty."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "jamais",
+                "definition_en": "never",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gíŋ láʼ jʉʉ? Ngǎŋ le.",
+                        "fr": "Tu voleras encore? Non jamais.",
+                        "en": "Will you fly again? No, never."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "le",
+        "pronounciation": "lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(loin dans le passé)",
+                "definition_en": "(long time in the past)",
+                "examples": [
+                    {
+                        "dialect": "À ně ńdáʼ ńgʉa le.",
+                        "fr": "Il est parti il y a longtemps.",
+                        "en": "He left a long time ago."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "le-",
+        "pronounciation": "lè-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "un (pour la classe 5)",
+                "definition_en": "a",
+                "examples": [
+                    {
+                        "dialect": "lepfòm,",
+                        "fr": "un ventre.",
+                        "en": "a stomach."
+                    },
+                    {
+                        "dialect": "lesoŋ,",
+                        "fr": "une dent.",
+                        "en": "a tooth."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lé",
+        "pronounciation": "lé",
+        "synonym": [
+            "né"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à ; au ; dans ; en ; pour ; chez",
+                "definition_en": "to; in; for; at",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge lé mbʉ̀a Tâm.",
+                        "fr": "Je vais chez Tam.",
+                        "en": "I'm going to Tam's."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lé",
+        "pronounciation": "lé",
+        "synonym": [
+            "pâ ",
+            " lâ ",
+            " né"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et ; avec",
+                "definition_en": "and; with",
+                "examples": [
+                    {
+                        "dialect": "Kaa yɔɔn lé gi.",
+                        "fr": "Porte ceci et cela.",
+                        "en": "Wear this and that."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lé-",
+        "pronounciation": "lé-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.v",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "pour",
+                "definition_en": "for",
+                "examples": [
+                    {
+                        "dialect": "N tǒ lélíe gú.",
+                        "fr": "Je suis venu pour te regarder.",
+                        "en": "I came to look at you."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "de",
+                "definition_en": "to",
+                "examples": [
+                    {
+                        "dialect": "À fóo lépfɛ́ mekú.",
+                        "fr": "Il vient de manger le haricot.",
+                        "en": "He just ate the bean."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "à",
+                "definition_en": "to",
+                "examples": [
+                    {
+                        "dialect": "À zyě lékÿo.",
+                        "fr": "Il a commencé à courir.",
+                        "en": "He started running."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lê",
+        "pronounciation": "lê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj.comp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que (une conjonction qui introduit le son de quelque chose) ; comme (une conjonction qui introduit un idéophone)",
+                "definition_en": "that (conjunction introducing the sound of something); like (conjunction introducing an ideophone)",
+                "examples": [
+                    {
+                        "dialect": "Mé tóŋo yé lê Ngúʼfòon.",
+                        "fr": "On l’appelle que Ngouffo.",
+                        "en": "We only call him Ngouffo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lèbe",
+        "pronounciation": "lə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dysphasie ; dystomie ; difficulté de parler",
+                "definition_en": "dysphasia; dystomie; difficulty speaking",
+                "examples": []
+            }
+        ]
+    }
+]

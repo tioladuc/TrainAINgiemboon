@@ -1,0 +1,377 @@
+[
+    {
+        "noun": "motive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "motor, pump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùbtùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "motor, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùbtùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "motorway",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò lǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mould",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fòmo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mould, blacksmith’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔ̌ɔn lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouldy, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfom",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿméŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moult",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moulted boa skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moulted snake skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ nnú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mound, termite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùngwɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mount",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mountain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mountain robin-chat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nèŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mourning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mourning, be in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mourning outfit, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "malínɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mourning, sign",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mousebird, bar-breasted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mousebird, speckled",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouse, common house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métsyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouse, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼ twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouse, sp. fat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouse, sp. field",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùʼ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouse, zebra",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kíkí màwàʼ",
+                "examples": []
+            }
+        ]
+    }
+]

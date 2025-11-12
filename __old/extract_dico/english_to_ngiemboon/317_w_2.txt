@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "wander",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńká",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wandering Jew",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngùngwò leloŋó kʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋngwò leloŋó kʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "want",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkeʼé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "want to carry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "want to stay, not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtséʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ward off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warehouse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀me",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lenuŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war fatigues",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon ngékule",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war, fight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔ́ʼ ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war, hot spot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legẅi ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warm, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtween",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warmer, grow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warmonger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̀bte ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warm someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warm up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtween",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkága tuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warrior",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀ʼ ncù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war slave",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼu ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "war strategy, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿoon ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wart",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "warthog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúnɔ̀ɔn tsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wary, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaga twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔg",
+                "examples": []
+            }
+        ]
+    }
+]

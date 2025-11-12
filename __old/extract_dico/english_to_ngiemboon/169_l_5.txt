@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "leaves from the tops",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leaves, ironweed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndolé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leaves, manioc",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzab meffo kasálà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leaves, melon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leaving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leaving, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́me mánzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leech",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèmùʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leek",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùalô",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "left hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwó kyɛ̀bɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "left-handed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̀bɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkìbɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leftist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ mbìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leftover corn couscous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leftovers, things squeezed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "left-wing tendencies, with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ mbìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̀bɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkìbɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leg",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàga kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ɔn kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legs, cross one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sitolóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemongrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fipà ngalásè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemon leaf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fipà ngalásè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lemon-tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ sitolóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "length",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lengthen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋte",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,385 @@
+[
+    {
+        "noun": "lekẅiʼi ngʉa ngʉ̀a",
+        "pronounciation": "lèkɥìʔì ŋ̩̀gɯ̀à ŋ̩̀gɯ̀ȁ",
+        "synonym": [
+            "ngʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "multiplication",
+                "definition_en": "multiplication",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyě",
+        "pronounciation": "lèkxjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lessive ; acide issue de la cendre",
+                "definition_en": "lye; acid from cinders",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyè mmɔ́g",
+        "pronounciation": "lèkxjȅ m̩̀mɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foyer ; âtre",
+                "definition_en": "home; hearth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyɛ̌",
+        "pronounciation": "lèkjɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couche superficielle d’un bambou",
+                "definition_en": "outside layer of bamboo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyɛ̌ kúkwò",
+        "pronounciation": "lèkjɛ̌ kúkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aiguillon",
+                "definition_en": "thorn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyɛ̀bɛ",
+        "pronounciation": "lèkjɛ̀βɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaucherie ; négatif",
+                "definition_en": "awkwardness; clumsiness; negative",
+                "examples": []
+            },
+            {
+                "definition_fr": "contraire",
+                "definition_en": "opposite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekyɛ́ʼtè",
+        "pronounciation": "lèkjɛ́ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "explication ; explicitation",
+                "definition_en": "explanation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekÿò",
+        "pronounciation": "lèkxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "course",
+                "definition_en": "running; race",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekÿò",
+        "pronounciation": "lèkxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filet",
+                "definition_en": "net",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekÿò",
+        "pronounciation": "lèkxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goal",
+                "definition_en": "goalkeeper",
+                "examples": []
+            },
+            {
+                "definition_fr": "but",
+                "definition_en": "goal; aim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "léláa",
+        "pronounciation": "léláː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "persistant",
+                "definition_en": "persistent",
+                "examples": [
+                    {
+                        "dialect": "Léláa guɔ, aa ńzẅé nyìŋ.",
+                        "fr": "Une maladie persistante peut tuer quelqu’un.",
+                        "en": "A persistent illness can kill someone."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lelàb",
+        "pronounciation": "lèlȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelàb kénáŋ",
+        "pronounciation": "lèlȁp̚ kénã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuscute",
+                "definition_en": "dodder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelàba mbâmbǎ",
+        "pronounciation": "lèlàβȁ m̩̀bâmbǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "hairy woodrose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelàg shúm",
+        "pronounciation": "lèlȁq̚ ʃúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moisson ; récolte",
+                "definition_en": "harvest; crop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelaŋ",
+        "pronounciation": "lèlã̀ŋ",
+        "synonym": [
+            "ngáb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ananas",
+                "definition_en": "pineapple",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelaŋ",
+        "pronounciation": "lèlã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aloe",
+                "definition_en": "aloe vera",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelaŋ ngẅi",
+        "pronounciation": "lèlã̀ŋ ŋ̩̀gɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "giant carrion flower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelaŋ ntse",
+        "pronounciation": "lèlã̀ŋ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelaʼá",
+        "pronounciation": "lèlàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dortoir",
+                "definition_en": "dormitory",
+                "examples": []
+            },
+            {
+                "definition_fr": "domicile",
+                "definition_en": "home",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelemé",
+        "pronounciation": "lèlə̀mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour à fente, très grand, posé sur la terre",
+                "definition_en": "k. slit-gong, very large, laid horizontally on the ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelèŋ",
+        "pronounciation": "lèlə̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viseur",
+                "definition_en": "sight; viewfinder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leleŋé",
+        "pronounciation": "lèlə̃̀ŋé",
+        "synonym": [
+            "lelʉŋé",
+            " lelʉŋé pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anneau ; boucle",
+                "definition_en": "ring; buckle",
+                "examples": []
+            },
+            {
+                "definition_fr": "phalange",
+                "definition_en": "phalanx",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leleʼé",
+        "pronounciation": "lèlə̀ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "garderie",
+                "definition_en": "day nursery; nursery school",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lelèʼe",
+        "pronounciation": "lèlə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rendez-vous ; promesse",
+                "definition_en": "appointment; meeting; promise",
+                "examples": []
+            }
+        ]
+    }
+]

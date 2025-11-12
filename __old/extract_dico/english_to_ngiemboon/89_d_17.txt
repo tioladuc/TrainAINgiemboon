@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "dribble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dribbler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drift",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńziete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drink",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drinkable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drinker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drink, imported",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melùʼ ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drinking, calabash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ tÿóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drink nobly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drink (wine)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drive a nail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drive back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drive in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfom",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drive in repeatedly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "driver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "driving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drizzle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ̀ʼnyɛ̀ʼ mbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éffote",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntse mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "droplet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "droplets, come out in small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drop of water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàb ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "droppings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "droppings, bird",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfèle mefòŋ",
+                "examples": []
+            }
+        ]
+    }
+]

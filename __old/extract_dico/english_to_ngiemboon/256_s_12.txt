@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "shame, speechless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shape, be in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shape, be in good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shapeless, be big but",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shape, lose one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyagte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shared out, not have one’s part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shareholder’s equity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzyè letaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "share out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "share without limit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sharing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sharing, taste before",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sharp, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sharpen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sharpener",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shaved head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shave off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "she",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "e",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "à",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheath",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ̀njÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheep, bleat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ̌ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheep, male",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèkwòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̌ɔn mmó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pelâg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheet metal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̂ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sheet metal, put on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkim",
+                "examples": []
+            }
+        ]
+    }
+]

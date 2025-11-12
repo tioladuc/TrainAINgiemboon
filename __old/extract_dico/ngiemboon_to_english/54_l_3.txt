@@ -1,0 +1,421 @@
+[
+    {
+        "noun": "lecʉ̌",
+        "pronounciation": "lètʃɯ̌",
+        "synonym": [
+            "ncʉ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecʉ́a",
+        "pronounciation": "lètʃɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouture ; bout",
+                "definition_en": "cutting; end",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecʉ́a pwó",
+        "pronounciation": "lètʃɯ́á pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "phalangette",
+                "definition_en": "distal phalanx",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecʉmé ntse",
+        "pronounciation": "lètʃɯ̀mé ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embouchure ; estuaire ; delta",
+                "definition_en": "mouth; mouthpiece; estuary; delta",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecʉŋé",
+        "pronounciation": "lètʃɯ̃̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barrette",
+                "definition_en": "hair slide; barrette",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecwoŋ",
+        "pronounciation": "lètʃwõ̀ŋ",
+        "synonym": [
+            "ncÿó ",
+            " leság"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fesse",
+                "definition_en": "buttock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lecÿɔ́ʼ",
+        "pronounciation": "lètʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étagère ; table ; bureau",
+                "definition_en": "shelf; table; desk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lee",
+        "pronounciation": "le:",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(loin de l’émetteur)",
+                "definition_en": "(far from speaker)",
+                "examples": [
+                    {
+                        "dialect": "N tsyɛʼté lee!",
+                        "fr": "Je te salue (toi, là-bas) !",
+                        "en": "I salute you (you, over there)!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lêe",
+        "pronounciation": "lêː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(plus loin dans le passé)",
+                "definition_en": "(very long time in the past)",
+                "examples": [
+                    {
+                        "dialect": "À ně ńdáʼ ńgʉa lêe.",
+                        "fr": "Il est parti il y a fort longtemps.",
+                        "en": "He left a long time ago."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "leen",
+        "pronounciation": "lẽ̀ː",
+        "synonym": [
+            "ńdeen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "subitement ; immédiatement ; du coup ; tout de suite",
+                "definition_en": "suddenly; immediately; quickly",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ tǒ, ńdeen ńgʉa pɔ́ fʉ̀ʼó.",
+                        "fr": "Ils sont venus, immédiatement, ils sont repartis.",
+                        "en": "They came, immediately, they left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "léen",
+        "pronounciation": "lẽ́ː",
+        "synonym": [
+            "ndéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé loin, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation distant past",
+                "examples": [
+                    {
+                        "dialect": "Gubé yé léen ńgwáʼa yé ńgʉa lé túm metsèm.",
+                        "fr": "Ses enfants l’ont tous abandonné pour aller à l’étranger.",
+                        "en": "His children all abandoned him to go abroad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lefág",
+        "pronounciation": "lèfáq̚",
+        "synonym": [
+            "tàʼ lefág ",
+            " málefág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un des jumeaux",
+                "definition_en": "one of the twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefagá",
+        "pronounciation": "lèfàʁá",
+        "synonym": [
+            "lefegé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jointure (gén.)",
+                "definition_en": "joint (generic)",
+                "examples": []
+            },
+            {
+                "definition_fr": "intersection ; carrefour",
+                "definition_en": "interchange; crossroads",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefagá nzsè",
+        "pronounciation": "lèfàʁá ǹ̩dzsȅ",
+        "synonym": [
+            "lefegé nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intersection ; carrefour",
+                "definition_en": "interchange; crossroads",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefáŋ",
+        "pronounciation": "lèfã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grandeur",
+                "definition_en": "size",
+                "examples": []
+            },
+            {
+                "definition_fr": "gloire",
+                "definition_en": "glory",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefàŋ",
+        "pronounciation": "lèfã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ciel ; firmament",
+                "definition_en": "sky; firmament",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefàŋ",
+        "pronounciation": "lèfã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tonnerre",
+                "definition_en": "thunder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefàʼ",
+        "pronounciation": "lèfȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "recherche",
+                "definition_en": "search; research",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefaʼá nò",
+        "pronounciation": "lèfàʔá nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu de recherche",
+                "definition_en": "research place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefegé",
+        "pronounciation": "lèfə̀ʁé",
+        "synonym": [
+            "lefagá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jointure (gén.)",
+                "definition_en": "joint (generic)",
+                "examples": []
+            },
+            {
+                "definition_fr": "intersection ; carrefour",
+                "definition_en": "interchange; crossroads",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefegé nzsè",
+        "pronounciation": "lèfə̀ʁé ǹ̩dzsȅ",
+        "synonym": [
+            "lefagá nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intersection ; carrefour",
+                "definition_en": "interchange; crossroads",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leffo",
+        "pronounciation": "lèfːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plume",
+                "definition_en": "feather",
+                "examples": []
+            },
+            {
+                "definition_fr": "fourmilière",
+                "definition_en": "anthill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leffo tÿó",
+        "pronounciation": "lèfːò ʈθɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuillage",
+                "definition_en": "foliage; leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefǒ",
+        "pronounciation": "lèfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "origine ; provenance",
+                "definition_en": "origin; provenance; source",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefomó",
+        "pronounciation": "lèfɤ̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument musicale formé de deux calebasses et utilisé dans les rites des jumeaux",
+                "definition_en": "k. musical instrument made of two calabashes and used for twin’s ceremonies",
+                "examples": []
+            },
+            {
+                "definition_fr": "orchestre musicale utilisée pour les rites des jumeaux",
+                "definition_en": "musical orchestra used for the twin’s ceremonies",
+                "examples": []
+            }
+        ]
+    }
+]

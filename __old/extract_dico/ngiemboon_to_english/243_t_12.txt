@@ -1,0 +1,428 @@
+[
+    {
+        "noun": "tsítsà",
+        "pronounciation": "tsítsȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maître",
+                "definition_en": "primary school teacher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìtsì",
+        "pronounciation": "tsȉtsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchet de graines d’arachide",
+                "definition_en": "groundnut waste",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìtsì",
+        "pronounciation": "tsȉtsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte de petite taille",
+                "definition_en": "sp. small insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìtsìi péli",
+        "pronounciation": "tsȉtsìȉ pə́lí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arachide immature",
+                "definition_en": "green groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìtsyɛ̀",
+        "pronounciation": "tsȉtsjɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "torrent",
+                "definition_en": "torrent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìʼte",
+        "pronounciation": "tsìʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doute ; panique",
+                "definition_en": "doubt; panic",
+                "examples": [
+                    {
+                        "dialect": "À gwǒon ńtó, pɔ́ zye tsìʼte.",
+                        "fr": "Dès qu’il est venu, ils ont commencé le doute.",
+                        "en": "As soon as he came, they began to doubt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsò",
+        "pronounciation": "tsȍ",
+        "synonym": [
+            "zso"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. animal aquatique",
+                "definition_en": "sp. aquatic animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsoló",
+        "pronounciation": "tsòló",
+        "synonym": [
+            "tsɛ̀ɛ wó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à l’intérieur ; dedans",
+                "definition_en": "in the interior; inside",
+                "examples": [
+                    {
+                        "dialect": "Néŋ nkáb yɔɔn kwàʼ tsoló!",
+                        "fr": "Mets l’argent-ci vraiment dedans !",
+                        "en": "Really put the money in!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsoon",
+        "pronounciation": "tsõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "environ",
+                "definition_en": "around",
+                "examples": [
+                    {
+                        "dialect": "Náa wɔ́ɔn metétɔ́ʼ tsoon mémbʉ́a.",
+                        "fr": "Donne-moi environ deux boîtes.",
+                        "en": "Give me about two boxes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsòon",
+        "pronounciation": "tsõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "indécis ; indéfini",
+                "definition_en": "indecisive; indefinite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsǒon",
+        "pronounciation": "tsõ̌ː",
+        "synonym": [
+            "tsɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aucun",
+                "definition_en": "none",
+                "examples": [
+                    {
+                        "dialect": "Lepfo gweté, tsǒon tɔ̌ɔn n kaa píi.",
+                        "fr": "La kola est tombée, je n’ai pris aucune.",
+                        "en": "The cola ran out, I didn't take any."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́",
+        "pronounciation": "tsɔ́",
+        "synonym": [
+            "atsɔ́ ",
+            " etsɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 2, 3, 4, 5, 6, 7, 8 et 10)",
+                "definition_en": "certain; other (modifying class 2, 3, 4, 5, 6, 7, 8 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À tǒ ńtóŋ tsɔ́ pʉ̀a.",
+                        "fr": "Il a appelé certaines personnes.",
+                        "en": "He called some people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̌",
+        "pronounciation": "tsɔ̌",
+        "synonym": [
+            "atsɔ̌ ",
+            " etsɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain ; autre (modifiant les noms des classes 1 et 9)",
+                "definition_en": "certain; other (modifying class 1 and 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À jǔ tsɔ̌ mêngáb pɔ́ fʉ̀ʼɔɔn.",
+                        "fr": "Il a acheté l’autre poule tout de suite.",
+                        "en": "He bought the other chicken right away."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ fʉʼ",
+        "pronounciation": "tsɔ́ fɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prochainement ; parfois ; autre fois",
+                "definition_en": "soon; sometimes; another time",
+                "examples": [
+                    {
+                        "dialect": "À cʉ́ʼʉ wɔ́gɔ̀ tsɔ́ fʉʼ.",
+                        "fr": "A nous revoir prochainement.",
+                        "en": "See you again soon."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ jʉʼ",
+        "pronounciation": "tsɔ́ ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelque part",
+                "definition_en": "someplace",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gwǎa tó mbà à gʉ̌a ne tsɔ́ jʉʼ.",
+                        "fr": "Avant d’arriver, il était parti quelque part.",
+                        "en": "Before arriving, he had gone somewhere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̌ nyìŋ",
+        "pronounciation": "tsɔ̌ ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelqu’un",
+                "definition_en": "someone",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ̌ nyìŋ tǒo mbʉ̀a wɔɔn.",
+                        "fr": "Quelqu’un est venu dans cette concession.",
+                        "en": "Someone came to this dealership."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔb",
+        "pronounciation": "tsɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "civette africaine",
+                "definition_en": "African civet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́g tùŋ",
+        "pronounciation": "tsɔ́q tũ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "picotement",
+                "definition_en": "smarting; prickling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ɔ móm mbʉ́a",
+        "pronounciation": "tsɔ̏ː mɤ́m m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vingtaine",
+                "definition_en": "around twenty",
+                "examples": [
+                    {
+                        "dialect": "Ná ngáb né mèŋ tsɔ̀ɔ móm mbʉ́a.",
+                        "fr": "Donne-moi une vingtaine de poules.",
+                        "en": "Give me twenty chickens."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̌ɔn",
+        "pronounciation": "tsɔ̃̌ː",
+        "synonym": [
+            "tsǒon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aucun",
+                "definition_en": "none",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Tsɔ́ɔn",
+        "pronounciation": "tsɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Batcham",
+                "definition_en": "Batcham",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ɔn mboŋ",
+        "pronounciation": "tsɔ̃́ː m̩̀bõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bienfaiteur",
+                "definition_en": "benefactor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ɔn mézìŋe",
+        "pronounciation": "tsɔ̃́ː mézĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miséricorde ; pitié ; pardon",
+                "definition_en": "mercy; pity; forgiveness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔɔn nzsó",
+        "pronounciation": "tsɔ̃̀ː ǹ̩dzsó",
+        "synonym": [
+            "cʉ̀a nzsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "red-leaved fig",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̌ɔn nzsó",
+        "pronounciation": "tsɔ̃̌ː ǹ̩dzsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pan de vêtement",
+                "definition_en": "piece of clothing",
+                "examples": []
+            }
+        ]
+    }
+]

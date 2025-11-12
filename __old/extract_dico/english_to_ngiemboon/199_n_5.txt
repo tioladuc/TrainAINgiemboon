@@ -1,0 +1,502 @@
+[
+    {
+        "noun": "nonsense, talk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "noon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "táŋazsǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tẅɛ̂b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛzsǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀zsǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "no one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "normally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose, bloody",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twò mvɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose, blow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿág mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose, end",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndòŋ mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose, outer part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nose, wipe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿág mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nostril",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́ŋ mezẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbeŋ lezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nostrils",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿé mezẅe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "těen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "te ... mɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kaa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "te ... wɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nté",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kaa ... wɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "notability title, royal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔntsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "notables, mediator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndè nkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "not, can",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nde",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "le",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "notches, raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "note",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "liŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mâg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkendɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "note down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "not even",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nothing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nothing, absolutely",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kěkě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nothing, fold one’s hands",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "notice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋe",
+                "examples": []
+            }
+        ]
+    }
+]

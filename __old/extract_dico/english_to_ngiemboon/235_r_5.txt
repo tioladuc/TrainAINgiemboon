@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "redweed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gegàŋa nkèsàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reed basket, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reef egret, Western",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ ncùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿéente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reeling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reflect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reflection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reflection, gaze at one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyá  shÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refrigerator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nẅèen nkẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refuge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refusal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refuse something to someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refuse to breastfeed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ lépʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "refuse to nurse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ lépʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "regards, as",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉa na",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "regenerate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "region",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "region, outside",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "register",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼne mezíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "regret",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mÿɔ̀gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "regulator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reheat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdimte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reinforce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáte",
+                "examples": []
+            }
+        ]
+    }
+]

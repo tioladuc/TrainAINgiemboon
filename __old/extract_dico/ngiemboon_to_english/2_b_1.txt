@@ -1,0 +1,22 @@
+[
+    {
+        "noun": "bîb",
+        "pronounciation": "bîp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une lourde charge",
+                "definition_en": "sound of a heavy load",
+                "examples": [
+                    {
+                        "dialect": "À kɔʼɔ́ tÿǒ, á gwe lê bîb.",
+                        "fr": "L’arbre qu’il a coupé est tombé que « bîb ».",
+                        "en": "The tree he cut fell only “bib”."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,321 @@
+[
+    {
+        "noun": "notice slightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "not, if",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "November",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ mejwoŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "now",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nuisance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìi twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "number",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "masáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "numerous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nurse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nursemaid, king’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyè fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nurse, refuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ lépʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nursery rhyme",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kànàlínè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nursery school",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leleʼé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nutgrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú tsẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú nkèsàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nut, kola",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nutmeg, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mênjwò nnáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nut, physic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekwé tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nut, pistachio",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nutsedge, purple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú tsẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú nkèsàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nuts, game",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nut, sp. kola",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tálaʼ",
+                "examples": []
+            }
+        ]
+    }
+]

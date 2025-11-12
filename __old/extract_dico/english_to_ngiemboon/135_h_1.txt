@@ -1,0 +1,377 @@
+[
+    {
+        "noun": "habit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "habit finished, far past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "habit finished, yesterday past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "habit, impossible to change",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "habitually",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "habitually, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "haemorrhage plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "haft",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "haggle over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hailstone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvèmvɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "menoŋo twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lenoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hairdresser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìŋe twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòon metwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hair, head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lenoŋo twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hair, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hair, short",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwènzẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hairs, short",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hair style",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hairy clothes, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon ngékule",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hairy woodrose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelàba mbâmbǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "háb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "half, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "half the story, tell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "halfway, dry out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hammer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hammer, forge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    }
+]

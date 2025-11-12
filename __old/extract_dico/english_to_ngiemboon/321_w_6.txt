@@ -1,0 +1,617 @@
+[
+    {
+        "noun": "wedding",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wedge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzso",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wedge, log splitting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Wednesday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "míndèlèwɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsètsɛ̀ɛ lyɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed around peanut plants",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weeds, cleared",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed, sp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ́ʼnzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋshʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zyé pàŋ nzèm mɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ ngǐm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ mbí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsyɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gàŋagáŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lejúʼu ngẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀shʉ̀a mêngwé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gúʼunɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letse mánzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kekwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntúlesẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàgapǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mákʉmte púɔ nzóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋsìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀jÿó méshʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ nzèm mɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kÿɛɛ nɔ̀ɔn ndóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́méshʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mákemte púɔ nzóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "feláʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kénʉʼ ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅi lelaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìsìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gúʼu nɔ̀ɔn panzwě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezse mánzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelaŋ ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tétɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weed, sp. dried",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weeds, pile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weeds used for treatment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "week",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "week, chocolate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gegàŋa nkèsàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "week, traditional",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼcʉ̀ʼʉnzàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼnzème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngaŋá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mándunzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmenzème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metʉanzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàba láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔʼshʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀ʼʉnzàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿonzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼngaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weevil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weigh",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́e",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀e",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weight disproportionately, put on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weight, gain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weight, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weigh up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "welcome",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zsé letó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "well",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mboŋó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntse ntǔŋ",
+                "examples": []
+            }
+        ]
+    }
+]

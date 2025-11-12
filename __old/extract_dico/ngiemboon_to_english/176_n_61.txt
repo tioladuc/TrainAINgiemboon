@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "ńtiŋ",
+        "pronounciation": "ń̩tĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "durcir",
+                "definition_en": "harden",
+                "examples": []
+            },
+            {
+                "definition_fr": "endurcir ; opposer",
+                "definition_en": "harden; oppose",
+                "examples": []
+            },
+            {
+                "definition_fr": "espérer ; penser",
+                "definition_en": "hope ; think",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntìŋ ndʉ̀ʼ",
+        "pronounciation": "n̩tĩ̀ŋ ɳ̩̀ɖɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opposant",
+                "definition_en": "opponent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtíʼ",
+        "pronounciation": "ń̩tíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canaliser ; faire un barrage ; barrer la voie à l’eau",
+                "definition_en": "canalize; make a dam; block the way for water",
+                "examples": []
+            },
+            {
+                "definition_fr": "empêcher ; barrer",
+                "definition_en": "to prevent ; bar",
+                "examples": []
+            },
+            {
+                "definition_fr": "encercler",
+                "definition_en": "circle",
+                "examples": []
+            },
+            {
+                "definition_fr": "prévenir",
+                "definition_en": "prevent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtó",
+        "pronounciation": "ń̩tó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "venir",
+                "definition_en": "come",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntoŋ",
+        "pronounciation": "ǹ̩tõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avare",
+                "definition_en": "miser",
+                "examples": [
+                    {
+                        "dialect": "Aa ntoŋo fǎŋ.",
+                        "fr": "C’est un avare.",
+                        "en": "He's a miser."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntoŋ",
+        "pronounciation": "ǹ̩tõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cime ; sommet",
+                "definition_en": "peak; summit",
+                "examples": []
+            },
+            {
+                "definition_fr": "bourgeon",
+                "definition_en": "bud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntoŋ",
+        "pronounciation": "ǹ̩tõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "motif",
+                "definition_en": "motive",
+                "examples": []
+            },
+            {
+                "definition_fr": "raison",
+                "definition_en": "reason",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ tè gẅiin ntoŋ lécúa múɔ wɔɔn wɔ́.",
+                        "fr": "Tu n’a pas raison de taper cet enfant.",
+                        "en": "You are not right to hit this child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntòŋ",
+        "pronounciation": "ǹ̩tõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lecteur",
+                "definition_en": "reader",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui appelle",
+                "definition_en": "one who calls",
+                "examples": [
+                    {
+                        "dialect": "Atòŋ ntsèm zɔ zsé letyě.",
+                        "fr": "C’est celui qui vous appelle pour vous faire une confidence qui sait où vous allez vous placer.",
+                        "en": "It is the one who calls you to confide in you who knows where you will stand."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtoŋ",
+        "pronounciation": "ń̩tõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rembourser ; restituer",
+                "definition_en": "repay; restore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtóŋ",
+        "pronounciation": "ń̩tṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appeler",
+                "definition_en": "call",
+                "examples": []
+            },
+            {
+                "definition_fr": "lire",
+                "definition_en": "read",
+                "examples": []
+            },
+            {
+                "definition_fr": "siffler",
+                "definition_en": "whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntóŋ mbwó",
+        "pronounciation": "ǹ̩tṍŋ m̩̀bɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doigts",
+                "definition_en": "fingers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntoŋ ngesáŋ",
+        "pronounciation": "ǹ̩tõ̀ŋ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleur (male) du maïs",
+                "definition_en": "male corn flower",
+                "examples": [
+                    {
+                        "dialect": "Mentoŋ ngesáŋ kéen ḿbú ńkyɛ́ʼte tsẅɛ.",
+                        "fr": "Les fleurs des maïs se sont toutes étalées.",
+                        "en": "The cornflowers have all spread out."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtoŋte",
+        "pronounciation": "ń̩tõ̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "curer ; enlever la saleté dans l’oreille",
+                "definition_en": "clean out; clean the dirt out of one’s ears",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntóon",
+        "pronounciation": "ǹ̩tṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poteau ; tuteur",
+                "definition_en": "post; guardian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtóon",
+        "pronounciation": "ń̩tṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soutenir ; supporter",
+                "definition_en": "hold up; support",
+                "examples": []
+            },
+            {
+                "definition_fr": "soutenir ; supporter",
+                "definition_en": "sustain ; support",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtóonte",
+        "pronounciation": "ń̩tṍːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "argumenter ; renchérir (parole)",
+                "definition_en": "argue; go one better (speech)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́d",
+        "pronounciation": "ntɔ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très blanc ; très clair",
+                "definition_en": "very white; very clear",
+                "examples": [
+                    {
+                        "dialect": "À kéen sɔg mesoŋ mé mie é kɔ́ɔn síŋe tà é fʉ̀ʼɔɔn éfɔ́gɔ lê tɔ́d.",
+                        "fr": "Il a lavé ses dents qui étaient sales si bien qu’elles sont très blanches maintenant.",
+                        "en": "He cleaned his teeth which were dirty so that they are very white now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔg",
+        "pronounciation": "ń̩tɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essuyer ; enlever la saleté en essuyant",
+                "definition_en": "dry; dust",
+                "examples": []
+            },
+            {
+                "definition_fr": "éclaircir ; être clair",
+                "definition_en": "lighten; be clear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔ́g",
+        "pronounciation": "ń̩tɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer",
+                "definition_en": "pass",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépasser",
+                "definition_en": "overtake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔ́g",
+        "pronounciation": "ń̩tɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "percer",
+                "definition_en": "pierce",
+                "examples": []
+            },
+            {
+                "definition_fr": "être percé ; être crevé ; être troué",
+                "definition_en": "to be pierced; to be punctured; to be holed",
+                "examples": []
+            },
+            {
+                "definition_fr": "perforer",
+                "definition_en": "perforate",
+                "examples": []
+            },
+            {
+                "definition_fr": "cribler ; percer par endroits",
+                "definition_en": "sift; drill in places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́gè",
+        "pronounciation": "ǹ̩tɔ́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couple ; genre",
+                "definition_en": "couple; kind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔgɔ́",
+        "pronounciation": "ǹ̩tɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "six",
+                "definition_en": "six",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔ́gte",
+        "pronounciation": "ń̩tɔ́qté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faufiler",
+                "definition_en": "baste",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́ɔn",
+        "pronounciation": "ǹ̩tɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuisse",
+                "definition_en": "thigh",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ̀ɔn",
+        "pronounciation": "ǹ̩tɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intervalle ; écart ; écartement ; espacement",
+                "definition_en": "interval",
+                "examples": []
+            }
+        ]
+    }
+]

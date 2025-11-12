@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "lot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lot, bad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀g metsẅiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lot of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gyɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "légʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lotus, African tiger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwɔʼ kʉ́kʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "loud speaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lounge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndalÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fala nda",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "louse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "love",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "love each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅíʼi nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "low-pitched sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "luck, bad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo ngɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "luck, rotten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉpʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lucky",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó mbòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùmbòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa fùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lucky, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅiin ntoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lukewarm, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lukewarm, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lullaby",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndye múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋe lé nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lump, obvious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdule",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lunatic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀gʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lunch, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbág létye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lye",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lying, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lynch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeʼe ngʉ̀ngʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeʼe ngʉ̀ngʉ̀",
+                "examples": []
+            }
+        ]
+    }
+]

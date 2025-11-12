@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "rod for weaving a mat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rod, short",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roll",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèyà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roll on the ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkite",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkele ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roll up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzémte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzéme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roll up a rope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzémte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roof",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roof, edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mecʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roof edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roof of the mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "room",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lûm ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndá lelaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "room, meeting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá lemù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "room, sitting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndalÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fala nda",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "room, study",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá leziʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rooster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mênkɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rooster’s comb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀kÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "root",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leŋaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "root rot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyè ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rope, jump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàa nkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kyɛ́ɛ nkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rope, roll up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzémte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rope, twist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rope, woven",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfom",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿméŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rotation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ́ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

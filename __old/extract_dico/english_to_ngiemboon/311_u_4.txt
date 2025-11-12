@@ -1,0 +1,86 @@
+[
+    {
+        "noun": "us two",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "usually",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "usurper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔ ŋwɛ̂ mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "utensil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shúm ssé ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "utensil, k. kitchen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mankwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "uterus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀a lezyé",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "cool down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cool off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cool (water), be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coordinator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "copse, sacred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefomó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "copulate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmyɛʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "copyright holder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cord, extension",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cordia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cordon-bleu, red-cheeked",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋé ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cord, one who cuts",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼnkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cord, umbilical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "core",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cornbread",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèkɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn-cockle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túʼu pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn, ear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corner, market",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lewaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn flower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn, ground and prepared",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèndéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn, harvest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn, immature ear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóon ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn, kernels side by side",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánèndèle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mándèndèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn popping, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̀g tɔ̀g",
+                "examples": []
+            }
+        ]
+    }
+]

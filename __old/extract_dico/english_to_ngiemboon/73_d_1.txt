@@ -1,0 +1,712 @@
+[
+    {
+        "noun": "dagger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kapáŋapùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "daily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̌ʼ ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "daisy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋa twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letiʼí ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mâsî",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̂g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance after the funeral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance as a group",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance at Batcham, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùʼmbùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance clothes, women’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance costume",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsozíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance for young people",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mangɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance instrument, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "téŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance, k. cultural",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ nÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "makòŋ ngé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "megùb nzáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "manzàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàmbà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ nkyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngele",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fwɔ̀ʼ ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwaʼ ntaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pèle mpfóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsébe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máwàcùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndànzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà nò pʉ̀a wɔ́ɔn ńgÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíʼ fùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shùshwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mankwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tége ńkẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngòŋngé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zíŋe mendóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàmbwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kelɔ̂g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndànzì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbáʼ ntsɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbèyà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pabtwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepàŋndâŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛlôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàga mvɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "késhʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kànɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malàntê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàkwà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánzàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mántÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàmalí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melàntɛ̂",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ngùɔ kwò mɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnameshú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ nzáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méwàcùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nàmeshǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋa nèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ mánzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwáŋ mezwě fùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàntùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndameshǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mágɔ̀ʼpʉ̌ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkèmbwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm mesà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùʼngàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉŋ nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà shùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nèŋe tsébe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance, k. cultural rite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance, k. funeral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance machete",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně sàmbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance, not know how",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dancer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nèŋe tsébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance skirt, fibre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zèzàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance, song from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéyàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance spear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ lúŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ shÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance sword",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně lǔŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dance (widows)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dancing, rejoice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dancing, rejoice by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼte",
+                "examples": []
+            }
+        ]
+    }
+]

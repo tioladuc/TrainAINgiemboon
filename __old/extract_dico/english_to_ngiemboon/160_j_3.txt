@@ -1,0 +1,91 @@
+[
+    {
+        "noun": "justice, high court",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ŋ ntsɔ̀ʼ ndá ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "justification",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "just, only",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ményaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jute, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfʉ̀ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jute, sp. tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jutting forehead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́be zǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋo zǐ",
+                "examples": []
+            }
+        ]
+    }
+]

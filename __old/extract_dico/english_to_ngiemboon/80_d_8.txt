@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "dew",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mmʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dew, get wet from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dew, pat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dew, topple over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diagnostician",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàase",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diagonally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ̀ʼʉ mekʉ̀ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dialect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋè láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dialogue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò mepʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diameter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀ntʉ̀a soŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diamond",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ̀ŋwʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̌ nʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diamond burbank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diarrhoea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm nkwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diarrhoea, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diarrhoea, persistent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅìŋe lepfòm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dibble, bamboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dibble, metal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně panzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dibble stick, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dictator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tegɔ̀ɔn melʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dictionary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyɛ̀ʼtendù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dictum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "die",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿǒ shúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "die together",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "difference",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyɛ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fègte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "differentiate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfegte",
+                "examples": []
+            }
+        ]
+    }
+]

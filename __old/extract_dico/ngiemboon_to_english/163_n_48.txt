@@ -1,0 +1,425 @@
+[
+    {
+        "noun": "nkwʉ̀ŋe",
+        "pronounciation": "ŋ̩̀kwɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acclamateur",
+                "definition_en": "acclaimer; cheerleader",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅág",
+        "pronounciation": "ŋ̩́kɥáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourgeonner",
+                "definition_en": "bud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅág",
+        "pronounciation": "ŋ̩́kɥáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tousser",
+                "definition_en": "cough",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅáŋte",
+        "pronounciation": "ŋ̩́kɥã́ŋté",
+        "synonym": [
+            "ńgẅáŋte ",
+            " ńdoŋo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rabougrir ; s’étioler",
+                "definition_en": "shrivel up; become stunted; wilt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅè",
+        "pronounciation": "ŋ̩̀kxɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "preneur",
+                "definition_en": "taker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅé",
+        "pronounciation": "ŋ̩́kxɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prendre ; donner",
+                "definition_en": "take; give",
+                "examples": []
+            },
+            {
+                "definition_fr": "témoigner en cas d’accusation non-fondé",
+                "definition_en": "testify in the event of an unfounded accusation",
+                "examples": []
+            },
+            {
+                "definition_fr": "se baptiser ; être baptisé",
+                "definition_en": "baptize oneself; be baptized",
+                "examples": []
+            },
+            {
+                "definition_fr": "prendre çà et là",
+                "definition_en": "take here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅè mvfò",
+        "pronounciation": "ŋ̩̀kxɥȅ ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guide",
+                "definition_en": "guide",
+                "examples": []
+            },
+            {
+                "definition_fr": "ancien",
+                "definition_en": "elder",
+                "examples": []
+            },
+            {
+                "definition_fr": "diacre",
+                "definition_en": "deacon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅè ncùb",
+        "pronounciation": "ŋ̩̀kxɥȅ ǹ̩tʃȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collecteur d’impôt",
+                "definition_en": "tax collector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅè ntáŋ",
+        "pronounciation": "ŋ̩̀kxɥè ǹ̩tã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défenseur en cas d’accusation non fondée",
+                "definition_en": "defender from an unfounded accusation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅe pwó",
+        "pronounciation": "ŋ̩̀kxɥè pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suppléant ; adjoint",
+                "definition_en": "deputy; assistant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅèen",
+        "pronounciation": "ŋ̩̀kɥẽ̏ː",
+        "synonym": [
+            "kẅèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caoutchouc pour nettoyer",
+                "definition_en": "rubber for cleaning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅéen",
+        "pronounciation": "ŋ̩́kɥẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racler les brins de balai",
+                "definition_en": "scrape broom strands",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅéen",
+        "pronounciation": "ŋ̩́kɥẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "recouvrir de terre",
+                "definition_en": "cover with dirt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅète",
+        "pronounciation": "ŋ̩̀kwètȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assistant",
+                "definition_en": "assistant",
+                "examples": [
+                    {
+                        "dialect": "Ankẅète pʉ̀a tǒ.",
+                        "fr": "L’assistant des gens est venu.",
+                        "en": "The people's assistant came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅéte",
+        "pronounciation": "ŋ̩́kxɥété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aider",
+                "definition_en": "help",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅɛ",
+        "pronounciation": "ŋ̩́kɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sortir",
+                "definition_en": "go out; leave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅɛ̌ ndá",
+        "pronounciation": "ŋ̩̀kɥɛ̌ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "but ; objectif",
+                "definition_en": "target; goal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅɛ́tè",
+        "pronounciation": "ŋ̩̀kɥɛ́tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vice ; adjoint",
+                "definition_en": "vice; assistant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅɛ́te",
+        "pronounciation": "ŋ̩́kɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rejoindre",
+                "definition_en": "join; get back to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅɛʼɛ",
+        "pronounciation": "ŋ̩́kɥɛ̀ʔɛ̀",
+        "synonym": [
+            "ńkẅíe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trôner ; être assis gaillardement",
+                "definition_en": "sit enthroned; sitting cheerfully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅì",
+        "pronounciation": "ŋ̩̀kɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "célibataire",
+                "definition_en": "unmarried; bachelor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅi",
+        "pronounciation": "ŋ̩́kɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer le tam-tam",
+                "definition_en": "try the tom-tom",
+                "examples": []
+            },
+            {
+                "definition_fr": "essayer le tam-tam",
+                "definition_en": "try the tom-tom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅi",
+        "pronounciation": "ŋ̩́kɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foncer un clou",
+                "definition_en": "drive a nail",
+                "examples": []
+            },
+            {
+                "definition_fr": "marteler",
+                "definition_en": "hammer",
+                "examples": []
+            },
+            {
+                "definition_fr": "foncer un clou",
+                "definition_en": "drive a nail",
+                "examples": []
+            },
+            {
+                "definition_fr": "enflammer une affaire ; raviver un conflit",
+                "definition_en": "inflame an affair; rekindle a conflict",
+                "examples": []
+            },
+            {
+                "definition_fr": "insister",
+                "definition_en": "insist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅi",
+        "pronounciation": "ŋ̩́kɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frapper (poitrine)",
+                "definition_en": "hit (chest)",
+                "examples": []
+            },
+            {
+                "definition_fr": "frapper (poitrine)",
+                "definition_en": "hit (chest)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅi",
+        "pronounciation": "ŋ̩́kɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troubler (affaire)",
+                "definition_en": "disturb (matter)",
+                "examples": []
+            },
+            {
+                "definition_fr": "troubler (affaire)",
+                "definition_en": "disturb (matter)",
+                "examples": []
+            }
+        ]
+    }
+]

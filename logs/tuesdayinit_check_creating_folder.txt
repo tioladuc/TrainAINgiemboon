@@ -1,0 +1,6 @@
+The folder '../training_datasets/tuesday' exists.
+The folder '../testing_models/tuesday' exists.
+The folder '../training_datasets/tuesday' exists.
+The folder '../logs/tuesday' exists.
+The folder '../bleu_score/tuesday' exists.
+The folder '../translator_interfaces/tuesday' exists.

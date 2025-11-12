@@ -1,0 +1,396 @@
+[
+    {
+        "noun": "zà",
+        "pronounciation": "zȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fraude ; détournement",
+                "definition_en": "embezzlement; fraud; embezzlement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zà pàb zà pàb",
+        "pronounciation": "zȁ pȁb̚ zȁ pȁb̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant une démarche impropre)",
+                "definition_en": "(shows an improper approach)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ giŋe le zà pàb zà pàb páʼ púɔ ngùɔ pie pɔ́ jÿɔ́g cúa páb la!",
+                        "fr": "Ils marchent « zà pàb zà pàb » (impropre) comme des jeunes filles portant des sandalettes !",
+                        "en": "They walk “zà pàb zà pàb” (improper) like young girls wearing sandals!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zaa mòon",
+        "pronounciation": "zàː mõ̏ː",
+        "synonym": [
+            "zɔɔn mòon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majesté",
+                "definition_en": "majesty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zàb",
+        "pronounciation": "zȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maillet",
+                "definition_en": "mallet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zàkwɔ̀ʼ metoŋ",
+        "pronounciation": "zȁkwɔ̏ʔ mètõ̀ŋ",
+        "synonym": [
+            "sessò sẅǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veuve",
+                "definition_en": "red-collared widowbird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zàʼ",
+        "pronounciation": "zȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patience",
+                "definition_en": "patience",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zàʼ",
+        "pronounciation": "zȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "temps",
+                "definition_en": "time",
+                "examples": [
+                    {
+                        "dialect": "Zàʼ cʉ̌a, te gíŋe ńgʉa.",
+                        "fr": "Il est temps passé, ne pars plus.",
+                        "en": "It's past time, don't go anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zàʼa cʉ̀a",
+        "pronounciation": "zàʔȁ tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tard ; à une heure indue",
+                "definition_en": "late; at an unearthly hour",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńgʉa tsẅɛ, tè kwɔ́ʼɔ zàʼa cʉ̀a.",
+                        "fr": "Si tu pars au champ, ne rentre pas tard.",
+                        "en": "If you go to the field, don't come home late."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "záʼa nzsè",
+        "pronounciation": "záʔá ndzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raccourci",
+                "definition_en": "short cut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "záʼntɔ́ɔn",
+        "pronounciation": "záʔǹ̩tɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "záʼŋwoon",
+        "pronounciation": "záʔŋwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "syphilis",
+                "definition_en": "syphilis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zêm",
+        "pronounciation": "zə̂m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très noir",
+                "definition_en": "very black",
+                "examples": [
+                    {
+                        "dialect": "Azoon síŋe lê zêm.",
+                        "fr": "Le safou est très noir.",
+                        "en": "The safou is very black."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zéme",
+        "pronounciation": "zə́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "philosophie ; politique",
+                "definition_en": "philosophy; politics",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zème",
+        "pronounciation": "zə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frontière",
+                "definition_en": "frontier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zème",
+        "pronounciation": "zə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu profond dans l’eau",
+                "definition_en": "deep place in the water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zème ntse",
+        "pronounciation": "zə̀mè ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuvette ; bassin",
+                "definition_en": "bowl; wash-bowl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zémte",
+        "pronounciation": "zə́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouchardage",
+                "definition_en": "informing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zèŋe",
+        "pronounciation": "zə̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guérison",
+                "definition_en": "curing; healing; recovery",
+                "examples": [
+                    {
+                        "dialect": "Essé ge náa zèŋe á mbwo gù na guɔ jú yɛ̂.",
+                        "fr": "Dieu va te donner la guérison sur ta maladie.",
+                        "en": "God will give you healing for your illness."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zèŋe",
+        "pronounciation": "zə̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "non",
+                "definition_en": "no",
+                "examples": [
+                    {
+                        "dialect": "Azèŋe yɔ́ɔn me.",
+                        "fr": "Non moi !",
+                        "en": "No me!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zèzàb",
+        "pronounciation": "zȅzȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jupe de danse en fibre",
+                "definition_en": "fibre dance skirt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zezsó",
+        "pronounciation": "zèzsó",
+        "synonym": [
+            "zʉzsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abcès contenant du pus",
+                "definition_en": "abscess with pus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zèʼe",
+        "pronounciation": "zèʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vomi ; vomissure",
+                "definition_en": "vomit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɛ́",
+        "pronounciation": "zɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "selles ; caca ; excrément ; crotte ; fiente",
+                "definition_en": "stools; poo; excrement; droppings; bird droppings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zí",
+        "pronounciation": "zí",
+        "synonym": [
+            "zyéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement",
+                "definition_en": "development",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zǐ",
+        "pronounciation": "zǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "front d’une porte",
+                "definition_en": "door front",
+                "examples": []
+            }
+        ]
+    }
+]

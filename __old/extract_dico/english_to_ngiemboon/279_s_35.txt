@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "stingy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅɛ́ɛ pwòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe ńkÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stingy person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkùbo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stir",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stir (billow)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stir regularly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stir the fire",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stitched",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stock breeder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ menɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stock, soup",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ndÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stock up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "manjÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "májÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach, bloated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm ndàŋa lìi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm ndʉ̀ŋe lìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach, growth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach, have bloated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach hum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèm ndyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach, lower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stomach, sick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm ndǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtémte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, cooking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone falling, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "têm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, grinding",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tóon ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, k. cooking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, magic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stone, precious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ̀ŋwʉŋ",
+                "examples": []
+            }
+        ]
+    }
+]

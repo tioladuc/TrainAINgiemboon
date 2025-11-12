@@ -1,0 +1,439 @@
+[
+    {
+        "noun": "gàb",
+        "pronounciation": "ɣȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adultère",
+                "definition_en": "adultery",
+                "examples": [
+                    {
+                        "dialect": "Ée shʉ́ mbwo manzwě nzɔ̌ʼ légÿo gàb.",
+                        "fr": "C’est une honte chez une femme mariée de commettre l’adultère.",
+                        "en": "It is a shame for a married woman to commit adultery."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gàb",
+        "pronounciation": "ɣȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partage",
+                "definition_en": "sharing; dividing up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gàbte",
+        "pronounciation": "ɣàptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.bén",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partagé ; partageable",
+                "definition_en": "divisible; divided up",
+                "examples": [
+                    {
+                        "dialect": "Mbab, ee ye gàbte.",
+                        "fr": "La viande est partagé.",
+                        "en": "The meat is shared."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gǎd",
+        "pronounciation": "ɣǎt̚",
+        "synonym": [
+            "vǎd ",
+            " kǎd ",
+            " vàg ",
+            " fím"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très vite",
+                "definition_en": "very fast",
+                "examples": [
+                    {
+                        "dialect": "Mbândum zyɛʼɛ́ mvfò mèŋ lê gǎd.",
+                        "fr": "Le rat a traversé très vite devant moi.",
+                        "en": "The rat crossed very quickly in front of me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gág",
+        "pronounciation": "ɣáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mâchoire",
+                "definition_en": "jaw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gág",
+        "pronounciation": "ɣáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pharynx ; palais de la bouche",
+                "definition_en": "pharynx; roof of the mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gàg",
+        "pronounciation": "ɣȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant un mouvement de surprise)",
+                "definition_en": "(shows a surprise movement)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn légíŋe ngie gàg mvfò fùɔ pɛ́ʼɛ̀.",
+                        "fr": "Ne fais plus « gag » (se mouvoir par surprise) devant le chef ainsi.",
+                        "en": "Don’t “gag” (move by surprise) in front of the boss like this anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gáŋ",
+        "pronounciation": "ɣã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partie du thorax",
+                "definition_en": "part of the thorax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gaŋá",
+        "pronounciation": "ɣã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "internet",
+                "definition_en": "internet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gàŋagáŋa",
+        "pronounciation": "ɣã̀ŋȁɣã́ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáŋte",
+        "pronounciation": "ɣã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "thorax",
+                "definition_en": "thorax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáte",
+        "pronounciation": "ɣáté",
+        "synonym": [
+            "gÿáte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détournement ; trucage",
+                "definition_en": "diversion; trickery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáʼ ngi",
+        "pronounciation": "ɣáʔ ŋ̩̀gì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáʼa",
+        "pronounciation": "ɣáʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "annual brachiaria",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáʼa mevɛ́",
+        "pronounciation": "ɣáʔá mèvɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "Deam’s clearweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gaʼa ncÿɔ̀b",
+        "pronounciation": "ɣàʔà ǹ̩tʃɰɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "Burmann’s basketgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gáʼà ndÿɔgɔ́",
+        "pronounciation": "ɣáʔȁ ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe huileuse",
+                "definition_en": "sp. oily herb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ge",
+        "pronounciation": "gè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur immédiat (F1)",
+                "definition_en": "immediate future (F1)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge líe gú.",
+                        "fr": "Je vais te voir.",
+                        "en": "I'm going to see you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ge gÿo",
+        "pronounciation": "ɣè ɣxɰò",
+        "synonym": [
+            "gÿo ",
+            " ńdu ",
+            " ge lu ",
+            " lu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur de demain (F3)",
+                "definition_en": "tomorrow future (F3)",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie à ge gÿo tó.",
+                        "fr": "Il a dit qu’il viendra.",
+                        "en": "He said he will come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ge láʼ",
+        "pronounciation": "ɣè láʔ",
+        "synonym": [
+            "láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur lointain (F5)",
+                "definition_en": "very distant future (F5)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge láʼ kwɛ ndá yɔ̀ɔn fʉ̀ʼ páʼɔɔn.",
+                        "fr": "Je construirai ma maison l’année prochaine.",
+                        "en": "I will build my house next year."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ge lu",
+        "pronounciation": "ɣè ɭù",
+        "synonym": [
+            "lu ",
+            " ńdu ",
+            " gÿo ",
+            " ge gÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur de demain (F3)",
+                "definition_en": "tomorrow future (F3)",
+                "examples": [
+                    {
+                        "dialect": "À ge lu tó.",
+                        "fr": "Il viendra.",
+                        "en": "He will come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ge piŋ",
+        "pronounciation": "ɣè pìŋ",
+        "synonym": [
+            "piŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur d’aujourd’hui (F2)",
+                "definition_en": "today future (F2)",
+                "examples": [
+                    {
+                        "dialect": "À ge piŋ tó gyá gú.",
+                        "fr": "Il viendra te voir.",
+                        "en": "He will come see you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ge táa",
+        "pronounciation": "ɣè tá:",
+        "synonym": [
+            "ge tó tá ",
+            " táa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur loin (F4)",
+                "definition_en": "distant future (F4)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ge tó tá",
+        "pronounciation": "ɣè tó tá",
+        "synonym": [
+            "ge táa ",
+            " táa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur loin (F4)",
+                "definition_en": "distant future (F4)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ge tó tá tó, é kẅé nkáb.",
+                        "fr": "Ils viendront prendre l’argent.",
+                        "en": "They will come and take the money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gèbe",
+        "pronounciation": "ɣə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déraison ; aliéné",
+                "definition_en": "folly; alienation",
+                "examples": []
+            }
+        ]
+    }
+]

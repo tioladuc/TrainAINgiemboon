@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "accepts, someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "access, limit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accident",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vɛ́mbùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accident, victim",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acclaimer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accolade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepùme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accompany",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accomplish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzsote",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgube",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accountant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accusation, unfounded",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅé ntáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè ntáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accused, falsely",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛʼɛ́ soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ache",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbùm ngyaŋgyǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acid from cinders",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acidic, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acidic, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acquaintance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acrobatics",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlèntâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acrobatics, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "act",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "act forcefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg tʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "action",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "activate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "active, be a little",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "actor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿè nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mamèkěm",
+                "examples": []
+            }
+        ]
+    }
+]

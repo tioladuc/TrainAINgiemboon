@@ -1,0 +1,480 @@
+[
+    {
+        "noun": "ńkwɔg",
+        "pronounciation": "ŋ̩́kwɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir un déboîtement",
+                "definition_en": "have a dislocation",
+                "examples": [
+                    {
+                        "dialect": "À kwɔgɔ́ kwò yé.",
+                        "fr": "Il a eu un déboîtement.",
+                        "en": "He had a dislocation."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "terrifier ; tourmenter",
+                "definition_en": "terrify; torment",
+                "examples": []
+            },
+            {
+                "definition_fr": "consoler",
+                "definition_en": "console",
+                "examples": []
+            },
+            {
+                "definition_fr": "se faire mal dans les articulations",
+                "definition_en": "hurt your joints",
+                "examples": []
+            },
+            {
+                "definition_fr": "manipuler ; manœuvrer",
+                "definition_en": "manipulate ; maneuver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔg",
+        "pronounciation": "ŋ̩́kwɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égrener",
+                "definition_en": "shell; pick grapes off",
+                "examples": []
+            },
+            {
+                "definition_fr": "égrener",
+                "definition_en": "gin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́g",
+        "pronounciation": "ŋ̩́kwɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élaguer un arbre",
+                "definition_en": "prune a tree",
+                "examples": []
+            },
+            {
+                "definition_fr": "tailler ; élaguer",
+                "definition_en": "prune; prune",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́gte",
+        "pronounciation": "ŋ̩́kwɔ́qté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réduire",
+                "definition_en": "reduce",
+                "examples": []
+            },
+            {
+                "definition_fr": "escroquer",
+                "definition_en": "swindle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔɔn",
+        "pronounciation": "ŋ̩̀kwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclave",
+                "definition_en": "slave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́ɔn",
+        "pronounciation": "ŋ̩́kwɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filer ; surfiler",
+                "definition_en": "spin (thread); over sew",
+                "examples": []
+            },
+            {
+                "definition_fr": "rendre solide (panier)",
+                "definition_en": "make solid (basket)",
+                "examples": []
+            },
+            {
+                "definition_fr": "filer ; surfiler",
+                "definition_en": "spin; overcast",
+                "examples": []
+            },
+            {
+                "definition_fr": "rendre solide (panier)",
+                "definition_en": "make solid (basket)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ɔnte",
+        "pronounciation": "ŋ̩̀kwɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seconde",
+                "definition_en": "second",
+                "examples": []
+            },
+            {
+                "definition_fr": "quelques instants",
+                "definition_en": "few moments",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔɔnte",
+        "pronounciation": "ŋ̩́kwɔ̃̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se heurter ; dégringoler",
+                "definition_en": "collide; tumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ́ʼ",
+        "pronounciation": "ŋ̩̀kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fierté",
+                "definition_en": "pride",
+                "examples": []
+            },
+            {
+                "definition_fr": "zèle",
+                "definition_en": "zeal; diligence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ́ʼ",
+        "pronounciation": "ŋ̩̀kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.bén",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fille à maman",
+                "definition_en": "mama’s girl",
+                "examples": [
+                    {
+                        "dialect": "Ńnʉʼ nkwɔ́ʼ.",
+                        "fr": "Faire la fille à maman.",
+                        "en": "Be a mommy's girl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ́ʼ",
+        "pronounciation": "ŋ̩̀kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hauteur",
+                "definition_en": "height",
+                "examples": [
+                    {
+                        "dialect": "Fʉʼ nkwɔ́ʼ tÿǒ yɔɔn.",
+                        "fr": "Mesure la hauteur de cet arbre.",
+                        "en": "Measure the height of this tree."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀kwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cache-sexe",
+                "definition_en": "briefs; panties",
+                "examples": [
+                    {
+                        "dialect": "Á laa fʉ̀ʼʉ mvfò, mé cwóŋo pɔ́ nkwɔ̀ʼ ńdɔgɔ ńgiŋe.",
+                        "fr": "Auparavant, on ne mettait que le cache-sexe pour marcher.",
+                        "en": "Previously, we only wore a thong to walk."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "collier porté au tour de la tête; bandeau",
+                "definition_en": "necklace worn around the head; headband",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́ʼ",
+        "pronounciation": "ŋ̩́kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfler",
+                "definition_en": "swell; swell up",
+                "examples": []
+            },
+            {
+                "definition_fr": "contusionner ; enfler",
+                "definition_en": "bruise; swell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́ʼ",
+        "pronounciation": "ŋ̩́kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monter ; grimper",
+                "definition_en": "go up; climb",
+                "examples": []
+            },
+            {
+                "definition_fr": "publier",
+                "definition_en": "publish",
+                "examples": []
+            },
+            {
+                "definition_fr": "dédicacer",
+                "definition_en": "dedicate",
+                "examples": []
+            },
+            {
+                "definition_fr": "jalouser ; être jaloux",
+                "definition_en": "jealous; be jealous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́ʼ",
+        "pronounciation": "ŋ̩́kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rentrer ; retourner",
+                "definition_en": "come home; return",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼ ndá",
+        "pronounciation": "ŋ̩̀kwɔ̏ʔ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partie d’une maison située à la gauche du foyer dans une cuisine où l’on range des choses",
+                "definition_en": "part of a house to the left of the hearth in the kitchen where one arranges things",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼ njÿó",
+        "pronounciation": "ŋ̩̀kwɔ̏ʔ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube ; matinal",
+                "definition_en": "dawn; morning",
+                "examples": [
+                    {
+                        "dialect": "À ně ńkẅɛ pɔ́ nkwɔ̀ʼ njÿó ńgʉa né tsẅɛ.",
+                        "fr": "Il est sorti à l’aube pour se rendre au champ.",
+                        "en": "He went out at dawn to go to the field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔʼɔ́",
+        "pronounciation": "ŋ̩̀kwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côté",
+                "definition_en": "side",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀kwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côté opposé à l’entrée dans une maison",
+                "definition_en": "wall opposite a house’s entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀kwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grimpeur",
+                "definition_en": "climber",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui rentre",
+                "definition_en": "one who returns",
+                "examples": [
+                    {
+                        "dialect": "Pakwɔ́ʼɔ metʉ̌a pɔɔn.",
+                        "fr": "Voici ceux qui rentrent du marché.",
+                        "en": "Here are those returning from the market."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔʼɔ́ letsẅɛ́",
+        "pronounciation": "ŋ̩́kwɔ̀ʔɔ́ lètsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devanture du foyer",
+                "definition_en": "front of the home",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔʼshʉ̌a",
+        "pronounciation": "ŋ̩̀kwɔ̀ʔʃɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ̀ʼte",
+        "pronounciation": "ŋ̩̀kwɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épaisseur",
+                "definition_en": "thickness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́ʼte",
+        "pronounciation": "ŋ̩́kwɔ́ʔté",
+        "synonym": [
+            "ńkwéʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élever",
+                "definition_en": "raise; bring up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwʉŋ",
+        "pronounciation": "ŋ̩́kwɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "huer ; conspuer",
+                "definition_en": "boo; shout down",
+                "examples": []
+            }
+        ]
+    }
+]

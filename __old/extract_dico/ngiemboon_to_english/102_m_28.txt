@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "ménjʉ́ʼ",
+        "pronounciation": "méndʒɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênjwò",
+        "pronounciation": "mêndʒʃwȍ",
+        "synonym": [
+            "péli ",
+            " mbeyáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arachide (gén.)",
+                "definition_en": "groundnut (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênjwò nnáʼ",
+        "pronounciation": "mêndʒʃwȍ ǹ̩náʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "muscadier de calebasse",
+                "definition_en": "African nutmeg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menjÿàngà",
+        "pronounciation": "mèndʒɰã̏ŋɡȁ",
+        "synonym": [
+            "manjÿàngà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. petite crevette",
+                "definition_en": "sp. small prawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ménkěm",
+        "pronounciation": "méŋkə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dauphin ; roi en initiation",
+                "definition_en": "heir apparent; initiation king",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menkǒon",
+        "pronounciation": "mèŋkõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "infirmes",
+                "definition_en": "disabled people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênkɔ̀ʼ",
+        "pronounciation": "mêŋkɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coq ; mâle d’une poule",
+                "definition_en": "rooster; cock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênkʉ́",
+        "pronounciation": "mêŋkɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit enfant",
+                "definition_en": "small child",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênkʉ́ fàʼ",
+        "pronounciation": "mêŋkɯ́ fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprenti",
+                "definition_en": "learner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mênkʉ́ metʉ̌a",
+        "pronounciation": "mêŋkɯ́ mèʈɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gérant",
+                "definition_en": "manager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menoŋo twó",
+        "pronounciation": "mènõ̀ŋȍ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cheveux",
+                "definition_en": "hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menɔgɔ́",
+        "pronounciation": "mènɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petits poils",
+                "definition_en": "short hairs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méntá",
+        "pronounciation": "méntá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trois (modifiant les noms des classes 4 et 6)",
+                "definition_en": "three (modifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentáʼ",
+        "pronounciation": "mèntáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrejambes",
+                "definition_en": "crotch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menti mentí",
+        "pronounciation": "mèntì mèntí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plusieurs qualités",
+                "definition_en": "several qualities",
+                "examples": [
+                    {
+                        "dialect": "À jǔ menzsǒ mentí mentí tsɔ̌ tàʼ kaa na ye kuʼu.",
+                        "fr": "Il a acheté plusieurs qualités d’habits mais aucun ne l’a suffi.",
+                        "en": "He bought several qualities of clothes but none was enough."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "multicolore",
+                "definition_en": "multicoloured",
+                "examples": []
+            },
+            {
+                "definition_fr": "multiforme",
+                "definition_en": "many-sided",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentolé",
+        "pronounciation": "mèntòlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hernie",
+                "definition_en": "hernia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentoŋ",
+        "pronounciation": "mèntõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuilles de melon",
+                "definition_en": "melon leaves",
+                "examples": []
+            },
+            {
+                "definition_fr": "feuilles des cimes des plantes",
+                "definition_en": "leaves from the tops of plants",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentsaʼá",
+        "pronounciation": "mèntsàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.bén",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tâcheté",
+                "definition_en": "speckled; spotted",
+                "examples": [
+                    {
+                        "dialect": "Akáŋ yé áa mentsaʼá mentsaʼá.",
+                        "fr": "Son assiette est tâchetée.",
+                        "en": "His plate is spotted."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mentsě",
+        "pronounciation": "mèntsě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orphelin",
+                "definition_en": "orphan",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentsě tepwó",
+        "pronounciation": "mèntsě tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "auriculaire",
+                "definition_en": "little finger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méntsi ndá",
+        "pronounciation": "méntsì ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "valet",
+                "definition_en": "valet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentsɔgɔ́",
+        "pronounciation": "mèntsɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minime ; peu ; insignifiant",
+                "definition_en": "minor; minimal; little; few; insignificant",
+                "examples": [
+                    {
+                        "dialect": "Mevɛ́ mie à nǎ mbwo mèŋ é gwɔ́ kwàʼ mentsɔgɔ́.",
+                        "fr": "L’huile qu’il m’a donné est vraiment minime (insignifiant).",
+                        "en": "The oil he gave me is really minimal (insignificant)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mentsẅɛ́",
+        "pronounciation": "mèntsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pierre du foyer ; trépieds",
+                "definition_en": "cooking stone; tripod",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mentsẅɛ̀ʼ lepfwɔʼɔ́",
+        "pronounciation": "mèntsɥɛ̏ʔ lèpfwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notable totémique",
+                "definition_en": "prominent totem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méntsẅǐ",
+        "pronounciation": "méntsɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigrichon",
+                "definition_en": "lean",
+                "examples": []
+            }
+        ]
+    }
+]

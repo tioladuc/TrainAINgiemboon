@@ -1,0 +1,433 @@
+[
+    {
+        "noun": "ésɔʼ",
+        "pronounciation": "ésɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charger à l’excès (plat avec nourriture)",
+                "definition_en": "load too much (plate of food)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésɔʼ",
+        "pronounciation": "ésɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hausser",
+                "definition_en": "raise",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire un prodige",
+                "definition_en": "perform a miracle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésso",
+        "pronounciation": "ésːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "péter",
+                "definition_en": "fart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éssó",
+        "pronounciation": "ésːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "subir ; sentir",
+                "definition_en": "suffer; feel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éssóte",
+        "pronounciation": "ésːóté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taquiner",
+                "definition_en": "tease",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’amuser",
+                "definition_en": "enjoy oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éswáʼte",
+        "pronounciation": "ésɥàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froisser",
+                "definition_en": "crease",
+                "examples": [
+                    {
+                        "dialect": "Te swáʼte menzsǒ tá ḿmaʼ.",
+                        "fr": "Ne froisse pas les habits avant de porter.",
+                        "en": "Do not crease clothes before wearing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅag",
+        "pronounciation": "ésɥàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rincer",
+                "definition_en": "rinse",
+                "examples": []
+            },
+            {
+                "definition_fr": "laver légèrement",
+                "definition_en": "wash lightly",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire une sauce avec moins de condiment",
+                "definition_en": "make a sauce with less seasoning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅág",
+        "pronounciation": "ésɥáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flamber",
+                "definition_en": "singe",
+                "examples": [
+                    {
+                        "dialect": "À sẅagá ffo ngwoon tépoŋ.",
+                        "fr": "Il a mal flambé la feuille de banane.",
+                        "en": "He flambéed the banana leaf badly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅág",
+        "pronounciation": "ésɥáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "purifier",
+                "definition_en": "purify",
+                "examples": [
+                    {
+                        "dialect": "Mé cÿɔb mmó, á jʉ. Mé sẅága yé.",
+                        "fr": "On l’a purifié quand il a volé une chose empoisonnée.",
+                        "en": "He was purified when he stole a poisoned thing."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "désaltérer",
+                "definition_en": "quench your thirst",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅag shʉ",
+        "pronounciation": "ésɥàq̚ ʃɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échapper à la honte ; se laver d’un affront",
+                "definition_en": "escape from shame; take revenge for an insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅaga",
+        "pronounciation": "ésɥàʁà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir trop d’eau ; diluer à l’excès",
+                "definition_en": "have too much water; dilute too much",
+                "examples": [
+                    {
+                        "dialect": "Nnáʼ mesaŋá sẅagá.",
+                        "fr": "La sauce du couscous a trop d’eau.",
+                        "en": "The couscous sauce has too much water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅe",
+        "pronounciation": "ésːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvrir ; empailler",
+                "definition_en": "cover; stuff with straw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅe",
+        "pronounciation": "ésːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "refuser quelque chose à quelqu’un",
+                "definition_en": "refuse something to someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅe",
+        "pronounciation": "ésːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se détacher",
+                "definition_en": "get loose; loose oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅé",
+        "pronounciation": "ésːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être froid ; se refroidir",
+                "definition_en": "be cold; cool off",
+                "examples": []
+            },
+            {
+                "definition_fr": "devenir froid",
+                "definition_en": "become cold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅé",
+        "pronounciation": "ésːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ressembler ; se ressembler",
+                "definition_en": "look alike; look like",
+                "examples": []
+            },
+            {
+                "definition_fr": "ressembler ; se ressembler",
+                "definition_en": "look like ; look alike",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅé",
+        "pronounciation": "ésːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rester bouche fermée à cause de la honte, après être dénoncé ; avoir la chair de poule",
+                "definition_en": "be speechless out of shame, after being denounced; have goosepimples",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅéen",
+        "pronounciation": "ésɥẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bénir",
+                "definition_en": "bless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅete",
+        "pronounciation": "ésːɥete",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chatouiller ; caresser ; effleurer",
+                "definition_en": "tickle; caress; brush against",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅéte",
+        "pronounciation": "ésːɥété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retrouver la santé ; recouvrer la santé",
+                "definition_en": "get one’s health back; recover one’s health",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅéʼe",
+        "pronounciation": "ésɥə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire descendre",
+                "definition_en": "make something go down",
+                "examples": []
+            },
+            {
+                "definition_fr": "baisser",
+                "definition_en": "kiss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅéʼe",
+        "pronounciation": "ésɥə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger",
+                "definition_en": "eat",
+                "examples": [
+                    {
+                        "dialect": "Múɔ sẅeʼé lepuʼú mesaŋá gílé yé.",
+                        "fr": "L’enfant a mangé une boulle de couscous seul.",
+                        "en": "The child ate a ball of couscous alone."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ",
+        "pronounciation": "ésɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dévêtir ; enlever l’habit",
+                "definition_en": "undress; take clothes off",
+                "examples": []
+            },
+            {
+                "definition_fr": "muer",
+                "definition_en": "molt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ",
+        "pronounciation": "ésɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élever une bête",
+                "definition_en": "raise an animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ",
+        "pronounciation": "ésɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tuer par voie occulte",
+                "definition_en": "kill by occult means",
+                "examples": [
+                    {
+                        "dialect": "À sẅɛ̌ míŋ we na shʉ̀a.",
+                        "fr": "Il a tué son fils par voie occulte.",
+                        "en": "He killed his son secretly."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "ńzibte",
+        "pronounciation": "ń̩dzìptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire le parasite",
+                "definition_en": "be a parasite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzie",
+        "pronounciation": "ń̩dzìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voler (oiseau) ; aller devant",
+                "definition_en": "fly (bird); go ahead",
+                "examples": []
+            },
+            {
+                "definition_fr": "voltiger ; flotter",
+                "definition_en": "flutter; float",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzîɛ",
+        "pronounciation": "ǹ̩dzíɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drogue",
+                "definition_en": "drug",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ nǔu nzîɛ ka?",
+                        "fr": "As-tu bu la drogue ?",
+                        "en": "Did you drink the drugs?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzíge",
+        "pronounciation": "ń̩dzíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être bourrer de quelque chose",
+                "definition_en": "be full of something",
+                "examples": []
+            },
+            {
+                "definition_fr": "rejeter de l’eau mis dans l’anus",
+                "definition_en": "discharge water put in the anus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzíge",
+        "pronounciation": "ń̩dzíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manquer l’appétit",
+                "definition_en": "not hungry",
+                "examples": [
+                    {
+                        "dialect": "N cʉʼʉ́ ńdɔ́ɔn jÿó fʉ̀ʼɔɔn, á zíge wɔ́ɔn zigé.",
+                        "fr": "Quand je prépare maintenant le repas, je n’ai plus l’appétit.",
+                        "en": "When I prepare the meal now, I no longer have an appetite."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzìkáasè",
+        "pronounciation": "ǹ̩dzȉkáásȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "âne",
+                "definition_en": "ass, donkey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzile",
+        "pronounciation": "ń̩dzìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blinder",
+                "definition_en": "armour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzím",
+        "pronounciation": "ń̩dzím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ressusciter",
+                "definition_en": "resuscitate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìŋ",
+        "pronounciation": "ǹ̩dzĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "testicules",
+                "definition_en": "testicles",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzǐŋ",
+        "pronounciation": "ǹ̩dzĩ̌ŋ",
+        "synonym": [
+            "nziŋé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rive",
+                "definition_en": "riverbank",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzíŋ",
+        "pronounciation": "ń̩dzĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "danser",
+                "definition_en": "dance",
+                "examples": []
+            },
+            {
+                "definition_fr": "danser après le deuil ; danser à plusieurs",
+                "definition_en": "dancing after mourning; dance with others",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nziŋé",
+        "pronounciation": "ǹ̩dzĩ̀ŋé",
+        "synonym": [
+            "nzǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rive",
+                "definition_en": "riverbank",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìŋe",
+        "pronounciation": "ǹ̩dzĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvercle",
+                "definition_en": "lid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìŋe",
+        "pronounciation": "ǹ̩dzĩ̀ŋȅ",
+        "synonym": [
+            "zíŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "danseur",
+                "definition_en": "dancer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńziŋe",
+        "pronounciation": "ń̩dzĩ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer",
+                "definition_en": "close",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìʼi",
+        "pronounciation": "ǹ̩dzìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprenti ; apprenant",
+                "definition_en": "apprentice; learner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńziʼi",
+        "pronounciation": "ń̩dzìʔì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suer ; transpirer",
+                "definition_en": "sweat; perspire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzíʼi",
+        "pronounciation": "ń̩dzíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apprendre",
+                "definition_en": "learn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìʼi mmó",
+        "pronounciation": "ǹ̩dzìʔȉ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étudiant",
+                "definition_en": "student",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzìʼi nyìŋ",
+        "pronounciation": "ǹ̩dzìʔȉ ɲĩ̏ŋ",
+        "synonym": [
+            "ntsyèen ",
+            " ntsèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enseignant ; moniteur ; maître",
+                "definition_en": "teacher; instructor; master; primary school teacher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzíʼte",
+        "pronounciation": "ń̩dzíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frotter",
+                "definition_en": "rub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzóŋ",
+        "pronounciation": "ǹ̩dzṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épine",
+                "definition_en": "thorn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzòŋ",
+        "pronounciation": "ǹ̩dzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "criminelle",
+                "definition_en": "criminal; murderer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzòŋ",
+        "pronounciation": "ǹ̩dzõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discuteur",
+                "definition_en": "debater",
+                "examples": []
+            },
+            {
+                "definition_fr": "guérisseur",
+                "definition_en": "healer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzòŋ",
+        "pronounciation": "ǹ̩dzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espion ; police royale",
+                "definition_en": "spy; royal police",
+                "examples": []
+            }
+        ]
+    }
+]

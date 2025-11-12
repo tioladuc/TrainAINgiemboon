@@ -1,0 +1,461 @@
+[
+    {
+        "noun": "njÿò ndá",
+        "pronounciation": "ǹ̩dʒʃɰȍ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "successeur",
+                "definition_en": "successor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿò ńgyá",
+        "pronounciation": "ǹ̩dʒʃɰȍ ŋ̩́gjá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "témoin oculaire",
+                "definition_en": "eyewitness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿǒ shúm",
+        "pronounciation": "ǹ̩dʒʃɰǒ ʃúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alimentation",
+                "definition_en": "feeding; diet",
+                "examples": [
+                    {
+                        "dialect": "Ntÿǒ shúm sú té poŋ.",
+                        "fr": "Ton alimentation n’est pas bien.",
+                        "en": "Your diet is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njÿonzse",
+        "pronounciation": "ǹ̩dʒʃɰòndzsè",
+        "synonym": [
+            "mándunzse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿoŋ",
+        "pronounciation": "ń̩dʒɰõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doper ; stimuler ; droguer",
+                "definition_en": "dope; stimulate; drug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿòŋo",
+        "pronounciation": "ǹ̩dʒɰõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consommateur de stupéfiants",
+                "definition_en": "drug user",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿòon",
+        "pronounciation": "ǹ̩dʒɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rêve",
+                "definition_en": "dream",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿǒon",
+        "pronounciation": "̀ǹ̩dʒɰõ̌:",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêtise ; futilité",
+                "definition_en": "stupid thing; futile thing",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńkaa tsɔ́ mejÿóon ńdɔg ńtó!",
+                        "fr": "Vas nous ramener ces futilités !",
+                        "en": "Go bring us these trivialities!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿóonte",
+        "pronounciation": "ń̩dʒɰṍːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flâner",
+                "definition_en": "stroll",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿóte",
+        "pronounciation": "ń̩dʒʃɰóté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdre du temps",
+                "definition_en": "waste time",
+                "examples": []
+            },
+            {
+                "definition_fr": "agir avec ruse en trompant la vigilance",
+                "definition_en": "trick by catching off guard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿɔ́g",
+        "pronounciation": "ǹ̩dʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclavage ; corvée",
+                "definition_en": "slavery; chore; drudgery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔg",
+        "pronounciation": "ń̩dʒɰɔ̀q̚",
+        "synonym": [
+            "ńnÿɔg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hisser ; jalonner ; implanter",
+                "definition_en": "hoist; mark out; establish; implant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔg",
+        "pronounciation": "ń̩dʒɰɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balayer",
+                "definition_en": "sweep",
+                "examples": []
+            },
+            {
+                "definition_fr": "nettoyer",
+                "definition_en": "clean",
+                "examples": []
+            },
+            {
+                "definition_fr": "rafler",
+                "definition_en": "clean off",
+                "examples": []
+            },
+            {
+                "definition_fr": "implorer ; supplier",
+                "definition_en": "implore; beg",
+                "examples": []
+            },
+            {
+                "definition_fr": "épousseter",
+                "definition_en": "dust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔ́g",
+        "pronounciation": "ń̩dʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourrir",
+                "definition_en": "feed",
+                "examples": []
+            },
+            {
+                "definition_fr": "porter du pantalon",
+                "definition_en": "wear pants",
+                "examples": []
+            },
+            {
+                "definition_fr": "punir",
+                "definition_en": "punish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔgte",
+        "pronounciation": "ń̩dʒɰɔ̀qtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caresser",
+                "definition_en": "caress",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔgte",
+        "pronounciation": "ń̩dʒɰɔ̀qtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oindre",
+                "definition_en": "oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿɔ̌ʼ",
+        "pronounciation": "ǹ̩dʒɰɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermé",
+                "definition_en": "closed",
+                "examples": [
+                    {
+                        "dialect": "Ndá yɔɔn ńgwɔ́ yenjÿɔ́ʼ.",
+                        "fr": "Voici la maison qui est fermé.",
+                        "en": "Here is the house which is closed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔʼ",
+        "pronounciation": "ń̩dʒɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "roter ; éructer",
+                "definition_en": "burp; belch",
+                "examples": [
+                    {
+                        "dialect": "Mêmvfó ne ńjÿɔʼɔ legǐ, ḿbiŋe ḿpfɛ́.",
+                        "fr": "La chèvre a roté l’herbe et mange encore.",
+                        "en": "The goat has burped the grass and is still eating."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "révéler",
+                "definition_en": "show",
+                "examples": [
+                    {
+                        "dialect": "Te jÿɔʼɔ nò yɔɔn, tà nyìŋ júʼ.",
+                        "fr": "Ne révèle pas cette affaire, jusqu’à quelqu’un entend.",
+                        "en": "Don't reveal this matter until someone hears."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔ́ʼ",
+        "pronounciation": "ń̩dʒɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consigner",
+                "definition_en": "record, deposit",
+                "examples": []
+            },
+            {
+                "definition_fr": "consigner partout",
+                "definition_en": "record everywhere",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿɔ́ʼ",
+        "pronounciation": "ń̩dʒɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer ; boucher",
+                "definition_en": "close; butcher",
+                "examples": []
+            },
+            {
+                "definition_fr": "emprisonner",
+                "definition_en": "imprison; jail",
+                "examples": []
+            },
+            {
+                "definition_fr": "fermer partout",
+                "definition_en": "close everywhere",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre des fagots de bois par endroit",
+                "definition_en": "put bundles of wood in places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkà",
+        "pronounciation": "ŋ̩̀kȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour cylindrique trapu, frappée par deux bâtons",
+                "definition_en": "k. squat cylindrical drum, hit with two drumsticks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńká",
+        "pronounciation": "ŋ̩́ká",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "errer",
+                "definition_en": "wander",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàa",
+        "pronounciation": "ŋ̩̀kȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porteur",
+                "definition_en": "porter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaa",
+        "pronounciation": "ŋ̩́kàː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter",
+                "definition_en": "carry",
+                "examples": []
+            },
+            {
+                "definition_fr": "dessiner",
+                "definition_en": "draw",
+                "examples": []
+            },
+            {
+                "definition_fr": "porter ; porter beaucoup de fois",
+                "definition_en": "to carry ; wear many times",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàa mejʉ́jʉ́ŋ",
+        "pronounciation": "ŋ̩̀kȁː mèʒɯ́ʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dessinateur",
+                "definition_en": "drawer; cartoonist",
+                "examples": []
+            },
+            {
+                "definition_fr": "photographe",
+                "definition_en": "photograph",
+                "examples": []
+            }
+        ]
+    }
+]

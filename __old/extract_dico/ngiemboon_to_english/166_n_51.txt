@@ -1,0 +1,474 @@
+[
+    {
+        "noun": "nnameshú",
+        "pronounciation": "ǹ̩nàmèʃú",
+        "synonym": [
+            "ndameshǔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnaŋ",
+        "pronounciation": "ń̩nã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espionner",
+                "definition_en": "spy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnaŋ",
+        "pronounciation": "ń̩nã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’empirer",
+                "definition_en": "get worse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnáŋte",
+        "pronounciation": "ń̩nã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regarder ; observer",
+                "definition_en": "look at; observe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnáte",
+        "pronounciation": "ń̩náté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se vanter ; crâner",
+                "definition_en": "boast; brag; swank; show off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnáʼ",
+        "pronounciation": "ǹ̩náʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sauce",
+                "definition_en": "sauce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnáʼ",
+        "pronounciation": "ń̩náʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guetter ; espionner",
+                "definition_en": "watch out for; spy",
+                "examples": []
+            },
+            {
+                "definition_fr": "aller lentement",
+                "definition_en": "go slowly",
+                "examples": []
+            },
+            {
+                "definition_fr": "guetter",
+                "definition_en": "to watch",
+                "examples": []
+            },
+            {
+                "definition_fr": "se déplacer discrètement",
+                "definition_en": "move discreetly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnáʼa",
+        "pronounciation": "ń̩náʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un peu",
+                "definition_en": "a bit",
+                "examples": [
+                    {
+                        "dialect": "À júu kwáŋ páʼɔɔn ńdɔgɔ ńgɔɔn ngie à naʼá ńgẅiin nkáb.",
+                        "fr": "Il achète le vélo comme ça pour dire qu’il a un peu d’argent.",
+                        "en": "He buys the bike like that to say he has some money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nně",
+        "pronounciation": "ǹ̩ně",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "machette",
+                "definition_en": "machete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńne",
+        "pronounciation": "ń̩nè",
+        "synonym": [
+            "ne"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en train de (aspect progressif)",
+                "definition_en": "in the process of (progressive aspect)",
+                "examples": [
+                    {
+                        "dialect": "À tǒ tà ńne ńdyé.",
+                        "fr": "Il est venu jusqu’à ce qu’il est en train de dormir.",
+                        "en": "He came until he was sleeping."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nně lǔŋ",
+        "pronounciation": "ǹ̩ně ɭũ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épée de danse",
+                "definition_en": "dance sword",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nně mbʉ̀ŋ",
+        "pronounciation": "ǹ̩ně m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclair",
+                "definition_en": "flash; lightning; spark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nně panzwě",
+        "pronounciation": "ǹ̩ně",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plantoir local en fer",
+                "definition_en": "local metal dibble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nně sàmbà",
+        "pronounciation": "ǹ̩ně sȁmbȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "machette de dance",
+                "definition_en": "dance machete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nně zíŋ",
+        "pronounciation": "ǹ̩ně zĩ́ŋ",
+        "synonym": [
+            "kwàlànjà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de danse utilisé pour galvaniser la foule",
+                "definition_en": "k. dance instrument used to galvanize the crowd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnege",
+        "pronounciation": "ń̩nə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être boueux",
+                "definition_en": "be muddy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être pas beau à voir",
+                "definition_en": "not be pretty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnege",
+        "pronounciation": "ń̩nə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mépriser",
+                "definition_en": "despise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńneme",
+        "pronounciation": "ń̩nə̀mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "curer l’oreille",
+                "definition_en": "clean out one’s ears",
+                "examples": []
+            },
+            {
+                "definition_fr": "renifler",
+                "definition_en": "sniff up; snort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńneŋ",
+        "pronounciation": "ń̩nə̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piétiner",
+                "definition_en": "trample on",
+                "examples": []
+            },
+            {
+                "definition_fr": "piétiner",
+                "definition_en": "trample",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnéŋ",
+        "pronounciation": "ń̩nə̃́ŋ",
+        "synonym": [
+            "ńnuʼ pʉ̀a ntse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre ; charger ; introduire",
+                "definition_en": "put; load; introduce",
+                "examples": []
+            },
+            {
+                "definition_fr": "huiler ; mettre de l’huile",
+                "definition_en": "oil; add oil",
+                "examples": []
+            },
+            {
+                "definition_fr": "électrifier",
+                "definition_en": "electrify",
+                "examples": []
+            },
+            {
+                "definition_fr": "démarrer (véhicule)",
+                "definition_en": "start (vehicle)",
+                "examples": []
+            },
+            {
+                "definition_fr": "baptiser",
+                "definition_en": "baptize",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre",
+                "definition_en": "put",
+                "examples": [
+                    {
+                        "dialect": "Pi pú néŋte shúm sɛ̂ tsɛ̀ɛ pɔ̀ɔn.",
+                        "fr": "Mettez toutes ces choses dans le sac.",
+                        "en": "Put all these things in the bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnéŋe",
+        "pronounciation": "ń̩nə̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rester",
+                "definition_en": "stay; remain",
+                "examples": []
+            },
+            {
+                "definition_fr": "durer",
+                "definition_en": "last",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’installer ; s’asseoir",
+                "definition_en": "set oneself up; sit down",
+                "examples": []
+            },
+            {
+                "definition_fr": "rester sans agir et sans parler",
+                "definition_en": "remain without acting or speaking",
+                "examples": []
+            },
+            {
+                "definition_fr": "rester sur le trône",
+                "definition_en": "stay on the throne",
+                "examples": []
+            },
+            {
+                "definition_fr": "travailler dur ; se forcer",
+                "definition_en": "work hard; force oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’installer ; s’asseoir",
+                "definition_en": "settle ; sit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńneŋe tsébe",
+        "pronounciation": "ń̩nə̃̀ŋè tsə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punir",
+                "definition_en": "punish",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ḿpfɛ́ shúm múɔ, mbà n ge néŋe tsébe gù.",
+                        "fr": "Si tu mange la nourriture de l’enfant, alors je vais te punir.",
+                        "en": "If you eat the child's food, then I will punish you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nnɛ́",
+        "pronounciation": "ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corps",
+                "definition_en": "body",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnɛ́",
+        "pronounciation": "ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fièvre",
+                "definition_en": "fever",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńniag",
+        "pronounciation": "ń̩nìàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malaxer",
+                "definition_en": "knead; mix",
+                "examples": []
+            },
+            {
+                "definition_fr": "être boueux ; être sale",
+                "definition_en": "be muddy; to be dirty",
+                "examples": []
+            }
+        ]
+    }
+]

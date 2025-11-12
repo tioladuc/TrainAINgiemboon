@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "P2",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ně",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "P3",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ka",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "keen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "P4",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "la",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "P5",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "la láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pace, go at a turtle’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyéente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "package",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "packer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɛ̀ lepuʼú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pack up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pact",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "padauk for ceremonies",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "padauk tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "padlock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "page",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lòŋngáa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tánkɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋngɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pain, feel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pain, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "aayi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pain, suffer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaŋa píd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlûm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìlûm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "painter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "painting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pain while giving birth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mándèndèle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánèndèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palace, chief’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pale, turn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́",
+                "examples": []
+            }
+        ]
+    }
+]

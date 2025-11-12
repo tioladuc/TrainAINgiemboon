@@ -1,0 +1,436 @@
+[
+    {
+        "noun": "mbwɔ́ʼ",
+        "pronounciation": "m̩̀bwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pâte d’arachide",
+                "definition_en": "peanut butter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼ",
+        "pronounciation": "m̩̀bwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bol",
+                "definition_en": "bowl",
+                "examples": [
+                    {
+                        "dialect": "Mbwɔ̀ʼ mesaŋá.",
+                        "fr": "Bol de couscous.",
+                        "en": "Bowl of couscous."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼ",
+        "pronounciation": "m̩̀bwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fagot",
+                "definition_en": "faggot",
+                "examples": [
+                    {
+                        "dialect": "Mbwɔ̀ʼ nkẅíŋ.",
+                        "fr": "Fagot de bois.",
+                        "en": "Bundle of wood."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼ",
+        "pronounciation": "m̩̀bwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trousseau",
+                "definition_en": "bunch; trousseau",
+                "examples": [
+                    {
+                        "dialect": "Mbwɔ̀ʼ mekǐ.",
+                        "fr": "Trousseau des clés.",
+                        "en": "Bunch of keys."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwɔ́ʼ",
+        "pronounciation": "ḿ̩bwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casser",
+                "definition_en": "break",
+                "examples": []
+            },
+            {
+                "definition_fr": "moissonner le maïs",
+                "definition_en": "harvest corn",
+                "examples": []
+            },
+            {
+                "definition_fr": "fracturer",
+                "definition_en": "fracture",
+                "examples": []
+            },
+            {
+                "definition_fr": "casser (bois)",
+                "definition_en": "break (wood)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼ mbab",
+        "pronounciation": "m̩̀bwɔ̏ʔ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grosse souris",
+                "definition_en": "sp. fat mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼ nnɛ́",
+        "pronounciation": "m̩̀bwɔ̏ʔ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corpulence",
+                "definition_en": "corpulence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼɔ",
+        "pronounciation": "m̩̀bwɔ̀ʔɔ̏",
+        "synonym": [
+            "mbwɔ̀ʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briseur",
+                "definition_en": "breaker; wrecker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼɔ",
+        "pronounciation": "m̩̀bwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse à vin",
+                "definition_en": "calabash for wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀ʼte",
+        "pronounciation": "m̩̀bwɔ̀ʔtȅ",
+        "synonym": [
+            "mbwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briseur",
+                "definition_en": "breaker; wrecker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwɔ́ʼte",
+        "pronounciation": "ḿ̩bwɔ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retrousser ; plier",
+                "definition_en": "turn up; fold",
+                "examples": [
+                    {
+                        "dialect": "Ḿbwɔ́ʼte mbwó nzsǒ.",
+                        "fr": "retrousser les manches.",
+                        "en": "roll up your sleeves."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyag",
+        "pronounciation": "ḿ̩bjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crever ; percer",
+                "definition_en": "burst; puncture; pierce",
+                "examples": []
+            },
+            {
+                "definition_fr": "dégonfler ; perdre sa grosseur",
+                "definition_en": "deflate; lose your size",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyág",
+        "pronounciation": "ḿ̩bjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éteindre",
+                "definition_en": "put out",
+                "examples": []
+            },
+            {
+                "definition_fr": "éliminer ; annuler",
+                "definition_en": "eliminate; cancel",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépoussiérer",
+                "definition_en": "dust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyàga",
+        "pronounciation": "m̩̀bjàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exterminateur ; tueur ; destructeur",
+                "definition_en": "exterminator; killer; vandal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyàga pfɔ̌b",
+        "pronounciation": "m̩̀bjàʁȁ pfɔ̌p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépoussiéreur",
+                "definition_en": "duster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyè",
+        "pronounciation": "m̩̀bɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foie",
+                "definition_en": "liver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyè",
+        "pronounciation": "m̩̀bɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semence",
+                "definition_en": "seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyě",
+        "pronounciation": "m̩̀bɸjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ingrédient essentiel d’un remède ; sortilège",
+                "definition_en": "essential ingredient in a medicine; magic spell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyě",
+        "pronounciation": "m̩̀bɸjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bribe ; fragment",
+                "definition_en": "scrap; fragment; piece",
+                "examples": [
+                    {
+                        "dialect": "Lagte membyě nkẅíŋ.",
+                        "fr": "Ramasse les bribe du bois.",
+                        "en": "Collect the bits of wood."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbye",
+        "pronounciation": "ḿ̩bɸjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affûter ; rendre pointu",
+                "definition_en": "sharpen; make pointed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbye",
+        "pronounciation": "ḿ̩bɸjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "planter ; semer",
+                "definition_en": "plant; sow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyé",
+        "pronounciation": "ḿ̩bɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre de la puissance",
+                "definition_en": "apply power",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyé",
+        "pronounciation": "ḿ̩bɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdre ; se perdre ; égarer",
+                "definition_en": "lose; lose oneself; mislay",
+                "examples": []
+            },
+            {
+                "definition_fr": "nager ; plonger",
+                "definition_en": "swim ; dive",
+                "examples": []
+            },
+            {
+                "definition_fr": "se perdre en nombre",
+                "definition_en": "get lost in numbers",
+                "examples": []
+            },
+            {
+                "definition_fr": "être rare ; disparaître ; perdre de vue",
+                "definition_en": "be rare; disappear ; lose sight",
+                "examples": []
+            },
+            {
+                "definition_fr": "disparaître à l’horizon",
+                "definition_en": "disappear on the horizon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyè mekú",
+        "pronounciation": "m̩̀bɸjȅ mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semence de haricot",
+                "definition_en": "bean seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyè metÿǒ",
+        "pronounciation": "m̩̀bɸjȅ mèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semence d’arbre",
+                "definition_en": "tree seed",
+                "examples": []
+            }
+        ]
+    }
+]

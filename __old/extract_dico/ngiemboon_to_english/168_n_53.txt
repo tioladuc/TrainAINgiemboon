@@ -1,0 +1,520 @@
+[
+    {
+        "noun": "ńnue",
+        "pronounciation": "ɳ̩́ɳùè",
+        "synonym": [
+            "nue"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parce que",
+                "definition_en": "because",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ cúa wɔ́ɔn, ńnue n dʉʼʉ́ légʉa ntse.",
+                        "fr": "Tu me tapes parce que j’ai refusé de partir à l’eau.",
+                        "en": "You hit me because I refused to go in the water."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "puisque",
+                "definition_en": "since",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnùŋe",
+        "pronounciation": "ɳ̩́ɳũ̀ŋȅ",
+        "synonym": [
+            "nnyuŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poseur",
+                "definition_en": "show-off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnuŋe",
+        "pronounciation": "ɳ̩́ɳũ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coucher ; poser",
+                "definition_en": "lay down; put down",
+                "examples": []
+            },
+            {
+                "definition_fr": "fonder",
+                "definition_en": "found",
+                "examples": []
+            },
+            {
+                "definition_fr": "hospitaliser",
+                "definition_en": "hospitalize",
+                "examples": []
+            },
+            {
+                "definition_fr": "coucher ; déposer par endroit",
+                "definition_en": "to sleep ; drop by location",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnùŋe pwɔʼ",
+        "pronounciation": "ɳ̩̀ɳũ̀ŋȅ pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sacrificateur",
+                "definition_en": "sacrificer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnuʼ",
+        "pronounciation": "ɳ̩́ɳùʔ",
+        "synonym": [
+            "ńnéŋ ntse twó nyìŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "huiler",
+                "definition_en": "oil",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire la sauce jaune",
+                "definition_en": "make yellow sauce",
+                "examples": []
+            },
+            {
+                "definition_fr": "baptiser",
+                "definition_en": "baptize",
+                "examples": []
+            },
+            {
+                "definition_fr": "remuer (billon qui a des plants)",
+                "definition_en": "stir (billon which has plants)",
+                "examples": []
+            },
+            {
+                "definition_fr": "conjuguer (verbe)",
+                "definition_en": "conjugate (verb)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnùʼ pʉ̀a ntse",
+        "pronounciation": "ɳ̩̀ɳȕʔ pɯ̀ȁ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baptiste",
+                "definition_en": "Baptist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnúʼe",
+        "pronounciation": "ɳ̩́ɳúʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se coincer ; être dans l’embouteillage",
+                "definition_en": "get jammed; be in a traffic jam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnʉ",
+        "pronounciation": "ɳ̩́ɳɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déféquer ; chier ; aller à la selle",
+                "definition_en": "defecate; shit; pass a bowel movement",
+                "examples": []
+            },
+            {
+                "definition_fr": "subir",
+                "definition_en": "suffer",
+                "examples": []
+            },
+            {
+                "definition_fr": "déféquer çà et là",
+                "definition_en": "defecate here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnʉʼ",
+        "pronounciation": "ɳ̩́ɳɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer",
+                "definition_en": "aggravate; bully",
+                "examples": []
+            },
+            {
+                "definition_fr": "coloniser",
+                "definition_en": "colonize; settle",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire la fille à maman",
+                "definition_en": "be a mommy's girl",
+                "examples": []
+            },
+            {
+                "definition_fr": "brimer",
+                "definition_en": "bully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnʉʼ",
+        "pronounciation": "ɳ̩́ɳɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "secouer",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "hocher",
+                "definition_en": "nod",
+                "examples": []
+            },
+            {
+                "definition_fr": "trembler",
+                "definition_en": "tremble",
+                "examples": []
+            },
+            {
+                "definition_fr": "être totalement au courant",
+                "definition_en": "be completely aware",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅeen",
+        "pronounciation": "ǹ̩nɥẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "humide ; froid ; absorber l’humidité ; refroidir",
+                "definition_en": "humid; cold; absorb humidity; cool down",
+                "examples": [
+                    {
+                        "dialect": "Á té poŋo lépfɛ́ shúm sie é nnẅeen nẅeen wɔ́.",
+                        "fr": "Il n’est pas bon de manger les choses qui sont humides.",
+                        "en": "It is not good to eat things that are wet."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅéʼe",
+        "pronounciation": "ń̩nɥə́ʔé",
+        "synonym": [
+            "ńnẅíʼi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer ; tuer à petit feu",
+                "definition_en": "bully; kill by small fires",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅɛ",
+        "pronounciation": "ń̩nɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "presser",
+                "definition_en": "squeeze",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅɛ",
+        "pronounciation": "ń̩nɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer",
+                "definition_en": "aggravate; bully",
+                "examples": []
+            },
+            {
+                "definition_fr": "avilir ; rabaisser",
+                "definition_en": "debase; abate; lower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅɛʼ",
+        "pronounciation": "ń̩nɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émietter",
+                "definition_en": "crumble",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger avec appétit",
+                "definition_en": "eat heartily",
+                "examples": []
+            },
+            {
+                "definition_fr": "émietter",
+                "definition_en": "crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅɛʼ",
+        "pronounciation": "ń̩nɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "découvrir",
+                "definition_en": "discover",
+                "examples": [
+                    {
+                        "dialect": "À gǐŋ tà ńnẅɛʼɛ gúʼ.",
+                        "fr": "Il a marché jusqu’à découvrir le champignon.",
+                        "en": "He walked until he discovered the mushroom."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nnẅɛ̀ʼɛ",
+        "pronounciation": "ǹ̩nɥɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écraseur",
+                "definition_en": "crusher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅɛʼɛ",
+        "pronounciation": "ń̩nɥɛ̀ʔɛ̀",
+        "synonym": [
+            "ńnẅiʼi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effriter ; s’effriter",
+                "definition_en": "crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅile",
+        "pronounciation": "ń̩nɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer ; mépriser",
+                "definition_en": "aggravate; bully; despise",
+                "examples": []
+            },
+            {
+                "definition_fr": "être sale",
+                "definition_en": "be dirty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅiʼi",
+        "pronounciation": "ń̩nɥìʔì",
+        "synonym": [
+            "ńnẅɛʼɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effriter ; s’effriter",
+                "definition_en": "crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnẅíʼi",
+        "pronounciation": "ń̩nɥíʔí",
+        "synonym": [
+            "ńnẅéʼe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer ; tuer à petit feu",
+                "definition_en": "bully; kill by small fires",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyág",
+        "pronounciation": "ɲ̩́ɲáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger sans appétit",
+                "definition_en": "eat without being hungry",
+                "examples": []
+            },
+            {
+                "definition_fr": "effleurer",
+                "definition_en": "brush against",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger sans appétit",
+                "definition_en": "eat without appetite",
+                "examples": [
+                    {
+                        "dialect": "À jÿó mmó pɔ́ nyágte nyagté.",
+                        "fr": "Il mange toujours sans appétit.",
+                        "en": "He always eats without appetite."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "effleurer",
+                "definition_en": "touch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyaŋ",
+        "pronounciation": "ɲ̩́ɲã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’aggraver",
+                "definition_en": "get worse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyáŋ",
+        "pronounciation": "ɲ̩́ɲã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mordre",
+                "definition_en": "bite",
+                "examples": []
+            },
+            {
+                "definition_fr": "mordiller",
+                "definition_en": "nibble",
+                "examples": []
+            },
+            {
+                "definition_fr": "grignoter ; mordiller",
+                "definition_en": "snack; bite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyaŋte",
+        "pronounciation": "ɲ̩́ɲã̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chatouiller ; caresser",
+                "definition_en": "tickle; caress",
+                "examples": []
+            }
+        ]
+    }
+]

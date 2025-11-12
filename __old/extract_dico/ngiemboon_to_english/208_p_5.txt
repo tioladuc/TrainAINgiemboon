@@ -1,0 +1,485 @@
+[
+    {
+        "noun": "pembÿág",
+        "pronounciation": "pèmbɰáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru (qualifie les noms pour la classe 2)",
+                "definition_en": "raw; uncooked (qualifying nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pendyɛ̀ʼɛ",
+        "pronounciation": "pèndjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certains ; autres (modifiant les noms de la classe 2)",
+                "definition_en": "certain; other (modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tóŋ pʉ̀a pendyɛ̀ʼɛ pi lâ pɔ́ tó.",
+                        "fr": "Appelle les autres gens pour que vous veniez.",
+                        "en": "Call the other people to come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "penkʉ́",
+        "pronounciation": "pèŋkɯ́",
+        "synonym": [
+            "gubé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfants humains",
+                "definition_en": "human children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepàba",
+        "pronounciation": "pèpàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plat",
+                "definition_en": "flat",
+                "examples": [
+                    {
+                        "dialect": "À la nyɛ́te tetʉ́a yé tà á gwɔ́ pepàba.",
+                        "fr": "Il a arrangé sa cour si bien qu’elle est plate.",
+                        "en": "He arranged his yard so well that it is flat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pepáŋ",
+        "pronounciation": "pèpã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pirouette ; tournoiement ; tourbillon",
+                "definition_en": "pirouette; whirling; whirlwind; whirlpool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepàŋ",
+        "pronounciation": "pèpã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouge",
+                "definition_en": "red",
+                "examples": [
+                    {
+                        "dialect": "Múɔ maʼ nzsǒ pepàŋ.",
+                        "fr": "L’enfant porte l’habit rouge.",
+                        "en": "The child is wearing the red outfit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pepàŋ letúʼ",
+        "pronounciation": "pèpã̏ŋ lèʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname aérienne",
+                "definition_en": "sp. aerial yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepàŋ mekú",
+        "pronounciation": "pèpã̏ŋ mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot rouge",
+                "definition_en": "sp. red bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepàŋ ntsẅɛ̀ʼ",
+        "pronounciation": "pèpã̏ŋ ǹ̩tsɥɛ̏ʔ",
+        "synonym": [
+            "pàŋ ntsẅɛ̀ʼ ",
+            " lùmo tʉ̂atʉ̂a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éristale",
+                "definition_en": "hoverfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pépɛ̌",
+        "pronounciation": "pépɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.dém.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui-là ; cela",
+                "definition_en": "that one (distant demonstrative pronoun that refers to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ne ńkwoŋo yɔ́ɔn pɔ́ pépɛ̌.",
+                        "fr": "Je ne veux aussi que ceux-là.",
+                        "en": "I also only want these."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pepɔ́ɔn",
+        "pronounciation": "pèpɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "asile ; refuge",
+                "definition_en": "asylum; refuge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pépʉ́a",
+        "pronounciation": "pépɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (modifiant les noms de la classe 2)",
+                "definition_en": "two (modifying nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pépÿé megwé",
+        "pronounciation": "pépɸɰé mèɡɣwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balbuzard pêcheur",
+                "definition_en": "osprey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pepÿɛ́ɛ",
+        "pronounciation": "pèpɰɛ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faible (personne)",
+                "definition_en": "feeble (person)",
+                "examples": [
+                    {
+                        "dialect": "Apeÿɛ́ɛ nyìŋ yɔɔn.",
+                        "fr": "Voici un homme faible.",
+                        "en": "Here is a weak man."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "peséssé",
+        "pronounciation": "pèsésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noirs (qualifie les noms pour la classe 2)",
+                "definition_en": "black (modifies class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin menɔ̀ɔn peséssé.",
+                        "fr": "Il a les animaux qui sont noirs.",
+                        "en": "He has animals that are black."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "péshÿɔ́ʼɔ",
+        "pronounciation": "péʃɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien de ... ? (demandant pour les noms de la classe 2)",
+                "definition_en": "how many ...? (question for nouns from class 2)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a péshÿɔ́ʼɔ tǒo ndá yɔɔn?",
+                        "fr": "Combien de personnes sont-elles venues dans cette maison ?",
+                        "en": "How many people came to this house?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pesẅé",
+        "pronounciation": "pèsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouveaux (qualifie les noms de la classe 2)",
+                "definition_en": "new (modifies class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À la gʉa ńtóŋ pʉ̀a pesẅé.",
+                        "fr": "Il était parti appeler les nouvelles gens.",
+                        "en": "He had gone to call the new people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "petsɔ́",
+        "pronounciation": "pètsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certains ; autres (modifiant les noms de la classe 2)",
+                "definition_en": "certain; other (modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Petsɔ́ pʉ̀a ne ńguɔ.",
+                        "fr": "Certaines personnes sont malades.",
+                        "en": "Some people are sick."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pétʉ̂a",
+        "pronounciation": "pétɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (modifiant les noms de la classe 2)",
+                "definition_en": "five (modifies nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pevfǒ",
+        "pronounciation": "pèvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit (qualifie les noms de la classe 2)",
+                "definition_en": "cooked (qualifying nouns from class 2)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ne ḿpfɛ́ɛ meshʉ̌ŋ pevfǒ.",
+                        "fr": "Ils mangent les oiseaux cuits.",
+                        "en": "They eat the cooked birds."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mûr (qualifie les noms de la classe 2)",
+                "definition_en": "ripe (qualifying nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pezẅìŋ",
+        "pronounciation": "pèzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieux (qualifie les noms de la classe 2)",
+                "definition_en": "old (qualifies class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pi lɔɔn ńtyé legwaŋ ńne ńjúu menɔ̀ɔn, tà pi jú pezẅìŋ.",
+                        "fr": "Si vous arrivez au marché pour acheter les porcs, n’achetez pas les vieux.",
+                        "en": "If you come to the market to buy the pigs, do not buy the old ones."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "péʼe",
+        "pronounciation": "pə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.l",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "par cela (adv. + adj. dém. comme suffixe)",
+                "definition_en": "by that (adverb + demonstrative adjective as a suffix)",
+                "examples": [
+                    {
+                        "dialect": "À lɔgɔ péʼe faʼa légɔɔn ngie kɔ́?",
+                        "fr": "Il veut par cela dire que quoi ?",
+                        "en": "What does he mean by this?"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "par là (adv. + adj. dém. comme suffixe)",
+                "definition_en": "by there (adverb + demonstrative adjective as a suffix)",
+                "examples": [
+                    {
+                        "dialect": "Pfó péʼe ńtó ńtsɛ́ɛ wɔ́ɔn.",
+                        "fr": "Passe par là pour me rejoindre.",
+                        "en": "Come over there to join me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɛ̀",
+        "pronounciation": "pɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux; ceux-là (pron. dém. de moyen proximité désignant les noms de la classe 2)",
+                "definition_en": "those; those there (middle distant demonstrative pronoun that refers to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Penkʉ́ pú é pɛ̀.",
+                        "fr": "Tes enfants sont ceux-là.",
+                        "en": "Your children are these."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ces ; ces ... -là (adj. dém. de moyen proximité qui modifie les noms de la classe 2)",
+                "definition_en": "those; those there (middle demonstrative adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Náa mmó pʉ̀a pɛ̀ pfɛ́.",
+                        "fr": "Donne à manger à ces gens-là.",
+                        "en": "Give these people something to eat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɛ̌",
+        "pronounciation": "pɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lesquels ? (demandant pour les noms des classes 2)",
+                "definition_en": "which ones? (asking for nouns from class 2)",
+                "examples": [
+                    {
+                        "dialect": "Pɛ̌ pʉ̀a pʉʼʉ́ kème tÿó ńzába mánzsè?",
+                        "fr": "Quelles gens ont soulevé le morceau de bois pour mettre en route ?",
+                        "en": "Which people lifted the piece of wood to start?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɛ́ʼɛ̀",
+        "pronounciation": "pɛ́ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comme cela ; comme ça ; par là",
+                "definition_en": "like that; by there",
+                "examples": [
+                    {
+                        "dialect": "Pfó pɛ́ʼɛ ńtó.",
+                        "fr": "Passe comme ça (par là) tu viens.",
+                        "en": "Go like this (that way) you come."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "comme ça",
+                "definition_en": "like that",
+                "examples": [
+                    {
+                        "dialect": "Á lɔɔn ńgwɔ́ pɛ́ʼɛ̀, mbà à tè zẅíŋ wɔ́.",
+                        "fr": "Si c’est comme ça, il ne doit pas accepter.",
+                        "en": "If it's like that, he must not accept."
+                    }
+                ]
+            }
+        ]
+    }
+]

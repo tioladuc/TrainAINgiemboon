@@ -1,0 +1,413 @@
+[
+    {
+        "noun": "sẅɛ̀ɛ sẅɛ̀ɛ",
+        "pronounciation": "sɥɛ̏ː sɥɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "simplement",
+                "definition_en": "simply",
+                "examples": []
+            },
+            {
+                "definition_fr": "gratuitement",
+                "definition_en": "free",
+                "examples": [
+                    {
+                        "dialect": "N gʉ̌a legwaŋ mbab, mé ná mbab né mèŋ pɔ́ sẅɛ̀ɛ sẅɛ̀ɛ.",
+                        "fr": "Je suis allé à la boucherie, on m’a donné la viande gratuitement.",
+                        "en": "I went to the butchery, they gave me the meat for free."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̂láʼ",
+        "pronounciation": "sɥɛ̂láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chef-lieu ; capital",
+                "definition_en": "county seat; capital",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀te",
+        "pronounciation": "sɥɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "précipitation",
+                "definition_en": "haste",
+                "examples": [
+                    {
+                        "dialect": "Te faʼa fàʼ lé sẅɛ̀te.",
+                        "fr": "N’effectue pas ce travail avec précipitation.",
+                        "en": "Do not do this work in a hurry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ̀ʼ",
+        "pronounciation": "sɥɛ̏ʔ",
+        "synonym": [
+            "línɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sacrifice ; s. cérémonie",
+                "definition_en": "k. sacrifice; k. ceremony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅɛ́ʼ ntÿɔ́ʼ",
+        "pronounciation": "sɥɛ́ʔ ɳ̩̀ʈɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit",
+                "definition_en": "k. outfit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅì",
+        "pronounciation": "sɥȉ",
+        "synonym": [
+            "zẅì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profondeur ; fond",
+                "definition_en": "depth; bottom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅì",
+        "pronounciation": "sɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étroit",
+                "definition_en": "narrow",
+                "examples": []
+            },
+            {
+                "definition_fr": "maigre",
+                "definition_en": "thin; skinny",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅì",
+        "pronounciation": "sɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lâche",
+                "definition_en": "coward",
+                "examples": []
+            },
+            {
+                "definition_fr": "vaurien",
+                "definition_en": "good-for-nothing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅì",
+        "pronounciation": "sɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "musaraigne (gén.)",
+                "definition_en": "musk shrew (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅî",
+        "pronounciation": "sɥî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅî",
+        "pronounciation": "sɥî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourbillon",
+                "definition_en": "whirlwind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìi tepwó",
+        "pronounciation": "sɥȉː tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "index",
+                "definition_en": "index finger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìle",
+        "pronounciation": "sɥìlȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose étonnante",
+                "definition_en": "something surprising",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅǐŋ",
+        "pronounciation": "sɥĩ̌ŋ",
+        "synonym": [
+            "fǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fibre de raphia",
+                "definition_en": "raffia fibre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìŋ ngwòŋ",
+        "pronounciation": "sɥĩ̏ŋ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traître",
+                "definition_en": "traitor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìŋe",
+        "pronounciation": "sɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendeur",
+                "definition_en": "seller; salesman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìŋe lepfòm",
+        "pronounciation": "sɥĩ̀ŋȅ lèpfɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diarrhée persistante",
+                "definition_en": "persistent diarrhoea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅíŋtè",
+        "pronounciation": "sɥĩ́ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prière",
+                "definition_en": "prayer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅisẅé",
+        "pronounciation": "sɥìsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affaire indécente ; impure",
+                "definition_en": "indecent affair; impure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅisẅê",
+        "pronounciation": "sɥìsːɥê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frais",
+                "definition_en": "fresh; cool",
+                "examples": [
+                    {
+                        "dialect": "À pfɛ̌ ngesáŋ sẅisẅê.",
+                        "fr": "Il a mangé le maïs frais.",
+                        "en": "He ate the fresh corn."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "dans l’ombre ; abri",
+                "definition_en": "in the shade; shelter",
+                "examples": [
+                    {
+                        "dialect": "À neŋe jʉʼʉ sẅisẅê.",
+                        "fr": "Il est assis à l’ombre.",
+                        "en": "He is sitting in the shade."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "humide (bois)",
+                "definition_en": "humid (wood)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtuɔ nkẅíŋ sẅisẅê mbà mmɔ̌g é ge pyé.",
+                        "fr": "Si tu brûles le bois humide, le feu va s’éteindre.",
+                        "en": "If you burn wet wood, the fire will go out."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅé",
+        "pronounciation": "sɥísːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amarante (gén.)",
+                "definition_en": "amaranth (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅé menzoŋ",
+        "pronounciation": "sɥísːɥé mèndzõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amarante sauvage",
+                "definition_en": "wild amaranth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅé pepaŋ",
+        "pronounciation": "sɥísːɥé pèpàŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "water primrose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅɛ́ɛ",
+        "pronounciation": "sɥísɥɛ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmis",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅɛ́ɛ nèm",
+        "pronounciation": "sɥísɥɛ́ː nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (noir, venimeux)",
+                "definition_en": "sp. ant (black and poisonous)",
+                "examples": []
+            }
+        ]
+    }
+]

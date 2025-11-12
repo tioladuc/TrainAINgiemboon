@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "lather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "latrines",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laugh",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laughing, one who kills while",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀te ngwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laughing, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kyǎg kyǎg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "hàhàhà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laughter, peals",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwâa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laughter, roar with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼ lesoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "launch, foot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "téme kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "màʼa kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "launderette",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laundromat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laundry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́ menzsǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laundry, wring",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "law",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lawbreaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa fʉ̌ʼ nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "law court",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀a ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lawyer, defence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàg nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼ ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lay down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laze around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laziness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lǒŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lazy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lazybones",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ lesoŋ ńkɔ nnáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lazy person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ mpfɛ́ ndyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbím",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbímte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leader",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyè mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndìe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lead (walk)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyeen",
+                "examples": []
+            }
+        ]
+    }
+]

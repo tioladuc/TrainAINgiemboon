@@ -1,0 +1,199 @@
+[
+    {
+        "noun": "tÿǒ pùʼ",
+        "pronounciation": "ʈθɰǒ pȕʔ",
+        "synonym": [
+            "kapáŋapùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épée ; poignard",
+                "definition_en": "sword; dagger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ pÿè",
+        "pronounciation": "ʈθɰǒ pɸɰȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arbre padauk",
+                "definition_en": "camwood tree; padauk tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ sitolóŋ",
+        "pronounciation": "ʈθɰǒ sìtòlṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citronnier",
+                "definition_en": "lemon-tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ tsɔ̀ɔn nzsó",
+        "pronounciation": "ʈθɰǒ tsɔ̃̀ː ǹ̩dzsó",
+        "synonym": [
+            "tÿǒ cʉ̀a nzsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "red-leaved fig tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ zoon",
+        "pronounciation": "ʈθɰǒ zõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "safoutier",
+                "definition_en": "safou tree; African pear tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ zyé nkenkáb",
+        "pronounciation": "ʈθɰǒ zsjé ŋkèŋkáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sycamore fig tree; fig-mulberry tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿóon",
+        "pronounciation": "ʈɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse (gén.)",
+                "definition_en": "calabash (generic.)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿóon múɔ",
+        "pronounciation": "tɰṍː múɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amnios (poche des eaux)",
+                "definition_en": "water (pocket of water)",
+                "examples": [
+                    {
+                        "dialect": "Atÿóon múɔ gwaa shʉ́a, múɔ ne ńkẅɛ.",
+                        "fr": "L’amnios en crevant, le bébé le suivait.",
+                        "en": "The amnion burst, the baby followed him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒsoŋ",
+        "pronounciation": "ʈθɰǒsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ville",
+                "definition_en": "city",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿɔ́gɔ",
+        "pronounciation": "ʈɰɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "héritage ; richesse",
+                "definition_en": "inheritance; wealth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿɔʼ",
+        "pronounciation": "ʈɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Tÿɔʼ",
+        "pronounciation": "ʈɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Babété",
+                "definition_en": "Babete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿɔ́ʼte",
+        "pronounciation": "ʈɰɔ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entourage ; voisinage",
+                "definition_en": "family circle; neighbourhood",
+                "examples": []
+            },
+            {
+                "definition_fr": "environnement",
+                "definition_en": "environment",
+                "examples": []
+            }
+        ]
+    }
+]

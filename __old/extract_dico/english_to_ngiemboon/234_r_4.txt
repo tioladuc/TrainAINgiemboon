@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "recessed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metoŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recipient",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwèʼe nkʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reciprocal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recitation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reclaim",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recognition, sign",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recognize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reconcile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reconstitute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "record",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recount",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "re-cover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recovery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recreate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿéente nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recruiter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀gɔ ngàŋa fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rectum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mápwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mepaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red bean, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepàŋ mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú maki",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú pepàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red bean, sp. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matítí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red-cheeked cordon-bleu",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋé ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red-collared widowbird",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zàkwɔ̀ʼ metoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sessò sẅǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "redden",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reduce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "red, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsâŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            }
+        ]
+    }
+]

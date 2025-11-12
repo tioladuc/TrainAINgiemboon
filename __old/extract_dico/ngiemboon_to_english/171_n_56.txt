@@ -1,0 +1,435 @@
+[
+    {
+        "noun": "ńŋwáŋte",
+        "pronounciation": "ŋ̩́ŋwã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briller",
+                "definition_en": "shine",
+                "examples": []
+            },
+            {
+                "definition_fr": "égayer",
+                "definition_en": "enliven",
+                "examples": []
+            },
+            {
+                "definition_fr": "piquer (piment)",
+                "definition_en": "sting (pepper)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋwáʼ",
+        "pronounciation": "ŋ̩̀ŋwáʔ",
+        "synonym": [
+            "mvòm nŋwáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abeille",
+                "definition_en": "bee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwaʼ",
+        "pronounciation": "ŋ̩́ŋwàʔ",
+        "synonym": [
+            "ńŋweʼe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrire",
+                "definition_en": "write",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwaʼ",
+        "pronounciation": "ŋ̩́ŋwàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrire",
+                "definition_en": "write",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwaʼ",
+        "pronounciation": "ŋ̩́ŋwàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tacheter",
+                "definition_en": "spot",
+                "examples": []
+            },
+            {
+                "definition_fr": "apparaître sur (corps, champ)",
+                "definition_en": "appear on (body, field)",
+                "examples": []
+            },
+            {
+                "definition_fr": "éblouir ; tacheter ; scintiller",
+                "definition_en": "dazzle; to spot; sparkle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋwàʼŋwàʼ",
+        "pronounciation": "ŋ̩̀ŋwȁʔŋwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "multicolore",
+                "definition_en": "multicoloured",
+                "examples": [
+                    {
+                        "dialect": "Múɔ maʼ nzsǒ, é gwɔ́ nŋwàʼŋwàʼ.",
+                        "fr": "L’enfant est vêtu d’un habit multicolore.",
+                        "en": "The child is dressed in a multi-colored outfit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwele",
+        "pronounciation": "ŋ̩́ŋwə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être flou",
+                "definition_en": "be blurred",
+                "examples": [
+                    {
+                        "dialect": "Mejÿɔ́g mé ne ŋwele ŋwele.",
+                        "fr": "Ses yeux sont flous.",
+                        "en": "His eyes are blurry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋweʼe",
+        "pronounciation": "ŋ̩́ŋwə̀ʔè",
+        "synonym": [
+            "ńŋwaʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrire",
+                "definition_en": "write",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwéʼe",
+        "pronounciation": "ŋ̩́ŋwə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plier ; tordre",
+                "definition_en": "fold; twist",
+                "examples": []
+            },
+            {
+                "definition_fr": "tortiller",
+                "definition_en": "squirm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋwɛ̌",
+        "pronounciation": "ŋ̩̀ŋwɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carbone ; dépôt de fumée sur le plafond",
+                "definition_en": "carbon; smoke deposited on the ceiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwɔ́bte",
+        "pronounciation": "ŋ̩́ŋwɔ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’entre croiser (branches)",
+                "definition_en": "cross each other (branches)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwɔ́ʼ",
+        "pronounciation": "ŋ̩́ŋwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courber ; tordre",
+                "definition_en": "bow; bend; wring; twist",
+                "examples": []
+            },
+            {
+                "definition_fr": "virer",
+                "definition_en": "turn",
+                "examples": []
+            },
+            {
+                "definition_fr": "sinuer",
+                "definition_en": "wind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwɔ́ʼ",
+        "pronounciation": "ŋ̩́ŋwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espionner",
+                "definition_en": "spy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwɔ́ʼte",
+        "pronounciation": "ŋ̩́ŋwɔ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toiser",
+                "definition_en": "look up and down",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwʉŋe",
+        "pronounciation": "ŋ̩́ŋwɯ̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briller ; rayonner",
+                "definition_en": "shine; sparkle",
+                "examples": []
+            },
+            {
+                "definition_fr": "étinceler",
+                "definition_en": "sparkle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋẅiŋe",
+        "pronounciation": "ŋ̩́ŋɥĩ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouetter",
+                "definition_en": "whip",
+                "examples": [
+                    {
+                        "dialect": "À ŋẅeŋé tseme mmó nzème kwò yé.",
+                        "fr": "Il l’a fouetté derrière le pied.",
+                        "en": "He whipped him behind the foot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nò",
+        "pronounciation": "nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "problème",
+                "definition_en": "problem",
+                "examples": []
+            },
+            {
+                "definition_fr": "affaire",
+                "definition_en": "matter",
+                "examples": []
+            },
+            {
+                "definition_fr": "parole",
+                "definition_en": "speech",
+                "examples": []
+            },
+            {
+                "definition_fr": "vérité",
+                "definition_en": "truth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nò láʼ",
+        "pronounciation": "nȍ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commune",
+                "definition_en": "commune",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nò shú",
+        "pronounciation": "nȍ ʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amitié",
+                "definition_en": "friendship",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nò té tsẅe pàa",
+        "pronounciation": "nȍ té tsːɥè pȁ:",
+        "synonym": [
+            "pùmo ngɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "divers",
+                "definition_en": "diverse; varied",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn",
+        "pronounciation": "nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animal (gén.)",
+                "definition_en": "animal (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn",
+        "pronounciation": "nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchets de taro",
+                "definition_en": "dasheen scraps",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn",
+        "pronounciation": "nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parcelle cultivée ou à cultiver",
+                "definition_en": "cultivated land",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn kẅǐ",
+        "pronounciation": "nɔ̃̏ː kɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vertébré",
+                "definition_en": "vertebrate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn lekʉʼ",
+        "pronounciation": "nɔ̃̏ː lèkɯ̀ʔ",
+        "synonym": [
+            "nɔ̀ɔn nnɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buffle",
+                "definition_en": "buffalo",
+                "examples": []
+            }
+        ]
+    }
+]

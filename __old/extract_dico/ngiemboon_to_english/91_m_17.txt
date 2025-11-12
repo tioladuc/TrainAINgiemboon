@@ -1,0 +1,489 @@
+[
+    {
+        "noun": "mbɔ̌",
+        "pronounciation": "m̩̀bɔ̌",
+        "synonym": [
+            "mbǎ ",
+            " mbɔɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et même",
+                "definition_en": "and even",
+                "examples": []
+            },
+            {
+                "definition_fr": "ainsi que ; de même que",
+                "definition_en": "just as; the same as",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔb",
+        "pronounciation": "ḿ̩bɔ̀p̚",
+        "synonym": [
+            "ḿbab"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aplanir",
+                "definition_en": "level out",
+                "examples": []
+            },
+            {
+                "definition_fr": "aplanir ; être plat",
+                "definition_en": "flatten; to be flat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔb",
+        "pronounciation": "ḿ̩bɔ̀p̚",
+        "synonym": [
+            "ḿbab"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "penser faire avec détermination",
+                "definition_en": "think of doing with determination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔb",
+        "pronounciation": "ḿ̩bɔ̀p̚",
+        "synonym": [
+            "ḿbab"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            },
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔ́g",
+        "pronounciation": "ḿ̩bɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "craindre",
+                "definition_en": "fear",
+                "examples": []
+            },
+            {
+                "definition_fr": "craindre quelqu’un",
+                "definition_en": "fear someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "donner des choses à quelqu’un pour honorer",
+                "definition_en": "give things to someone to honor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ́ntáʼ",
+        "pronounciation": "m̩̀bɔ́ntáʔ",
+        "synonym": [
+            "mbóntáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelques",
+                "definition_en": "some",
+                "examples": [
+                    {
+                        "dialect": "Peg tǒo cúʼtè, mbɔ́ntáʼ pʉa zɔ̌ gwɔ́ wó.",
+                        "fr": "Nous sommes venu à la réunion, il n’y avait que quelques gens.",
+                        "en": "We came to the meeting, there were only a few people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔɔ",
+        "pronounciation": "m̩̀bɔ̀:",
+        "synonym": [
+            "mbɔ̌ ",
+            " mbǎ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et même",
+                "definition_en": "and even",
+                "examples": [
+                    {
+                        "dialect": "Lelÿɔʼ mbɔɔ pʉa, é pú ńgwɔ́ pɔ́ jÿó.",
+                        "fr": "L’igname et même le taro sont tous des mets.",
+                        "en": "Yam and even taro are all delicacies."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ainsi que ; de même que; même ; aussi",
+                "definition_en": "just as; the same as; same; also",
+                "examples": [
+                    {
+                        "dialect": "Tóo ńkaa mbɔɔ yɔɔn!",
+                        "fr": "Viens porter (cela) ainsi que ceci !",
+                        "en": "Come wear (this) and this!"
+                    },
+                    {
+                        "dialect": "À gʉ̌a tà ńtúm mbɔɔ ntse.",
+                        "fr": "Il est allé jusqu’à traverser même un cours d’eau.",
+                        "en": "He even went so far as to cross a stream."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔɔ né",
+        "pronounciation": "m̩̀bɔ̀ː né",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avec ; même",
+                "definition_en": "with; even",
+                "examples": [
+                    {
+                        "dialect": "Gʉa mbʉ̀a ńkaa mekáŋ mbɔɔ né mekʉŋ.",
+                        "fr": "Pars à la maison porter les assiettes avec les marmites.",
+                        "en": "Go home and carry the plates with the pots."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔɔ púʼu",
+        "pronounciation": "m̩̀bɔ̀ː púʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "même comme ça",
+                "definition_en": "even like that",
+                "examples": [
+                    {
+                        "dialect": "Mbɔɔ púʼu, à tsɔ́ mmó gie n ge ná, á té wó wɔ́.",
+                        "fr": "Même comme ça, je n’ai rien à donner.",
+                        "en": "Even so, I have nothing to give."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ́ɔn",
+        "pronounciation": "m̩̀bɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pardon",
+                "definition_en": "sorry; excuse me; pardon me",
+                "examples": []
+            },
+            {
+                "definition_fr": "(marque l’insistance)",
+                "definition_en": "(shows insistence)",
+                "examples": [
+                    {
+                        "dialect": "Tóo pɔ̀gɔ gʉa ntse mbɔ́ɔn!",
+                        "fr": "Pardon viens, nous partons à l’eau !",
+                        "en": "Sorry come on, we're going to the water!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ̀ɔn",
+        "pronounciation": "m̩̀bɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boa (gén.)",
+                "definition_en": "boa (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ̀ɔn",
+        "pronounciation": "m̩̀bɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "protecteur ; épargnant",
+                "definition_en": "protector; saver; investor",
+                "examples": [
+                    {
+                        "dialect": "Ambɔ̀ɔn pʉ̀a mesoŋ, ee Ssé.",
+                        "fr": "Le protecteur des humains, c’est Dieu.",
+                        "en": "The protector of humans is God."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ̀ɔn",
+        "pronounciation": "m̩̀bɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racloir ; râpeur ; guiro ; instrument de musique fabriqué d’une barre de raphia avec des entailles traversières, râpé par une bague en fer, utilisé pour les associations de danse « Kànɔ̀ɔn, Kwàkwà, Ntsèbe »",
+                "definition_en": "scraper; grater; guiro; musical instrument made by cutting notches in a raffia, scraped by a metal bar, used by dance groups Kanoon, Kwakwa, Ntsebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔɔn",
+        "pronounciation": "ḿ̩bɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grimper (arbre)",
+                "definition_en": "climb (tree)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔ́ɔn",
+        "pronounciation": "ḿ̩bɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cacher",
+                "definition_en": "hide",
+                "examples": []
+            },
+            {
+                "definition_fr": "protéger ; préserver ; conserver",
+                "definition_en": "protect ; preserve ; preserve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔ́ɔn",
+        "pronounciation": "ḿ̩bɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éviter",
+                "definition_en": "avoid",
+                "examples": []
+            },
+            {
+                "definition_fr": "épargner",
+                "definition_en": "save money",
+                "examples": []
+            },
+            {
+                "definition_fr": "éviter",
+                "definition_en": "avoid",
+                "examples": []
+            },
+            {
+                "definition_fr": "épargner",
+                "definition_en": "save",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔɔnté",
+        "pronounciation": "m̩̀bɔ̃́ːtě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abrasion",
+                "definition_en": "abrasion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ́ɔntè",
+        "pronounciation": "m̩̀bɔ̃́ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suivant",
+                "definition_en": "next",
+                "examples": []
+            },
+            {
+                "definition_fr": "second ; deuxième",
+                "definition_en": "second",
+                "examples": [
+                    {
+                        "dialect": "Àa mbɔ́ɔntè yépʉ́a ndá pɔ́b.",
+                        "fr": "Il est le deuxième dans leur maison.",
+                        "en": "He is the second in their house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbɔ́ɔnte",
+        "pronounciation": "ḿ̩bɔ̃́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suivre ; approcher ; être le suivant",
+                "definition_en": "follow; approach; be next",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ́ɔntè mvfò lyɛ̌ʼ",
+        "pronounciation": "m̩̀bɔ̃́ːtȅ ɱ̩̀bvfȍ ljɛ̌ʔ",
+        "synonym": [
+            "túundê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mardi",
+                "definition_en": "Tuesday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ",
+        "pronounciation": "m̩̀bɔ̃́ːtȅ tsètsɛ̏ː ljɛ̌ʔ",
+        "synonym": [
+            "tɔ́ɔsèndê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeudi",
+                "definition_en": "Thursday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbù",
+        "pronounciation": "m̩̀bȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haine ; rancune",
+                "definition_en": "hatred; grudge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbú",
+        "pronounciation": "ḿ̩bú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "errer",
+                "definition_en": "wander",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbú",
+        "pronounciation": "ḿ̩bú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tout",
+                "definition_en": "all",
+                "examples": [
+                    {
+                        "dialect": "À pǔ ḿbí.",
+                        "fr": "Il a tout pris.",
+                        "en": "He took everything."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbùb",
+        "pronounciation": "m̩̀bȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appendicite",
+                "definition_en": "appendicitis",
+                "examples": []
+            }
+        ]
+    }
+]

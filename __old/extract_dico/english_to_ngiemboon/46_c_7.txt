@@ -1,0 +1,502 @@
+[
+    {
+        "noun": "cemetery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlengàlôŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "centre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "soŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sesoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "soŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "centre, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "soŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "soŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "centre of the house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "century",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "century-plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cereal, baby",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kukúlu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cereal ears",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túʼu pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceremonies, master",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa pím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceremonies, padauk powder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceremony, goat for widow’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùʼupfɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceremony in June",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿò láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceremony, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "línɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "certain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "petsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "setsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "certificate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɛtifikâ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlevê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "certificate, birth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅiŋ ngùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cerumen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nenème",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chains",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̂n",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chain saw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mashʉŋ metÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ lʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lóŋ ntsìɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ njʉʼʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chair back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejʉʼʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chair, rattan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ lekʉb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chalk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chameleon, changeable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sà ntí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chameleon, Eisentraut’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kénáŋ mandóŋ",
+                "examples": []
+            }
+        ]
+    }
+]

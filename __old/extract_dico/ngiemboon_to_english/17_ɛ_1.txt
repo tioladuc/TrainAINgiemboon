@@ -1,0 +1,84 @@
+[
+    {
+        "noun": "ɛ̌ ɛ̌",
+        "pronounciation": "ɛ̌ ɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant un évènement déplaisant)",
+                "definition_en": "(shows a displeasing event)",
+                "examples": [
+                    {
+                        "dialect": "Ɛ̌ ɛ̌! múɔ wa gÿǒ tà ńzoonte wɔ́ɔn.",
+                        "fr": "Ah ! L’enfant-là a fait si bien qu’il m’a insulté.",
+                        "en": "Ah! That child did so well that he insulted me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɛ̀ɛ",
+        "pronounciation": "ɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la simplicité)",
+                "definition_en": "(showing simplicity)",
+                "examples": [
+                    {
+                        "dialect": "Ɛ̀ɛ! Páʼ yɛ áa pɛ́ʼɛ̀ kuʼu kɔ́?",
+                        "fr": "Ah, que vaut cela ?",
+                        "en": "Ah, what's that worth?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɛ̂ɛ",
+        "pronounciation": "ɛ̂ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant un évènement déplaisant)",
+                "definition_en": "(shows a displeasing event)",
+                "examples": [
+                    {
+                        "dialect": "Ɛ̂ɛ! Páʼ yɛ̂ áa pɛ́ʼɛ̀ ńkuʼu na kɔ́!",
+                        "fr": "Ha ! Ca-là, c’est quoi !",
+                        "en": "Ha! That’s what it is!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɛ̌ɛn",
+        "pronounciation": "ɛ̃̌ː",
+        "synonym": [
+            "ěen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(cri d’étonnement marquant l’oubli)",
+                "definition_en": "(cry of surprise regarding an oversight)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ zoonte wɔ́? Ɛ̌ɛn!",
+                        "fr": "Tu insultes qui ? Hein !",
+                        "en": "Who are you insulting? Eh !"
+                    }
+                ]
+            }
+        ]
+    }
+]

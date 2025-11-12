@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "tell half the story",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀b pyɛ̌b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temple of God",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temporary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀b pyɛ̌b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ́bɛ lyɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meen ngẅiin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temptation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwàʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ten, about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tender, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tender, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfâd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tendon, meat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàŋa mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tense",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tense, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá mbʉŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terminal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsòte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terminate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzsote",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terminus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsoté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite hill, large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "másem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite mound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gÿàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndá sɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ŋe sɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèle ngẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùngwɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite, red sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termites, canned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lème",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite, small black sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̌ʼ lelɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "másem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite, white sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fégyaŋngwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "termite, yellow sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    }
+]

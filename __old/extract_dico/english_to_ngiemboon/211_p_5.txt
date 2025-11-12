@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "payer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "payment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔʼɔ́ fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pea, Budda",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkem ngù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́lè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peaceful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀le pʉlé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peacefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"peace tree\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉnkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peak",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peals of laughter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwâa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peanut butter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peanut plants, weed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peanuts and maize, mix",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peanuts, grilled",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peanuts, ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pear, balsam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pearl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔgɔ́ tsye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meŋwʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pear tree, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ zoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peasant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìŋe láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pebble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pebble falling, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pebble, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pedestrian",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngiŋe ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyeente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbid",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzibte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzib",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peeler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbe",
+                "examples": []
+            }
+        ]
+    }
+]

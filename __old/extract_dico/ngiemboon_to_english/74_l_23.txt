@@ -1,0 +1,78 @@
+[
+    {
+        "noun": "lÿoon ncù",
+        "pronounciation": "ɭɰṍː ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. stratégie de guerre",
+                "definition_en": "k. war strategy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿɔ́b",
+        "pronounciation": "ɭɰɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papaye",
+                "definition_en": "pawpaw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿɔ̀g",
+        "pronounciation": "ɭɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conscience ; attention",
+                "definition_en": "consciousness; awareness; attention",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿɔg nnɛ́",
+        "pronounciation": "ɭɰɔ̀q̚ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paludisme",
+                "definition_en": "malaria",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿɔgɔ",
+        "pronounciation": "ɭɰɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire en titubant",
+                "definition_en": "staggering; reeling",
+                "examples": [
+                    {
+                        "dialect": "À giŋe lê lÿɔgɔ páʼ pwɔ̀ʼɔ kwò la.",
+                        "fr": "Il marche en titubant comme un boiteux.",
+                        "en": "He walks staggering like a lame man."
+                    }
+                ]
+            }
+        ]
+    }
+]

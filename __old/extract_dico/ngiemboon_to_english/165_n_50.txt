@@ -1,0 +1,463 @@
+[
+    {
+        "noun": "nkyɛ̀",
+        "pronounciation": "ŋ̩̀kjɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rideau ; contrevent",
+                "definition_en": "curtain; shutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛ",
+        "pronounciation": "ŋ̩́kjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décrocher",
+                "definition_en": "unhook",
+                "examples": []
+            },
+            {
+                "definition_fr": "accrocher",
+                "definition_en": "hook",
+                "examples": []
+            },
+            {
+                "definition_fr": "laisser",
+                "definition_en": "to leave",
+                "examples": []
+            },
+            {
+                "definition_fr": "découvrir",
+                "definition_en": "discover",
+                "examples": []
+            },
+            {
+                "definition_fr": "accrocher",
+                "definition_en": "hang",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛ́",
+        "pronounciation": "ŋ̩́kjɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sauter",
+                "definition_en": "jump",
+                "examples": []
+            },
+            {
+                "definition_fr": "plonger",
+                "definition_en": "dive",
+                "examples": []
+            },
+            {
+                "definition_fr": "sautiller",
+                "definition_en": "skip",
+                "examples": []
+            },
+            {
+                "definition_fr": "gambader",
+                "definition_en": "frolic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkyɛ̌ mbì",
+        "pronounciation": "ŋ̩̀kjɛ̌ m̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côte ; côtelette",
+                "definition_en": "rib; chop; cutlet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkyɛ̀bɛ",
+        "pronounciation": "ŋ̩̀kjɛ̀βɛ̏",
+        "synonym": [
+            "nkìbɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaucher",
+                "definition_en": "left-handed; lefty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛbɛ pwó",
+        "pronounciation": "ŋ̩́kjɛ̀βɛ̀ pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appeler par la main ; interpeller par la main",
+                "definition_en": "call by hand signal; call on by hand signal",
+                "examples": [
+                    {
+                        "dialect": "À kyɛbɛ pwó lé shǔ we gẅie á kɔʼɔ́ ńtyé ngʉ̀a shʉ̀shʉ̀a.",
+                        "fr": "Il a appelé́ son ami par la main.",
+                        "en": "He called his friend by the hand."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛʼ",
+        "pronounciation": "ŋ̩́kjɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclairer",
+                "definition_en": "light; light up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛ́ʼ",
+        "pronounciation": "ŋ̩́kjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détacher",
+                "definition_en": "untie",
+                "examples": []
+            },
+            {
+                "definition_fr": "dérouler",
+                "definition_en": "unroll",
+                "examples": []
+            },
+            {
+                "definition_fr": "détacher",
+                "definition_en": "detach",
+                "examples": []
+            },
+            {
+                "definition_fr": "dérouler",
+                "definition_en": "unfold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyɛ́ʼte",
+        "pronounciation": "ŋ̩́kjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclaircir",
+                "definition_en": "lighten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkÿɛ́",
+        "pronounciation": "ŋ̩́kɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accaparer ; défendre l’accès à une chose",
+                "definition_en": "monopolize; limit access to something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo",
+        "pronounciation": "ŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cent",
+                "definition_en": "hundred",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo",
+        "pronounciation": "ŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corde",
+                "definition_en": "rope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿò",
+        "pronounciation": "ŋ̩̀kxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui s’enfuit ; celui qui fuit",
+                "definition_en": "one who runs away; one who flees from",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkÿo",
+        "pronounciation": "ŋ̩́kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courir",
+                "definition_en": "run",
+                "examples": []
+            },
+            {
+                "definition_fr": "émigrer",
+                "definition_en": "emigrate",
+                "examples": []
+            },
+            {
+                "definition_fr": "divorcer",
+                "definition_en": "divorce",
+                "examples": []
+            },
+            {
+                "definition_fr": "évader",
+                "definition_en": "escape",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkÿó",
+        "pronounciation": "ŋ̩́kxɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’enflammer, brûler",
+                "definition_en": "catch fire; burn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo lé menzèm",
+        "pronounciation": "ŋ̩̀kxɰò lé mèndzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "centaine ; cent et poussière",
+                "definition_en": "hundred; bit over a hundred",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ saŋá zoon, á kẅɛ nkÿo lé menzèm.",
+                        "fr": "Ils ont compté les prunes et cela a donné une centaine et un peu plus.",
+                        "en": "They counted the plums and it came out to a hundred and a little more."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo ndʉ̌",
+        "pronounciation": "ŋ̩̀kxɰò ɳ̩̀ɖɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coureur",
+                "definition_en": "runner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo pɔ̀ɔn",
+        "pronounciation": "ŋ̩̀kxɰò pɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lanière",
+                "definition_en": "strap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿo tʉ́",
+        "pronounciation": "ŋ̩̀kxɰò ʈɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fil de fer",
+                "definition_en": "steel wire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkÿonkÿo",
+        "pronounciation": "ŋ̩̀kɰòŋkxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "illusion",
+                "definition_en": "illusion",
+                "examples": [
+                    {
+                        "dialect": "Agù nkÿonkÿo cʉa wɔ̀ɔn.",
+                        "fr": "Ton illusion dépasse la mienne.",
+                        "en": "Your illusion surpasses mine."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "politique",
+                "definition_en": "politics",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńná",
+        "pronounciation": "ń̩ná",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "donner",
+                "definition_en": "give",
+                "examples": []
+            },
+            {
+                "definition_fr": "respecter",
+                "definition_en": "respect",
+                "examples": []
+            },
+            {
+                "definition_fr": "embêter ; punir",
+                "definition_en": "annoy; punish",
+                "examples": []
+            },
+            {
+                "definition_fr": "conseiller",
+                "definition_en": "advise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nna nǎ",
+        "pronounciation": "ǹ̩nà nǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "offert",
+                "definition_en": "offered",
+                "examples": [
+                    {
+                        "dialect": "Á té ye njú wɔ́. Á gwɔ́ pɔ́ ye nna nǎ.",
+                        "fr": "Ce n’est pas acheté. C’est offert.",
+                        "en": "It is not purchased. It's free."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nnà ngɔ̀ɔnte",
+        "pronounciation": "ǹ̩nȁ ŋ̩̀gɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appréciateur",
+                "definition_en": "appraiser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnà ntÿɔgɔ́",
+        "pronounciation": "ǹ̩nȁ ɳ̩̀ʈɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conseilleur",
+                "definition_en": "advisor; counsellor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnàa",
+        "pronounciation": "ǹ̩nȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "donneur ; donateur ; celui qui donne ; fournisseur",
+                "definition_en": "donor; one who gives; supplier",
+                "examples": []
+            }
+        ]
+    }
+]

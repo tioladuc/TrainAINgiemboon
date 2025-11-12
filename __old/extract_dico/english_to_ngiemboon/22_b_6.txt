@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "bat, guano",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bathing slip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàlasôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "selîb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bathing suit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàlasôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "selîb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bat, house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bathtub",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔgɔ́ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "batik cloth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bat’s ears",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metuŋó vɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bat, Straw-colored fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "batter, pour out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "battery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bauhinia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèlʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bawl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bazou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Jû",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "B.C.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mé zyé Yěsô",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ wó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be able to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelʉ̀ʼʉ twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beam of sunlight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nèm meshʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean aphid, black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, fish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean pod, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, remove the pod",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean seed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyè mekú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beans, ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàpìd",
+                "examples": []
+            }
+        ]
+    }
+]

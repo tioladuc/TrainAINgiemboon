@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "build",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "builder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "build painfully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulbul, common",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tatÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kìm ntse ntsẅɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulged out, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtubte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulk, move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulky, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bullet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelùŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo ngú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bulletin, informational",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bullgrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ metʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ tetʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bullroarer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandelevûm nkyɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tánɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa nɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅile",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa nʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bullying",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bulu language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò mbulu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó ncÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meluʼú meluʼú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leluʼú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bumps",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meluʼú meluʼú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bumps, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bump strongly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bunch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burbank, diamond",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burden",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letuŋó mpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "burial, things given",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùŋo legwé",
+                "examples": []
+            }
+        ]
+    }
+]

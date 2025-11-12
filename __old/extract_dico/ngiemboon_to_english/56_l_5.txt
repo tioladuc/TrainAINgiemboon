@@ -1,0 +1,431 @@
+[
+    {
+        "noun": "legɔʼ",
+        "pronounciation": "lèɣɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joue",
+                "definition_en": "cheek",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legù",
+        "pronounciation": "lèɣȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poitrine",
+                "definition_en": "chest; breast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legúa",
+        "pronounciation": "lèɣúá",
+        "synonym": [
+            "legúɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promenade ; visite",
+                "definition_en": "walk; visit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legúɔ",
+        "pronounciation": "lèɣúɔ́",
+        "synonym": [
+            "legúa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promenade ; visite",
+                "definition_en": "walk; visit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legúʼ",
+        "pronounciation": "lèɣúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grandeur ; croissance",
+                "definition_en": "size; growth",
+                "examples": []
+            },
+            {
+                "definition_fr": "gloire",
+                "definition_en": "glory",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legʉ́",
+        "pronounciation": "lèɣɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épaule",
+                "definition_en": "shoulder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legʉ̀a",
+        "pronounciation": "lèɣɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fois",
+                "definition_en": "time",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ la tóo jʉʼɔɔn tàʼ legʉ̀a.",
+                        "fr": "Ils étaient venus une fois.",
+                        "en": "They had come once."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "départ",
+                "definition_en": "departure",
+                "examples": [
+                    {
+                        "dialect": "Awɔ̀ɔn legʉ̀a kǔʼ.",
+                        "fr": "Mon départ est arrivé.",
+                        "en": "My departure has arrived."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "légʉ́a",
+        "pronounciation": "léɣɯ́á",
+        "synonym": [
+            "sésag"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beaucoup ; trop",
+                "definition_en": "much; lot of; too much",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtʉʉ twó légʉ́a, mbà twó ɔ́ láʼ nuŋe kwɔ́ʼ.",
+                        "fr": "Si tu t’entêtes beaucoup, c’est ta tête qui servira d’échelle.",
+                        "en": "If you are very stubborn, your head will serve as a ladder."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legʉa ntaʼ sí",
+        "pronounciation": "lèɣɯ̀à ǹ̩tàʔ sí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foire ; supermarché",
+                "definition_en": "fair; supermarket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legʉ̀e",
+        "pronounciation": "lèɣɯ̀ȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stupidité",
+                "definition_en": "stupidity",
+                "examples": [
+                    {
+                        "dialect": "Legʉ̀e te pòŋ.",
+                        "fr": "La stupidité n’est pas bien.",
+                        "en": "Stupidity is not good."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "stupide",
+                "definition_en": "stupid",
+                "examples": [
+                    {
+                        "dialect": "Ammó gie ɔ̀ gÿo lɛ aa kwàʼ legʉ̀e.",
+                        "fr": "C’est vraiment stupide ce que tu fais là.",
+                        "en": "It's really stupid what you're doing there."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legʉ́m",
+        "pronounciation": "lèɣɯ́m",
+        "synonym": [
+            "legém"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dix",
+                "definition_en": "ten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legʉŋe kwò",
+        "pronounciation": "lèɣɯ̃̀ŋè kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bord du pied",
+                "definition_en": "side of the foot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwà",
+        "pronounciation": "lèɣwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opération chirurgicale",
+                "definition_en": "surgical operation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwǎ mbab",
+        "pronounciation": "lèɣwǎ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abattoir",
+                "definition_en": "slaughterhouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwaŋ",
+        "pronounciation": "lèɣwã̀ŋ",
+        "synonym": [
+            "lewaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coin du marché ; rayon de marché",
+                "definition_en": "market corner; market shelf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwaŋ mbab",
+        "pronounciation": "lèɣwã̀ŋ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boucherie",
+                "definition_en": "butcher shop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwaʼá",
+        "pronounciation": "lèɣwàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séchoir ; claie",
+                "definition_en": "dryer; grid; riddle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwaʼá kʉ̀ŋe",
+        "pronounciation": "lèɣwàʔá kɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poubelle",
+                "definition_en": "dustbin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwé",
+        "pronounciation": "lèɣxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mort ; deuil",
+                "definition_en": "death; bereavement; mourning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwe nziŋte ziŋté",
+        "pronounciation": "lèɣxwè ǹ̩dzĩ̀ŋtè zĩ̀ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "funérailles",
+                "definition_en": "funeral",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legwɔ́",
+        "pronounciation": "lèɣwɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vie ; existence",
+                "definition_en": "life; existence",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńzáb ntʉ́m gú na Ssé, ɔ̀ láʼ ńgẅiin legwɔ́ tèmì.",
+                        "fr": "Si tu crois en Dieu, tu auras la vie éternelle.",
+                        "en": "If you believe in God, you will have eternal life."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legwɔ́ gie",
+        "pronounciation": "lèɣwɔ́ ɣìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "au lieu que",
+                "definition_en": "instead of",
+                "examples": [
+                    {
+                        "dialect": "À tǒ, legwɔ́ gie à ge zẅíʼte wɔ́ɔn má, á gíŋe ńgʉa.",
+                        "fr": "Il est venu, au lieu qu’il m’attende, il est réparti.",
+                        "en": "He came, instead of waiting for me, he is distributed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "légwɔ́ gie",
+        "pronounciation": "léɣwɔ́ ɣìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pour que",
+                "definition_en": "so that",
+                "examples": [
+                    {
+                        "dialect": "À tǒ páʼɔɔn légwɔ́ gie pi ye ge gʉa.",
+                        "fr": "Il est venu ainsi pour que vous partiez.",
+                        "en": "He came this way so that you could go."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legwɔgɔ́lɔ́g",
+        "pronounciation": "lèɣwɔ̀ʁɔ́lɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigilance",
+                "definition_en": "vigilance; watchfulness",
+                "examples": [
+                    {
+                        "dialect": "Mé nuŋé legwɔgɔ́lɔ́g lepfó peg.",
+                        "fr": "On a créé un comité de vigilance dans mon quartier.",
+                        "en": "We created a vigilance committee in my neighborhood."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legwɔʼɔ́",
+        "pronounciation": "lèɣwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigilance",
+                "definition_en": "vigilance; watchfulness",
+                "examples": []
+            }
+        ]
+    }
+]

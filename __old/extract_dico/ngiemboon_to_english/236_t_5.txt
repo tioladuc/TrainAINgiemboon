@@ -1,0 +1,421 @@
+[
+    {
+        "noun": "te ... mɔ́",
+        "pronounciation": "tè ... mɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.nég.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas (adv. de nég. qui modifie les possessifs de la première personne du singulier)",
+                "definition_en": "not (negative adverb that modifies first person singular possessives)",
+                "examples": [
+                    {
+                        "dialect": "Melɔ̌ɔn mɔɔn, é té mɔ́ɔn mɔ́.",
+                        "fr": "Ces chaussures, elles ne m’appartiennent pas.",
+                        "en": "These shoes don't belong to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "te ... wɔ́",
+        "pronounciation": "tè ... wɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.nég.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Sésɔg wɔɔn te we wɔ́.",
+                        "fr": "Le piment-ci ne l’appartient pas.",
+                        "en": "This pepper doesn't belong to him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèbe",
+        "pronounciation": "tə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embarras ; perplexité ; étourderie",
+                "definition_en": "obstacle; embarrassment; perplexity; thoughtlessness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "těen",
+        "pronounciation": "tẽ̌ː",
+        "synonym": [
+            "tě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ; ne ... pas (avec future proche ou future de demain)",
+                "definition_en": "not (with close future or tomorrow future)",
+                "examples": [
+                    {
+                        "dialect": "Múɔ kaa fàʼ faʼa, à těen nge ńjÿó mmó wɔ́.",
+                        "fr": "L’enfant n’a pas travaillé, il ne mangera pas.",
+                        "en": "The child has not worked, he will not eat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tefʉ̀a",
+        "pronounciation": "tèfɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saint",
+                "definition_en": "saint",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tefÿàg nzẅɛ́ʼ",
+        "pronounciation": "tèfɰȁq̚ ǹ̩dzɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vaurien",
+                "definition_en": "good-for-nothing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tége ńkẅé",
+        "pronounciation": "tə́ʁé ŋ̩́kxɥé",
+        "synonym": [
+            "mántÿɔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. cache-sexe sous forme d’un pagne",
+                "definition_en": "k. loincloth made of cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tége ńkẅé",
+        "pronounciation": "mánʈɰɔ̀ʔ",
+        "synonym": [
+            "mántÿɔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tegɔ̀ɔn melʉʼ",
+        "pronounciation": "tèɣɔ̃̏ː mèɭɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "despote ; tirant ; dictateur",
+                "definition_en": "despot; tyrant; dictator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tekěekěe",
+        "pronounciation": "tèkěːkěː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démuni ; indigent",
+                "definition_en": "destitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tèkǔ na nò",
+        "pronounciation": "tȅkǔ nà nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inutile ; incapable",
+                "definition_en": "useless; incapable",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn aa kwàʼ tèkǔ na nò; à tsẅiŋ tɛʼ.",
+                        "fr": "L’enfant-ci est vraiment inutile ; il est très désobéissant.",
+                        "en": "This child is really useless; he is very disobedient."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "sans utilité",
+                "definition_en": "without usefulness",
+                "examples": []
+            },
+            {
+                "definition_fr": "infortuné",
+                "definition_en": "wretched",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tekúe",
+        "pronounciation": "tèkúé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "indomptable",
+                "definition_en": "untameable; invincible; indomitable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tèkùʼu nò",
+        "pronounciation": "tȅkùʔȕ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insupportable ; sans fondement ; insensé",
+                "definition_en": "unbearable; without foundation; insane; mad",
+                "examples": [
+                    {
+                        "dialect": "Tè láʼ ńzẅíŋe tèkùʼu nò.",
+                        "fr": "N’accepte jamais l’insupportable.",
+                        "en": "Never accept the unbearable."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tekʉ̌a ńkáŋ",
+        "pronounciation": "tekɯ̀á ŋ̩́kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vaurien ; pauvre",
+                "definition_en": "good-for-nothing; poor man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tekwé tÿǒ",
+        "pronounciation": "tèkxwé ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourguère",
+                "definition_en": "physic nut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tekwò",
+        "pronounciation": "tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orteil",
+                "definition_en": "toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tekwò",
+        "pronounciation": "tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pied malade ; sans pied",
+                "definition_en": "sick foot; foot amputee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "telàa",
+        "pronounciation": "tèlȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incomparable",
+                "definition_en": "incomparable; matchless",
+                "examples": [
+                    {
+                        "dialect": "Metʉ̀ Ssé ée me telàa.",
+                        "fr": "La puissance de Dieu est incomparable.",
+                        "en": "The power of God is incomparable."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèlepyè",
+        "pronounciation": "tèlȅpɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "instinct",
+                "definition_en": "instinct",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tém",
+        "pronounciation": "tə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faucon d’Éléonore",
+                "definition_en": "Eleonora’s falcon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "têm",
+        "pronounciation": "tə̂m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une grosse pierre qui tombe au sol",
+                "definition_en": "sound of a big stone falling on the ground",
+                "examples": [
+                    {
+                        "dialect": "Máa tóon gwě ssé lê têm.",
+                        "fr": "Le gros pierre est tombé que « têm ».",
+                        "en": "The big stone fell only “têm”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèm lemʉʼ",
+        "pronounciation": "tə̏m lèmɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profité du malheur ; bien mal acquis",
+                "definition_en": "take advantage of misfortune; ill gotten gain",
+                "examples": [
+                    {
+                        "dialect": "Lejÿǒ tèm lemʉʼ à tè poŋ.",
+                        "fr": "Profiter du malheur n’est pas bon.",
+                        "en": "Taking advantage of misfortune is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèm mvfó",
+        "pronounciation": "tə̏m ɱ̩̀bvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grande chenille",
+                "definition_en": "sp. large caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tém ntɔɔn",
+        "pronounciation": "tə́m ǹ̩tɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jeu de divertissement",
+                "definition_en": "k. pastime game",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tém nzèm",
+        "pronounciation": "tə́m ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tournedos",
+                "definition_en": "tournedos",
+                "examples": []
+            },
+            {
+                "definition_fr": "abandon",
+                "definition_en": "abandoning",
+                "examples": []
+            }
+        ]
+    }
+]

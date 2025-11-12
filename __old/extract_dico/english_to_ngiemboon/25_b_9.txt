@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "beg",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúɔ ndúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼjʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔg mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beggar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ndúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "begging",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "begin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbuʼ ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beginning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ sse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be hardened",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "behaviour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋa nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "behaviour, childish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "behind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "behind, from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "being",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "belch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ʼmbì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "belief",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezab ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "believe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáb ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell anklet, pellet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéjyága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell, dancing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa mefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell, double iron clapperless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíʼ fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell, double metal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell for dancing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bellows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell ringing, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bell, spear with little",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ lúŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "belly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm",
+                "examples": []
+            }
+        ]
+    }
+]

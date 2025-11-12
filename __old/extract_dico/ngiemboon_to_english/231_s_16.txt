@@ -1,0 +1,204 @@
+[
+    {
+        "noun": "sẅísẅɛ́ɛ pwɔʼ",
+        "pronounciation": "sɥísɥɛ́ː pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi qui favorise la poussé des champignons",
+                "definition_en": "sp. ant that helps mushrooms sprout",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅíi",
+        "pronounciation": "sɥísɥíː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bout pointu",
+                "definition_en": "pointed end",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅísẅíi",
+        "pronounciation": "sɥísɥíː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "musaraigne",
+                "definition_en": "sp. shrew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅìte",
+        "pronounciation": "sɥìtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sondeur",
+                "definition_en": "pollster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sẅíʼi nzẅìŋ",
+        "pronounciation": "sɥíʔí ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baissier ; indigner",
+                "definition_en": "lower; to make someone indignant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syâg",
+        "pronounciation": "sjâq̚",
+        "synonym": [
+            "tɔ̂g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une gifle",
+                "definition_en": "sound of a slap",
+                "examples": [
+                    {
+                        "dialect": "À cǔa pwó letuŋó múɔ, á gӱo lê syâg.",
+                        "fr": "Il a gifle l’enfant et cela a fait que « syâg ».",
+                        "en": "He slapped the child and it went “syâg”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "syè",
+        "pronounciation": "sːjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gésier",
+                "definition_en": "gizzard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syɛ̀b",
+        "pronounciation": "sjɛ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peigne",
+                "definition_en": "comb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syɛ̀te",
+        "pronounciation": "sjɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écorchure (de doigts)",
+                "definition_en": "scratch (from fingers)",
+                "examples": [
+                    {
+                        "dialect": "Nzẅíŋ neŋé zyɛ̀te na tepwó wɔ̀ɔn.",
+                        "fr": "L’herbe a mis l’écorchure sur mon doigt.",
+                        "en": "The grass put the scratch on my finger."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "syɛ̀te",
+        "pronounciation": "sjɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit ; peu ; brindille",
+                "definition_en": "small; little; few; twig",
+                "examples": [
+                    {
+                        "dialect": "À nǎ pɔ́ syɛ̀te né mèŋ.",
+                        "fr": "Il m’a donné que petit.",
+                        "en": "He only gave me little."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "syɛ́ʼ",
+        "pronounciation": "sjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commérage",
+                "definition_en": "gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syɛ́ʼ",
+        "pronounciation": "sjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jachère ; assolement",
+                "definition_en": "fallow; crop rotation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "syɛʼɛ́ soon",
+        "pronounciation": "sjɛ̀ʔɛ́ sõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accusation sans fondement",
+                "definition_en": "falsely accused",
+                "examples": []
+            }
+        ]
+    }
+]

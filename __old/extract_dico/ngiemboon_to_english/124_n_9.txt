@@ -1,0 +1,426 @@
+[
+    {
+        "noun": "ndèndẅé",
+        "pronounciation": "ǹ̩dȅndθɥé",
+        "synonym": [
+            "ndʉ̀ndẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment pour la sauce",
+                "definition_en": "k. condiment for sauce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndenîe",
+        "pronounciation": "ǹ̩dèníè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "denier",
+                "definition_en": "denarius",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndènkẅɛ́tè",
+        "pronounciation": "ǹ̩dȅŋkɥɛ́tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier adjoint (d’une autorité)",
+                "definition_en": "first assistant (of an authority)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndeŋ",
+        "pronounciation": "ǹ̩də̃̀ŋ",
+        "synonym": [
+            "ndʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou (gén.)",
+                "definition_en": "bamboo (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeŋ",
+        "pronounciation": "ń̩də̃̀ŋ",
+        "synonym": [
+            "ńdʉŋ",
+            " ńdʉŋe",
+            " ńdʉŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viser",
+                "definition_en": "aim at",
+                "examples": []
+            },
+            {
+                "definition_fr": "guetter",
+                "definition_en": "watch out for",
+                "examples": []
+            },
+            {
+                "definition_fr": "recueillir un liquide",
+                "definition_en": "collect a liquid",
+                "examples": []
+            },
+            {
+                "definition_fr": "disparaître ; avoir un œdème",
+                "definition_en": "disappear ; have edema",
+                "examples": []
+            },
+            {
+                "definition_fr": "viser",
+                "definition_en": "aim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdéŋ",
+        "pronounciation": "ń̩də̃́ŋ",
+        "synonym": [
+            "ńdʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désaxer ; tourner bizarrement",
+                "definition_en": "unbalance; spin bizarrely",
+                "examples": []
+            },
+            {
+                "definition_fr": "oindre à l’excès",
+                "definition_en": "anoint excessively",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndeŋ ndeŋ",
+        "pronounciation": "ǹ̩də̃̀ŋ ǹ̩də̃̀ŋ",
+        "synonym": [
+            "ndʉŋ ndʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "droit",
+                "definition_en": "straight",
+                "examples": [
+                    {
+                        "dialect": "Atÿǒ yɔɔn tyé ndeŋ ndeŋ.",
+                        "fr": "Cet arbre est droit.",
+                        "en": "This tree is straight."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "droitement",
+                "definition_en": "honestly",
+                "examples": [
+                    {
+                        "dialect": "A shwóŋo nò pɔ́ ndeŋ ndeŋ.",
+                        "fr": "Il parle (affaire) toujours droitement.",
+                        "en": "He always speaks (business) straight."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋ nkʉ̌a",
+        "pronounciation": "ǹ̩də̃̏ŋ ŋ̩̀kɯ̀á",
+        "synonym": [
+            "ndʉ̀ŋ nkʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigneron",
+                "definition_en": "wine grower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋe",
+        "pronounciation": "ǹ̩də̃̀ŋȅ",
+        "synonym": [
+            "ndʉ̀ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viseur ; tireur",
+                "definition_en": "sight; viewfinder; gunman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdéŋe",
+        "pronounciation": "ń̩də̃́ŋé",
+        "synonym": [
+            "ńdʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "transporter",
+                "definition_en": "carry; move; transport",
+                "examples": [
+                    {
+                        "dialect": "Pɔgɔ léŋe pɔ̀ɔn yɔɔn!",
+                        "fr": "Transportons ce sac !",
+                        "en": "Let's carry this bag!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋte",
+        "pronounciation": "ǹ̩də̃̀ŋtȅ",
+        "synonym": [
+            "ndʉ̀ŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitateur",
+                "definition_en": "imitator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeŋte",
+        "pronounciation": "ń̩də̃̀ŋtè",
+        "synonym": [
+            "ńdʉŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imiter",
+                "definition_en": "imitate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeŋte",
+        "pronounciation": "ń̩də̃̀ŋtè",
+        "synonym": [
+            "ńdʉŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesurer",
+                "definition_en": "measure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋwâ láʼ",
+        "pronounciation": "ǹ̩dèŋwâ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ministre",
+                "definition_en": "minister",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋwá mbʉ̀a",
+        "pronounciation": "ǹ̩dȅŋwá m̩̀bɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gouverneur",
+                "definition_en": "governor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèŋwámbʉ̀a twó mbúm",
+        "pronounciation": "ǹ̩dȅŋwámbɯ̀ȁ ʈθwó m̩̀búm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier ministre",
+                "definition_en": "Prime Minister",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ",
+        "pronounciation": "ǹ̩dȅpȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabac (gén.)",
+                "definition_en": "tobacco (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ kénáŋ",
+        "pronounciation": "ǹ̩dȅpȁʔ kénã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. tabac sauvage",
+                "definition_en": "sp. wild tobacco",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ láʼ",
+        "pronounciation": "ǹ̩dȅpȁʔ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. tabac cultivé",
+                "definition_en": "sp. cultivated tobacco",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ nkʉ̌a",
+        "pronounciation": "ǹ̩dȅpȁʔ ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cannabis",
+                "definition_en": "marijuana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ pǐŋ",
+        "pronounciation": "ǹ̩dȅpȁʔ pĩ̌ŋ",
+        "synonym": [
+            "mbèpà pǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scinque",
+                "definition_en": "skink",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèpàʼ pòŋo lémbʉ̀ŋ",
+        "pronounciation": "ǹ̩dȅpȁʔ pòŋȍ lémbɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. tabac cultivé",
+                "definition_en": "sp. cultivated tobacco",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèsàʼa",
+        "pronounciation": "ǹ̩dȅsàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deuxième adjoint (d’une autorité)",
+                "definition_en": "second assistant (of an authority)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèsɔ̀b ngẅì",
+        "pronounciation": "ǹ̩dȅsɔ̏p̚ ŋ̩̀gɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combattant ; conquérant",
+                "definition_en": "combatant; conqueror",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèsɔ̀bɔ ntsì",
+        "pronounciation": "ǹ̩dȅsɔ̀βɔ̏ ǹ̩tsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviteur",
+                "definition_en": "servant",
+                "examples": []
+            }
+        ]
+    }
+]

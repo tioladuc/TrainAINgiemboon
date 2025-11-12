@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "potassium",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvemváŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato disease, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwà ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato dish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mânkɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato, Irish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matétě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "matě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potato, sweet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mânkɔ́ʼ féfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, bottom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, clay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, couscous in the bottom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot lid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, one who takes something out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, small clay cooking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwʉ̌ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot, withdraw from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poultry plague",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsètsò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour for oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour out (batter)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour out for oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pour out (liquid)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poverty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "póŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "powder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "páblà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ffo ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pfɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvɔbɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "powder, ear of maize containing black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "powder for ceremonies",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿè",
+                "examples": []
+            }
+        ]
+    }
+]

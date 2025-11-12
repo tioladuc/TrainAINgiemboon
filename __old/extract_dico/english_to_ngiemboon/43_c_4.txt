@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "carefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿó nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carefully attach",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carefully wash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkib",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carelessness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùmá pÿágà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caress",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "care, take a lot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caretaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀bɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "car going by, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vûm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carnivorous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejÿɔgɔ́ pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carpenter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kápíndɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carpenter bee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káfom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carpenter miller moth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gégÿɛ́ ndʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carrion flower, giant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaŋ ngẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carrot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kalɔ̂d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry many times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry on shoulder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry on the back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry on the shoulder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carry, want",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cart",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cartoonist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàa mejʉ́jʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cartridge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo ngú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "carve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwóon",
+                "examples": []
+            }
+        ]
+    }
+]

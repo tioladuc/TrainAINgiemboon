@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "tɔ̌ɔn",
+        "pronounciation": "tɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte ; bulbe",
+                "definition_en": "drop; bulb",
+                "examples": []
+            },
+            {
+                "definition_fr": "rond (forme)",
+                "definition_en": "circle (form)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̌ɔn",
+        "pronounciation": "tɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Monsieur",
+                "definition_en": "Mister",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̌ɔn",
+        "pronounciation": "tɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix ; noyau",
+                "definition_en": "walnut; nut; pit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ́ɔn mbÿé",
+        "pronounciation": "tɔ̃́ː m̩̀bɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jeu de divertissement",
+                "definition_en": "k. pastime game",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̌ɔnmé",
+        "pronounciation": "tɔ̃̌ːmé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monsieur",
+                "definition_en": "gentleman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ́ɔntè",
+        "pronounciation": "tɔ̃́ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concours",
+                "definition_en": "exam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ́ɔsèndê",
+        "pronounciation": "tɔ́ːsȅndê",
+        "synonym": [
+            "mbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeudi",
+                "definition_en": "Thursday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsà kèle",
+        "pronounciation": "tsȁ kə̀lȅ",
+        "synonym": [
+            "tsàʼ kèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tamis",
+                "definition_en": "sieve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsá pu",
+        "pronounciation": "tsá pù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose terrible",
+                "definition_en": "terrible thing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsâb",
+        "pronounciation": "tsâp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très propre ; très clair",
+                "definition_en": "very clean; very clear",
+                "examples": [
+                    {
+                        "dialect": "Ntse síi lê tsâb.",
+                        "fr": "L’eau est très propre.",
+                        "en": "The water is very clean."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsába",
+        "pronounciation": "tsáβá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "children’s matches",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsáblɔ̀ɔn",
+        "pronounciation": "tsáblɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cancer",
+                "definition_en": "cancer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsábte",
+        "pronounciation": "tsápté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourse ; sac",
+                "definition_en": "purse; sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsábte lóŋ",
+        "pronounciation": "tsápté lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit",
+                "definition_en": "k. outfit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsǎg",
+        "pronounciation": "tsǎq̚",
+        "synonym": [
+            "tsyǎg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "placenta",
+                "definition_en": "placenta",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsàgte",
+        "pronounciation": "tsàqtȅ",
+        "synonym": [
+            "tsyàgte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchirure",
+                "definition_en": "tear; rip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsâŋ",
+        "pronounciation": "tsã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très rouge (habit, œil malade) ; d’un rouge vif",
+                "definition_en": "very red (clothes, sick eye)",
+                "examples": [
+                    {
+                        "dialect": "À temé pwó na lejÿɔ́g múɔ tà é cʉ́ʼʉ ḿbaŋa lê tsâŋ.",
+                        "fr": "Il a donné un coup de point sur l’œil de l’enfant si bien qu’e cet œil est devenu très rouge.",
+                        "en": "He poked the child's eye so that the eye became very red."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsǎŋ",
+        "pronounciation": "tsã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prison",
+                "definition_en": "prison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsǎŋ",
+        "pronounciation": "tsã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tige d’herbe ; brin d’herbe",
+                "definition_en": "grass stem; blade of grass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Tsaŋ",
+        "pronounciation": "tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Dschang",
+                "definition_en": "Dschang",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsáŋte",
+        "pronounciation": "tsã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peine ; souffrance",
+                "definition_en": "sadness; trouble; suffering",
+                "examples": []
+            },
+            {
+                "definition_fr": "incurable",
+                "definition_en": "incurable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsápàʼ",
+        "pronounciation": "tsápȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troublant",
+                "definition_en": "disturbing",
+                "examples": [
+                    {
+                        "dialect": "Wɔɔn aa tsápàʼ panò.",
+                        "fr": "Ça, c’est une affaire troublante.",
+                        "en": "That's a disturbing matter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsàpfó",
+        "pronounciation": "tsȁpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. petit champignon",
+                "definition_en": "sp. small mushroom; sp. small fungus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsǎʼ",
+        "pronounciation": "tsǎʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brique",
+                "definition_en": "brick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsàʼ kèle",
+        "pronounciation": "tsȁʔ kə̀lȅ",
+        "synonym": [
+            "tsà kèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tamis",
+                "definition_en": "sieve",
+                "examples": []
+            }
+        ]
+    }
+]

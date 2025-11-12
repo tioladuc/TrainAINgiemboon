@@ -1,0 +1,446 @@
+[
+    {
+        "noun": "ńkwala",
+        "pronounciation": "ŋ̩́kwàlà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se prostituer",
+                "definition_en": "prostitute oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwàndàŋ",
+        "pronounciation": "ŋ̩̀kwȁndã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cigare",
+                "definition_en": "cigar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwaŋ",
+        "pronounciation": "ŋ̩́kwã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "penser",
+                "definition_en": "think",
+                "examples": []
+            },
+            {
+                "definition_fr": "penser ; imaginer",
+                "definition_en": "think ; imagine",
+                "examples": []
+            },
+            {
+                "definition_fr": "inventer",
+                "definition_en": "invent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwaŋá",
+        "pronounciation": "ŋ̩̀kwã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pensée",
+                "definition_en": "thought",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwàŋa ndyɛ̀ʼɛ",
+        "pronounciation": "ŋ̩̀kwã̀ŋȁ ǹ̩djɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrière pensée",
+                "definition_en": "forethought",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwàʼ",
+        "pronounciation": "ŋ̩̀kwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "originaire de la région du centre-sud",
+                "definition_en": "comes from South Central region",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwaʼ",
+        "pronounciation": "ŋ̩́kwàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baratiner",
+                "definition_en": "speechify; talk nonsense",
+                "examples": [
+                    {
+                        "dialect": "Ashǔ we ne ńkwaʼa múɔ ngùɔ.",
+                        "fr": "Son ami baratine une fille.",
+                        "en": "His friend is talking to a girl."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vraiment",
+                "definition_en": "really",
+                "examples": [
+                    {
+                        "dialect": "À tǒ, ńkwaʼ ńgʉa té gyá wɔ́ɔn.",
+                        "fr": "Il est venu, et est vraiment reparti sans me voir.",
+                        "en": "He came, and really left without seeing me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tenter",
+                "definition_en": "to attempt",
+                "examples": []
+            },
+            {
+                "definition_fr": "tester",
+                "definition_en": "test",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwàʼa",
+        "pronounciation": "ŋ̩̀kwàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dragueur",
+                "definition_en": "one who is always trying to pick up girls",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwàʼte",
+        "pronounciation": "ŋ̩̀kwàʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tentation ; conspiration ; complot",
+                "definition_en": "temptation; conspiracy; plot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwáʼte",
+        "pronounciation": "ŋ̩́kwáʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frapper à la porte ; cogner à la porte",
+                "definition_en": "knock at the door",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwé",
+        "pronounciation": "ŋ̩́kxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mourir",
+                "definition_en": "die",
+                "examples": []
+            },
+            {
+                "definition_fr": "se suicider",
+                "definition_en": "suicide",
+                "examples": []
+            },
+            {
+                "definition_fr": "mourir en groupe",
+                "definition_en": "die in a group",
+                "examples": []
+            },
+            {
+                "definition_fr": "être frais (eau)",
+                "definition_en": "be fresh (water)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwè mpfwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀kxwȅ ɱ̩̀pfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tarentule",
+                "definition_en": "tarantula",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwèen",
+        "pronounciation": "ŋ̩̀kwẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pari",
+                "definition_en": "gamble; bet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwèente",
+        "pronounciation": "ŋ̩̀kwẽ̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tierce (unité de temps)",
+                "definition_en": "third (measure of time)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkweente",
+        "pronounciation": "ŋ̩́kwẽ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esquiver",
+                "definition_en": "dodge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwéʼe",
+        "pronounciation": "ŋ̩́kwéʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élever ; soulever ; hausser",
+                "definition_en": "bring up; lift; raise",
+                "examples": []
+            },
+            {
+                "definition_fr": "réconforter",
+                "definition_en": "comfort",
+                "examples": []
+            },
+            {
+                "definition_fr": "jurer",
+                "definition_en": "swear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwéʼte",
+        "pronounciation": "ŋ̩́kwə́ʔté",
+        "synonym": [
+            "ńkwɔ́ʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élever",
+                "definition_en": "raise; bring up",
+                "examples": []
+            },
+            {
+                "definition_fr": "soulever",
+                "definition_en": "lift",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɛ̀",
+        "pronounciation": "ŋ̩̀kwɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutte",
+                "definition_en": "struggle; wrestling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɛ́",
+        "pronounciation": "ŋ̩́kwɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attacher",
+                "definition_en": "attach",
+                "examples": []
+            },
+            {
+                "definition_fr": "attacher la main",
+                "definition_en": "tie the hand",
+                "examples": []
+            },
+            {
+                "definition_fr": "corrompre",
+                "definition_en": "corrupt",
+                "examples": []
+            },
+            {
+                "definition_fr": "empaqueter ; emballer",
+                "definition_en": "package; pack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɛ̀ lepuʼú",
+        "pronounciation": "ŋ̩̀kwɛ̏ lèpùʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "emballeur ; empaqueteur",
+                "definition_en": "packer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɛ̀ɛ",
+        "pronounciation": "ŋ̩̀kwɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "constructeur",
+                "definition_en": "builder; constructor",
+                "examples": []
+            },
+            {
+                "definition_fr": "agent de développement",
+                "definition_en": "development agent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɛ̀ɛ",
+        "pronounciation": "ŋ̩̀kwɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui attache",
+                "definition_en": "person who ties something up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɛ̀te",
+        "pronounciation": "ŋ̩̀kwɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "emballeur",
+                "definition_en": "packer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɛte",
+        "pronounciation": "ŋ̩́kwɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se heurter ; pousser",
+                "definition_en": "collide; push",
+                "examples": []
+            },
+            {
+                "definition_fr": "bousculer (chenille)",
+                "definition_en": "rush (caterpillar)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwíʼte",
+        "pronounciation": "ŋ̩́kɥíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’agenouiller",
+                "definition_en": "kneel",
+                "examples": []
+            }
+        ]
+    }
+]

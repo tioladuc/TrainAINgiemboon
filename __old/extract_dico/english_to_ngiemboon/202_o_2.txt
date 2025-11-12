@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "oesophagus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mìi lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oesophagus, intermittent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀a mbʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offensive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vɔ̀gɔ ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offered",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nna nǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offering",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offering, food",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "office, secretary’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá ntsem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "official gallery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ nkyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "offspring",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "off-white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mefɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "often, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉʉ lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mevɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàlàsí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋ mevɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil, calabash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ mevɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil, carefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésibe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil, food without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil on the food, less",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil palm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letʉ̌ʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil, palm-kernel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "oil plant, castor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "okra",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gegàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "old",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wenzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sezẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pezẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yezẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "old age",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "old, grow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔgte",
+                "examples": []
+            }
+        ]
+    }
+]

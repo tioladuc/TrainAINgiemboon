@@ -1,0 +1,446 @@
+[
+    {
+        "noun": "kʉ̀kÿɛ̀",
+        "pronounciation": "kɯ̏kɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crête du coq ; crête d’une poule",
+                "definition_en": "rooster’s comb; hen’s comb",
+                "examples": [
+                    {
+                        "dialect": "Akʉ̀kÿɛ̀ mênkɔ̀ʼ ság ńcʉa ye mêngáb.",
+                        "fr": "La crête du coq est plus développée que celle de la poule.",
+                        "en": "The rooster's comb is more developed than that of the hen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀kÿɛ̀",
+        "pronounciation": "kɯ̏kɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "larve",
+                "definition_en": "larva",
+                "examples": [
+                    {
+                        "dialect": "Mé gyá kʉ̀kÿɛ̀ mbà mé ge gyá ngwɔ̌ʼ.",
+                        "fr": "Si on voit une larve, on va voir une termite.",
+                        "en": "If we see a larva, we will see a termite."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉŋ",
+        "pronounciation": "kɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barrière",
+                "definition_en": "barrier",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńzẅíŋe mefʉa ɔ̀, mbà Ssé ge jÿɔ́ʼ kʉŋ menò tepòŋ na gù.",
+                        "fr": "Si tu acceptes tes péchés, alors, Dieu te mettra une barrière de protection contre les mauvaises choses.",
+                        "en": "If you accept your sins, then God will give you a barrier of protection against bad things."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̌ŋ nÿɔ́g",
+        "pronounciation": "kɯ̃̌ŋ ɳɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sourcil",
+                "definition_en": "eyebrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉŋ nzèm",
+        "pronounciation": "kɯ̃̀ŋ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀ŋe",
+        "pronounciation": "kɯ̃̀ŋȅ",
+        "synonym": [
+            "mekʉ̀ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchets ; fumier",
+                "definition_en": "scraps; waste; dung; manure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀ŋe ndá",
+        "pronounciation": "kɯ̃̀ŋȅ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "battant",
+                "definition_en": "shutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́ŋelʉ́ŋlʉ́ŋ",
+        "pronounciation": "kɯ̃́ŋélɯ̃́ŋlɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par un couvercle qui tombe au sol cimenté",
+                "definition_en": "sound of a casserole lid falling onto a cement floor",
+                "examples": [
+                    {
+                        "dialect": "Nzìŋe lekʉŋ gwě ssé ndá cÿo, ńgÿo lê kʉ́ŋelʉ́ŋlʉ́ŋ.",
+                        "fr": "Le couvercle est tombé sur un sol cimenté et a fait « kʉ́ŋelʉ́ŋlʉ́ŋ ».",
+                        "en": "The lid fell on a cement floor and made a “kʉ́ŋelʉ́ŋlʉ́ŋ” sound."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́ʼʉ ncù",
+        "pronounciation": "kʉ́ʔʉ́ ǹ̩tʃȕ",
+        "synonym": [
+            "tíʼi shÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouclier",
+                "definition_en": "shield",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwá lʉʼʉ́",
+        "pronounciation": "kwá ɭɯ̀ʔɯ́",
+        "synonym": [
+            "nkwá lʉʼʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devinette ; énigme",
+                "definition_en": "riddle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwâa",
+        "pronounciation": "kwâː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rire aux éclats",
+                "definition_en": "peals of laughter",
+                "examples": [
+                    {
+                        "dialect": "À tsẅité wɔ́b tà pɔ́ gẅê lê kwâa.",
+                        "fr": "Il les a amusés jusqu’à ce qu’ils ont ri aux éclats.",
+                        "en": "He amused them until they laughed out loud."
+                    },
+                    {
+                        "dialect": "Apʉ̀a gɔ̌ɔn nò, aláʼ pwɔ́ʼɔ lê kwâa.",
+                        "fr": "Le fou a parlé et les gens se sont mis à rire aux éclats.",
+                        "en": "The madman spoke and the people started laughing out loud."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwaanzeennzse",
+        "pronounciation": "kwàːnzẽ̀ːnzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàkwà",
+        "pronounciation": "kwȁkwȁ",
+        "synonym": [
+            "ntsèbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàlà",
+        "pronounciation": "kwȁlȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prostitué",
+                "definition_en": "prostitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwalákwàlà",
+        "pronounciation": "kwàlákwȁlȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrevent ; étagère",
+                "definition_en": "shutter; brace; strut; shelf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàlànjà",
+        "pronounciation": "kwȁlȁndʒȁ",
+        "synonym": [
+            "nné zíŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de danse utilisé pour galvaniser la foule",
+                "definition_en": "k. dance instrument used to galvanize the crowd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwáŋ",
+        "pronounciation": "kwã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bracelet",
+                "definition_en": "bracelet",
+                "examples": []
+            },
+            {
+                "definition_fr": "vélo",
+                "definition_en": "bike",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàŋ",
+        "pronounciation": "kwã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blague ; amusement",
+                "definition_en": "joke; amusement",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n těen ńdɔgɔ ḿmaʼa kwàŋ wɔ́.",
+                        "fr": "Je ne blague pas.",
+                        "en": "I'm not kidding."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwǎŋ",
+        "pronounciation": "kwã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "macabo râpé",
+                "definition_en": "grated taro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwáŋ mezwě fùɔ",
+        "pronounciation": "kwã́ŋ mèzswě fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. bracelet",
+                "definition_en": "k. bracelet",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwáŋa shÿó",
+        "pronounciation": "kwã́ŋá ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mine",
+                "definition_en": "expression; look",
+                "examples": []
+            },
+            {
+                "definition_fr": "physique",
+                "definition_en": "physique",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàŋte",
+        "pronounciation": "kwã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réflexion ; pensée",
+                "definition_en": "thought; reflection; thinking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwàtà",
+        "pronounciation": "kwȁtȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vin de maïs",
+                "definition_en": "corn wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwáʼ",
+        "pronounciation": "kwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un caillou qui tombe sur un sol dur",
+                "definition_en": "sound of a pebble falling on hard ground",
+                "examples": [
+                    {
+                        "dialect": "Métóon gwě ssé lê kwáʼ.",
+                        "fr": "Un petit caillou est tombé au sol que « kwáʼ ».",
+                        "en": "A small stone fell to the ground that “kwáʼ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwàʼ",
+        "pronounciation": "kwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vrai",
+                "definition_en": "true",
+                "examples": [
+                    {
+                        "dialect": "Shwóŋo wɔ́ɔn kwàʼ lezíŋ shú.",
+                        "fr": "Dis-moi ton vrai nom.",
+                        "en": "Tell me your real name."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "propre; vraiment",
+                "definition_en": "clean; really",
+                "examples": [
+                    {
+                        "dialect": "Áa kwàʼ na shwóŋè láʼa yég, mé té gɔɔn pɛ́ʼɛ̀ wɔ́.",
+                        "fr": "En ma propre langue, on ne dit pas comme ça.",
+                        "en": "In my own language, we don't say it like that."
+                    },
+                    {
+                        "dialect": "Yɛ̂ kwàʼ nò nénʉ́ gie ɔ̀ gɔɔn.",
+                        "fr": "Ce que tu dis, c’est vraiment la vérité.",
+                        "en": "What you say is really the truth."
+                    }
+                ]
+            }
+        ]
+    }
+]

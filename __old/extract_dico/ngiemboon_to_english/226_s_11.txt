@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "sílípà",
+        "pronounciation": "sílípȁ",
+        "synonym": [
+            "sílépà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monnaie ancienne",
+                "definition_en": "ancient money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "siŋ",
+        "pronounciation": "sĩ̀ŋ",
+        "synonym": [
+            "késiŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gourdin",
+                "definition_en": "club; bludgeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìŋ ndù",
+        "pronounciation": "sĩ̏ŋ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suffixe",
+                "definition_en": "suffix",
+                "examples": [
+                    {
+                        "dialect": "Sìŋ ndù «‑te» gyɔ́ɔn na ngiembɔɔn tɛʼ.",
+                        "fr": "Le suffixe « ‑te » est très fréquent en ngiemboon.",
+                        "en": "The suffix “‑te” is very common in Ngiemboon."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "Sìŋa",
+        "pronounciation": "sĩ̀ŋȁ",
+        "synonym": [
+            "Sàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bamessingué",
+                "definition_en": "Bamessingue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "síŋe",
+        "pronounciation": "sĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouron blanc",
+                "definition_en": "tropical chickweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "síŋe",
+        "pronounciation": "sĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quand",
+                "definition_en": "when",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gʉa síŋe?",
+                        "fr": "Tu vas partir quand ?",
+                        "en": "When are you going to leave?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "síŋe",
+        "pronounciation": "sĩ́ŋé",
+        "synonym": [
+            "sésse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vertige",
+                "definition_en": "vertigo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìŋe",
+        "pronounciation": "sĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élastique ; fronde",
+                "definition_en": "elastic; sling; slingshot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "síŋesǐŋ",
+        "pronounciation": "sĩ́ŋésĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sale ; obscure ; sombre",
+                "definition_en": "dirty; obscure; dark; sombre",
+                "examples": [
+                    {
+                        "dialect": "Nzsǒ gie à mǎʼ e ne síŋesǐŋ.",
+                        "fr": "L’habit qu’il a porté est sale.",
+                        "en": "The clothes he wore are dirty."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sìŋte",
+        "pronounciation": "sĩ̀ŋtȅ",
+        "synonym": [
+            "lesìŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "correction ; redressement",
+                "definition_en": "correction; recovery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sísí",
+        "pronounciation": "sísí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lipide",
+                "definition_en": "lipid",
+                "examples": [
+                    {
+                        "dialect": "Mevɛ́ letÿǒon gẅiin sísí tɛʼ.",
+                        "fr": "L’huile de palme contient beaucoup de lipides.",
+                        "en": "Palm oil contains a lot of lipids."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sìsíi",
+        "pronounciation": "sìsíː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lueur",
+                "definition_en": "glow; glimmer",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn sisíi nèm gie á tʉ́a.",
+                        "fr": "Ici, c’est la lueur du soleil qui brille.",
+                        "en": "Here, it is the glow of the sun that shines."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sísilé",
+        "pronounciation": "sísìlé",
+        "synonym": [
+            "sésilé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "capricorne",
+                "definition_en": "longhorn beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìsìŋ",
+        "pronounciation": "sìsĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "broomweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìsìŋ",
+        "pronounciation": "sìsĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "venin",
+                "definition_en": "venom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìsyè",
+        "pronounciation": "sȉsːjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ficelle ; fil",
+                "definition_en": "string; thread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sitolóŋ",
+        "pronounciation": "sìtòlṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citron",
+                "definition_en": "lemon; lime",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "síʼ",
+        "pronounciation": "síʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très dur",
+                "definition_en": "very  hard",
+                "examples": [
+                    {
+                        "dialect": "Atÿǒ tʉʉ lê síʼ.",
+                        "fr": "L’arbre est très dur.",
+                        "en": "The tree is very hard."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sǒ",
+        "pronounciation": "sǒ",
+        "synonym": [
+            "shǔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami",
+                "definition_en": "friend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǒ",
+        "pronounciation": "sǒ",
+        "synonym": [
+            "sɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scie",
+                "definition_en": "saw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sójà",
+        "pronounciation": "sóʒȁ",
+        "synonym": [
+            "mekú ndÿɔgɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soja",
+                "definition_en": "soya bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sókà",
+        "pronounciation": "sókȁ",
+        "synonym": [
+            "lʉ̀mte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sucre",
+                "definition_en": "sugar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sólómákà",
+        "pronounciation": "sólómákȁ",
+        "synonym": [
+            "súlúmákà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cordonnier",
+                "definition_en": "shoemaker; cobbler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sólópáasè",
+        "pronounciation": "sólópáːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sandalette",
+                "definition_en": "sandal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sóndi",
+        "pronounciation": "sóndì",
+        "synonym": [
+            "lyɛʼɛ́ sẅíŋtè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dimanche",
+                "definition_en": "Sunday",
+                "examples": []
+            }
+        ]
+    }
+]

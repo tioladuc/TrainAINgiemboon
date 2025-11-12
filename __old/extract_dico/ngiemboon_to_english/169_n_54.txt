@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "ńnyé",
+        "pronounciation": "ɲ̩́ɲé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encore",
+                "definition_en": "still; again",
+                "examples": [
+                    {
+                        "dialect": "Mé nyé ńzẅíʼte wɔ́.",
+                        "fr": "On attend encore qui ?",
+                        "en": "Who are we still waiting for?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnyé",
+        "pronounciation": "ɲ̩́ɲé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laisser ; abandonner",
+                "definition_en": "leave; abandon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyébe",
+        "pronounciation": "ɲ̩́ɲə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tranquillement ; doucement",
+                "definition_en": "quietly; calmly; gently; slowly",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńnéŋe tà gù legʉa kuʼ, ɔ̀ nyébe nyebé ńgʉa.",
+                        "fr": "Si tu restes jusqu’à ce que le moment de ton départ arrive, pars tranquillement.",
+                        "en": "If you stay until your time to leave arrives, leave quietly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnyeen",
+        "pronounciation": "ɲ̩́ɲẽ̀ː",
+        "synonym": [
+            "ńnyɛʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pleurnicher",
+                "definition_en": "snivel; whine",
+                "examples": []
+            },
+            {
+                "definition_fr": "pleurnicher",
+                "definition_en": "whine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyéente",
+        "pronounciation": "ɲ̩́ɲẽ́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traîner",
+                "definition_en": "pull; drag",
+                "examples": []
+            },
+            {
+                "definition_fr": "aller à pas de tortue",
+                "definition_en": "go at a turtle’s pace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyɛ",
+        "pronounciation": "ɲ̩́ɲɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "montrer",
+                "definition_en": "show",
+                "examples": []
+            },
+            {
+                "definition_fr": "allumer",
+                "definition_en": "light; turn on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnyɛ̀ mmɔ̌g",
+        "pronounciation": "ɲ̩̀ɲɛ̏ m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "allumeur",
+                "definition_en": "lighter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnyɛ nnɛ́",
+        "pronounciation": "ɲ̩̀ɲɛ̀ ɲ̩̀nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vantard",
+                "definition_en": "braggart; boaster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnyɛ̀ nzsè",
+        "pronounciation": "ɲ̩̀ɲɛ̏ ǹ̩dzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guide",
+                "definition_en": "guide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnyɛ̀te",
+        "pronounciation": "ɲ̩̀ɲɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fabricant",
+                "definition_en": "manufacturer; maker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyɛte",
+        "pronounciation": "ɲ̩́ɲɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fabriquer",
+                "definition_en": "make; manufacture",
+                "examples": []
+            },
+            {
+                "definition_fr": "confectionner",
+                "definition_en": "make",
+                "examples": []
+            },
+            {
+                "definition_fr": "préparer",
+                "definition_en": "prepare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyɛʼ",
+        "pronounciation": "ɲ̩́ɲɛ̀ʔ",
+        "synonym": [
+            "ńnyeen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pleurnicher",
+                "definition_en": "snivel; whine",
+                "examples": []
+            },
+            {
+                "definition_fr": "crachiner ; pleuviner",
+                "definition_en": "spit; rain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyɛ́ʼ",
+        "pronounciation": "ɲ̩́ɲɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvrir",
+                "definition_en": "open",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’ouvrir",
+                "definition_en": "open up",
+                "examples": []
+            },
+            {
+                "definition_fr": "se décoller",
+                "definition_en": "come unstuck",
+                "examples": []
+            },
+            {
+                "definition_fr": "feuilleter",
+                "definition_en": "browse",
+                "examples": []
+            },
+            {
+                "definition_fr": "décoller ; ouvrir çà et là",
+                "definition_en": "take off ; open here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyibe",
+        "pronounciation": "ɲ̩́ɲìβè",
+        "synonym": [
+            "ńnyime"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dénigrer ; mépriser",
+                "definition_en": "denigrate; run down; scorn; look down on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíbe",
+        "pronounciation": "ɲ̩́ɲíβé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "agir lentement",
+                "definition_en": "move slowly",
+                "examples": []
+            },
+            {
+                "definition_fr": "agir sans tarder",
+                "definition_en": "act without delay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyime",
+        "pronounciation": "ɲ̩́ɲìmè",
+        "synonym": [
+            "ńnyibe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dénigrer ; mépriser",
+                "definition_en": "denigrate; run down; scorn; look down on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíme nyime",
+        "pronounciation": "ɲ̩́ɲímé ɲìmè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.aux.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sans retarder",
+                "definition_en": "without delay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyiŋe",
+        "pronounciation": "ɲ̩́ɲĩ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haïr ; délaisser ; détester",
+                "definition_en": "hate; detest; abandon; desert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíŋe",
+        "pronounciation": "ɲ̩́ɲĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ricaner",
+                "definition_en": "giggle; snigger",
+                "examples": []
+            },
+            {
+                "definition_fr": "exposer",
+                "definition_en": "display; show",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíŋe",
+        "pronounciation": "ɲ̩́ɲĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’accrocher",
+                "definition_en": "hang on to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíŋte",
+        "pronounciation": "ɲ̩́ɲĩ́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "équilibrer ; jouer l’équilibriste (avec une charge)",
+                "definition_en": "balance; walk a tightrope (with a load)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíŋte",
+        "pronounciation": "ɲ̩́ɲĩ́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froncer (figure) ; rider (figure)",
+                "definition_en": "frown (face); wrinkle (face)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnyíʼi",
+        "pronounciation": "ɲ̩́ɲíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boiter",
+                "definition_en": "limp",
+                "examples": []
+            },
+            {
+                "definition_fr": "dodeliner de la tête; feinter",
+                "definition_en": "nod one’s head; try",
+                "examples": [
+                    {
+                        "dialect": "À neŋé tà ne ńnyíʼi.",
+                        "fr": "Il est resté jusqu’à il est en train de dodeliner de la tête.",
+                        "en": "He stayed until he was nodding his head."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nnyuŋe",
+        "pronounciation": "ɳ̩̀ɳũ̀ŋè",
+        "synonym": [
+            "nnùŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poseur",
+                "definition_en": "show-off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnÿɔg",
+        "pronounciation": "ɳ̩́ɳɰɔ̀q̚",
+        "synonym": [
+            "ńjÿɔg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hisser ; jalonner ; implanter",
+                "definition_en": "hoist; mark out; establish; implant",
+                "examples": []
+            }
+        ]
+    }
+]

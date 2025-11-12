@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "lejÿɔʼ",
+        "pronounciation": "lèʒɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piège",
+                "definition_en": "trap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekà",
+        "pronounciation": "lèkȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verge ; pénis",
+                "definition_en": "stick; cane; rod; penis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekág",
+        "pronounciation": "lèkáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joie",
+                "definition_en": "joy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekáŋ",
+        "pronounciation": "lèkã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. vernonie",
+                "definition_en": "sp. ironweed",
+                "examples": []
+            },
+            {
+                "definition_fr": "« ndole »",
+                "definition_en": "bitterleaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekàŋ",
+        "pronounciation": "lèkã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magie",
+                "definition_en": "magic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekaʼá",
+        "pronounciation": "lèkàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tas",
+                "definition_en": "pile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekélè",
+        "pronounciation": "lèkə́lȅ",
+        "synonym": [
+            "nkènkélè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ronde ; pourtour ; circonférence",
+                "definition_en": "round; perimeter; circumference",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekèle",
+        "pronounciation": "lèkə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enroulement ; roulement",
+                "definition_en": "winding; coil; rumbling; circulation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lêkɛ̂",
+        "pronounciation": "lêkɛ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ?",
+                "definition_en": "how?",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie: «N gÿo lêkɛ̂?»",
+                        "fr": "Il m’a dit : « Comment est-ce que je fais ? »",
+                        "en": "He said to me: “How do I do it? »"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekid",
+        "pronounciation": "lèkìt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dicton",
+                "definition_en": "saying; dictum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lêkɔ́",
+        "pronounciation": "lêkɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ?",
+                "definition_en": "how?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn ngie n gÿo lêkɔ́?",
+                        "fr": "Tu dis que je fasse comment ?",
+                        "en": "You say what do I do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lékɔ̂d",
+        "pronounciation": "lékɔ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bretelle ; lanière ; attache",
+                "definition_en": "sling; strap; tie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekɔ̌ɔn lɔ̀ɔn",
+        "pronounciation": "lèkɔ̃̌ː lɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moule du forgeron, servant à fabriquer la pipe ou le canari",
+                "definition_en": "blacksmith’s mould, useful for making a pipe or canary (small clay pot)",
+                "examples": [
+                    {
+                        "dialect": "Múɔ lɔ̌g lekɔ̌ɔn lɔ̀ɔn ńcwoŋte káb tà ńgwɔ́ mé nú.",
+                        "fr": "L’enfant a utilisé le moule du forgeron pour fabriquer la pipe si bien qu’on peut la fumer.",
+                        "en": "The child used the blacksmith's mold to make the pipe so that it can be smoked."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekɔʼɔ́",
+        "pronounciation": "lèkɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "morceau de viande",
+                "definition_en": "piece of meat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekɔʼɔ́ zɛ́",
+        "pronounciation": "lèkɔ̀ʔɔ́ zɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boule d’excrément",
+                "definition_en": "turd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekùa",
+        "pronounciation": "lèkùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre (seulement pour compter)",
+                "definition_en": "four (for counting)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekùa",
+        "pronounciation": "lèkùȁ",
+        "synonym": [
+            "lekùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raclage ; nettoyage",
+                "definition_en": "scraping; cleaning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekumó",
+        "pronounciation": "lèkùmó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. corbeille pour haricot",
+                "definition_en": "k. basket for beans",
+                "examples": [
+                    {
+                        "dialect": "Mafǒpaʼ tsɔ̌ʼ mekú mé nkáʼ ńkaa pɔ́ tsɛ̀ɛ lekumó tá ńdɔg ńgʉa lé mbʉ̀a.",
+                        "fr": "Mafopa a enlevé le haricot au champ pour porter dans une sorte de corbeille.",
+                        "en": "Mafopa removed the beans from the field to carry in a sort of basket."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekùɔ",
+        "pronounciation": "lèkùɔ̏",
+        "synonym": [
+            "lekùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raclage ; nettoyage",
+                "definition_en": "scraping; cleaning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekʉ̀a",
+        "pronounciation": "lèkɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alvéole ; rayon",
+                "definition_en": "alveolus; ray; beam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekʉ̂a",
+        "pronounciation": "lèkɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fatigue",
+                "definition_en": "fatigue; tiredness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekʉ̀b",
+        "pronounciation": "lèkɯ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "osier",
+                "definition_en": "osier; wicker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekʉŋ",
+        "pronounciation": "lèkɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marmite",
+                "definition_en": "pot; cooking pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwà ndɔɔn",
+        "pronounciation": "lèkwȁ ǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie de la pomme de terre",
+                "definition_en": "k. potato disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwág",
+        "pronounciation": "lèkwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "louche",
+                "definition_en": "ladel",
+                "examples": [
+                    {
+                        "dialect": "A lɔ̌g lekwág ńdiɛ pʉ́a tsɛ̀ɛ kùkwóon.",
+                        "fr": "Il a utilisé la louche pour prendre le taro dans le mortier.",
+                        "en": "He used the ladle to scoop the taro into the mortar."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "counter-attack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counter-expectation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "léen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counterfeit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésa shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sashÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counterfeiter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sashÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counting, make piles",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counting rhyme (game)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kànàlínè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "country",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "country, head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "county seat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̂láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "couple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́gè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "courage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "courageous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèŋe nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa shÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "courageous, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "course",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́gtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "course, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá ŋàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tetʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, appeal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀a ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "courtesy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, international",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ŋ ntsɔ̀ʼ ndá ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, law",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀a ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, royal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, second level law",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "court, supreme",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ŋ ntsɔ̀ʼ ndá ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "couscous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesaŋá",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "noun": "ù gu gu",
+        "pronounciation": "ȕ ɣù ɣù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "où es-tu ? (interpellation de rappel)",
+                "definition_en": "where are you? (recall questioning)",
+                "examples": [
+                    {
+                        "dialect": "Ù gu gu! Lwò ńgiŋ ńtó mé gʉa lee!",
+                        "fr": "Où es-tu ? Viens vite on part.",
+                        "en": "Where are you? Come quickly, we're leaving."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ù gwéen lé",
+        "pronounciation": "ȕ ɣwẽ́ː lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gʉ̌a tà ńtúʼ ntse ù gwéen lé?",
+                        "fr": "Tu es parti jusqu’à puiser l’eau n’est-ce pas ?",
+                        "en": "You went as far as drawing water, didn't you?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ù wéen",
+        "pronounciation": "ù wẽ́ː",
+        "synonym": [
+            "oon wéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quoi ? (pour demander á quelqu’un de répéter ce qu’il vient de dire)",
+                "definition_en": "what (to ask someone to repeat what they just said)",
+                "examples": []
+            }
+        ]
+    }
+]

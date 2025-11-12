@@ -1,0 +1,372 @@
+[
+    {
+        "noun": "rite of twins",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántùʼ kěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ritual, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ritual, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ritual, mother of the deceased",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "river",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "riverbank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nziŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "riverbank for drawing water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "river of water, large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "road",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "road, bump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meluʼú meluʼú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "road, hit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́me mánzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "road, major",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò lǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roar with laughter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼ lesoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roasted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntuɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roast, half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roasting, turn over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rob a sack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "robin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepùmondù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "robin-chat, mountain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nèŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzóŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rock, cement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njúngù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rock fig, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkènkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rock hyrax",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùbténku",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rod",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekà",
+                "examples": []
+            }
+        ]
+    }
+]

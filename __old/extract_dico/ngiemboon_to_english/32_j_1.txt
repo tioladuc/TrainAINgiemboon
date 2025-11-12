@@ -1,0 +1,451 @@
+[
+    {
+        "noun": "jú",
+        "pronounciation": "ʒú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 7) ; les tiens (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 10)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Apɔ̀ɔn yɔ́ɔn kɔ́gɔ páʼɔɔn mbà jú zɔ̌ kɔʼɔ́ kɔ́g.",
+                        "fr": "Mon sac est petit alors que c’est le tien qui devait l’être.",
+                        "en": "My bag is small even though yours should be."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ton (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 7) ; tes (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "your (second person singular possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 7) ; tes (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour toi (pron. poss. objet de la 2e personne du singulier qui renvoie aux noms des classes 7 et 10)",
+                "definition_en": "for you (second person singular possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jú",
+        "pronounciation": "ʒú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj.add",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "te ; aussi (pronom objet de la 2e personne du singulier qui a une fonction additive quand il répète le sujet.)",
+                "definition_en": "you; also (second person singular object pronoun with an additive function when it repeats the subject)",
+                "examples": [
+                    {
+                        "dialect": "Páʼ pɔ́ pfǒ gi la, tó jú pɔ́gɔ pfó yɔɔn.",
+                        "fr": "Comme ils sont passés par là, viens aussi nous passons par ici.",
+                        "en": "As they passed this way, come also we pass this way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jù",
+        "pronounciation": "ʒȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 9)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́gɔ̀ lɔɔn ńkwɛ́ ndá yɔ̀ɔn ngùʼɔɔn, fʉ̀ʼ páʼɔɔn pɔ́gɔ̀ kwɛ́ jù.",
+                        "fr": "Si nous construisons ma maison cette année, l’année prochaine nous construirons la tienne.",
+                        "en": "If we build my house this year, next year we will build yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ton (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 9)",
+                "definition_en": "your (second person singular possessive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 9)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Jû",
+        "pronounciation": "ʒû",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bazou",
+                "definition_en": "Bazou",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jùa",
+        "pronounciation": "ʒùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aluminium",
+                "definition_en": "aluminium",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jùbe",
+        "pronounciation": "ʒùβȅ",
+        "synonym": [
+            "jùmo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sec",
+                "definition_en": "dry",
+                "examples": [
+                    {
+                        "dialect": "Jùbe tsetsáʼ té kwɔ́ʼ shúm léjÿó mboŋó wɔ.",
+                        "fr": "Une terre sèche ne produit pas bien la nourriture.",
+                        "en": "Dry land does not produce food well."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "júbo ntaŋ",
+        "pronounciation": "ʒúβò ǹ̩tàŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondation",
+                "definition_en": "foundation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jùmo",
+        "pronounciation": "ʒùmȍ",
+        "synonym": [
+            "jùbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sec",
+                "definition_en": "dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ",
+        "pronounciation": "ʒùɔ́",
+        "synonym": [
+            "jǔɔ mvfò ",
+            " jǔɔ gẅie à ka tɔ̌g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hier",
+                "definition_en": "yesterday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ",
+        "pronounciation": "ʒùɔ́",
+        "synonym": [
+            "jǔɔ nzèm ",
+            " jǔɔ gẅie à ne ntóo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demain",
+                "definition_en": "tomorrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ gẅie à ka tɔ̌g",
+        "pronounciation": "ʒùɔ́ ɣɥìè ȁ kà tɔ̌q̚",
+        "synonym": [
+            "jǔɔ ",
+            " jǔɔ mvfò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hier",
+                "definition_en": "yesterday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ gẅie à ne ntóo",
+        "pronounciation": "ʒùɔ́ ɣɥìè ȁ nè ntó:",
+        "synonym": [
+            "jǔɔ ",
+            " jǔɔ nzèm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demain",
+                "definition_en": "tomorrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ mvfò",
+        "pronounciation": "ʒùɔ́ ɱ̩̀bvfȍ",
+        "synonym": [
+            "jǔɔ ",
+            " jǔɔ gẅie à ka tɔ̌g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hier",
+                "definition_en": "yesterday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jǔɔ nzèm",
+        "pronounciation": "ʒùɔ́ ǹ̩dzə̏m",
+        "synonym": [
+            "jǔɔ ",
+            " jǔɔ gẅie à ne ntóo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demain",
+                "definition_en": "tomorrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼ",
+        "pronounciation": "ʒúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "igname (gén.)",
+                "definition_en": "yam (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼu féfɔ́gɔ",
+        "pronounciation": "ʒúʔú féfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanc",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼu kwéʼe tÿǒ",
+        "pronounciation": "ʒúʔú kwéʔé tθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanc",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼu ngwá",
+        "pronounciation": "ʒúʔú ŋ̩̀gwá",
+        "synonym": [
+            "júʼu zigé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanc",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jùʼu ngyá",
+        "pronounciation": "ʒùʔȕ ŋ̩̀gjá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "audio-visuel ; télévision",
+                "definition_en": "audio-visual; television",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jùʼu shwóŋ",
+        "pronounciation": "ʒùʔȕ ʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "communicateur ; radio ; mouchard",
+                "definition_en": "communicator; radio; canary; snitch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼu sẅìŋ",
+        "pronounciation": "ʒúʔú sɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanche",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "júʼu zigé",
+        "pronounciation": "ʒúʔú zìʁé",
+        "synonym": [
+            "júʼu ngwá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname blanc",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ́a",
+        "pronounciation": "ʒɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entonnoir",
+                "definition_en": "funnel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ́gè",
+        "pronounciation": "ʒɯ́ʁȅ",
+        "synonym": [
+            "yege"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre et le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 7) ; les vôtres et les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 7) ; vos et nos (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 7) ; vos et nos (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ̀ge",
+        "pronounciation": "ʒɯ̀ʁè",
+        "synonym": [
+            "yege"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 9)",
+                "definition_en": "ours (first person plural inclusive pronoun referring back to class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural inclusive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural inclusive emphatic adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    }
+]

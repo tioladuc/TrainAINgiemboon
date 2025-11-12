@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "confirm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conflict",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conflict, be in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conflict, revive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confluence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepumtě ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letemé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conform to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confused, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzibte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confused, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "confusion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "congograss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kénʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "congratulations",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesìŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesǐe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conjugate (verb)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conjugation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nùʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conjunctivitis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "connect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "connection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "là",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "connoisseur",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conqueror",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèsɔ̀b ngẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conscious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gÿo nzsé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consciousness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consciousness, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consecrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consequence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consequently",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conserve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    }
+]

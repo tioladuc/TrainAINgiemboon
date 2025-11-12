@@ -1,0 +1,411 @@
+[
+    {
+        "noun": "kɔ́",
+        "pronounciation": "kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quoi",
+                "definition_en": "what",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kẅé kɔ́ mbwó mèŋ?",
+                        "fr": "Tu prends quoi chez moi ?",
+                        "en": "What are you getting from me?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀",
+        "pronounciation": "kɔ̏",
+        "synonym": [
+            "kwɔ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.impér",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prends ! (impératif irrégulier)",
+                "definition_en": "take! (irregular imperative)",
+                "examples": [
+                    {
+                        "dialect": "Kɔ̀ ńgʉa ńná né tá gù.",
+                        "fr": "Prends, tu pars donner à ton père !",
+                        "en": "Take it, you're going to give it to your father!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ mpfɛ́ ndyé",
+        "pronounciation": "kɔ̏ ɱ̩̀pfɛ́ ǹ̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresseux",
+                "definition_en": "lazy person",
+                "examples": [
+                    {
+                        "dialect": "E sẅiŋté tsɔ̌ kɔ̀ mpfɛ́ ńdyé ńgie à kaa pɔ̀ɔn yɔ́ɔn, á lʉʼ.",
+                        "fr": "J’ai supplié un paresseux de porter mon sac, il a refusé.",
+                        "en": "I begged a lazy man to carry my bag, he refused."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ yɔ́ɔn áa mǒ",
+        "pronounciation": "kɔ̀ jɔ̃́ː áː mǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je n’ai rien à y gagner ; je ne m’intéresse pas",
+                "definition_en": "I gain nothing? I’m not interested",
+                "examples": [
+                    {
+                        "dialect": "A kɔ́ yɔ́ɔn mǒ wɔ́ɔ, à tè míŋ nyìŋ wɔ́.",
+                        "fr": "L’enfant qui dit « Je n’ai rien à y gagner » est un enfant mal élevé.",
+                        "en": "The child who says “I have nothing to gain from it” is a badly behaved child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́b",
+        "pronounciation": "kɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boîte",
+                "definition_en": "box",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̂d",
+        "pronounciation": "kɔ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jugement",
+                "definition_en": "judgement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́hɔ̀ʼ",
+        "pronounciation": "kɔ́hɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par quelqu’un qui tousse",
+                "definition_en": "sound of someone coughing",
+                "examples": [
+                    {
+                        "dialect": "À kẅǎg lê kɔ́hɔ̀ʼ.",
+                        "fr": "Il a toussé que « kɔ́hɔ̀ʼ ».",
+                        "en": "He coughed that “kɔ́hɔ̀ʼ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ɔkɔ́ɔ",
+        "pronounciation": "kɔ̏ːkɔ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’importe quoi ; tout",
+                "definition_en": "anything; everything",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ kuʼu legÿo kɔ̀ɔkɔ́ɔ.",
+                        "fr": "Je suis capable de faire n’importe quoi.",
+                        "en": "I am capable of doing anything."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ɔn",
+        "pronounciation": "kɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. société secrète ; s. danse culturelle",
+                "definition_en": "k. secret society; k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̌ɔn",
+        "pronounciation": "kɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’hier, habituel achevé",
+                "definition_en": "habit finished, yesterday past",
+                "examples": [
+                    {
+                        "dialect": "À kɔ̌ɔn ńjʉ́ʼʉ mânkɔ́ʼ á shÿó lekwɔʼɔ́ Màngwá.",
+                        "fr": "Il cultivait les pommes de terre du côté du mont Bamboutos (mais il ne le fait plus).",
+                        "en": "He grew potatoes near Mount Bamboutos (but he no longer does so)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ɔn màncù",
+        "pronounciation": "kɔ̃̏ː mȁntʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combattant",
+                "definition_en": "combatant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔn mantse",
+        "pronounciation": "kɔ̃́ː màntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. crabe marron ou noirâtre",
+                "definition_en": "sp. brown or blackish crab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ɔn mánzòŋ",
+        "pronounciation": "kɔ̃́ː mándzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée",
+                "definition_en": "army",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔn menʉ́",
+        "pronounciation": "kɔ̃́ː mèɳɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. crabe",
+                "definition_en": "sp. crab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔn menʉ́",
+        "pronounciation": "kɔ̃́ː mèɳɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "torrent ; crue",
+                "definition_en": "torrent; rising; flood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔn méshʉŋ",
+        "pronounciation": "kɔ̃́ː méʃɯ̃̀ŋ",
+        "synonym": [
+            "pfòŋ ",
+            " gẅílíd"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hibou",
+                "definition_en": "long-eared owl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̌ɔn metse",
+        "pronounciation": "kɔ̃̌ː mètsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caillot sanguin",
+                "definition_en": "blood clot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ɔn ngùb",
+        "pronounciation": "kɔ̃̏ː ŋ̩̀gȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiendent (piquant)",
+                "definition_en": "couch grass (spicy)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔn ntse",
+        "pronounciation": "kɔ̃́ː ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marin",
+                "definition_en": "sailor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔnŋwɔ́ɔn",
+        "pronounciation": "kɔ̃́ːŋwɔ̃́ː",
+        "synonym": [
+            "káŋwɔ́ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔnte",
+        "pronounciation": "kɔ̃́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bastonnade ; punition",
+                "definition_en": "beating; punishment",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gíŋe ssó mmó yɛ̂, n náa kɔ́ɔnte gù.",
+                        "fr": "Tu t’amuses encore, je te donne une bastonnade.",
+                        "en": "You're having fun again, I'll give you a caning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kɔ́ɔntè pwó",
+        "pronounciation": "kɔ̃́ːtȅ pɸwó",
+        "synonym": [
+            "nkɔ́ɔntè pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poignet",
+                "definition_en": "wrist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀te mánjù",
+        "pronounciation": "kɔ̀tȅ mándʒȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sweet broomweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ʼ",
+        "pronounciation": "kɔ̏ʔ",
+        "synonym": [
+            "nkɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "galerie ; portique",
+                "definition_en": "gallery; portico",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̌ʼ",
+        "pronounciation": "kɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joug",
+                "definition_en": "yoke",
+                "examples": []
+            }
+        ]
+    }
+]

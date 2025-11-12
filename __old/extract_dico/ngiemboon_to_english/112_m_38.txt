@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "múɔ legǐ",
+        "pronounciation": "múɔ́ lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant adultérin ; bâtard",
+                "definition_en": "illegitimate child; bastard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ letwó",
+        "pronounciation": "múɔ́ lèʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier né",
+                "definition_en": "firstborn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ lóŋ",
+        "pronounciation": "múɔ́ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gorge",
+                "definition_en": "throat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mánzòŋ",
+        "pronounciation": "múɔ́ mándzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ manzwě",
+        "pronounciation": "múɔ́ màndzswě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fille ; Mademoiselle",
+                "definition_en": "girl; daughter; Miss; Ms",
+                "examples": [
+                    {
+                        "dialect": "Múɔ manzwě aa lepfó láʼ gíléye à tè zsé ngie legwe aa wó wɔ́.",
+                        "fr": "Quand une fille est seule au quartier, elle ne sait pas qu’il y a la mort.",
+                        "en": "When a girl is alone in the neighborhood, she doesn't know that there is death."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mbàŋa",
+        "pronounciation": "múɔ́ m̩̀bã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "garçonnet",
+                "definition_en": "small boy",
+                "examples": [
+                    {
+                        "dialect": "Anzwě we zyě tàʼ múɔ mbàŋa.",
+                        "fr": "Sa femme a accouché d’un garçonnet.",
+                        "en": "His wife gave birth to a baby boy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mbÿɛ́",
+        "pronounciation": "múɔ́ m̩̀bɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bébé",
+                "definition_en": "baby",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mémmó",
+        "pronounciation": "múɔ́ mémːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus petite chose",
+                "definition_en": "smallest thing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mémúɔ",
+        "pronounciation": "múɔ́ mémúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gamin",
+                "definition_en": "kid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ méntsẅǐ",
+        "pronounciation": "múɔ́ méntsɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus petit ; minuscule",
+                "definition_en": "very small; minute",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ tsɔ̌ múɔ méntsẅǐ múɔ, á gẅiin nzàba.",
+                        "fr": "J’ai vu un minuscule enfant, il avait un hérisson.",
+                        "en": "I saw a tiny child, he had a hedgehog."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "múɔ mvfó",
+        "pronounciation": "múɔ́ ɱ̩̀bvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cabri ; chevreau ; jeune chèvre",
+                "definition_en": "kid; young goat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ncÿó",
+        "pronounciation": "múɔ́ ǹ̩tʃːɰó",
+        "synonym": [
+            "múɔ ntsẅɛ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anus",
+                "definition_en": "anus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ndá",
+        "pronounciation": "múɔ́ ǹ̩dá",
+        "synonym": [
+            "lûm ndá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chambre ; salle",
+                "definition_en": "room",
+                "examples": [
+                    {
+                        "dialect": "Kɔ múɔ pɔ̀ɔn wɔ̀ɔn ńgʉa ńnuŋe tsɛ̀ɛ múɔ ndá mèŋ.",
+                        "fr": "Prends mon porte monnaie et tu pars mettre dans ma chambre.",
+                        "en": "Take my wallet and go put it in my room."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ngùɔ",
+        "pronounciation": "múɔ́ ŋ̩̀gùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fille",
+                "definition_en": "girl; daughter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ngùɔ kwò mɔ́ʼɔ",
+        "pronounciation": "múɔ́ ŋ̩̀gùɔ̏ kxwȍ mɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ngwàshùm",
+        "pronounciation": "múɔ́ ŋ̩̀gwȁʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeune garçon",
+                "definition_en": "young boy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ntɔ́ʼ",
+        "pronounciation": "múɔ́ ǹ̩tɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prince",
+                "definition_en": "prince",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ntɔ̀ʼ mbisí",
+        "pronounciation": "múɔ́ ǹ̩tɔ̏ʔ m̩̀bìsí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ ntsẅɛ̀ʼ",
+        "pronounciation": "múɔ́ ǹ̩tsɥɛ̏ʔ",
+        "synonym": [
+            "múɔ ncÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "anus",
+                "definition_en": "anus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ nzeennzse",
+        "pronounciation": "múɔ́ ǹ̩dzẽ̀ːndzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moucheron (gén.)",
+                "definition_en": "midge (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ nzìʼi",
+        "pronounciation": "múɔ́ ǹ̩dzìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écolier ; élève",
+                "definition_en": "schoolboy; pupil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ pím",
+        "pronounciation": "múɔ́ pím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animateur",
+                "definition_en": "driving force; prime mover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ pɔ̀ɔn",
+        "pronounciation": "múɔ́ pɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poche ; bourse",
+                "definition_en": "pocket; grant; purse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ pɔ̀ɔn nkáb",
+        "pronounciation": "múɔ́ pɔ̃̏ː ŋ̩̀káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porte-monnaie",
+                "definition_en": "purse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ pɔ̀ɔn ŋwàʼne",
+        "pronounciation": "múɔ́ pɔ̃̏ː ŋwȁʔnè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "portefeuille",
+                "definition_en": "wallet",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "slap on the back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa lesẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slap, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syâg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̂g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tǎfelé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mélàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slaughterhouse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwǎ mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slave",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ njÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pǔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slavery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slavery, supporter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá pùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slave, war",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼu ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleeper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ lelɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleep, go to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleeping drug",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo lelɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleep, put to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleep, talk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvómte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sleeve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pwó nzsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slender, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slender mongoose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀shʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slender wild cape gooseberry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀jÿó ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slide, hair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lékɔ̂d",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lápà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sling, handle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slingshot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lápà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kyɛ́d nkyɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìŋe",
+                "examples": []
+            }
+        ]
+    }
+]

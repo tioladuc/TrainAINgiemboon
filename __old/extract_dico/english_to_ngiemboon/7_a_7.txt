@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "alive, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtentʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "all",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metsèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèm ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alleviate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alliance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "all over, stick a little",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "all the same",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "all the same (P3)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ké",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "all the time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aloe, American",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aloe vera",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gíle yé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alone in a group",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alphabet letters",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menÿɔ́g ŋwàʼne",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alphabets",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menÿɔ́g ŋwàʼne",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "already",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "already (P2)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kěen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "already (P3)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "keen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "also",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yég",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "also, you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alternate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúbe pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aluminium",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aluminium plate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káŋa jùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "alveolus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "always",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńké",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "amaranth (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅé",
+                "examples": []
+            }
+        ]
+    }
+]

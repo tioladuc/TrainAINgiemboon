@@ -1,0 +1,44 @@
+[
+    {
+        "noun": "zyɛ́ndèlè",
+        "pronounciation": "zjɛ́ndə̏lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "richesse",
+                "definition_en": "wealth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyɛ́ʼ kʉŋ",
+        "pronounciation": "zjɛ́ʔ kɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus petit écoulement de larme",
+                "definition_en": "smallest tear flowing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyɛ̀ʼɛ twó",
+        "pronounciation": "zjɛ̀ʔɛ̏ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeu de dame ; damier",
+                "definition_en": "checkers; checkerboard",
+                "examples": []
+            }
+        ]
+    }
+]

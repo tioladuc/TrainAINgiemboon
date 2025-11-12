@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "navy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "necessarily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ tekwòŋ nkwoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼ páʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck, back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck (bottle)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck, desire",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mmɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "necklace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùʼ ndéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málegwàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ shúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ̀gʉtáa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "necklace worn around the head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck, move one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neck, nape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "necrophilia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "needle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesyɛʼɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "needle, hole",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwòŋ lesyɛʼɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "needle, shoemaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negation, marking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éen èen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negative",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekyɛ̀bɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neglect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neglected",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎg ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negotiate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋ kěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negotiation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negotiator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngìŋ kěm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mamèkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negotiators",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "negro",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neighbour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkwɔʼɔ́ lépàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "neighbourhood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿɔ́ʼte",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,430 @@
+[
+    {
+        "noun": "mɔ́gɔ̀",
+        "pronounciation": "mɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les tiens et les miens (pron. poss. de la 1ère et 2e personne du singulier ensemble du singulier ensemble qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "tes et mes (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "tes et mes (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms des classes 4 et 6)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔɔn",
+        "pronounciation": "mɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux ; ceux-ci (pron. dém. de proche proximité qui modifie les noms des classes 4 et 6)",
+                "definition_en": "these; these here (close demonstrative pronoun referring to class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ces ; ces ... -ci (adj. dém. de proche proximité qui modifie les noms des classes 4 et 6)",
+                "definition_en": "these; these ... here (close demonstrative adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tâm ge jú menkáʼ mɔɔn.",
+                        "fr": "Tam achètera ces champs-ci.",
+                        "en": "Tam will buy these fields."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔ́ɔn",
+        "pronounciation": "mɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les miens (pron. poss. de la 1ère personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mes (adj. poss. de la 1ère personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "my (first person singular possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mes (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "my (first person singular emphatic possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour moi (pron. poss. objet de la 1ère personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "for me (first person singular possessive object pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ́ɔn",
+        "pronounciation": "mɔ̃́ː",
+        "synonym": [
+            "ḿmɔ́ɔn ",
+            " mɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... même pas",
+                "definition_en": "not even",
+                "examples": [
+                    {
+                        "dialect": "Tè mɔ́ɔn ńzẅíŋe nò gie à gɔɔn.",
+                        "fr": "N’accepte même pas ce qu’il dit.",
+                        "en": "Don't even accept what he says."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̌ɔn",
+        "pronounciation": "mɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Madame",
+                "definition_en": "Mrs.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̌ɔn",
+        "pronounciation": "mɔ̃̌ː",
+        "synonym": [
+            "ḿmɔ́ɔn ",
+            " mɔ́ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... même pas",
+                "definition_en": "not even",
+                "examples": [
+                    {
+                        "dialect": "Tè mɔ́ɔn ńzẅíŋe nò gie à gɔɔn.",
+                        "fr": "N’accepte même pas ce qu’il dit.",
+                        "en": "Don't even accept what he says."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔ́ɔn fùɔ",
+        "pronounciation": "mɔ̃́ː fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadet du chef (nomination royale)",
+                "definition_en": "younger sibling of the chief (royal nomination)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̌ɔn fùɔ",
+        "pronounciation": "mɔ̃̌ː fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère du roi (nomination royale)",
+                "definition_en": "chief’s mother (royal nomination)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔɔn mɔɔn",
+        "pronounciation": "mɔ̃̀ː mɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étonnant",
+                "definition_en": "astonish; surprise",
+                "examples": [
+                    {
+                        "dialect": "Yěsô la zíme na legwe á gwɔ́ kwàʼ nò mɔɔn mɔɔn.",
+                        "fr": "Jésus était ressusciter d’entre les  morts, c’est vraiment une chose étonnante.",
+                        "en": "Jesus was resurrected from the dead, it is truly an amazing thing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔɔn nò",
+        "pronounciation": "mɔ̃̀ː nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose étonnante",
+                "definition_en": "something surprising",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ kwàʼ mɔɔn nò gie ɔ̀ shwóŋo wɔ́ɔn.",
+                        "fr": "Là, c’est une nouvelle étonnante que tu m’annonces.",
+                        "en": "This is astonishing news that you are telling me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̌ɔn nɔʼ",
+        "pronounciation": "mɔ̃̌ː nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "reine",
+                "definition_en": "queen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mɔ̌ɔnmé",
+        "pronounciation": "mɔ̃̌ːmé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Madame",
+                "definition_en": "Mrs.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfégè",
+        "pronounciation": "ɱ̩̀pfə́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ricanement ; moquerie",
+                "definition_en": "giggle; snigger; mockery; taunt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿpféle",
+        "pronounciation": "ɱ̩́pfə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire paître",
+                "definition_en": "put out to graze",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfèle mefòŋ",
+        "pronounciation": "ɱ̩̀pfə̀lȅ mèfõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouvier",
+                "definition_en": "drover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfémpfelé",
+        "pronounciation": "ɱ̩̀pféɱpfə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchet",
+                "definition_en": "scrap; waste",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfémpfɛ̌",
+        "pronounciation": "ɱ̩̀pféɱpfɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (plantes)",
+                "definition_en": "sp. ant. (plants)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̌",
+        "pronounciation": "ɱ̩̀pfɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comestible ; consommable",
+                "definition_en": "edible; drinkable",
+                "examples": [
+                    {
+                        "dialect": "À jǔ pwɔʼ mpfɛ̌.",
+                        "fr": "Il a acheté le champignon comestible.",
+                        "en": "He bought the edible mushroom."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿpfɛ́",
+        "pronounciation": "ɱ̩́pfɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger ; ronger",
+                "definition_en": "eat; gnaw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ legǐ",
+        "pronounciation": "ɱ̩̀pfɛ̏ lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herbivore",
+                "definition_en": "herbivore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ lekʉŋ",
+        "pronounciation": "ɱ̩̀pfɛ̏ lèkɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvercle de la marmite ; brouillon",
+                "definition_en": "pot lid; muddle-headed; draft",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ mbab",
+        "pronounciation": "ɱ̩̀pfɛ̏ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carnivore",
+                "definition_en": "carnivorous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ mvòm",
+        "pronounciation": "ɱ̩̀pfɛ̏ ɱ̩̀bvɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gallinacé (gén.)",
+                "definition_en": "gallinacean (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ pfɛ̌",
+        "pronounciation": "ɱ̩̀pfɛ̀ pfɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangeable",
+                "definition_en": "edible",
+                "examples": [
+                    {
+                        "dialect": "À lúɔ pɔ́ mmó mpfɛ̀ pfɛ̌ ; à těen ńdúɔ ye sẅiŋ wɔ́.",
+                        "fr": "Il demande ce qui est consommable ; il ne demande pas ce qu’il va vendre.",
+                        "en": "He asks what is consumable; he doesn't ask what he's going to sell."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mpfɛ̀ɛ",
+        "pronounciation": "ɱ̩̀pfɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consommateur",
+                "definition_en": "consumer; customer",
+                "examples": []
+            }
+        ]
+    }
+]

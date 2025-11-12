@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "goosepimples, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go out at dawn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go, place to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gorilla",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼ kwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkanɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go slowly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gossip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mápitsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shwǒŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melaʼá ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa shwǒŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyaga shwǒŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwo ngu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́g ngu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go upwards",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉpʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gourd, pith",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gourd rattle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "governor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋwá mbʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngúmnɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go without stopping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzábte zábte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grab",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grab a bunch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿó gʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pòŋo ntʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Grace, Your",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkem ssé kwáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋkwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "graduate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grains of paradise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandfather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá we lÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandfather, great-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá pà tɔɔn ndÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandfather, maternal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá pà má",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandfather, paternal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá pà tá",
+                "examples": []
+            }
+        ]
+    }
+]

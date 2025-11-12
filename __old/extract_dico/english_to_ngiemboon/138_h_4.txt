@@ -1,0 +1,487 @@
+[
+    {
+        "noun": "harry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdag shúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelàg shúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvest corn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvester",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvest fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvest time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ʼ mbÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "harvest tubers",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "haspan flatsedge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndúm ngʉngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "haste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hasten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége nnɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hastily, dress",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hatch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hate, feeling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuɔ mbù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkua mbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hate, feelings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ melÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ njùʼ mentÿǒngúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "téŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ ssénkàg mendoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ ssénkàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́alaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ menzóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ shʉ́azí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ mendóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ kwaanzeennzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ kùbe ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ sí meŋwáláʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwaanzeennzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ cʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ mbúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "síi melʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "twókɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo nzeen nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat, k. black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat, k. chief’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ sí mefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat, k. white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ melʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hatred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hat with a large brim, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼɔ legwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅiin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "have to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkeʼé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hawker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàagwánká",
+                "examples": []
+            }
+        ]
+    }
+]

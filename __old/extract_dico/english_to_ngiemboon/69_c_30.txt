@@ -1,0 +1,477 @@
+[
+    {
+        "noun": "cricket, mole",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèkɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cricket, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngǐm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sǎ mékem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelẅe múɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kátsyé mànku",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mwóonne mbúʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cries, one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿò ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̌ʼ nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "criminal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa fʉ̌ʼ nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crimson seed cracker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "paŋa jʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crispy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "criticize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crocodile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsòntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crocodile, dwarf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnú ngém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelàg shúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crop rotation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éféŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼa ndúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross a waterway",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crossbowman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelʉ̀ʼʉ twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross each other (branches)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross one and another",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross one’s eyes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross one’s legs",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crosspiece, bed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbéŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crossroads",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefegé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefagá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefagá nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefegé nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cross without stamping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíle ńzyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crotch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "crouch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "croustade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kacÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kashÿò",
+                "examples": []
+            }
+        ]
+    }
+]

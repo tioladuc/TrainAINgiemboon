@@ -1,0 +1,318 @@
+[
+    {
+        "noun": "ésẅíʼte",
+        "pronounciation": "ésɥíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acculer",
+                "definition_en": "corner",
+                "examples": []
+            },
+            {
+                "definition_fr": "insister",
+                "definition_en": "insist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyag",
+        "pronounciation": "ésjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défeuiller ; enlever l’enveloppe (épis de maïs, gousse de haricot)",
+                "definition_en": "defoliate; remove the husk (ear of corn, bean pod)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyag",
+        "pronounciation": "ésjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frapper",
+                "definition_en": "hit",
+                "examples": []
+            },
+            {
+                "definition_fr": "fouetter ; frapper",
+                "definition_en": "whip; hit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésye",
+        "pronounciation": "ésːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "glisser",
+                "definition_en": "glide; slip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésye",
+        "pronounciation": "ésːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plafonner avec des bambous",
+                "definition_en": "install a bamboo ceiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyé",
+        "pronounciation": "ésːjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trancher",
+                "definition_en": "cut; slice",
+                "examples": []
+            },
+            {
+                "definition_fr": "tailler",
+                "definition_en": "prune; trim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyé",
+        "pronounciation": "ésːjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper ; détourner",
+                "definition_en": "deceive; divert; embezzle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyeen",
+        "pronounciation": "ésjẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disparaître ; se dissiper",
+                "definition_en": "disappear; clear",
+                "examples": []
+            },
+            {
+                "definition_fr": "se disperser (foule)",
+                "definition_en": "disperse (crowd)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyeen",
+        "pronounciation": "ésjẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrer dans des problèmes",
+                "definition_en": "get into problems",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛb",
+        "pronounciation": "ésjɛ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peigner",
+                "definition_en": "comb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛ́b",
+        "pronounciation": "ésjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se montrer",
+                "definition_en": "show oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛ́ʼ",
+        "pronounciation": "ésjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouetter",
+                "definition_en": "whip",
+                "examples": []
+            },
+            {
+                "definition_fr": "taper avec un très faible bâton",
+                "definition_en": "hit with a very weak stick",
+                "examples": []
+            },
+            {
+                "definition_fr": "fouetter",
+                "definition_en": "whip",
+                "examples": []
+            },
+            {
+                "definition_fr": "taper avec un très faible bâton",
+                "definition_en": "hit with a very weak stick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛ́ʼ",
+        "pronounciation": "ésjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inciser",
+                "definition_en": "lance; make an incision",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛ́ʼ",
+        "pronounciation": "ésjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nettoyer un champ",
+                "definition_en": "clear a field",
+                "examples": [
+                    {
+                        "dialect": "Mɔ̌ɔn gee syɛ́ʼɛ nɔ̀ɔn.",
+                        "fr": "Madame va nettoyer le champ.",
+                        "en": "Madam is going to clean the field."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nettoyer le tubercule de taro",
+                "definition_en": "clean a taro tuber",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésyɛ́ʼte",
+        "pronounciation": "ésjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sortir à petites gouttes",
+                "definition_en": "come out in small droplets",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "etsɔ́",
+        "pronounciation": "ètsɔ́",
+        "synonym": [
+            "tsɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 2, 3, 4, 5, 6, 8 et 10)",
+                "definition_en": "certain; other (modifying class 2, 3, 4, 5, 6, 8 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Etsɔ́ pʉ̀a tǒo nɔʼ ńgwoon fùɔ.",
+                        "fr": "Certains gens sont venus à la chefferie arrêter le roi.",
+                        "en": "Some people came to the chiefdom to arrest the king."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "certain ; autre (modifiant les noms des classes 2, 3, 4, 5, 6, 8 et 10)",
+                "definition_en": "certain; other (modifying class 2, 3, 4, 5, 6, 8 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "etsɔ̌",
+        "pronounciation": "ètsɔ̌",
+        "synonym": [
+            "tsɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 9)",
+                "definition_en": "certain; other (modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Etsɔ̌ ngùʼu láʼ e tè poŋ.",
+                        "fr": "Une certaine année n’est pas bonne.",
+                        "en": "A certain year is not good."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 9)",
+                "definition_en": "certain; other (modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gyǎ tàʼ nyìŋ, à cʉ́ʼʉ tsɔ̌.",
+                        "fr": "Tu as vu une personne, il manque une autre.",
+                        "en": "You saw one person, another is missing."
+                    }
+                ]
+            }
+        ]
+    }
+]

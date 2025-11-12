@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "barren",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barrenness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barrette",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "barrier",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̂a nkáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ nkáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bar-zither, idiocord",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvɛ̀d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Basaa language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa mbasǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "base",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mecwoŋó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letsìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twókáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kánzɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kánzì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèkàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kánzà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basketball",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkentsyɛ̀ʼ mbwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket edge, reinforce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket for beans, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekumó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basketgrass, Burmann’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gaʼa ncÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túŋ sẅɛ́ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "túŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket, make solid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket, weave the bottom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basket with handle, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tánkɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "basketwork, rattle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bastard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ legǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bat an eyelid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Batcham",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Tsɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Batcham, k. cultural dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pabtwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Batcham, k. dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùʼmbùm",
+                "examples": []
+            }
+        ]
+    }
+]

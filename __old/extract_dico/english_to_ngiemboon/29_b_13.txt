@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "blacksmith’s mould",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔ̌ɔn lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "black, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zêm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbíd",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bladder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blade of grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blade of straw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blade, razor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lísà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blame, cry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gúcʉʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blamer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa nɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blame someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blanket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blanketgrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "laʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bleat of a goat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ̌ɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bleat of a sheep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ̌ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bleeder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blepharitis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blind, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blind, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blind person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blind snake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepúbè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "blink",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaba lejÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmyɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmyɛʼ lejÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔb",
+                "examples": []
+            }
+        ]
+    }
+]

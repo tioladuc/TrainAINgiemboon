@@ -1,0 +1,421 @@
+[
+    {
+        "noun": "shʉ́",
+        "pronounciation": "ʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "honte",
+                "definition_en": "shame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ ngyǎŋ",
+        "pronounciation": "ʃɯ̀ ŋ̩̀gjã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́a",
+        "pronounciation": "ʃɯ́á",
+        "synonym": [
+            "shwòŋondíŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« bois jaune » (en français local)",
+                "definition_en": "yellow wood (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀a",
+        "pronounciation": "ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fente ; ouverture",
+                "definition_en": "crack; split; opening",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀a",
+        "pronounciation": "ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casseur ; celui qui fend",
+                "definition_en": "splitter; one who splits",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀a",
+        "pronounciation": "ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. cercle exotérique",
+                "definition_en": "k. exoteric circle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́alaŋ",
+        "pronounciation": "ʃɯ́álã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉashʉa",
+        "pronounciation": "ʃːɰàʃːɰà",
+        "synonym": [
+            "shÿéshÿe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "directement ; ouvertement",
+                "definition_en": "directly; openly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀ate",
+        "pronounciation": "ʃɯ̀àtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchiré",
+                "definition_en": "torn",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ shʉ̀ate pɔ̀ɔn.",
+                        "fr": "Là, c’est un sac déchiré.",
+                        "en": "There, it's a torn bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀ate",
+        "pronounciation": "ʃɯ̀àtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchireur",
+                "definition_en": "tearer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́g",
+        "pronounciation": "ʃʉ́q̚",
+        "synonym": [
+            "ség"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 5) ; les nôtres (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 8)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tè kwɛ́ legwaʼá shú té kwɛ́ ség.",
+                        "fr": "N’attache pas ton étagère sans attacher la nôtre.",
+                        "en": "Don’t attach your shelf without attaching ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 5) ; nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 8)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 5) ; nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 8)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́gè",
+        "pronounciation": "ʃʉ́ʁȅ",
+        "synonym": [
+            "ségè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre et le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 5) ; les vôtres et les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 8)",
+                "definition_en": "yours and ours (first person plural inclusive possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À lɔɔn shʉ́a lepfo, á ná ségè.",
+                        "fr": "S’il fend la cola, il donne la nôtre.",
+                        "en": "If he splits the cola, he gives us ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 5) ; vos et nos (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 8)",
+                "definition_en": "your and our (first person plural inclusive possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 5) ; vos et nos (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 8)",
+                "definition_en": "your and our (first person plural inclusive emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ŋ",
+        "pronounciation": "ʃɯ̃́ŋ",
+        "synonym": [
+            "méshʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oiseau (gén.)",
+                "definition_en": "bird (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ŋ",
+        "pronounciation": "ʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très sucré",
+                "definition_en": "very sweet",
+                "examples": [
+                    {
+                        "dialect": "Akème nkùnkùʼ yɔɔn gie m pfɛ́ɛ lɔɔn, á lʉme lê shʉ́ŋ.",
+                        "fr": "Ce morceau de canne que je suis en train de sucer, est très sucré.",
+                        "en": "This piece of cane that I am sucking is very sweet."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀ŋ",
+        "pronounciation": "ʃɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. panier (en roseau, en osier)",
+                "definition_en": "k. basket (with reeds, with willow)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ŋ ncwò",
+        "pronounciation": "ʃɯ̃́ŋ ǹ̩tʃːwȍ",
+        "synonym": [
+            "shùshù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisserin (gén.)",
+                "definition_en": "weaverbird (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ŋ ngaŋ",
+        "pronounciation": "ʃɯ̃́ŋ ŋ̩̀gã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pintade commune",
+                "definition_en": "guinea-fowl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ŋ ngẅi",
+        "pronounciation": "ʃɯ̃́ŋ ŋ̩̀gɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdrix",
+                "definition_en": "francolin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀ŋ ntsɔ̀ʼ ndá ŋàg",
+        "pronounciation": "ʃɯ̃̏ŋ ǹ̩tsɔ̏ʔ ǹ̩dá ŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cour suprême ; haute cour internationale de justice",
+                "definition_en": "supreme court; high court of international justice",
+                "examples": [
+                    {
+                        "dialect": "Etsaŋ lɔɔn tè gie e pǔ ńtʉ tɛʼ wɔ́, mé le náa shʉ̀ŋ ntsɔ̀ʼ nda ŋàg wɔ́.",
+                        "fr": "C’est quand le jugement est grave qu’on l’envoie à la cour suprême.",
+                        "en": "It is when the judgment is serious that it is sent to the supreme court."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shʉ́",
+        "pronounciation": "ʃɯ́ʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. criquet",
+                "definition_en": "sp. cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀shʉ̀",
+        "pronounciation": "ʃɯ̏ʃɯ̏",
+        "synonym": [
+            "pàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangouste svelte",
+                "definition_en": "slender mongoose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀shʉ̀a",
+        "pronounciation": "ʃɯ̏ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pissenlit",
+                "definition_en": "dandelion",
+                "examples": []
+            },
+            {
+                "definition_fr": "long ; élancé",
+                "definition_en": "long; slender",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀shʉ̀a mêngwé",
+        "pronounciation": "ʃɯ̏ʃɯ̀ȁ mêŋgxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀shʉ̀a pùʼ",
+        "pronounciation": "ʃɯ̏ʃɯ̀ȁ pȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épée",
+                "definition_en": "sword",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shʉm",
+        "pronounciation": "ʃɯ́ʃɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    }
+]

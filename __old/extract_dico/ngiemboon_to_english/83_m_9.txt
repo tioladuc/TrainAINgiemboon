@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "mashʉ́ŋ",
+        "pronounciation": "màʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "machine",
+                "definition_en": "machine; engine",
+                "examples": []
+            },
+            {
+                "definition_fr": "moulin",
+                "definition_en": "mill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mashʉŋ metÿǒ",
+        "pronounciation": "màʃɯ̃̀ŋ mèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tronçonneuse",
+                "definition_en": "chain saw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mâsî",
+        "pronounciation": "mâsî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bal ; soirée dansante",
+                "definition_en": "ball; dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "másínzà",
+        "pronounciation": "másíndzȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sentinelle ; surveillant",
+                "definition_en": "sentry; monitor",
+                "examples": [
+                    {
+                        "dialect": "Gwaa zyɛ́ʼɛ gyɛ̌ nɔʼ ḿbɔ́ɔn másínzà.",
+                        "fr": "Avant de traverser l’esplanade de la chefferie, il faut éviter la sentinelle.",
+                        "en": "Before crossing the chiefdom esplanade, you must avoid the sentry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mátà",
+        "pronounciation": "mátȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "natte de raphia",
+                "definition_en": "raffia mat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matáŋkéle",
+        "pronounciation": "màtã́ŋːkə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. claie",
+                "definition_en": "k. grid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matě",
+        "pronounciation": "màtě",
+        "synonym": [
+            "matétě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pomme de terre",
+                "definition_en": "Irish potato",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matenɛ́sè",
+        "pronounciation": "màtènɛ́sȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "matelas",
+                "definition_en": "mattress",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matétě",
+        "pronounciation": "màtétě",
+        "synonym": [
+            "mǎtě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pomme de terre",
+                "definition_en": "Irish potato",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matítí",
+        "pronounciation": "màtítí",
+        "synonym": [
+            "mekú makì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot (rouge, petit grain)",
+                "definition_en": "sp. small red bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matsáŋ ngwáŋ",
+        "pronounciation": "màtsã́ŋ ŋ̩̀gwã́ŋ",
+        "synonym": [
+            "matsɔ́ɔn ngwáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "yellow wood sorrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matsìtsìi",
+        "pronounciation": "mátsȉtsȉː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pisseur",
+                "definition_en": "one who pees",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mátsìtsìikú",
+        "pronounciation": "mátsȉtsȉːkú",
+        "synonym": [
+            "mátsìtsìindá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pisseur au lit",
+                "definition_en": "bedwetter",
+                "examples": [
+                    {
+                        "dialect": "Mátsìtsìikǔ tǒo.",
+                        "fr": "Le pisseur au lit est venu.",
+                        "en": "The bed pisser came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mátsìtsìindá",
+        "pronounciation": "mátsȉtsȉːndá",
+        "synonym": [
+            "mátsìtsìikú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pisseur au lit",
+                "definition_en": "bedwetter; bedwetter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matsɔ́ɔn ngwáŋ",
+        "pronounciation": "màtsɔ̃́ː ŋ̩̀gwã́ŋ",
+        "synonym": [
+            "matsáŋ ngwáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "yellow wood sorrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mátsɔʼ",
+        "pronounciation": "mátsɔ̀ʔ",
+        "synonym": [
+            "ndʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vulve ; vagin",
+                "definition_en": "vulva; vagina",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mátswǎŋ",
+        "pronounciation": "mátswã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot (noir, gros grain)",
+                "definition_en": "sp. large black bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matûa",
+        "pronounciation": "màʈúà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voiture",
+                "definition_en": "car",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matÿɔ́ʼ ntsɔɔn",
+        "pronounciation": "màʈɰɔ́ʔ ǹ̩tsɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi de très mauvaise odeur",
+                "definition_en": "sp. very smelly ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máwàcùʼ",
+        "pronounciation": "máwȁtʃȕʔ",
+        "synonym": [
+            "méwàcùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mâwɔ̌wɔ́ɔ",
+        "pronounciation": "mâwɔ̌wɔ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’importe qui ; tout le monde",
+                "definition_en": "anyone; everyone",
+                "examples": [
+                    {
+                        "dialect": "Tè lúɔ nkáb mbwó mâwɔ̌wɔ́ɔ.",
+                        "fr": "Ne demande pas l’argent à n’importe qui.",
+                        "en": "Don't ask just anyone for money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "màʼ nkàtém",
+        "pronounciation": "mȁʔ ŋ̩̀kȁtə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chasseur",
+                "definition_en": "hunter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "màʼ ssó",
+        "pronounciation": "mȁʔ sːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pêcheur",
+                "definition_en": "fisherman; angler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "màʼa kwò",
+        "pronounciation": "màʔȁ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance pied",
+                "definition_en": "foot launch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "màʼa te shwò",
+        "pronounciation": "màʔà tè ʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adroit",
+                "definition_en": "skilful",
+                "examples": []
+            }
+        ]
+    }
+]

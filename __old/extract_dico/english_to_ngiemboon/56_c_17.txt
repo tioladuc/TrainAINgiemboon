@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "coconut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùkùnêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cocoyam (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cocoyam leaf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letèkǔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letòkǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cocoyam, new",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákàba",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú lekàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cocoyam, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâkùmbà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kuʼú láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káŋfelé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cocoyam, sp. new red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákàba páŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋa tenùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ nkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coddler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coffee (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàafée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coffee leaves, caterpillar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cÿɔ̀gɔ kaafé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coffin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̌b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cohabitation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coils, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndólà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coins",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "feláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coitus, accomplish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cola, bitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìtà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cola, conserve in basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cola, conserve underground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éffo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colander",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cola, store in basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cola, store underground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éffo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fáʼtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cold, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cold, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéte",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,423 @@
+[
+    {
+        "noun": "ngʉ̀a",
+        "pronounciation": "ŋ̩̀gɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distance",
+                "definition_en": "distance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀a",
+        "pronounciation": "ŋ̩̀gɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fois",
+                "definition_en": "time",
+                "examples": [
+                    {
+                        "dialect": "Penkʉ́ gʉ̌a ntse ngʉ̀a mbʉ́a.",
+                        "fr": "Les enfants sont partis à l’eau deux fois.",
+                        "en": "The children went into the water twice."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀a",
+        "pronounciation": "ŋ̩̀gɯ̀ȁ",
+        "synonym": [
+            "lekẅiʼi ngʉa ngʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "multiplication",
+                "definition_en": "multiplication",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉa",
+        "pronounciation": "ŋ̩́gɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partir ; aller",
+                "definition_en": "leave; go",
+                "examples": []
+            },
+            {
+                "definition_fr": "voyager",
+                "definition_en": "to travel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉa na",
+        "pronounciation": "ŋ̩́gɯ̀à nà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quant à ; en ce qui concerne ; pour ce qui est de ; s’agissant de",
+                "definition_en": "as for; as regards; concerning",
+                "examples": [
+                    {
+                        "dialect": "À pfɛ̌ táʼ tá ńké ńgʉa na mèŋ mbà mèŋ n nyě ńzẅíʼte.",
+                        "fr": "Il a mangé mais s’agissant de moi, j’attends encore.",
+                        "en": "He has eaten but as for me, I am still waiting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀a ngʉa",
+        "pronounciation": "ŋ̩̀gɯ̀ȁ ŋ̩̀gʉ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plusieurs fois ; maintes fois",
+                "definition_en": "several times; many times",
+                "examples": [
+                    {
+                        "dialect": "Penkʉ́ gʉ̌a ntse ngʉ̀a ngʉa.",
+                        "fr": "Les enfants sont partis à l’eau plusieurs fois.",
+                        "en": "The children went into the water several times."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀a ntse",
+        "pronounciation": "ŋ̩̀gɯ̀ȁ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hippopotame",
+                "definition_en": "hippopotamus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉa shʉ̀shʉ̀a",
+        "pronounciation": "ŋ̩̀gɯ̀à ʃɯ̏ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "loin ; éloigné",
+                "definition_en": "remote; distant; far",
+                "examples": [
+                    {
+                        "dialect": "Te zẅíŋ pɔ́ néŋe ngʉ̀a shʉ̀shʉ̀a.",
+                        "fr": "N’accepte pas qu’ils restent éloignés.",
+                        "en": "Don't accept that they stay away."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉagʉa",
+        "pronounciation": "ŋ̩̀gɯ̀àɣɯ̀à",
+        "synonym": [
+            "ngʉa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partant",
+                "definition_en": "starter",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zẅǐŋ tà ńcʉ́ʼ pɔ́ ngʉ̀agʉa.",
+                        "fr": "Je suis vieux si bien que je suis partant.",
+                        "en": "I'm old so I'm up for it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀b",
+        "pronounciation": "ŋ̩̀gɯ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lavement ; irrigateur",
+                "definition_en": "enema pump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉbe",
+        "pronounciation": "ŋ̩́gɯ̀βè",
+        "synonym": [
+            "ńgebe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déraisonner ; faire le mongolien ; aliéner",
+                "definition_en": "rave; talk nonsense; play the idiot; alienate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉe",
+        "pronounciation": "ŋ̩́gɯ̀è",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire l’idiot",
+                "definition_en": "play the idiot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉle",
+        "pronounciation": "ŋ̩̀gɯ̀lè",
+        "synonym": [
+            "ngele"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́le",
+        "pronounciation": "ŋ̩́gɯ́lé",
+        "synonym": [
+            "ńgéle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjouer ; détourner",
+                "definition_en": "foil; thwart; divert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉme",
+        "pronounciation": "ŋ̩́gɯ̀mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "craquer ; croustiller",
+                "definition_en": "creak; squeak; crunch; be crispy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉme",
+        "pronounciation": "ŋ̩́gɯ̀mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être un peu mûr ; être vert",
+                "definition_en": "be a bit ripe; be green",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́mte",
+        "pronounciation": "ŋ̩́gɯ́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adorer",
+                "definition_en": "adore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ngʉ̀",
+        "pronounciation": "ŋ̩̀gɯ̏ŋgɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffrance ; grande souffrance",
+                "definition_en": "suffering; great suffering",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉngʉ́ŋ",
+        "pronounciation": "ŋ̩̀gɯ̀ŋgɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carreau ; l’une de quatre qualités de jeu de cartes appelé carré",
+                "definition_en": "tile; four aces card game",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉngʉ́ŋ",
+        "pronounciation": "ŋ̩̀gɯ̀ŋgɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. flowering sedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ngʉŋ",
+        "pronounciation": "ŋ̩̀gɯ̏ŋgɯ̃̀ŋ",
+        "synonym": [
+            "ngʉ̀ngʉŋ lekùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quadrilatère",
+                "definition_en": "quadrilateral",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉngʉ́ŋe kwɔb",
+        "pronounciation": "ŋ̩̀gɯ̃̀ŋɡɯ̃́ŋé kwɔp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "yefen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ́ŋ",
+        "pronounciation": "ŋ̩̀gɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arête ; côté tranchant d’un outil",
+                "definition_en": "fishbone; cutting edge of a tool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉŋ lekùa",
+        "pronounciation": "meŋgɯ̃̀ŋ lèkùȁ",
+        "synonym": [
+            "ngʉ̀ngʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quadrilatère",
+                "definition_en": "quadrilateral",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ŋe",
+        "pronounciation": "ŋ̩̀gɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bord ; bordure",
+                "definition_en": "edge",
+                "examples": [
+                    {
+                        "dialect": "Ngʉ̀ŋe túŋ ne ńkyɛ́ʼte.",
+                        "fr": "Le bord du panier se détache.",
+                        "en": "The edge of the basket comes off."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "près ; côté ; au bord de",
+                "definition_en": "close to; next to; on the edge of",
+                "examples": [
+                    {
+                        "dialect": "À tsẅé ngʉ̀ŋe mbʉ̀a peg.",
+                        "fr": "Il habite près de notre concession.",
+                        "en": "He lives near our dealership."
+                    }
+                ]
+            }
+        ]
+    }
+]

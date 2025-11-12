@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "mbepÿɛ́",
+        "pronounciation": "m̩̀bèpɰɛ́",
+        "synonym": [
+            "mbʉpʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèshʉ̌a",
+        "pronounciation": "m̩̀bȅʃɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gifle",
+                "definition_en": "slap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèyà",
+        "pronounciation": "m̩̀bȅjȁ",
+        "synonym": [
+            "malʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            },
+            {
+                "definition_fr": "roulade",
+                "definition_en": "roll; trill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbeyáŋ",
+        "pronounciation": "m̩̀bèjã́ŋ",
+        "synonym": [
+            "mênjwò ",
+            " péli"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arachide (gén.)",
+                "definition_en": "groundnut (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèʼe",
+        "pronounciation": "m̩̀bə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui canalise",
+                "definition_en": "one who channels",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui écarte",
+                "definition_en": "one who separates",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbeʼe",
+        "pronounciation": "ḿ̩bə̀ʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canaliser ; localiser",
+                "definition_en": "canalize; localize",
+                "examples": []
+            },
+            {
+                "definition_fr": "réserver ; écarter",
+                "definition_en": "reserve; separate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbeʼte",
+        "pronounciation": "ḿ̩bə̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exclure ; éliminer les uns après les autres",
+                "definition_en": "expel; exclude; eliminate one after the other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbɛ̀ɛ",
+        "pronounciation": "m̩̀bɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.honor",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Majesté ; oui (honorifique)",
+                "definition_en": "Majesty; yes (honorary)",
+                "examples": [
+                    {
+                        "dialect": "Afùɔ lɔɔn ńtóŋo gú, ɔ̀ zẅíŋ lê Mbɛ̀ɛ.",
+                        "fr": "Si le roi t’appelle, tu acceptes en disant « Majesté ».",
+                        "en": "If the king calls you, you accept by saying “Majesty”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbɛ̌ʼ",
+        "pronounciation": "m̩̀bɛ̌ʔ",
+        "synonym": [
+            "mɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêlement du mouton",
+                "definition_en": "bleat of a sheep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbí",
+        "pronounciation": "m̩̀bí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ver blanc",
+                "definition_en": "pentatomid bug larva",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbì",
+        "pronounciation": "m̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côte de l’homme",
+                "definition_en": "man’s rib",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbì",
+        "pronounciation": "m̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lame ; ressort",
+                "definition_en": "blade; spring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbì",
+        "pronounciation": "m̩̀bȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tuberculose",
+                "definition_en": "tuberculosis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǐ",
+        "pronounciation": "m̩̀bǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gars",
+                "definition_en": "lad; guy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbí",
+        "pronounciation": "ḿ̩bí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prendre",
+                "definition_en": "take",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramasser ; prendre ici et là",
+                "definition_en": "pick up ; take here and there",
+                "examples": []
+            },
+            {
+                "definition_fr": "raconter ; conter",
+                "definition_en": "tell ; tell",
+                "examples": []
+            },
+            {
+                "definition_fr": "plaider",
+                "definition_en": "plead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbí melùʼ",
+        "pronounciation": "m̩̀bí mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alcoolique ; soulard",
+                "definition_en": "alcoholic; drunk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbí ténuŋe",
+        "pronounciation": "ḿ̩bí téɳũ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voler",
+                "definition_en": "steal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbíd",
+        "pronounciation": "mbít̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très noir (nuit)",
+                "definition_en": "very black (night)",
+                "examples": [
+                    {
+                        "dialect": "Saŋ te ne ńtʉ́a wɔ́ péʼe, ejʉʼ síŋ lê mbíd lêtsẅɛʼ.",
+                        "fr": "Quand la lune ne brille pas, il fait très noire dans la nuit.",
+                        "en": "When the moon does not shine, it is very dark at night."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbìd",
+        "pronounciation": "m̩̀bȉt̚",
+        "synonym": [
+            "mbìle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui dépulpe",
+                "definition_en": "one who removes the pulp",
+                "examples": [
+                    {
+                        "dialect": "Mekú mɔɔn, ambìle gwɔ́ nzɔ̌?",
+                        "fr": "Voici le haricot, où est celui qui dépulpe ?",
+                        "en": "Here is the bean, where is the one that pulps?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbìd",
+        "pronounciation": "m̩̀bȉt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pus",
+                "definition_en": "pus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbid",
+        "pronounciation": "ḿ̩bìt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inverser ; tourner le sens",
+                "definition_en": "invert; change the meaning",
+                "examples": []
+            },
+            {
+                "definition_fr": "peler",
+                "definition_en": "peel",
+                "examples": []
+            },
+            {
+                "definition_fr": "replier dans la forme concave (œil)",
+                "definition_en": "fold into concave shape (eye)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbíɛ",
+        "pronounciation": "m̩̀bíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. décoction de purification",
+                "definition_en": "k. purification decoction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbiɛ",
+        "pronounciation": "ḿ̩bìɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aplatir",
+                "definition_en": "flatten",
+                "examples": [
+                    {
+                        "dialect": "Mekú lɔɔn te tʉ mboŋó wɔ́, é júm ḿbiɛ piɛ.",
+                        "fr": "Si le haricot n’est pas bien mature, il sera aplati quand il se séchera.",
+                        "en": "If the bean is not fully mature, it will be flattened when it dries."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíɛ",
+        "pronounciation": "ḿ̩bíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arroser ; asperger",
+                "definition_en": "water; sprinkle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíɛ",
+        "pronounciation": "ḿ̩bíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bénir",
+                "definition_en": "bless",
+                "examples": []
+            }
+        ]
+    }
+]

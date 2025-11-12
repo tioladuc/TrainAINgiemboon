@@ -1,0 +1,356 @@
+[
+    {
+        "noun": "ngàŋ ndòon",
+        "pronounciation": "ŋ̩̀gã̏ŋ ǹ̩dõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne maudite",
+                "definition_en": "cursed person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ndúɔ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ɖúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mendiant",
+                "definition_en": "beggar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ndʉ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ɖɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sceptique",
+                "definition_en": "sceptic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ndʉʼʉ́",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ɖɯ̀ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opposant",
+                "definition_en": "opponent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ngɔ́ʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀gɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malheureux",
+                "definition_en": "poor soul; unfortunate creature",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ngú",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀gú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calomniateur",
+                "definition_en": "slanderer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ njǔ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ǹ̩dʒǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "débiteur",
+                "definition_en": "debtor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ njÿɔ́g",
+        "pronounciation": "ŋ̩̀gã̏ŋ ǹ̩dʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclave",
+                "definition_en": "slave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkáb",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "riche",
+                "definition_en": "wealthy person; rich person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkàʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lépreux",
+                "definition_en": "leper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkùbe",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀kùβȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ladre ; chiche ; « chichard »",
+                "definition_en": "miser; niggardly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkùbo",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀kùβȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "radin",
+                "definition_en": "stingy person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkʉ̀",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀kɯ̏",
+        "synonym": [
+            "ŋwɛ́ nkʉ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destinataire",
+                "definition_en": "addressee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nkwɔʼɔ́ lépàa",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀kwɔ̀ʔɔ́ lépàȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voisin",
+                "definition_en": "neighbour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nŋàg",
+        "pronounciation": "ŋ̩̀gã̏ŋ ŋ̩̀ŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "juge ; juré",
+                "definition_en": "judge; juror",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ntúm",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "messager ; apôtre",
+                "definition_en": "messenger; apostle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ntʉ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ʈɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "têtu",
+                "definition_en": "stubborn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ ntÿɔgɔ́",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɳ̩̀ʈɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éducateur ; conseilleur",
+                "definition_en": "teacher; counsellor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nzìbte",
+        "pronounciation": "ŋ̩̀gã̏ŋ ǹ̩dzìptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clochard ; parasite",
+                "definition_en": "tramp; parasite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ nzóŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ǹ̩dzṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tyran",
+                "definition_en": "tyrant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ pàb",
+        "pronounciation": "ŋ̩̀gã̏ŋ pȁp̚",
+        "synonym": [
+            "ngàŋa pàb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trompeur",
+                "definition_en": "deceiver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ shʉ́",
+        "pronounciation": "ŋ̩̀gã̏ŋ ʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "honorable",
+                "definition_en": "worthy; honourable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ shʉ́",
+        "pronounciation": "ŋ̩̀gã̏ŋ ʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "timide",
+                "definition_en": "shy; timid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ shʉ̀a",
+        "pronounciation": "ŋ̩̀gã̏ŋ ʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sorcier ; vendeur d’esprit ; cabaliste",
+                "definition_en": "sorcerer; witch; spirit seller; cabalist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngaŋá",
+        "pronounciation": "ŋ̩̀gã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    }
+]

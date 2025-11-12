@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "ether filter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe lekyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eucalyptus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàletúsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿo tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evaporate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdémte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evasion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndilétáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "even",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ né",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "even, and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evening",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwònzém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "even like that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "even so",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "event, displeasing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɛ̂ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ɛ̌ ɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "event, from this",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔgɔ púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "even though",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ever, if",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "everyone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâwɔ̌wɔ́ɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mânyìŋ ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "everything",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔkɔ́ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tepòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetepòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evil person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfɔ̌b metyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máfɛ̌ metyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evoke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "evolve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Ewondo language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa Yɔɔnmendi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exact",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exaggerate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́ʼ ntsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́ɔntè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "examination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋte",
+                "examples": []
+            }
+        ]
+    }
+]

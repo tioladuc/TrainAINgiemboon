@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "withdrawal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "withdraw from the fire",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "withdraw from the pot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "withdraw here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "withdraw without wrapping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wither",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nté",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "té",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "without a hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "without delay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíme nyime",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "without doubt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "moon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "without support",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎg ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "witness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿò menáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅé ntaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wives, relationship between co-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "manzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman, albino",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman in charge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mámbiʼí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman, purify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa lesẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman’s game, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman, unfortunate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "maapfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman, white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "woman, wretched",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "maapfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "womb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀a lezyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "women’s dance clothes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wonder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mángʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbím",
+                "examples": []
+            }
+        ]
+    }
+]

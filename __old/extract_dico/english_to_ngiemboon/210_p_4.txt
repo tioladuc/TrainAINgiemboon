@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "pass out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass rapidly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfǎd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "past, distant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "léen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "la láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "la",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paste, apply",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "past, far",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pastime game, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém ntɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́ɔn mbÿé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "past, iterative aspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pastor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pásétò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "past, today",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ně",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkěen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "past, yesterday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ka",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pasty, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńniɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńniɛbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paternal grandfather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá pà tá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paternal grandmother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má pà tá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "path",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́gtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "patience",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "patience, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyɛte nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "patron",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿò nò mbòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pat the dew",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pawing, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅǐd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pawn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìyôŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pawpaw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pawpaw tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbée",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pêen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pay back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "tuberculosis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tuber, pointed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tubers, harvest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tubers leaving, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fwɔ̀ʼ fwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tuber, taro",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tube whistle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Tuesday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túundê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔntè mvfò lyɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tuft",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tswaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tug at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tulip tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwèle ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tulip tree, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mafúfuʼú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mafúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tumble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tumbler, calabash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàpàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tumefy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tumult",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vóŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóon ŋwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tune, be out of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tune, make go out of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turaco, green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turd",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔʼɔ́ zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tureen, soup",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúmbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turkey berry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿónè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turmoil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kélɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vóŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóon ŋwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésele",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leŋwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turn off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "turn on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ",
+                "examples": []
+            }
+        ]
+    }
+]

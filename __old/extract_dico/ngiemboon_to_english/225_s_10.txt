@@ -1,0 +1,459 @@
+[
+    {
+        "noun": "shÿó mbòŋo",
+        "pronounciation": "ʃːɰó m̩̀bõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanceux ; heureux",
+                "definition_en": "lucky; happy",
+                "examples": [
+                    {
+                        "dialect": "Shÿó mbòŋo aa nyìŋ gẅie à júʼu shwóŋò Ssé, ńgÿo páʼ á ne ńzɛ́te.",
+                        "fr": "Heureux sont ceux qui écoutent la parole de Dieu et la mettent en pratique.",
+                        "en": "Blessed are those who hear the word of God and do it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿò mmɔ̌g",
+        "pronounciation": "ʃːɰȍ m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "âtre",
+                "definition_en": "hearth; fireplace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿó nò",
+        "pronounciation": "ʃːɰó nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contexte ; sens",
+                "definition_en": "context; sense; meaning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿò paʼá",
+        "pronounciation": "ʃːɰȍ pàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant une démarche impropre)",
+                "definition_en": "(shows an improper approach)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ giŋe shÿò paʼá páʼ fʉ̀ʼ gie menkÿo kwò ɔ̀ la.",
+                        "fr": "Tu marches improprement comme si tu as la corde aux pieds.",
+                        "en": "You walk improperly as if you have a rope on your feet."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿóo",
+        "pronounciation": "ʃːɰóː",
+        "synonym": [
+            "shÿɔ́ɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éléphant",
+                "definition_en": "elephant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿòon",
+        "pronounciation": "ʃɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "friand de",
+                "definition_en": "very fond of",
+                "examples": [
+                    {
+                        "dialect": "Te tóŋo ndÿò wɛ̂; aa ngàŋa shÿòon.",
+                        "fr": "N’appelle pas ce monsieur, c’est un homme friand.",
+                        "en": "Don't call this gentleman, he's a loving man."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿòonte",
+        "pronounciation": "ʃɰõ̏ːte",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "protéine",
+                "definition_en": "protein",
+                "examples": [
+                    {
+                        "dialect": "Mbab mêmvfó gẅiin shÿòonte ńcʉa ye ngáb.",
+                        "fr": "La viande de la chèvre a plus de protéine que celle de la poule.",
+                        "en": "Goat meat has more protein than chicken meat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿɔ̀g",
+        "pronounciation": "ʃɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courage",
+                "definition_en": "courage; bravery; guts",
+                "examples": []
+            },
+            {
+                "definition_fr": "entêtement ; « têtutesse » (en français local)",
+                "definition_en": "stubbornness",
+                "examples": []
+            },
+            {
+                "definition_fr": "être opiniâtreté",
+                "definition_en": "be opinionated",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿɔ̂málà",
+        "pronounciation": "ʃɰɔ̂málȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.honor.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(honorifique pour les jumeaux)",
+                "definition_en": "(honorific for twins)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ zɔ̌b tà ngie shÿɔ̂málà mbwo mefág.",
+                        "fr": "Ils ont chanté jusqu’à dire « shÿɔ̂málà » aux jumeaux.",
+                        "en": "They sang until they said “shÿɔ̂málà” to the twins."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shÿɔ́ɔ",
+        "pronounciation": "ʃɰɔ́:",
+        "synonym": [
+            "shÿóo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éléphant",
+                "definition_en": "elephant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿɔ́ʼ",
+        "pronounciation": "ʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "téphrosie",
+                "definition_en": "fish bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shÿɔ́ʼ ngwɔ̌ʼ",
+        "pronounciation": "ʃɰɔ́ʔ ŋ̩̀gwɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (brun et de petite taille)",
+                "definition_en": "sp. ant (brown and small)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "si",
+        "pronounciation": "sì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui-là (pron. dém. de loin qui modifie les noms de la classe 5) ; ceux ; ceux-là (pron. dém. de loin qui modifie les noms de la classe 8)",
+                "definition_en": "that one; that one there; those; those there (distant demonstrative pronoun referring to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Lelÿɔʼ sɔɔn á lekʉŋ, gʉa ḿbí si pɔ́gɔ̀ kẅiʼi mǒ.",
+                        "fr": "Voici l’igname dans la marmite, va prendre cela nous ajoutons dessus.",
+                        "en": "Here is the yam in the pot, go take that we add on top."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de loin qui modifie les noms de la classe 5) ; ces ... -là (adj. dém. de loin qui modifie les noms de la classe 8)",
+                "definition_en": "that; that ... there; those ... there (distant demonstrative adjective referring to class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sí",
+        "pronounciation": "sí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bal",
+                "definition_en": "dance",
+                "examples": [
+                    {
+                        "dialect": "A ka zɔ́ʼɔ nzwě we tà ńgÿo sí.",
+                        "fr": "Il a épousé sa femme jusqu’à faire le bal.",
+                        "en": "He married his wife until he went to the ball."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sí",
+        "pronounciation": "sí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malchance",
+                "definition_en": "bad luck",
+                "examples": [
+                    {
+                        "dialect": "Kɔ sí ɔ̀ yɛ̂!",
+                        "fr": "Prends ta malchance-ci !",
+                        "en": "Take your bad luck!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sí",
+        "pronounciation": "sí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 5) ; les vôtres (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 8)",
+                "definition_en": "yours (second person plural possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "votre (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 5) ; vos  (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 8)",
+                "definition_en": "your (second person plural possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "votre (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 5) ; vos  (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 8)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sî",
+        "pronounciation": "sî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plant ; germoir ; pousse",
+                "definition_en": "seedling; seed tray; shoot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sie",
+        "pronounciation": "sìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que ; qui (pron. relatif qui modifie les noms des classes 5 et 8)",
+                "definition_en": "that; who (relative pronoun modifying class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ́ʼ lesoŋ sie é ne ńgyáŋa!",
+                        "fr": "Enlève la dent qui fait mal !",
+                        "en": "Remove the hurting tooth!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sìɛ",
+        "pronounciation": "sìɛ̏",
+        "synonym": [
+            "sìɛ nÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouilleur ; contrôleur ; inspecteur ; vérificateur",
+                "definition_en": "researcher; controller; inspector; checker",
+                "examples": [
+                    {
+                        "dialect": "Asìɛ fúɔ tǒ tà ńnéŋe ssé.",
+                        "fr": "Le fouilleur des poux est venu jusqu’à s’asseoir.",
+                        "en": "The lice searcher came over and sat down."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sìɛ nÿɔ́g",
+        "pronounciation": "sìɛ̏ nɰɔ́q̚",
+        "synonym": [
+            "sìɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouilleur ; contrôleur ; inspecteur ; vérificateur",
+                "definition_en": "researcher; controller; inspector; checker",
+                "examples": [
+                    {
+                        "dialect": "Asìɛ fúɔ tǒ tà ńnéŋe ssé.",
+                        "fr": "Le fouilleur des poux est venu jusqu’à s’asseoir.",
+                        "en": "The lice searcher came over and sat down."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sìɛte",
+        "pronounciation": "sìɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchiqueteur",
+                "definition_en": "shredder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "síi melʉ́a",
+        "pronounciation": "síː mèlɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìkáa",
+        "pronounciation": "sȉkáː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cigarette",
+                "definition_en": "cigarette",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sìle",
+        "pronounciation": "sìlȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "économiste",
+                "definition_en": "economist",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn láʼ gwɔ kwàʼ sìle mmó.",
+                        "fr": "Cet enfant sera un vrai économiste.",
+                        "en": "This child will be a real economist."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sílépà",
+        "pronounciation": "sílépȁ",
+        "synonym": [
+            "sílípà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monnaie ancienne",
+                "definition_en": "ancient money",
+                "examples": []
+            }
+        ]
+    }
+]

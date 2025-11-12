@@ -1,0 +1,452 @@
+[
+    {
+        "noun": "grumble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo ngyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "g-string",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwasí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guano bat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀bɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guard, forest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèmóon púʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guardian",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàtsab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mántsab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀bɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyɛ̀b pyɛ̌b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guardianship, under",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guava",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngelávù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngeyávò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngalávù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guava tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ngelávù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guenon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwě nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tyɛ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntyɛ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnyɛ̀ nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guide for a mat being woven",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon nkíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guinea-fowl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ŋ ngaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guiro",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gum resin, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "míile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gums",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gun",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gun firing, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kélèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gun, ineffective",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tème ntaŋatuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gun, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tème nkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mafúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gunman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gunpowder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gunshot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòngú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gush out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́te",
+                "examples": []
+            }
+        ]
+    }
+]

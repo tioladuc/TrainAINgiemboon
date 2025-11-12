@@ -1,0 +1,52 @@
+[
+    {
+        "noun": "yɔ́ɔn",
+        "pronounciation": "jɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj.add",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "me ; aussi ; également (pronom objet de la 1ère personne du singulier qui a une fonction additive quand il répète le sujet.)",
+                "definition_en": "me; also; too; equally (first person singular object pronoun with additive function while repeating the subject)",
+                "examples": [
+                    {
+                        "dialect": "N tǒ yɔ́ɔn.",
+                        "fr": "Je suis aussi venu.",
+                        "en": "I also came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yɔ̀ɔn",
+        "pronounciation": "jɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le mien (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 9)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ndá jù kɔ̌g tɛʼ, e tè páʼ yɔ̀ɔn mɔ́.",
+                        "fr": "Ta maison est petite, ce n’est pas comme la mienne.",
+                        "en": "Your house is small, it's not like mine."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mon (adj. poss. de la 1ère personne du singulier qui modifie les noms des classes 9)",
+                "definition_en": "my (first person singular possessive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss.  emph. de la 1ère personne du singulier qui modifie les noms des classes 9)",
+                "definition_en": "my (first person singular emphatic possessive adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    }
+]

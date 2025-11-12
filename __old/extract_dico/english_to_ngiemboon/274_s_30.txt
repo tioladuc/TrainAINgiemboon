@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "splitting wedge, log",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "split up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "split wood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoil each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoils",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kíbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoilsport",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀te mennáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùb lekʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa tág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyága gyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoils things, person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfɔ̌b metyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máfɛ̌ metyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sponge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉpÿɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sponge, metallic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùsáa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spoon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅéte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lǎg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pǎb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spotted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pǎbpab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spotted hyena",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làkùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spout",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdémte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spray-painted, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtubte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spread",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spread a powder here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkemte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spread out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ̀bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spring",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sáʼa ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spring reservoir",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿɔ́bɔ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sprinkle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sprout",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spud",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅǐŋ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,435 @@
+[
+    {
+        "noun": "fím",
+        "pronounciation": "fím",
+        "synonym": [
+            "vǎd ",
+            " kǎd ",
+            " gǎd ",
+            " vàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très vite",
+                "definition_en": "very fast",
+                "examples": [
+                    {
+                        "dialect": "Matûa cʉ̌a lǎŋ lê fím, tà cʉ́ʼʉ méjʉʼ vɛ́ mbùmo nò kẅɛ.",
+                        "fr": "La voiture est passé très vite si bien qu’il a failli y avoir un accident.",
+                        "en": "The car passed so quickly that there was almost an accident."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fǐŋ",
+        "pronounciation": "fĩ́ŋ",
+        "synonym": [
+            "sẅǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fibre de raphia",
+                "definition_en": "raffia fibre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fipà ngalásè",
+        "pronounciation": "fìpȁ ŋ̩̀gàlásȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citronnelle",
+                "definition_en": "lemongrass; lemon leaf",
+                "examples": [
+                    {
+                        "dialect": "Mé ge kẅiʼi fipà ngálásè na ffo lÿɔ̀g nnɛ́.",
+                        "fr": "On va ajouter la citronnelle sur le remède du paludisme.",
+                        "en": "We will add lemongrass to the malaria remedy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fó",
+        "pronounciation": "fó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quand même",
+                "definition_en": "all the same",
+                "examples": [
+                    {
+                        "dialect": "Fó ńtúmo tàʼ nyìŋ ne mèŋ, à kẅéte wɔ́ɔn.",
+                        "fr": "Envoie-moi quand même quelqu’un, il m’aide.",
+                        "en": "Send me someone anyway, he will help me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fó ... lâ",
+        "pronounciation": "fó ... lâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quand même",
+                "definition_en": "all the same",
+                "examples": [
+                    {
+                        "dialect": "Fó ńtó lâ.",
+                        "fr": "Viens quand même.",
+                        "en": "Come anyway."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fòbe",
+        "pronounciation": "fòβȅ",
+        "synonym": [
+            "fùbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ordure",
+                "definition_en": "filth",
+                "examples": []
+            },
+            {
+                "definition_fr": "pellicule",
+                "definition_en": "film",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foffó",
+        "pronounciation": "fòfːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourmilière ; lieu sacré",
+                "definition_en": "anthill; sacred site",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foffò",
+        "pronounciation": "fòfːȍ",
+        "synonym": [
+            "feffò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourreau",
+                "definition_en": "executioner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fólóŋ",
+        "pronounciation": "fólṍŋ",
+        "synonym": [
+            "nzab sẅísẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "spiny amaranth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fóm",
+        "pronounciation": "fɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vent fort ; tornade",
+                "definition_en": "strong wind; tornado",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fòm",
+        "pronounciation": "fɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieille place",
+                "definition_en": "old place",
+                "examples": []
+            },
+            {
+                "definition_fr": "concession abandonnée",
+                "definition_en": "abandoned concession",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fòme",
+        "pronounciation": "fɤ̀mȅ",
+        "synonym": [
+            "fème"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saleté ; excrément",
+                "definition_en": "dirtiness; dirt; excrement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fòmo",
+        "pronounciation": "fɤ̀mȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moisissure",
+                "definition_en": "mould",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fómtè",
+        "pronounciation": "fɤ́mtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orgueil",
+                "definition_en": "pride",
+                "examples": [
+                    {
+                        "dialect": "Afómtè yé cʉa ye tá we.",
+                        "fr": "Son orgueil dépasse celui de son père.",
+                        "en": "His pride surpasses that of his father."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fòŋ",
+        "pronounciation": "fõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vache (gén.)",
+                "definition_en": "cow (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fòŋ",
+        "pronounciation": "fõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "visiteur des malades",
+                "definition_en": "visitor to sick people",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ́ méguɔ kwé, ńzága fòŋo.",
+                        "fr": "Certains malades meurent par manque de visiteur.",
+                        "en": "Some patients die from lack of visitors."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fóon",
+        "pronounciation": "fṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serin",
+                "definition_en": "canary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̀b",
+        "pronounciation": "fɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. coléoptère",
+                "definition_en": "sp. beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̀bɔ njʉʼ",
+        "pronounciation": "fɔ̀βɔ̏ ǹ̩dʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pistache immature",
+                "definition_en": "unripe pistachio nut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̀bte",
+        "pronounciation": "fɔ̀ptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œdèmes",
+                "definition_en": "oedema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̂d",
+        "pronounciation": "fɔ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faute ; erreur",
+                "definition_en": "mistake; fault; error",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ́g",
+        "pronounciation": "fɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coépouse",
+                "definition_en": "co-wife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔg njÿó",
+        "pronounciation": "fɔ̀q̚ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube",
+                "definition_en": "dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fɔ́gɔ",
+        "pronounciation": "fɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc ; blanchâtre",
+                "definition_en": "white; off-white",
+                "examples": [
+                    {
+                        "dialect": "À gwǎa gʉa cÿɔ́ɔsè ḿmaʼa fɔ́gɔ nzsǒ.",
+                        "fr": "Avant d’aller à l’église, il a porté l’habit blanc.",
+                        "en": "Before going to church, he wore a white habit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fɔ̀gɔ",
+        "pronounciation": "fɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aliment sans sauce",
+                "definition_en": "food without sauce",
+                "examples": [
+                    {
+                        "dialect": "A ne ńjÿó mesaŋá fɔ̀gɔ.",
+                        "fr": "Il mange le couscous sans sauce.",
+                        "en": "He eats the couscous without sauce."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "aliment non-huilé",
+                "definition_en": "food without oil added",
+                "examples": []
+            },
+            {
+                "definition_fr": "vide",
+                "definition_en": "empty",
+                "examples": []
+            }
+        ]
+    }
+]

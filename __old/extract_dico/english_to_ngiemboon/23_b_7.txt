@@ -1,0 +1,452 @@
+[
+    {
+        "noun": "beans, k. basket for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekumó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, soya",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sójà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mélɔɔn mbÿɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lème ńnéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tyenkwé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú mágmág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njwò kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "séssé mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú sséssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. large black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mátswǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepàŋ mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú maki",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú pepàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. small black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyéntsem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. small red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matítí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bean, sp. white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "malákú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú féfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beans, sp. speckled",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekú mentsáʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káŋa mekéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú káŋa mekéle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beating",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beat up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beauty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meshùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "because",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtí nue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mélàʼmie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mélàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtí páʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "because of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "because of that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be clear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed bug",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅíbè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngímè ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bedcover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyè kú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed crosspiece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbéŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed, foot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋ kǔ",
+                "examples": []
+            }
+        ]
+    }
+]

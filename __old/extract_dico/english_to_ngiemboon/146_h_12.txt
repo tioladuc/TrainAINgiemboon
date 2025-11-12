@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "house, floor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house, forbidden",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house of God",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house, one who craps in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánʉnʉʉ (ndá)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house, part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house’s entrance, wall opposite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "méndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "houses, row of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋa ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "house, two-storey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá ndêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "housewife",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀g mbʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hovel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ʼte ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoverfly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ ntsẅɛ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepàŋ ntsẅɛ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùmo tʉ̂atʉ̂a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "how?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lêkɛ̂",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lêkɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "how are you?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "á lekɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "how do you do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgaa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà ńgaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "how do you do?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "légǎ là",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "however",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "howl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "how many ...?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yéshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "séshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wéshÿɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "huge, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éseŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hugger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ kʉ́kʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hull",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hull some groundnut pods",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "human being",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìŋ mesoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "human beings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̀a mesoŋ",
+                "examples": []
+            }
+        ]
+    }
+]

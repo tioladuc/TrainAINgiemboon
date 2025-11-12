@@ -1,0 +1,386 @@
+[
+    {
+        "noun": "mushroom, sp. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsàpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "musical ensemble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leluŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "musical instrument (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shúm leluŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "musical instrument, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pímte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ́gɔ mbɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "métsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "musk shrew (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "must",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkeʼé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "must, as one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "páʼ á zɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mutual aid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mutual assistance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvɛ̀d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "my",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "myrrh",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "míile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "myself, I",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ mèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mystical theft",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mystical way",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm ndyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "my, your and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    }
+]

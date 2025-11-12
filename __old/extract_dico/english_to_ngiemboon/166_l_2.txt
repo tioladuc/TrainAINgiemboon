@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "language, Ghomala",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa nzsekàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Kako",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa shÿó Bɛgtùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Kom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa njinikom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Medumba",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò ngáŋtʉɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Ngiemboon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò ngiembɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language (speaking)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Yangben",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa shÿó Mbafia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "language, Yemba",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò Tsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lapping, waves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kétáʼtǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lapse in concentration",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́me",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "memǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèkwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máamáa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbíg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "large, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "larva",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀kÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "larva, frog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmbyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "larva, pentatomid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "larva, toad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmbyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "last",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsòte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsònzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsòte nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "last, at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lastly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿênjÿê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "late",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zàʼa cʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "late, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "latecomer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "later",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ tá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "laterite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ mekwaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "later, see you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ tsɔ́ fʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    }
+]

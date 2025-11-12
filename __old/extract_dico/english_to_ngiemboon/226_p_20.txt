@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "prominent citizen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkěm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prominent citizens",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prominent sacrificer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "móonpuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prominent totem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsẅɛ̀ʼ lepfwɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "promise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "promises, person who keeps",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gɔ̀ɔn ńgÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "promoter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùte melàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "promotion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "manzòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pronounce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prophet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅì nkʉ̀ Ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngěm ndÿɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "propolis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lìi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prosecutor, public",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prosper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prostitute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ mànzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káa tÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàlà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ mpfwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prostitute, make someone become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfwɔʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prostitute oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwala",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "protect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "protector",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "protein",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿòonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Protestant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pòlosetâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "proud, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfómte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "provenance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "proverb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàg legʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sagá nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̌ɔn nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "proverbs, speaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "province",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga ngwòŋ",
+                "examples": []
+            }
+        ]
+    }
+]

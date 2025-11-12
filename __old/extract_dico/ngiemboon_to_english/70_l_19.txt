@@ -1,0 +1,403 @@
+[
+    {
+        "noun": "liʼ",
+        "pronounciation": "lìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poison",
+                "definition_en": "poison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lò",
+        "pronounciation": "lò",
+        "synonym": [
+            "lɔ̀ ",
+            " ńdo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.irrég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vas ; parts (toujours à l’impératif présent)",
+                "definition_en": "go; leave",
+                "examples": [
+                    {
+                        "dialect": "Pi lo, ńdíe yé, tà aa mbʉ̀a wɔ́!",
+                        "fr": "Allez le regarder, s’il est à la maison !",
+                        "en": "Go watch him, if he’s home!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lóŋ",
+        "pronounciation": "lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cou",
+                "definition_en": "neck",
+                "examples": []
+            },
+            {
+                "definition_fr": "col",
+                "definition_en": "collar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lóŋ",
+        "pronounciation": "lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nervosité",
+                "definition_en": "nervousness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lǒŋ",
+        "pronounciation": "lõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresse",
+                "definition_en": "laziness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lóŋ ntsìɛ",
+        "pronounciation": "lṍŋ ǹ̩tsìɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaise",
+                "definition_en": "chair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lôŋ nzsǒ",
+        "pronounciation": "lõ̂ŋ ǹ̩dzsǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "col",
+                "definition_en": "collar; pass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lóŋ tekwò",
+        "pronounciation": "lṍŋ tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup de l’orteil",
+                "definition_en": "blow from a toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lòŋngáa",
+        "pronounciation": "lõ̏ŋŋ̩̀gáː",
+        "synonym": [
+            "lùŋngɔ́ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seau",
+                "definition_en": "bucket; pail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lòŋo",
+        "pronounciation": "lõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigre",
+                "definition_en": "thin; skinny",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̀",
+        "pronounciation": "lɔ̀",
+        "synonym": [
+            "lò ",
+            " ńdo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.irrég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vas ; parts (toujours à l’impératif présent)",
+                "definition_en": "go; leave",
+                "examples": [
+                    {
+                        "dialect": "Pi lo, ńdíe yé, tà aa mbʉ̀a wɔ́!",
+                        "fr": "Allez le regarder, s’il est à la maison !",
+                        "en": "Go watch him, if he’s home!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̀b",
+        "pronounciation": "lɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drogue",
+                "definition_en": "drug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔg ndúɔ",
+        "pronounciation": "lɔ̀q̚ ɳ̩̀ɖúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demande",
+                "definition_en": "demand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔg ngwág",
+        "pronounciation": "lɔ̀q̚ ŋ̩̀gwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "objet de consolation",
+                "definition_en": "object of the consolation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̀g ntʉte",
+        "pronounciation": "lɔ̏q̚ ɳ̩̀ʈɯ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défense",
+                "definition_en": "defence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔgɔ́",
+        "pronounciation": "lɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avec",
+                "definition_en": "with",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔgɔ́ kɔ́ ńtó?",
+                        "fr": "Tu es venu avec quoi ?",
+                        "en": "What did you come with?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔ́gtà",
+        "pronounciation": "lɔ́qtȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "médecin ; docteur ; hôpital",
+                "definition_en": "doctor; hospital",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔɔn",
+        "pronounciation": "lɔ̃̀ː",
+        "synonym": [
+            "ńdɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtó, ɔ̀ náʼa ńkɔ́ʼ.",
+                        "fr": "Si tu viens, tu coupes un peu.",
+                        "en": "If you come, you cut a little."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔɔn",
+        "pronounciation": "lɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ici (adj. dém. de proche proximité qualifie les noms de tous les classes)",
+                "definition_en": "here (close dem. adj. qualifying nouns from all classes)",
+                "examples": [
+                    {
+                        "dialect": "Awɔɔn gẅie à gʉ̌a tà ńkúu jʉʼɔɔn lɔɔn.",
+                        "fr": "Le voici qui est parti jusqu’à arriver ici.",
+                        "en": "Here he left until he arrived here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̀ɔn",
+        "pronounciation": "lɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forge",
+                "definition_en": "forge; smithy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̌ɔn",
+        "pronounciation": "lɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé loin, habituel achevé",
+                "definition_en": "habit finished, far past",
+                "examples": [
+                    {
+                        "dialect": "À lɔ̌ɔn těen ńkwoŋo ngie n tóŋo yé lezíŋ wɔ́.",
+                        "fr": "Il n’aimait pas que je l’appelle par le nom.",
+                        "en": "He didn't like me calling him by his name."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̌ɔn kwò",
+        "pronounciation": "lɔ̃̌ː kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plante du pied",
+                "definition_en": "sole of the foot; ball of the foot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ́ɔn liŋ",
+        "pronounciation": "lɔ̃́ː lĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur maman",
+                "definition_en": "future mother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ́ɔn ndá",
+        "pronounciation": "lɔ̃́ː ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mariage",
+                "definition_en": "marriage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̌ɔn pwó",
+        "pronounciation": "lɔ̃̌ː pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paume de la main",
+                "definition_en": "palm of the hand",
+                "examples": []
+            }
+        ]
+    }
+]

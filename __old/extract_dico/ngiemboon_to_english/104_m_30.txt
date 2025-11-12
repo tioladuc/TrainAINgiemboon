@@ -1,0 +1,396 @@
+[
+    {
+        "noun": "mesètɔ̂b",
+        "pronounciation": "mèsȅtɔ̂p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "escalier",
+                "definition_en": "stairs; staircase",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meshùm",
+        "pronounciation": "mèʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beauté ; enjolivement",
+                "definition_en": "beauty; adornment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meshʉ̀a",
+        "pronounciation": "mèʃɯ̀ȁ",
+        "synonym": [
+            "mencʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit espace de temps",
+                "definition_en": "small space of time",
+                "examples": [
+                    {
+                        "dialect": "N ge gẅiin meshʉ̀a é tó.",
+                        "fr": "Je vais venir quand j’aurai un petit espace de temps.",
+                        "en": "I will come when I have a little space of time."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "meshʉ̀a",
+        "pronounciation": "mèʃɯ̀ȁ",
+        "synonym": [
+            "mencʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit trou",
+                "definition_en": "small hole",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méshʉa",
+        "pronounciation": "méʃɯ̀à",
+        "synonym": [
+            "mencʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflet verticale en corne d’animale",
+                "definition_en": "vertical animal horn whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méshʉŋ",
+        "pronounciation": "méʃɯ̃̀ŋ",
+        "synonym": [
+            "shʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oiseau (gén.)",
+                "definition_en": "bird (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méshʉŋ lùm",
+        "pronounciation": "méʃɯ̃̀ŋ lùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guêpier à gorge blanche",
+                "definition_en": "white-throated bee-eater",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méshÿɔ́ʼɔ",
+        "pronounciation": "méʃɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien de ... ? (demandant pour les noms des classes 4 et 6)",
+                "definition_en": "how many ...? (question for nouns from classes 4 and 6)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a méshÿɔ́ʼɔ kaa cúʼtè?",
+                        "fr": "Combien des personnes étaient à la réunion ?",
+                        "en": "How many people were at the meeting?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mesẅé",
+        "pronounciation": "mèsːẅé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouveaux (qualifie les noms des classes 4 et 6)",
+                "definition_en": "new (modifies class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À tÿɔ̌g mekwɔ̀ʼɔ mesẅé ndá yé.",
+                        "fr": "Il a mis les nouvelles chaises chez lui.",
+                        "en": "He put the new chairs in his house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mesẅɛ̌",
+        "pronounciation": "mèsɥɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avenue ; couloir",
+                "definition_en": "avenue; corridor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mesẅɛ̀ʼ",
+        "pronounciation": "mèsɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contentieux ; litigieux",
+                "definition_en": "disputes; litigation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métá",
+        "pronounciation": "métá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trois (modifiant les noms de la classe 2)",
+                "definition_en": "three (modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métá",
+        "pronounciation": "métá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frère consanguin",
+                "definition_en": "stepbrother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metagá",
+        "pronounciation": "mètàʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devanture ; entrée",
+                "definition_en": "shop front; entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métàʼ ntse",
+        "pronounciation": "métȁʔ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affluent",
+                "definition_en": "affluent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métòŋ",
+        "pronounciation": "métõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souimanga (gén.) ; « colibri » (en français local)",
+                "definition_en": "sunbird (generic); \"hummingbird\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metoŋó",
+        "pronounciation": "mètõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfoncé",
+                "definition_en": "recessed",
+                "examples": [
+                    {
+                        "dialect": "Aa metoŋó nÿɔ́g.",
+                        "fr": "Il a les yeux enfoncés.",
+                        "en": "His eyes are sunken."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "métoon",
+        "pronounciation": "métõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit caillou",
+                "definition_en": "small pebble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métsàʼ",
+        "pronounciation": "métsȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. oiseau",
+                "definition_en": "sp. bird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métsàʼ",
+        "pronounciation": "métsȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de musique",
+                "definition_en": "k. musical instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metse",
+        "pronounciation": "mètsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sang",
+                "definition_en": "blood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metsèm",
+        "pronounciation": "mètsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tous (qualifie les noms de la classe 2)",
+                "definition_en": "all (qualifies class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tsẅii pʉ̀a metsèm tó.",
+                        "fr": "Dis à tous les gens de venir.",
+                        "en": "Tell everyone to come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "metsì",
+        "pronounciation": "mètsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blennorragie ; chaudepisse ; syphilis",
+                "definition_en": "gonorrhoea; syphilis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metsì ntʉ̀",
+        "pronounciation": "mètsȉ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaudepisse chronique",
+                "definition_en": "chronic clap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metsɔ́",
+        "pronounciation": "mètsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certains ; autres (modifiant les noms des classes 4 et 6)",
+                "definition_en": "certain; other (modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À ka sáŋ meŋwàʼne metsɔ́ zág.",
+                        "fr": "Il a compté les livres, certains ont manqué.",
+                        "en": "He counted the books, some were missing."
+                    }
+                ]
+            }
+        ]
+    }
+]

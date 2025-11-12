@@ -1,0 +1,461 @@
+[
+    {
+        "noun": "ńkẅíd",
+        "pronounciation": "ŋ̩́kɥít̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "renforcer le bord du panier",
+                "definition_en": "reinforce a basket edge",
+                "examples": [
+                    {
+                        "dialect": "À paʼá túŋ tà á cʉ́ʼʉ lékẅíd mengʉ̀ŋe.",
+                        "fr": "Il a tissé le panier jusqu’à ce qu’il ne manque que de renforcer le bord.",
+                        "en": "He wove the basket until all he needed was to reinforce the rim."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅie",
+        "pronounciation": "ŋ̩́kɥìè",
+        "synonym": [
+            "ńkẅɛʼɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’asseoir gaillardement",
+                "definition_en": "sit down cheerfully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅíɛ",
+        "pronounciation": "ŋ̩́kɥíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se croiser les jambes",
+                "definition_en": "cross one’s legs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅíge",
+        "pronounciation": "ŋ̩́kɥíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attiser le feu",
+                "definition_en": "stir the fir",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅile",
+        "pronounciation": "ŋ̩́kɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever ; retirer",
+                "definition_en": "remove; withdraw",
+                "examples": []
+            },
+            {
+                "definition_fr": "éditer",
+                "definition_en": "edit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅìle ŋwèʼe",
+        "pronounciation": "ŋ̩̀kɥìlȅ ŋwə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éditeur",
+                "definition_en": "editor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅinkẅèen",
+        "pronounciation": "ŋ̩̀kɥìŋkɥẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante qui permet d’avoir du fil",
+                "definition_en": "sp. plant used to make thread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅíŋ",
+        "pronounciation": "ŋ̩̀kɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bois",
+                "definition_en": "wood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅiŋ",
+        "pronounciation": "ŋ̩́kɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embellir ; décorer",
+                "definition_en": "make attractive; decorate",
+                "examples": []
+            },
+            {
+                "definition_fr": "assaisonner",
+                "definition_en": "season",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkẅìŋe",
+        "pronounciation": "ŋ̩̀kɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui assaisonne",
+                "definition_en": "someone who seasons",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅiŋte",
+        "pronounciation": "ŋ̩́kɥĩ̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encourager",
+                "definition_en": "encourage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅíʼ",
+        "pronounciation": "ŋ̩́kɥíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "durcir",
+                "definition_en": "harden",
+                "examples": []
+            },
+            {
+                "definition_fr": "congeler",
+                "definition_en": "freeze",
+                "examples": []
+            },
+            {
+                "definition_fr": "être totalement sec",
+                "definition_en": "be completely dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkẅiʼi",
+        "pronounciation": "ŋ̩́kɥìʔì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ajouter ; additionner",
+                "definition_en": "add to; add up",
+                "examples": []
+            },
+            {
+                "definition_fr": "agrandir ; augmenter",
+                "definition_en": "increase",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyag",
+        "pronounciation": "ŋ̩́kjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchirer",
+                "definition_en": "tear",
+                "examples": []
+            },
+            {
+                "definition_fr": "éventrer",
+                "definition_en": "disembowel",
+                "examples": []
+            },
+            {
+                "definition_fr": "dévoiler",
+                "definition_en": "unveil; unmask",
+                "examples": []
+            },
+            {
+                "definition_fr": "laisser",
+                "definition_en": "to leave",
+                "examples": []
+            },
+            {
+                "definition_fr": "trahir",
+                "definition_en": "betray",
+                "examples": []
+            },
+            {
+                "definition_fr": "déchirer ; détruire",
+                "definition_en": "rip ; destroy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkyàga",
+        "pronounciation": "ŋ̩̀kjàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "draineur",
+                "definition_en": "one who drains",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyagte",
+        "pronounciation": "ŋ̩́kjàqtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traduire",
+                "definition_en": "translate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkyàgte ŋwàʼne Ssé",
+        "pronounciation": "ŋ̩̀kjàqtȅ ŋwȁʔnè sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scribe",
+                "definition_en": "scribe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyáŋ",
+        "pronounciation": "ŋ̩́kjã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "résonner",
+                "definition_en": "resound",
+                "examples": []
+            },
+            {
+                "definition_fr": "égayer",
+                "definition_en": "amuse",
+                "examples": []
+            },
+            {
+                "definition_fr": "résonner ; craquer",
+                "definition_en": "resonate; crack",
+                "examples": []
+            },
+            {
+                "definition_fr": "égayer",
+                "definition_en": "brighten up",
+                "examples": [
+                    {
+                        "dialect": "Nèm tʉ̌a na mekú tà é ne ńkyáŋte.",
+                        "fr": "Le soleil a brillé sur le haricot si bien qu’il résonner.",
+                        "en": "The sun shone on the bean so that it resonated."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkyáŋ",
+        "pronounciation": "ŋ̩́kjã́ŋ",
+        "synonym": [
+            "ńdóŋte ",
+            " ńdʉ́me ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "manage; make do",
+                "examples": []
+            },
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "get by",
+                "examples": [
+                    {
+                        "dialect": "À naʼá ne ńkyáŋte na sɔ̌ɔn.",
+                        "fr": "Il se débrouille un peu sur le commerce.",
+                        "en": "He's doing a bit of business."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkyè",
+        "pronounciation": "ŋ̩̀kxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "offrande des vivres lors des funérailles",
+                "definition_en": "food offering during a funeral",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyé",
+        "pronounciation": "ŋ̩́kxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abandonner",
+                "definition_en": "abandon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyeen",
+        "pronounciation": "ŋ̩́kjẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever la peau ; écorcher ; dépiauter ; éplucher",
+                "definition_en": "remove the skin; skin; open; peel",
+                "examples": []
+            },
+            {
+                "definition_fr": "enlever la liane",
+                "definition_en": "remove the vine",
+                "examples": []
+            },
+            {
+                "definition_fr": "éplucher",
+                "definition_en": "peel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyéen",
+        "pronounciation": "ŋ̩́kjẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger sans appétit",
+                "definition_en": "eat without being hungry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkyéen",
+        "pronounciation": "ŋ̩́kjẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tordre le linge ; essorer",
+                "definition_en": "wring the laundry; shake dry; spin-dry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkyɛ̀",
+        "pronounciation": "ŋ̩̀kjɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couche superficielle d’un bambou",
+                "definition_en": "outside layer of bamboo",
+                "examples": []
+            }
+        ]
+    }
+]

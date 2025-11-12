@@ -1,0 +1,385 @@
+[
+    {
+        "noun": "lefomó",
+        "pronounciation": "lèfɤ̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forêt sacrée ; taillis sacré",
+                "definition_en": "sacred forest; sacred copse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefóon",
+        "pronounciation": "lèfṍː",
+        "synonym": [
+            "lefwóon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graisse",
+                "definition_en": "grease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefóon nŋwáʼ",
+        "pronounciation": "lèfṍː ŋ̩̀ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cire",
+                "definition_en": "wax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefɔ́g",
+        "pronounciation": "lèfɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "relation de coépouse",
+                "definition_en": "relationship between co-wives",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefɔ̌ɔn",
+        "pronounciation": "lèfɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "huit",
+                "definition_en": "eight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefùɔ",
+        "pronounciation": "lèfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "royauté ; dynastie",
+                "definition_en": "royalty; monarchy; dynasty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefwóon",
+        "pronounciation": "lèfwṍː",
+        "synonym": [
+            "lefóon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graisse",
+                "definition_en": "grease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefÿàg",
+        "pronounciation": "lèfɰɔ̏q̚",
+        "synonym": [
+            "lefÿɔ̀g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou de chine",
+                "definition_en": "Chinese bamboo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefÿɛ́",
+        "pronounciation": "lèfɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animal grasse ; stérilité chez les animaux",
+                "definition_en": "fat animal; sterile animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefÿɛ́",
+        "pronounciation": "lèfɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lefÿɔ̀g",
+        "pronounciation": "lèfɰȁq̚",
+        "synonym": [
+            "lefÿàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou de chine",
+                "definition_en": "Chinese bamboo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "légǎ là",
+        "pronounciation": "léɣǎ lȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment tu trouves ?",
+                "definition_en": "how do you do?",
+                "examples": [
+                    {
+                        "dialect": "Á légǎ là? Á lepòŋo wég.",
+                        "fr": "?",
+                        "en": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "legabá",
+        "pronounciation": "lèɣàβá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aisselle",
+                "definition_en": "armpit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legàbte",
+        "pronounciation": "lèɣàptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répartition (action de répartir)",
+                "definition_en": "distribution (action of sharing out)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legáʼ",
+        "pronounciation": "lèɣáʔ",
+        "synonym": [
+            "agáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement",
+                "definition_en": "development",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legém",
+        "pronounciation": "lèɣə́m",
+        "synonym": [
+            "legʉ́m"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dix",
+                "definition_en": "ten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ",
+        "pronounciation": "lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plante",
+                "definition_en": "plant",
+                "examples": [
+                    {
+                        "dialect": "Gʉa nkáʼ ńtsɔ́ʼte megǐ na mekú.",
+                        "fr": "Va au champ enlever les herbes sur le haricot.",
+                        "en": "Go to the field to remove the weeds from the beans."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "brousse",
+                "definition_en": "bush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ mbí",
+        "pronounciation": "lèɣǐ m̩̀bí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ mefùɔ",
+        "pronounciation": "lèɣǐ mèfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émilie",
+                "definition_en": "yellow tassleflower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ metʉ̌a",
+        "pronounciation": "lèɣǐ lètɯ̀á",
+        "synonym": [
+            "legǐ tetʉ́a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "goosegrass; bullgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ ngǐm",
+        "pronounciation": "lèɣǐ ŋ̩̀gǐm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legǐ tetʉ̌a",
+        "pronounciation": "lèɣǐ tètɯ̀á",
+        "synonym": [
+            "legǐ metʉ́a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "goosegrass; bullgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legìŋ",
+        "pronounciation": "lèɣĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voyage",
+                "definition_en": "journey; trip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legiŋé nkímte",
+        "pronounciation": "lèɣĩ̀ŋé ŋ̩̀kímté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "révision",
+                "definition_en": "revision; review",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legɔ̀ɔn",
+        "pronounciation": "lèɣɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parole ; mot",
+                "definition_en": "speech; word",
+                "examples": []
+            }
+        ]
+    }
+]

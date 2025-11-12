@@ -1,0 +1,445 @@
+[
+    {
+        "noun": "ńcÿoonte",
+        "pronounciation": "ń̩tʃɰõ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devenir gras",
+                "definition_en": "become fat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿóonte",
+        "pronounciation": "ń̩tʃɰṍːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "découper",
+                "definition_en": "cut up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿóte",
+        "pronounciation": "ń̩tʃːɰóté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traîner",
+                "definition_en": "pull; drag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔ nò",
+        "pronounciation": "ń̩tʃɰɔ̀ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mentir",
+                "definition_en": "lie",
+                "examples": []
+            },
+            {
+                "definition_fr": "mentir",
+                "definition_en": "lie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿɔ̀b",
+        "pronounciation": "ǹ̩tʃɰɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terre sacrée",
+                "definition_en": "sacred ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔb",
+        "pronounciation": "ń̩tʃɰɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empoisonner",
+                "definition_en": "poison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔ́b",
+        "pronounciation": "ń̩tʃɰɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couper du bois",
+                "definition_en": "cut wood",
+                "examples": []
+            },
+            {
+                "definition_fr": "couper en plusieurs morceaux",
+                "definition_en": "cut into several pieces",
+                "examples": []
+            },
+            {
+                "definition_fr": "gronder",
+                "definition_en": "scold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿɔ̀bɔ",
+        "pronounciation": "ǹ̩tʃɰɔ̀βɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empoisonneur",
+                "definition_en": "poisoner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿɔ̀g",
+        "pronounciation": "ń̩tʃɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grondeur",
+                "definition_en": "scolder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔg",
+        "pronounciation": "ń̩tʃɰɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être endurci",
+                "definition_en": "be hardened",
+                "examples": [
+                    {
+                        "dialect": "Lelÿɔʼ cÿɔgɔ́.",
+                        "fr": "L’igname s’est endurci.",
+                        "en": "The yam has hardened."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "devenir mûr",
+                "definition_en": "become ripe",
+                "examples": []
+            },
+            {
+                "definition_fr": "vieillir",
+                "definition_en": "grow old",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔ́g",
+        "pronounciation": "ń̩tʃɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gronder",
+                "definition_en": "rumble; growl",
+                "examples": []
+            },
+            {
+                "definition_fr": "être piquant ; être aigre",
+                "definition_en": "be hot; be sour",
+                "examples": []
+            },
+            {
+                "definition_fr": "être chère",
+                "definition_en": "be expensive",
+                "examples": []
+            },
+            {
+                "definition_fr": "blâmer",
+                "definition_en": "blame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿɔʼ",
+        "pronounciation": "ǹ̩tʃɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peureuse",
+                "definition_en": "fearful person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔʼ",
+        "pronounciation": "ń̩tʃɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "craindre ; avoir peur",
+                "definition_en": "fear; be afraid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿɔʼ",
+        "pronounciation": "ń̩tʃɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tremper",
+                "definition_en": "soak; drench",
+                "examples": [
+                    {
+                        "dialect": "Ńcÿɔʼ mesaŋá na nnáʼ.",
+                        "fr": "Tremper le couscous dans la seau.",
+                        "en": "Dip the couscous in the bucket."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pointer ; mettre une tache",
+                "definition_en": "tick off; make a stain; make a mark",
+                "examples": []
+            },
+            {
+                "definition_fr": "tacheter ; pointiller ; marqueter",
+                "definition_en": "to spot; dot; inlay",
+                "examples": []
+            },
+            {
+                "definition_fr": "flatter ; leurrer",
+                "definition_en": "flatter; lure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿɔ̀ʼɔ",
+        "pronounciation": "ǹ̩tʃɰɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bas fond ; marécage",
+                "definition_en": "shallow water; marsh",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá",
+        "pronounciation": "ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maison ; case",
+                "definition_en": "house; hut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndǎ",
+        "pronounciation": "ǹ̩dǎ",
+        "synonym": [
+            "lǎ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir déjà ; être déjà",
+                "definition_en": "already",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dǎ gʉa Fwɔʼsab.",
+                        "fr": "Je suis déjà parti à Bafoussam.",
+                        "en": "I have already left for Bafoussam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndǎ",
+        "pronounciation": "ǹ̩dǎ",
+        "synonym": [
+            "lǎ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(aspect itératif dans le passé)",
+                "definition_en": "(iterative aspect in the past)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dǎ táŋa létó tɛʼ.",
+                        "fr": "J’ai maintes fois pensé venir.",
+                        "en": "I have thought about coming many times."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńda",
+        "pronounciation": "ń̩dà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attacher sur ; coller",
+                "definition_en": "attach on; stick to",
+                "examples": []
+            },
+            {
+                "definition_fr": "coller",
+                "definition_en": "stick",
+                "examples": []
+            },
+            {
+                "definition_fr": "relier",
+                "definition_en": "relate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá lelaʼá",
+        "pronounciation": "ǹ̩dá lèlàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chambre",
+                "definition_en": "room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá lemù",
+        "pronounciation": "ǹ̩dá lèmȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salle de réunion ; salle des congrès",
+                "definition_en": "meeting room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá leziʼi",
+        "pronounciation": "ǹ̩dá lèzìʔì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salle de classe ; salle d’étude",
+                "definition_en": "classroom; study room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá mbʉŋé",
+        "pronounciation": "ǹ̩dá m̩̀bɯ̃̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hutte ; tente",
+                "definition_en": "hut; tent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá megʉ̀",
+        "pronounciation": "ǹ̩dá mèɣɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hôtel",
+                "definition_en": "hotel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá mepfó",
+        "pronounciation": "ǹ̩dá mèpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "morgue",
+                "definition_en": "morgue",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,461 @@
+[
+    {
+        "noun": "a-",
+        "pronounciation": "à-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "un (pour la classe 7)",
+                "definition_en": "a",
+                "examples": [
+                    {
+                        "dialect": "apɔ̀ɔn,",
+                        "fr": "un sac.",
+                        "en": "a bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "á",
+        "pronounciation": "á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à ; au ; en ; dans ; sur",
+                "definition_en": "to; in; on",
+                "examples": [
+                    {
+                        "dialect": "Shʉ́ŋngẅi néŋe nzɔ̌? Á ssé.",
+                        "fr": "Où est assis la perdrix ? Au sol.",
+                        "en": "Where is the partridge sitting? On the ground."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "á",
+        "pronounciation": "á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; elle (pronom sujet pour la classe 7)",
+                "definition_en": "he; she (subject pronoun for class 7)",
+                "examples": []
+            },
+            {
+                "definition_fr": "il ; elle (pronom sujet consécutif de 4e personne du singulier)",
+                "definition_en": "he; she (consecutive subject pronoun for fourth person singular)",
+                "examples": [
+                    {
+                        "dialect": "À toŋó wɔ́ɔn, á fó tsìŋɔɔn ńzẅíŋ.",
+                        "fr": "Il m’a appelé, il (un autre) a accepté à partir d’en bas.",
+                        "en": "He called me, he (another) accepted from downstairs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "à",
+        "pronounciation": "ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; elle (pronom sujet pour la classe 1)",
+                "definition_en": "he; she (subject pronoun for class 1)",
+                "examples": [
+                    {
+                        "dialect": "À ne ńguɔ.",
+                        "fr": "Il est malade.",
+                        "en": "He is sick."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "à cʉ́ʼ fʉ̀ʼʉ yɛ̌",
+        "pronounciation": "ȁ cɯ́ʔ fɯ̀ʔɯ̏ jɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à bientôt",
+                "definition_en": "see you soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "à cʉ́ʼ jǔɔ",
+        "pronounciation": "ȁ cɯ́ʔ ʒùɔ́",
+        "synonym": [
+            "à cʉ́ʼ mbaʼámbaʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à demain",
+                "definition_en": "see you tomorrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "à cʉ́ʼ mbaʼámbaʼ",
+        "pronounciation": "ȁ cɯ́ʔ m̩̀bàʔámbàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à demain matin",
+                "definition_en": "see you tomorrow morning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "à cʉ́ʼ púʼu",
+        "pronounciation": "ȁ cɯ́ʔ púʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à bientôt",
+                "definition_en": "see you soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "à cʉ́ʼ tsɔ́ fʉ̀ʼ",
+        "pronounciation": "ȁ cɯ́ʔ tsɔ́ fɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à plus tard",
+                "definition_en": "see you later",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "à cʉʼ wɔ́gɔ̀",
+        "pronounciation": "ȁ cɯ́ʔ wɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à bientôt",
+                "definition_en": "see you soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "á lekɔ́",
+        "pronounciation": "á lèkɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "loc.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ça va ?",
+                "definition_en": "how are you?",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "á nue kɔ́",
+        "pronounciation": "á ɳùè kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourquoi ; pour quel raison",
+                "definition_en": "why; for what reason",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn ngie n těen ńge ḿpfɛ́ mbab wɔ́, á nue kɔ́?",
+                        "fr": "Pourquoi dis-tu que je ne vais pas manger de la viande ?",
+                        "en": "Why do you say I won't eat meat?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "aa",
+        "pronounciation": "àː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.prol",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "c’est (pronom sujet pour la classe 1 dans les propositions sans verbes)",
+                "definition_en": "it’s (subject pronoun for class 1 for clauses without verbs)",
+                "examples": [
+                    {
+                        "dialect": "Aa shǔ wɔɔn mie n die.",
+                        "fr": "C’est mon ami que je regarde.",
+                        "en": "It’s my friend I’m looking at."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "áa",
+        "pronounciation": "áː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.prol",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "c’est (pronom sujet pour la classe 7 dans les propositions sans verbes)",
+                "definition_en": "it’s (subject pronoun for class 7 for clauses without verbs)",
+                "examples": [
+                    {
+                        "dialect": "Anò gie ɔ̀ gɔɔn, áa nò.",
+                        "fr": "Ce que tu dis est exacte.",
+                        "en": "What you say is correct."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "aamɛɛn",
+        "pronounciation": "àːmɛ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ainsi soit-il",
+                "definition_en": "so be it",
+                "examples": [
+                    {
+                        "dialect": "À gÿǒ sẅíŋtè tà ńcúme lê aamɛɛn.",
+                        "fr": "Il a prié jusqu’à clôturer par amen.",
+                        "en": "He prayed until closing with an amen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "aayi",
+        "pronounciation": "àːjì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(expression de la douleur)",
+                "definition_en": "(shows pain)",
+                "examples": [
+                    {
+                        "dialect": "Aayi! Mbàŋa tʉ̌ kǔ kwò mèŋ.",
+                        "fr": "« Aayi » ! Le clou s’est enfoncé dans mon pied.",
+                        "en": "“Aayi”! The nail stuck in my foot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "agáʼ",
+        "pronounciation": "àɣáʔ",
+        "synonym": [
+            "legáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement",
+                "definition_en": "development",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "agí",
+        "pronounciation": "àɣí",
+        "synonym": [
+            "ayí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami (appel)",
+                "definition_en": "friend (call)",
+                "examples": [
+                    {
+                        "dialect": "Agí, tóo ḿpfɛ́ɛ mekú!",
+                        "fr": "Ami, viens manger le haricot !",
+                        "en": "Friend, come and eat the bean!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "agûb",
+        "pronounciation": "àɣûp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "publique",
+                "definition_en": "public",
+                "examples": [
+                    {
+                        "dialect": "À lɔ̌g shúm sɔ́ɔn ńgÿo shúm agûb.",
+                        "fr": "Il a transformé mes choses en choses publiques.",
+                        "en": "He made my things public."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "agyɔɔnme",
+        "pronounciation": "àɣjɔ̃̀ːmè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "au secours",
+                "definition_en": "help",
+                "examples": [
+                    {
+                        "dialect": "Àgyɔɔnme, afÿɛ sɔbɔ wɔ́ɔn me!",
+                        "fr": "Au secours, l’assassin m’a poignardé !",
+                        "en": "Help, the murderer stabbed me!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "alálàlǔŋ",
+        "pronounciation": "àlálàɭũ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.honor.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "slogan honorifique (prononcé lors du chant des jumeaux)",
+                "definition_en": "honorific slogan (pronounced during the twins song)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ zɔ̌b tà ngie alálàlǔŋ.",
+                        "fr": "Ils ont chanté jusqu’à dire « alálàlǔŋ ».",
+                        "en": "They sang until they said “alálàlǔŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "atsɔ́",
+        "pronounciation": "àtsɔ́",
+        "synonym": [
+            "tsɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 7)",
+                "definition_en": "certain; other (modifying class 7 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Atsɔ́ pɔ̀ɔn ya gwɔ́ ɔ́?",
+                        "fr": "Où est l’autre sac-là ?",
+                        "en": "Where is the other bag?"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 7)",
+                "definition_en": "certain; other (modifying class 7 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "atsɔ̌",
+        "pronounciation": "àtsɔ̌",
+        "synonym": [
+            "tsɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 1)",
+                "definition_en": "certain; other (modifying class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Atsɔ̌ mêngwe pfɛ̌ mbum ngáb mɔ́ɔn ntsèm.",
+                        "fr": "Un certain chien a mangé tous mes œufs.",
+                        "en": "A certain dog ate all my eggs."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 1)",
+                "definition_en": "certain; other (modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ayí",
+        "pronounciation": "àjí",
+        "synonym": [
+            "agí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami (appel)",
+                "definition_en": "friend (call)",
+                "examples": [
+                    {
+                        "dialect": "Ayí, tóo peg ɔ̀ gʉa!",
+                        "fr": "Ami, vient et on part (ensemble) !",
+                        "en": "Friend, come and let's go (together)!"
+                    }
+                ]
+            }
+        ]
+    }
+]

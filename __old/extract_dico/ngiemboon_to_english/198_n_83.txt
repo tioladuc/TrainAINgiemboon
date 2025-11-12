@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "ńzẅí",
+        "pronounciation": "ń̩dzɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracher en désordre (des plantes)",
+                "definition_en": "pull up in disorder (plants)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅige",
+        "pronounciation": "ń̩dzɥìʁè",
+        "synonym": [
+            "ńzẅege"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "respirer",
+                "definition_en": "breathing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅíŋ",
+        "pronounciation": "ǹ̩dzɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herbe (gén.)",
+                "definition_en": "weed (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅìŋ",
+        "pronounciation": "ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prix ; valeur",
+                "definition_en": "price; value",
+                "examples": []
+            },
+            {
+                "definition_fr": "nombre",
+                "definition_en": "number",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅiŋ",
+        "pronounciation": "ń̩dzɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieillir",
+                "definition_en": "grow old",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅíŋ",
+        "pronounciation": "ń̩dzɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avouer ; confirmer ; accepter",
+                "definition_en": "vow; confirm; accept",
+                "examples": []
+            },
+            {
+                "definition_fr": "confesser",
+                "definition_en": "confess",
+                "examples": []
+            },
+            {
+                "definition_fr": "snober ; ambitionner",
+                "definition_en": "snub; ambition",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅiŋ ngùʼ",
+        "pronounciation": "ǹ̩dzɥĩ̀ŋ ŋ̩̀gȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "âge ; acte de naissance",
+                "definition_en": "age; birth certificate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅìŋe",
+        "pronounciation": "ǹ̩dzɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui accorde ou accepte",
+                "definition_en": "someone who agrees or accepts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅìŋe",
+        "pronounciation": "ǹ̩dzɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieux",
+                "definition_en": "old person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅite",
+        "pronounciation": "ń̩dzɥìtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se reposer",
+                "definition_en": "rest oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅíʼ",
+        "pronounciation": "ń̩dzɥíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goûter",
+                "definition_en": "taste",
+                "examples": []
+            },
+            {
+                "definition_fr": "tenter",
+                "definition_en": "try",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅìʼi",
+        "pronounciation": "ǹ̩dzɥìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goûteur",
+                "definition_en": "taster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅíʼte",
+        "pronounciation": "ń̩dzɥíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attendre",
+                "definition_en": "wait",
+                "examples": []
+            },
+            {
+                "definition_fr": "écouter",
+                "definition_en": "listen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyág",
+        "pronounciation": "ń̩dzjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bailler",
+                "definition_en": "yawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyág",
+        "pronounciation": "ń̩dzjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter (à la hâte)",
+                "definition_en": "dress (hastily)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyè",
+        "pronounciation": "ǹ̩dzsjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faim",
+                "definition_en": "hunger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyě",
+        "pronounciation": "ǹ̩dzsjě",
+        "synonym": [
+            "nzyeté ",
+            " nzyè nò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "introduction",
+                "definition_en": "introduction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzye",
+        "pronounciation": "ń̩dzsjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commencer",
+                "definition_en": "start",
+                "examples": []
+            },
+            {
+                "definition_fr": "commencer ; débuter ; fonder",
+                "definition_en": "to start ; begin; found",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyé",
+        "pronounciation": "ń̩dzsjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accoucher",
+                "definition_en": "give birth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyè kǔʼ",
+        "pronounciation": "ǹ̩dzsjȅ kǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "famine",
+                "definition_en": "famine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyè letaŋá",
+        "pronounciation": "ǹ̩dzsjȅ lètã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fonds propres ; fondation",
+                "definition_en": "shareholder’s equity; foundation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyě múɔ",
+        "pronounciation": "ǹ̩dzsjě múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "naissance",
+                "definition_en": "birth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyè nò",
+        "pronounciation": "ǹ̩dzsjȅ nȍ",
+        "synonym": [
+            "nzyě ",
+            " nzyeté"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "introduction",
+                "definition_en": "introduction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyè ntse",
+        "pronounciation": "ǹ̩dzsjȅ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soif",
+                "definition_en": "thirst",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyeen",
+        "pronounciation": "ń̩dzjẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réveiller ; se réveiller",
+                "definition_en": "revive; wake up",
+                "examples": []
+            }
+        ]
+    }
+]

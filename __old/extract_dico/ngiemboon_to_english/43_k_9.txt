@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "kɔʼɔ́ lóŋ",
+        "pronounciation": "kɔ̀ʔɔ́ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punition",
+                "definition_en": "punishment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ʼte",
+        "pronounciation": "kɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carcasse",
+                "definition_en": "carcass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kɔ̀ʼte ndá",
+        "pronounciation": "kɔ̀ʔtȅ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taudis",
+                "definition_en": "hovel; slum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǔ",
+        "pronounciation": "kǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lit",
+                "definition_en": "bed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùa",
+        "pronounciation": "kùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racloir",
+                "definition_en": "scraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǔa",
+        "pronounciation": "kùá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "choléra",
+                "definition_en": "cholera",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùa pɔ̀ɔn",
+        "pronounciation": "kùà pɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "navette de tisserand",
+                "definition_en": "weaver’s shuttle",
+                "examples": [
+                    {
+                        "dialect": "Ambàʼa ne ńzɛ́te kùa pɔ̀ɔn yé.",
+                        "fr": "Le tisserand demande sa navette.",
+                        "en": "The weaver asks for his shuttle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kúb",
+        "pronounciation": "kúp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semence de raphia",
+                "definition_en": "raffia seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùb",
+        "pronounciation": "kȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épluchure ; épicarpe",
+                "definition_en": "peeling; skin (fruit)",
+                "examples": []
+            },
+            {
+                "definition_fr": "écorce",
+                "definition_en": "bark; skin",
+                "examples": []
+            },
+            {
+                "definition_fr": "lèvre",
+                "definition_en": "lip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùb",
+        "pronounciation": "kȕp̚",
+        "synonym": [
+            "kʉ̌b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coffre ; valise ; cantine ; box",
+                "definition_en": "chest; trunk; suitcase; footlocker; cubicle",
+                "examples": []
+            },
+            {
+                "definition_fr": "cercueil",
+                "definition_en": "coffin; casket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúbe",
+        "pronounciation": "kúβé",
+        "synonym": [
+            "kúbte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "différence ; changement",
+                "definition_en": "difference; change",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo lejÿɔ́g",
+        "pronounciation": "kùβȍ lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paupière",
+                "definition_en": "eyelid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo ncwò",
+        "pronounciation": "kùβȍ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lèvre",
+                "definition_en": "lip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo ndèndʉ́m",
+        "pronounciation": "kùβȍ ǹ̩dȅɳɖɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo ngɔ́ɔn",
+        "pronounciation": "kùβȍ ŋ̩̀gɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porte malheur",
+                "definition_en": "bad luck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo njÿòon",
+        "pronounciation": "kùβȍ ǹ̩dʒɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo nzeen nzse",
+        "pronounciation": "kùβȍ ǹ̩dzẽ̀ː ǹ̩dzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbo tág",
+        "pronounciation": "kùβȍ táq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. grigri",
+                "definition_en": "k. grigri; k. gris-gris",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kubocʉ́d",
+        "pronounciation": "kùβòtʃɯ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viande de peau de bœuf",
+                "definition_en": "cow skin meat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúbte",
+        "pronounciation": "kúpté",
+        "synonym": [
+            "kúbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "différence ; changement",
+                "definition_en": "difference; change",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbte",
+        "pronounciation": "kùptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gale",
+                "definition_en": "scabies; mange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbténku",
+        "pronounciation": "kȕptéŋkù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "daman des rochers",
+                "definition_en": "rock hyrax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùbu",
+        "pronounciation": "kùβȕ",
+        "synonym": [
+            "kùmo kẅíʼ múɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contondant",
+                "definition_en": "blunt instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúd",
+        "pronounciation": "kút̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très sale",
+                "definition_en": "very dirty",
+                "examples": [
+                    {
+                        "dialect": "Eshӱó wé fɔ́gɔ lê kúd.",
+                        "fr": "Sa face est très sale.",
+                        "en": "His face is very dirty."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kukúkukúku",
+        "pronounciation": "kùkúkùkúkù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri du boubou tropical",
+                "definition_en": "puffback shrike’s call",
+                "examples": []
+            }
+        ]
+    }
+]

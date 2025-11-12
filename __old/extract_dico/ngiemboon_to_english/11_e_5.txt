@@ -1,0 +1,485 @@
+[
+    {
+        "noun": "ésaŋ",
+        "pronounciation": "ésã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire sécher",
+                "definition_en": "dry something out",
+                "examples": []
+            },
+            {
+                "definition_fr": "sécher en étalant",
+                "definition_en": "dry by spreading",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésáŋ",
+        "pronounciation": "ésã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compter",
+                "definition_en": "count",
+                "examples": []
+            },
+            {
+                "definition_fr": "réfléchir",
+                "definition_en": "deliberate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésaʼ",
+        "pronounciation": "ésàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracher",
+                "definition_en": "pull out",
+                "examples": []
+            },
+            {
+                "definition_fr": "partager sans réserve",
+                "definition_en": "share without reservation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésáʼ",
+        "pronounciation": "ésáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commander",
+                "definition_en": "command",
+                "examples": []
+            },
+            {
+                "definition_fr": "juger",
+                "definition_en": "judge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésáʼ",
+        "pronounciation": "ésáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "germer ; pousser ; apparaître",
+                "definition_en": "germinate; grow; appear",
+                "examples": []
+            },
+            {
+                "definition_fr": "apparaître légèrement (liquide ou plante)",
+                "definition_en": "appear slightly (liquid or plant)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésáʼ",
+        "pronounciation": "ésáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taxer",
+                "definition_en": "tax",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire connaître",
+                "definition_en": "make known",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éséen",
+        "pronounciation": "ésẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tellement ; exagérément",
+                "definition_en": "so much; excessively",
+                "examples": [
+                    {
+                        "dialect": "Pi sěen ńdáte.",
+                        "fr": "Vous avez tellement retardé.",
+                        "en": "You have delayed so much."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésele",
+        "pronounciation": "ésə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourner",
+                "definition_en": "turn",
+                "examples": []
+            },
+            {
+                "definition_fr": "se transformer",
+                "definition_en": "be transformed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésem",
+        "pronounciation": "ésə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’efforcer",
+                "definition_en": "make an effort",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’efforcer",
+                "definition_en": "strive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésem",
+        "pronounciation": "ésə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrer",
+                "definition_en": "tighten",
+                "examples": []
+            },
+            {
+                "definition_fr": "être serré",
+                "definition_en": "be tight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésem",
+        "pronounciation": "ésə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taper fortement",
+                "definition_en": "beat up; hit strongly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éseŋe",
+        "pronounciation": "ésə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être immense",
+                "definition_en": "be huge",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’étirer ; se réjouir",
+                "definition_en": "stretch; rejoice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éséŋe",
+        "pronounciation": "ésə̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égayer",
+                "definition_en": "cheer up",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn légíŋe ńkwɛ́ shÿó gù, séŋe mbùm jù.",
+                        "fr": "Ne fronce plus ta face, égaye-toi.",
+                        "en": "Stop frowning, cheer up."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éséʼe",
+        "pronounciation": "ésə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "provoquer ; créer",
+                "definition_en": "provoke; cause; create",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshu",
+        "pronounciation": "éʃù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "masquer",
+                "definition_en": "mask",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshú",
+        "pronounciation": "éʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer en dessous ; contourner",
+                "definition_en": "go below; walk around",
+                "examples": []
+            },
+            {
+                "definition_fr": "se faufiler",
+                "definition_en": "sneak",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshú",
+        "pronounciation": "éʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sarcler",
+                "definition_en": "weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshumo",
+        "pronounciation": "éʃùmò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rajeunir ; renouveler",
+                "definition_en": "rejuvenate oneself; renew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshuʼ",
+        "pronounciation": "éʃùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se montrer",
+                "definition_en": "show oneself",
+                "examples": [
+                    {
+                        "dialect": "Múɔ manzwě wɔɔn naʼá shuʼ tɛʼ.",
+                        "fr": "Cette fille se montre un peu trop.",
+                        "en": "This girl shows off a little too much."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éshúʼ",
+        "pronounciation": "éʃúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être touffu",
+                "definition_en": "be bushy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être touffu",
+                "definition_en": "be bushy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshúʼte",
+        "pronounciation": "éʃúʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frissonner",
+                "definition_en": "shudder; shiver",
+                "examples": []
+            },
+            {
+                "definition_fr": "être crispé",
+                "definition_en": "be tense; be on edge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́",
+        "pronounciation": "éʃɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scier",
+                "definition_en": "saw",
+                "examples": []
+            },
+            {
+                "definition_fr": "castrer",
+                "definition_en": "castrate",
+                "examples": []
+            },
+            {
+                "definition_fr": "scier",
+                "definition_en": "saw",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper ; trancher",
+                "definition_en": "cut out; slice",
+                "examples": []
+            },
+            {
+                "definition_fr": "fabriquer",
+                "definition_en": "make",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉa",
+        "pronounciation": "éʃɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fendre ; déchirer",
+                "definition_en": "split; tear",
+                "examples": []
+            },
+            {
+                "definition_fr": "déchiqueter",
+                "definition_en": "shred",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́a",
+        "pronounciation": "éʃɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casser",
+                "definition_en": "break",
+                "examples": []
+            },
+            {
+                "definition_fr": "situer",
+                "definition_en": "situate",
+                "examples": []
+            },
+            {
+                "definition_fr": "croître",
+                "definition_en": "hatch",
+                "examples": []
+            },
+            {
+                "definition_fr": "mentir",
+                "definition_en": "lie",
+                "examples": []
+            },
+            {
+                "definition_fr": "diviser",
+                "definition_en": "divide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éshʉ́a",
+        "pronounciation": "éʃɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croître",
+                "definition_en": "increase; grow",
+                "examples": []
+            },
+            {
+                "definition_fr": "croître",
+                "definition_en": "grow",
+                "examples": []
+            }
+        ]
+    }
+]

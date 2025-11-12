@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "toothache plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo pàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toothbrush",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀gɔ mesoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tooth, canine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ gag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toothpick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tòŋte mesoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "topple over (dew)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tops, leaves from the",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tops of plants",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "top, spinning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "top, stay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg mbyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tornado",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fóm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torrent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìtsyɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔn menʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torsion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋátè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tortoise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfómànkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torts",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "torture",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "total",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "momte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmómte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "totem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "totem, prominent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsẅɛ̀ʼ lepfwɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "touch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "touch lightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfúate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tough",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toughen up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùm nkɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tournedos",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém nzèm",
+                "examples": []
+            }
+        ]
+    }
+]

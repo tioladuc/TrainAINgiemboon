@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "bed, head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed, on top of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed strut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbéŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bed, under",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kesse kǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bedwetter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mátsìtsìikú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋwáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvòm nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bee, carpenter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káfom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bee-eater",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "méshʉŋ lùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beef, quarter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kìb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beehive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "méndá nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beekeeper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ ŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beekeeping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅɛ̀ ŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bees, swarm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, dung",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfǒŋ nzɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, longhorn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sísilé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sésilé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, predaceous diving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelíɛ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, sp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉŋé shÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉŋé mekéle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, tiger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉŋé pîɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beetle, yam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánzsèlʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "before",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwaa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "before Christ",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mé zyé Yěsô",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beforehand, if",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ páʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "before this moment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ páʼɔɔn",
+                "examples": []
+            }
+        ]
+    }
+]

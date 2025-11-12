@@ -1,0 +1,416 @@
+[
+    {
+        "noun": "ndʉʼʉ",
+        "pronounciation": "ɳ̩̀ɖɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tour ; taille",
+                "definition_en": "circumference; measurement; waist; height; size",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉʼʉ́ndʉʼʉ́",
+        "pronounciation": "ɳ̩̀ɖɯ̀ʔɯ́ɳɖɯ̀ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opposition ; contre",
+                "definition_en": "opposition; against",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdwa",
+        "pronounciation": "ɳ̩́ɖwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avancer",
+                "definition_en": "advance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdwáʼ",
+        "pronounciation": "ɳ̩́ɖwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner fortement",
+                "definition_en": "knock strongly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndwó",
+        "pronounciation": "ɳ̩̀ɖθwó",
+        "synonym": [
+            "ntwo ntwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "au début ; premièrement",
+                "definition_en": "at the start; firstly",
+                "examples": [
+                    {
+                        "dialect": "À pǐi ntwó ntswaʼá.",
+                        "fr": "Il a bénéficié en premier position une tontine.",
+                        "en": "He benefited first from a tontine."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndwò",
+        "pronounciation": "ɳ̩̀ɖθwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partie charnue de certains fruits",
+                "definition_en": "flesh of certain fruit",
+                "examples": []
+            },
+            {
+                "definition_fr": "moelle de courge ; moelle de melon",
+                "definition_en": "pith of a gourd; pith of a melon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdwo",
+        "pronounciation": "ɳ̩́ɖθwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vite ; rapidement",
+                "definition_en": "fast; quickly",
+                "examples": [
+                    {
+                        "dialect": "À kǎa mesaŋá ńdwo ńjÿó.",
+                        "fr": "Il a porté le couscous et a vite mangé.",
+                        "en": "He brought the couscous and ate quickly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdwó",
+        "pronounciation": "ɳ̩́ɖθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amollir",
+                "definition_en": "soften",
+                "examples": []
+            },
+            {
+                "definition_fr": "se dissoudre",
+                "definition_en": "dissolve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndwò nŋwáʼ",
+        "pronounciation": "ɳ̩̀ɖθwȍ ŋ̩̀ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miel",
+                "definition_en": "honey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndẅe",
+        "pronounciation": "ǹ̩dθɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amer",
+                "definition_en": "bitter",
+                "examples": [
+                    {
+                        "dialect": "Lelÿò penkʉ́ tè jÿó ffo ndẅe wɔ́.",
+                        "fr": "La plupart des enfants ne prennent pas le remède amer.",
+                        "en": "Most children do not take the bitter medicine."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅe",
+        "pronounciation": "ń̩dθɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être amer",
+                "definition_en": "be bitter",
+                "examples": []
+            },
+            {
+                "definition_fr": "être légèrement amer",
+                "definition_en": "to be slightly bitter",
+                "examples": [
+                    {
+                        "dialect": "Lelÿò penkʉ́ tè jÿó ffo gie á ne ńdẅete wɔ́.",
+                        "fr": "La plupart des enfants ne prennent pas les remèdes qui sont légèrement amers.",
+                        "en": "Most children do not take remedies that are slightly bitter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅéte",
+        "pronounciation": "ń̩dθɥété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigrir",
+                "definition_en": "lose weight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅéte",
+        "pronounciation": "ń̩dθɥété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tacheter",
+                "definition_en": "spot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndẅɛ̀",
+        "pronounciation": "ǹ̩dɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eau sacrée",
+                "definition_en": "holy water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndẅɛ̀",
+        "pronounciation": "ǹ̩dɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅɛ",
+        "pronounciation": "ń̩dɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aggraver une maladie",
+                "definition_en": "get worse (more sick)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅɛ́",
+        "pronounciation": "ń̩dɥɛ́",
+        "synonym": [
+            "ńgÿɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se targuer ; se vanter",
+                "definition_en": "boast; brag",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńgyá má ɔ̀, tè lẅɛ́ lé mèŋ.",
+                        "fr": "Si tu vois ta mère, ne te vantes pas à moi.",
+                        "en": "If you see your mother, don't brag to me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "lancer aux trousses",
+                "definition_en": "chase after",
+                "examples": []
+            },
+            {
+                "definition_fr": "conseiller mal",
+                "definition_en": "advise badly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅí",
+        "pronounciation": "ń̩dɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attacher soigneusement",
+                "definition_en": "attach carefully",
+                "examples": []
+            },
+            {
+                "definition_fr": "attacher soigneusement",
+                "definition_en": "tie carefully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅile",
+        "pronounciation": "ń̩dɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’approcher un peu (menaces)",
+                "definition_en": "approach a bit (threat)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndẅindẅé",
+        "pronounciation": "ǹ̩dɥìn̩dɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aubergine amère",
+                "definition_en": "bitter eggplant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndẅindẅé meshʉ́ŋ",
+        "pronounciation": "ǹ̩dɥìn̩dɥé mèʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aubergine sauvage",
+                "definition_en": "sp. wild eggplant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅíŋe",
+        "pronounciation": "ń̩dɥĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire le plein",
+                "definition_en": "fill up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdẅíte",
+        "pronounciation": "ń̩dɥíté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigrir",
+                "definition_en": "become thinner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyé",
+        "pronounciation": "ǹ̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fumée",
+                "definition_en": "smoke",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyè",
+        "pronounciation": "ǹ̩dθjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aîné",
+                "definition_en": "first child",
+                "examples": []
+            }
+        ]
+    }
+]

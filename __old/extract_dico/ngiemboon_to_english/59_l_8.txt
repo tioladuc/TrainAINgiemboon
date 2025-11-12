@@ -1,0 +1,381 @@
+[
+    {
+        "noun": "lekwág",
+        "pronounciation": "lèkwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de sculpture",
+                "definition_en": "k. sculpting tool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɛ́",
+        "pronounciation": "lèkwɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "montagne",
+                "definition_en": "mountain",
+                "examples": []
+            },
+            {
+                "definition_fr": "colline",
+                "definition_en": "hill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɛ̀",
+        "pronounciation": "lèkwɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutte",
+                "definition_en": "struggle; wrestling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɛ̌ nkandɔ́ɔn",
+        "pronounciation": "lèkwɛ̌ ǹ̩kàndɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "persévérance ; effort",
+                "definition_en": "perseverance; effort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwò",
+        "pronounciation": "lèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fois",
+                "definition_en": "time",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n tǒo mbʉ̀a wɔɔn tàʼ lekwò.",
+                        "fr": "Je suis venu dans cette concession une fois.",
+                        "en": "I came to this dealership once."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ",
+        "pronounciation": "lèkwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance ; sagaie",
+                "definition_en": "spear; assegai",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ kwoŋ ńnéŋe nzyè",
+        "pronounciation": "lèkwõ̀ŋ kwõ̀ŋ ń̩nə̃́ŋé ǹ̩dzsjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeûne",
+                "definition_en": "fast",
+                "examples": [
+                    {
+                        "dialect": "Áa tsɔ́ fʉ̀ʼ tsɔ́ pazáb ntʉ́m na Ssé gwɔ́ tsɛ̀ɛ lekwoŋ kwoŋ néŋe nzyè.",
+                        "fr": "Il y a des périodes où certains chrétiens sont en jeûne.",
+                        "en": "There are times when some Christians are fasting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ lúŋ",
+        "pronounciation": "lèkwõ̀ŋ ɭṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance de danse avec grelot",
+                "definition_en": "dance spear with little bell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ nkáb tɛʼ",
+        "pronounciation": "lèkwõ̀ŋ ŋ̩̀káp̚ tɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avarice",
+                "definition_en": "greed",
+                "examples": [
+                    {
+                        "dialect": "Lekwoŋ nkáb tɛʼ à tè pòŋ.",
+                        "fr": "L’avarice n’est pas bonne.",
+                        "en": "Greed is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ ntswáʼa",
+        "pronounciation": "lèkwõ̀ŋ ǹ̩tswáʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance de danse avec grelot",
+                "definition_en": "iron pellet-bells in crescent-shaped pods attached to the end of a spear, for dancing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ ntswáʼa mefùɔ",
+        "pronounciation": "lèkwõ̀ŋ ǹ̩tswáʔá mefùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance de danse avec grelot pour les reines",
+                "definition_en": "spear with small bell for dancing queens",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwoŋ shÿɔ́ʼ",
+        "pronounciation": "lèkwõ̀ŋ ʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance de danse",
+                "definition_en": "dance spear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɔɔn",
+        "pronounciation": "lèkwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gage ; pari",
+                "definition_en": "forfeit; token; gamble; bet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɔɔn",
+        "pronounciation": "lèkwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rancune",
+                "definition_en": "grudge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɔ́ʼ",
+        "pronounciation": "lèkwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retour ; arrivée",
+                "definition_en": "return; arrival",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekwɔʼɔ́",
+        "pronounciation": "lèkwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colline ; haut",
+                "definition_en": "hill; high",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅé",
+        "pronounciation": "lèkxɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "obtention",
+                "definition_en": "obtaining",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅè",
+        "pronounciation": "lèkxɥȅ",
+        "synonym": [
+            "ndeŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou (gén.)",
+                "definition_en": "bamboo (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅéen",
+        "pronounciation": "lèkɥẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racloir",
+                "definition_en": "scraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅèle",
+        "pronounciation": "lèkɥə̀lȅ",
+        "synonym": [
+            "lekẅìle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épingle",
+                "definition_en": "pin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅétè",
+        "pronounciation": "lèkxɥétȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entraide",
+                "definition_en": "mutual aid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅɛ̀",
+        "pronounciation": "lèkɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sortie",
+                "definition_en": "exit; leaving",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅí",
+        "pronounciation": "lèkɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épaule ; bout de l’épaule",
+                "definition_en": "end of shoulder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅìle",
+        "pronounciation": "lèkɥìlȅ",
+        "synonym": [
+            "lekwèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épingle",
+                "definition_en": "pin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lekẅìʼi",
+        "pronounciation": "lèkɥìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "addition (action d’additionner)",
+                "definition_en": "addition",
+                "examples": []
+            }
+        ]
+    }
+]

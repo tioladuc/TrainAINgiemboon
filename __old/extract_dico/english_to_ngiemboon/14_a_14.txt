@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "asphalt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùntâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aspire to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́me nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼʉ nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "asp, variable burrowing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kème nnú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó ncÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assassin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ass, donkey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìkáasè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assegai",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assemble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assembler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀gte láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assembly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋ nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assistance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assistance, mutual",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assistant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅète",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅe pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅɛ́tè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assistant, first",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndènkẅɛ́tè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "assistant, second",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "associate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtemte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "association",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǔŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "asthma",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ́ɛ zẅìge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "astonish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔɔn mɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "astonishment, cry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "asylum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "né",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "atmosphere",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "atmosphere, good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tweente",
+                "examples": []
+            }
+        ]
+    }
+]

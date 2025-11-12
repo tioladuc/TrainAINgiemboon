@@ -1,0 +1,391 @@
+[
+    {
+        "noun": "múɔ púʼ ntʉ̀",
+        "pronounciation": "múɔ́ púʔ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lionceau",
+                "definition_en": "lion cub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ sèm",
+        "pronounciation": "múɔ́ sə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour cylindrique à peau clouée",
+                "definition_en": "k. cylindrical drum with a nailed skin head",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ tekwò",
+        "pronounciation": "múɔ́ tèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orteil",
+                "definition_en": "toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ tepwó",
+        "pronounciation": "múɔ́ tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doigt",
+                "definition_en": "digit; finger; toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "múɔ tsɔb",
+        "pronounciation": "múɔ́ tsɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit de civette africaine",
+                "definition_en": "African civet kitten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "muwɔɔn",
+        "pronounciation": "mùwɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concession du chef de quartier ; grande concession",
+                "definition_en": "neighbourhood chief’s plot of land; large plot of land",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mùʼ fáŋ",
+        "pronounciation": "mȕʔ fã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punition de cadi",
+                "definition_en": "punishment by ordeal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mùʼ mbùm",
+        "pronounciation": "mȕʔ m̩̀bȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mùʼu",
+        "pronounciation": "mùʔȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "créateur",
+                "definition_en": "creator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvab",
+        "pronounciation": "ɱ̩́bvàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre de l’air",
+                "definition_en": "put air in",
+                "examples": []
+            },
+            {
+                "definition_fr": "ventiler",
+                "definition_en": "ventilate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mváŋ",
+        "pronounciation": "ɱ̩̀bvã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cristal ; cristalline",
+                "definition_en": "crystal; quartz; crystalline",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvebe",
+        "pronounciation": "ɱ̩́bvə̀βè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contusionner",
+                "definition_en": "bruise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvège",
+        "pronounciation": "ɱ̩̀bvə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "influence ; menace",
+                "definition_en": "influence; threat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvege",
+        "pronounciation": "ɱ̩́bvə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effrayer ; sursauter",
+                "definition_en": "frighten; scare; jump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvele",
+        "pronounciation": "ɱ̩́bvə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’empresser",
+                "definition_en": "fuss over",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvéle",
+        "pronounciation": "ɱ̩́bvə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effacer ; falsifier",
+                "definition_en": "erase; falsify",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvemváŋ",
+        "pronounciation": "ɱ̩̀bvèɱbvã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "potassium ; potasse",
+                "definition_en": "potassium; potash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvèmvɛ̀",
+        "pronounciation": "ɱ̩̀bvȅɱbvɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poil",
+                "definition_en": "hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvèmvfò",
+        "pronounciation": "ɱ̩̀bvèɱbvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrevent ; contrevent (manteau)",
+                "definition_en": "windbreaker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvɛ̀",
+        "pronounciation": "ɱ̩̀bvɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corde tissé",
+                "definition_en": "woven rope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɛ",
+        "pronounciation": "ɱ̩́bvɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trembler",
+                "definition_en": "tremble; shake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɛ́",
+        "pronounciation": "ɱ̩́bvɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jaillir; éclater ; jaillir",
+                "definition_en": "explode; gush out",
+                "examples": []
+            },
+            {
+                "definition_fr": "gronder (tonnerre)",
+                "definition_en": "rumble (thunder)",
+                "examples": []
+            },
+            {
+                "definition_fr": "éclater",
+                "definition_en": "burst",
+                "examples": []
+            },
+            {
+                "definition_fr": "jaillir",
+                "definition_en": "spring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvɛ̀d",
+        "pronounciation": "ɱ̩̀bvɛ̏t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mvet ; cithare en bâton idiocorde",
+                "definition_en": "mvet; idiochord bar-zither",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɛte",
+        "pronounciation": "ɱ̩́bvɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« dégammer »",
+                "definition_en": "blather",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ zɔ̌b leluŋó tà ḿvɛte.",
+                        "fr": "Ils ont chanté la musique jusqu’à dégammer.",
+                        "en": "They sang the music until they broke out."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "faire une erreur en décomptant",
+                "definition_en": "make an error while subtracting",
+                "examples": [
+                    {
+                        "dialect": "Mé těen sáŋa wémɔʼɔ́ ḿvɛte wɔ́.",
+                        "fr": "On ne peut pas faire une erreur en décomptant un.",
+                        "en": "You can't make a mistake by counting one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mvfě",
+        "pronounciation": "ɱ̩̀bvfě",
+        "synonym": [
+            "mvfǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. vitex",
+                "definition_en": "sp. vitex",
+                "examples": []
+            }
+        ]
+    }
+]

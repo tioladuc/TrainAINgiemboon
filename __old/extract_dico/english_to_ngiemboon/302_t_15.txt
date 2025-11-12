@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "transmit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyeente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "transport",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lejÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trap, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cúa páb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trapper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ʼ menkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "travel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉa legìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traveller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ legìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "travels, place",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "traverse beam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀bɔ pàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "treason",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "treasure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "treasurer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèʼe nkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "treat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, African pear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ zoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, African tulip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mafúfuʼú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mafúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, boundary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwèle sẅɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, camwood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, climb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree falling, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sêm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree-frog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, guava",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ngelávù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, jute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, mandarin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ màndalîn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, mango",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ máangwèle",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,429 @@
+[
+    {
+        "noun": "ésẅɛ́",
+        "pronounciation": "ésɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opprimer",
+                "definition_en": "oppress",
+                "examples": []
+            },
+            {
+                "definition_fr": "étouffer",
+                "definition_en": "stifle",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire la combine",
+                "definition_en": "do the combination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ́",
+        "pronounciation": "ésɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrer",
+                "definition_en": "grip; squeeze; tighten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛb",
+        "pronounciation": "ésɥɛ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épingler ; pincer",
+                "definition_en": "pin on; catch; nab; pinch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ́bte",
+        "pronounciation": "ésɥɛ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfourcher",
+                "definition_en": "mount",
+                "examples": []
+            },
+            {
+                "definition_fr": "détourner",
+                "definition_en": "divert; embezzle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛte",
+        "pronounciation": "ésɥɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être pressé ; dépêcher",
+                "definition_en": "be pressed; hurry; dispatch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛʼ",
+        "pronounciation": "ésɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "célébrer ; faire des sacrifices",
+                "definition_en": "celebrate; do sacrifices",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛ́ʼ",
+        "pronounciation": "ésɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "descendre",
+                "definition_en": "go down",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅɛʼte",
+        "pronounciation": "ésɥɛ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déplacer ; reculer",
+                "definition_en": "move; move back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅi",
+        "pronounciation": "ésɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insérer ; enfoncer",
+                "definition_en": "insert; drive in",
+                "examples": []
+            },
+            {
+                "definition_fr": "insérer",
+                "definition_en": "insert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅi",
+        "pronounciation": "ésɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "irriter",
+                "definition_en": "aggravate; irritate",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’irriter",
+                "definition_en": "get irritated",
+                "examples": [
+                    {
+                        "dialect": "Te sẅite lóŋ wɔ̀ɔn.",
+                        "fr": "Ne m’irrite pas.",
+                        "en": "Don't irritate me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅi",
+        "pronounciation": "ésɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sonder",
+                "definition_en": "poll",
+                "examples": []
+            },
+            {
+                "definition_fr": "sonder ; jauger",
+                "definition_en": "probe; gauge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅí",
+        "pronounciation": "ésɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lécher du doigt",
+                "definition_en": "lick with a finger",
+                "examples": []
+            },
+            {
+                "definition_fr": "boire (vin)",
+                "definition_en": "drink (wine)",
+                "examples": []
+            },
+            {
+                "definition_fr": "sucer",
+                "definition_en": "suck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅí",
+        "pronounciation": "ésɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rétrécir",
+                "definition_en": "take in",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíbe",
+        "pronounciation": "ésɥíβé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrer",
+                "definition_en": "grip; squeeze; tighten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíe",
+        "pronounciation": "ésɥíé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lancer très loin",
+                "definition_en": "throw very far",
+                "examples": []
+            },
+            {
+                "definition_fr": "sucer",
+                "definition_en": "suck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅige",
+        "pronounciation": "ésɥìʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devancer",
+                "definition_en": "be ahead of",
+                "examples": [
+                    {
+                        "dialect": "À sẅigé ńgʉa ńnyé wɔ́ɔn.",
+                        "fr": "Il m’a devancé.",
+                        "en": "He beat me to it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíge",
+        "pronounciation": "ésɥíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauffer (piment dans la bouche)",
+                "definition_en": "burn (pepper in mouth)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíge",
+        "pronounciation": "ésɥíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nier",
+                "definition_en": "deny",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅile",
+        "pronounciation": "ésɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être laid",
+                "definition_en": "be ugly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅile",
+        "pronounciation": "ésɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accuser ; reprocher ; en vouloir",
+                "definition_en": "accuse; have a grudge against",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńdúɔ, à te ná, te sẅile yé.",
+                        "fr": "Si tu demandes et il ne te donne pas, ne le reproche pas.",
+                        "en": "If you ask and he doesn't give you, don't blame him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ésẅiŋ",
+        "pronounciation": "ésɥĩ̀ŋ",
+        "synonym": [
+            "éfiŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écorcher ; érafler",
+                "definition_en": "skin; scratch",
+                "examples": []
+            },
+            {
+                "definition_fr": "écorcher ; égratigner itérativement",
+                "definition_en": "skin; scratch iteratively",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅiŋ",
+        "pronounciation": "ésɥĩ̀ŋ",
+        "synonym": [
+            "éfiŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendre",
+                "definition_en": "sell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíŋte",
+        "pronounciation": "ésɥĩ́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "supplier ; prier",
+                "definition_en": "supply; beg; pray to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅiʼ",
+        "pronounciation": "ésɥìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se métamorphoser",
+                "definition_en": "metamorphose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ésẅíʼi",
+        "pronounciation": "ésɥíʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "descendre ; baisser",
+                "definition_en": "go down",
+                "examples": []
+            },
+            {
+                "definition_fr": "rabattre",
+                "definition_en": "rebuild",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "noun": "saŋ cÿó",
+        "pronounciation": "sã̀ŋ tʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avril",
+                "definition_en": "April",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ kàg ngwóŋ",
+        "pronounciation": "sã̀ŋ kȁq̚ ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "février",
+                "definition_en": "February",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ lejÿɔ́g",
+        "pronounciation": "sã̀ŋ lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conjonctivite",
+                "definition_en": "conjunctivitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ lepyè shúm",
+        "pronounciation": "sã̀ŋ lèpɸjȅ ʃúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mars",
+                "definition_en": "March",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ lùm",
+        "pronounciation": "sã̀ŋ ɭȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décembre",
+                "definition_en": "December",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ mbʉ̀ŋ",
+        "pronounciation": "sã̀ŋ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "août",
+                "definition_en": "August",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ mejwoŋó",
+        "pronounciation": "sã̀ŋ mèʒwõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "novembre",
+                "definition_en": "November",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ ngwɔ̀ʼ mbÿɛ",
+        "pronounciation": "sã̀ŋ ŋ̩̀gwɔ̏ʔ m̩̀bɰɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "septembre",
+                "definition_en": "September",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ njÿoláʼ",
+        "pronounciation": "sã̀ŋ ǹ̩dʒʃɰòláʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "juin",
+                "definition_en": "June",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ ssé",
+        "pronounciation": "sã̀ŋ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intrigue ; trouble",
+                "definition_en": "intrigue; plot; confusion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ tàŋa tsetsáʼ",
+        "pronounciation": "sã̀ŋ tã̀ŋȁ tsètsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "octobre",
+                "definition_en": "October",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ tsetsɛ̀ɛ lùm",
+        "pronounciation": "sã̀ŋ tsètsɛ̏ː ɭȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "janvier",
+                "definition_en": "January",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ tsɛ̀ɛ cÿó",
+        "pronounciation": "sã̀ŋ tsɛ̀ɛ̏ tʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mai",
+                "definition_en": "May",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ",
+        "pronounciation": "sã̀ŋ tjɛ̏p̚ tjɛ̏p̚ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "juillet",
+                "definition_en": "July",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàŋa",
+        "pronounciation": "sã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compteur",
+                "definition_en": "meter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàŋa",
+        "pronounciation": "sã̀ŋȁ",
+        "synonym": [
+            "sàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comptable",
+                "definition_en": "accountant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Sàŋa",
+        "pronounciation": "sã̀ŋȁ",
+        "synonym": [
+            "Sìŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bamessingué",
+                "definition_en": "Bamessingue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋá lÿoon",
+        "pronounciation": "sã̀ŋá ɭɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "queue de cheval",
+                "definition_en": "ponytail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàŋa ngʉ̀a",
+        "pronounciation": "sã̀ŋȁ ŋ̩̀ɡɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. champignon",
+                "definition_en": "sp. mushroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàŋasáŋa",
+        "pronounciation": "sã̀ŋȁsã́ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sable",
+                "definition_en": "sand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saŋngalé",
+        "pronounciation": "sã̀ŋːgàlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chenille du kola",
+                "definition_en": "kola caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sàŋte",
+        "pronounciation": "sã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désordre",
+                "definition_en": "disorder",
+                "examples": [
+                    {
+                        "dialect": "Te maʼa sàŋte mbʉ̀a mèŋ.",
+                        "fr": "N’introduit pas le désordre chez moi.",
+                        "en": "Don't bring disorder into my home."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sàŋte",
+        "pronounciation": "sã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étalagiste",
+                "definition_en": "stall-holder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sǎsaa",
+        "pronounciation": "sǎsàː",
+        "synonym": [
+            "mesǎ mésaa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étendu ; étalé",
+                "definition_en": "outstretched; displayed",
+                "examples": [
+                    {
+                        "dialect": "À nuŋe ssé sǎsaa.",
+                        "fr": "Il est étendu par terre sur son dos.",
+                        "en": "He is lying on the ground on his back."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sashÿó",
+        "pronounciation": "sàʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrefacteur ; contrefaçon",
+                "definition_en": "forger; counterfeiter; counterfeit; forgery",
+                "examples": []
+            }
+        ]
+    }
+]

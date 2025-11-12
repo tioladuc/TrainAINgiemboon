@@ -1,0 +1,485 @@
+[
+    {
+        "noun": "ńdʉm",
+        "pronounciation": "ɳ̩́ɖɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être sucré",
+                "definition_en": "be sweet",
+                "examples": []
+            },
+            {
+                "definition_fr": "être un peu sucré",
+                "definition_en": "be a little sweet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉ́me",
+        "pronounciation": "ɳ̩́ɖɯ́mé",
+        "synonym": [
+            "ńdóŋte ",
+            " ńkyáŋ ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distraire de son travail",
+                "definition_en": "distract from one’s work",
+                "examples": []
+            },
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "manage; make do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ndʉ̀ nnɛ́",
+        "pronounciation": "ɳ̩̀ɖɯ̏ɳ̩̀ɖɯ̏ ǹ̩nɛ́",
+        "synonym": [
+            "ndʉ̀ nnɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigueur",
+                "definition_en": "vigour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ndẅé",
+        "pronounciation": "ɳ̩̀ɖɯ̏ndθɥé",
+        "synonym": [
+            "ndèndẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment pour la sauce",
+                "definition_en": "k. condiment for sauce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ndÿɔʼ",
+        "pronounciation": "ɳ̩̀ɖɯ̏ɳɖɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouillon",
+                "definition_en": "soup stock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉŋ",
+        "pronounciation": "ɳ̩̀ɖɯ̃̀ŋ",
+        "synonym": [
+            "ndeŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou (gén.)",
+                "definition_en": "bamboo (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉŋ",
+        "pronounciation": "ɳ̩́ɖɯ̃̀ŋ",
+        "synonym": [
+            "ńdeŋ",
+            " ńdeŋe",
+            " ńdeŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viser",
+                "definition_en": "aim at",
+                "examples": []
+            },
+            {
+                "definition_fr": "guetter",
+                "definition_en": "watch out for",
+                "examples": []
+            },
+            {
+                "definition_fr": "recueillir un liquide",
+                "definition_en": "collect a liquid",
+                "examples": []
+            },
+            {
+                "definition_fr": "disparaître ; avoir un œdème",
+                "definition_en": "disappear ; have edema",
+                "examples": []
+            },
+            {
+                "definition_fr": "viser",
+                "definition_en": "aim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉ́ŋ",
+        "pronounciation": "ɳ̩́ɖɯ̃́ŋ",
+        "synonym": [
+            "ńdéŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désaxer ; tourner bizarrement",
+                "definition_en": "unbalance; spin bizarrely",
+                "examples": []
+            },
+            {
+                "definition_fr": "oindre à l’excès",
+                "definition_en": "anoint excessively",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ŋ melùʼ",
+        "pronounciation": "ɳ̩̀ɖɯ̃̏ŋ mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigneron ; brasseur",
+                "definition_en": "wine grower; brewer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉŋ ndʉŋ",
+        "pronounciation": "ɳ̩̀ɖɯ̃̀ŋ ɳ̩̀ɖɯ̃̀ŋ",
+        "synonym": [
+            "ndeŋ ndeŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "directement",
+                "definition_en": "directly",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ndʉŋ ndʉŋ, tè tsyɛʼte nyìŋ mánzsè.",
+                        "fr": "Pars directement ; ne salue personne en route.",
+                        "en": "Leave directly; Don’t greet anyone on the way."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "droitement",
+                "definition_en": "honestly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ŋ nkʉ̌a",
+        "pronounciation": "ɳ̩̀ɖɯ̃̏ŋ ŋ̩̀kɯ̀á",
+        "synonym": [
+            "ndèŋ nkʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigneron",
+                "definition_en": "wine grower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ŋe",
+        "pronounciation": "ɳ̩̀ɖɯ̃̀ŋȅ",
+        "synonym": [
+            "ndèŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "viseur ; tireur",
+                "definition_en": "sight; viewfinder; gunman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉ́ŋe",
+        "pronounciation": "ɳ̩́ɖɯ̃́ŋé",
+        "synonym": [
+            "ńdéŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "transporter",
+                "definition_en": "carry; move; transport",
+                "examples": [
+                    {
+                        "dialect": "Pɔgɔ léŋe pɔ̀ɔn yɔɔn!",
+                        "fr": "Transportons ce sac !",
+                        "en": "Let's carry this bag!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ŋte",
+        "pronounciation": "ɳ̩̀ɖɯ̃̀ŋtȅ",
+        "synonym": [
+            "ndèŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitateur",
+                "definition_en": "imitator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉŋte",
+        "pronounciation": "ń̩dɯ̃̀ŋtè",
+        "synonym": [
+            "ńdeŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imiter",
+                "definition_en": "imitate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉŋte",
+        "pronounciation": "ń̩dɯ̃̀ŋtè",
+        "synonym": [
+            "ńdeŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesurer",
+                "definition_en": "measure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀shʉ̀ŋ",
+        "pronounciation": "ɳ̩̀ɖɯ̏ʃɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attache fait d’une plante",
+                "definition_en": "tie made from a plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ʼ",
+        "pronounciation": "ɳ̩̀ɖɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sceptique ; refus",
+                "definition_en": "sceptic; refusal",
+                "examples": [
+                    {
+                        "dialect": "Wɛ̂ ngàŋ ndʉ̀ʼ, aa těen ńdwo ńzẅíŋe nò wɔ́.",
+                        "fr": "Là-bas, c’est une personne sceptique, il n’accepte pas facilement.",
+                        "en": "There, he is a skeptical person, he does not accept easily."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ʼ",
+        "pronounciation": "ɳ̩̀ɖɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour à fente",
+                "definition_en": "k. slit-gong",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉʼ",
+        "pronounciation": "ɳ̩́ɖɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "refuser",
+                "definition_en": "refuse",
+                "examples": []
+            },
+            {
+                "definition_fr": "refuser d’allaiter",
+                "definition_en": "refuse to breastfeed",
+                "examples": []
+            },
+            {
+                "definition_fr": "sevrer",
+                "definition_en": "wean",
+                "examples": []
+            },
+            {
+                "definition_fr": "fermer les poings en signe de menace",
+                "definition_en": "clench your fists as a sign of threat",
+                "examples": []
+            },
+            {
+                "definition_fr": "désaccorder ; être en désaccord",
+                "definition_en": "detune; disagree",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en conflit ; être incompatible",
+                "definition_en": "be in conflict; be incompatible",
+                "examples": []
+            },
+            {
+                "definition_fr": "désavouer",
+                "definition_en": "disavow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉʼ",
+        "pronounciation": "ɳ̩́ɖɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soutenir",
+                "definition_en": "support",
+                "examples": []
+            },
+            {
+                "definition_fr": "soutenir",
+                "definition_en": "sustain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉʼ kànɔ̀ɔn",
+        "pronounciation": "ɳ̩̀ɖɯ̀ʔ kȁnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour à fente",
+                "definition_en": "k. vertical slit-gong",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ʼ menkÿo",
+        "pronounciation": "ɳ̩̀ɖɯ̏ʔ mèŋkxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tendeur de pièges",
+                "definition_en": "trapper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉʼ metútú",
+        "pronounciation": "ɳ̩̀ɖɯ̀ʔ mèʈúʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tambour à fente",
+                "definition_en": "k. anthropomorphic vertical slit-gong",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉʼte",
+        "pronounciation": "ɳ̩́ɖɯ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "négocier",
+                "definition_en": "negotiate",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’entendre",
+                "definition_en": "hear each other",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "consider",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consolation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metsɔ̌ɔn pyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consolation, object",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔg ngwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "console",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte loŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ɔn mezìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "console, use to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńguʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consonant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèmte ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conspiracy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwàʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conspirator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "conspirer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼa kwɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ lekwɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "constipation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tiŋe lepfòm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "constitution, body’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎʼ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "construction implement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melu nkóo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntà nkěm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káa tàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "constructor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consult",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáase",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consultant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàase",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consultation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepigé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consult each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsemte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consume",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "consumer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contact",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "container",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contempt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánẅile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contempt, showing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gulû",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contempt, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "guʼ ú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gìʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gu û",
+                "examples": []
+            }
+        ]
+    }
+]

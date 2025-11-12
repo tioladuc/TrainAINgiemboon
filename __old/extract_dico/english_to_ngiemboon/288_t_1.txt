@@ -1,0 +1,472 @@
+[
+    {
+        "noun": "table",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lecÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tápèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tablet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋa ffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tadpole",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmbyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nku",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tail feather, bird",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take!",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take clothes off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkémte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́mte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfím",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "take without leaving anything",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tale",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púʼ kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk between themselves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talking, quit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk in your sleep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvómte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk nonsense",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk of big things",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk, sweet-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "talk with someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsemte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tall",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "memǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèkwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máamáa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbíg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "noun": "miser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwé nkùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa sẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ kègɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwé nê kùʼu lɔ̌ɔn pɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàapfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserable, says he is",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ̀ ntsyɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserable though",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ̀ ntsyɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserliness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miserly, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkim",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "misfortune",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "misfortune, take advantage of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèm lemʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mislay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfée",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Miss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ manzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "missing, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mission",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "misîoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀a pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̂d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistake, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistakes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mister",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistletoe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼ lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistletoe tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ntsàʼ lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mistreat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mix",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcub",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfaŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfaŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńniag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtem",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mixed with vegetables",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàcÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mix liquid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtábte",
+                "examples": []
+            }
+        ]
+    }
+]

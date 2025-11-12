@@ -1,0 +1,398 @@
+[
+    {
+        "noun": "zǐ shÿó",
+        "pronounciation": "zǐ ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "front",
+                "definition_en": "forehead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ziɛ ndù",
+        "pronounciation": "zìɛ̀ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauve",
+                "definition_en": "bald",
+                "examples": []
+            },
+            {
+                "definition_fr": "calvitie",
+                "definition_en": "baldness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zigé",
+        "pronounciation": "zìʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname jaune",
+                "definition_en": "sp. yellow yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zíŋ",
+        "pronounciation": "zĩ́ŋ",
+        "synonym": [
+            "nzìŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "danseur",
+                "definition_en": "dancer",
+                "examples": [
+                    {
+                        "dialect": "Zíŋ kékáŋ à la cúa ŋàʼa mesoŋ.",
+                        "fr": "Un mauvais danseur avait tapé sur celui qui a les dents (moqueurs).",
+                        "en": "A bad dancer had hit the one with the teeth (mocking)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zíŋ",
+        "pronounciation": "zĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle ; s. danse des funérailles",
+                "definition_en": "k. cultural dance; k. funeral dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zíŋe láʼ",
+        "pronounciation": "zĩ́ŋé láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "folklore",
+                "definition_en": "folklore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zíŋe mendóŋ",
+        "pronounciation": "zĩ́ŋé mèndṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zìʼi",
+        "pronounciation": "zìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enseignement ; étude",
+                "definition_en": "education; study",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zìʼi",
+        "pronounciation": "zìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sueur",
+                "definition_en": "sweat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zòŋ",
+        "pronounciation": "zõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dispute ; discussion",
+                "definition_en": "quarrel; argument; discussion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zoon",
+        "pronounciation": "zõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "safou",
+                "definition_en": "safou; African pear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zòon",
+        "pronounciation": "zõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "justification ; plaidoirie",
+                "definition_en": "justification; pleading",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zoon tsɔʼɔ́",
+        "pronounciation": "zõ̀ː tsɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fruit aneilema",
+                "definition_en": "aneilema fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zòonte",
+        "pronounciation": "zõ̀ːtȅ",
+        "synonym": [
+            "nzòon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insulte ; injure",
+                "definition_en": "insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɔ",
+        "pronounciation": "zɔ̀",
+        "synonym": [
+            "zɔɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marque d’un sujet emphatique)",
+                "definition_en": "(marks an emphatic subject)",
+                "examples": [
+                    {
+                        "dialect": "Yé zɔ ge ná.",
+                        "fr": "C’est lui qui va donner.",
+                        "en": "He is the one who will give."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zɔ̀b",
+        "pronounciation": "zɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanson",
+                "definition_en": "song",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɔ̀bɔ ntse",
+        "pronounciation": "zɔ̀βɔ̏ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chant",
+                "definition_en": "song",
+                "examples": []
+            },
+            {
+                "definition_fr": "chorale",
+                "definition_en": "choir",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɔ́gɔ ntʉ́",
+        "pronounciation": "zɔ́ʁɔ́ ɳ̩̀ʈɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bonne journée",
+                "definition_en": "day, good; good day",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɔɔ",
+        "pronounciation": "zɔ̀:",
+        "synonym": [
+            "zɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marque d’un sujet emphatique)",
+                "definition_en": "(marks an emphatic subject)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɔɔ tá gù.",
+                        "fr": "C’est moi qui suis ton père.",
+                        "en": "I am your father."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zɔɔn mòon",
+        "pronounciation": "zɔ̃̀ː mõ̏ː",
+        "synonym": [
+            "zaa mòon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majesté",
+                "definition_en": "majesty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zɔɔn múɔ",
+        "pronounciation": "zɔ̃̀ː múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Excellence ; éloge ou respect donné aux rois",
+                "definition_en": "Your Excellency; praise or respect given to kings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zsé letó",
+        "pronounciation": "zsé lètó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souhait de bienvenu ; accueil",
+                "definition_en": "welcome",
+                "examples": [
+                    {
+                        "dialect": "Angʉ̀ tǒ, mé náa yé zsé léto.",
+                        "fr": "L’étranger est venu, on lui a adressé le souhait de bienvenu.",
+                        "en": "The stranger came, we welcomed him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zsé nò",
+        "pronounciation": "zsé nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sagesse",
+                "definition_en": "wisdom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zsétè",
+        "pronounciation": "zsétȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "connaissance",
+                "definition_en": "knowledge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zso",
+        "pronounciation": "zsò",
+        "synonym": [
+            "tsò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. animal aquatique",
+                "definition_en": "sp. aquatic animal",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "noun": "mânkoŋ kéloŋ",
+        "pronounciation": "mâŋkõ̀ŋ kélõ̀ŋ",
+        "synonym": [
+            "mângoŋ kéloŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "sp. vine",
+                "examples": [
+                    {
+                        "dialect": "Néŋ membaŋ mânkoŋ kéloŋ tsɛ̀ɛ lâm ńdɔg sɔg.",
+                        "fr": "Mets les grains de « mânkoŋ kéloŋ » dans la lampe pour laver (l’intérieur).",
+                        "en": "Put the grains of “mânkoŋ kéloŋ” in the lamp to wash (the inside)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mánkɔ̌ɔn nkàndóŋ",
+        "pronounciation": "máŋkɔ̃̌ː ŋ̩̀kàndṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeu de cache-cache",
+                "definition_en": "hide-and-seek game",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mânkɔ́ʼ",
+        "pronounciation": "mâŋkɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pomme de terre (gén.)",
+                "definition_en": "potato (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mânkɔ́ʼ féfɔ́gɔ",
+        "pronounciation": "mâŋkɔ́ʔ féfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patate douce",
+                "definition_en": "sweet potato",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mânkɔ́ʼ mêngwé",
+        "pronounciation": "mâŋkɔ́ʔ mêŋgxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "liseron d’eau",
+                "definition_en": "swamp morning-glory",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mankwɔʼ",
+        "pronounciation": "màŋkwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mankwɔʼ",
+        "pronounciation": "màŋkwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. ustensile de cuisine",
+                "definition_en": "k. kitchen utensil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánkẅè",
+        "pronounciation": "máŋkxɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accoucheur",
+                "definition_en": "obstetrician; midwife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mankẅíŋ",
+        "pronounciation": "màŋkɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ratisseur ; ruineur",
+                "definition_en": "pillager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánkÿɛ̌",
+        "pronounciation": "máŋkɰɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rougeole",
+                "definition_en": "measles",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánkÿo melÿɔʼ",
+        "pronounciation": "máŋkxɰò mèɭɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mántǒ",
+        "pronounciation": "mántǒ",
+        "synonym": [
+            "lemvwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plantain à gros doigts",
+                "definition_en": "plantain with thick fingers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mántsab",
+        "pronounciation": "mántsàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourrice ; tutrice",
+                "definition_en": "wet-nurse; guardian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantsàʼ nkendʉ́ŋe",
+        "pronounciation": "màntsȁʔ ŋ̩̀kèɳɖɯ̃́ŋé",
+        "synonym": [
+            "mánǎŋntsàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mousse (gén.)",
+                "definition_en": "moss (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantsɔ̀b",
+        "pronounciation": "màntsɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "original ; superbe",
+                "definition_en": "original; superb; arrogance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantúm",
+        "pronounciation": "màɳʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "journal ; bulletin d’information",
+                "definition_en": "newspaper; informational bulletin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantúm",
+        "pronounciation": "màɳʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "messager",
+                "definition_en": "messenger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mántùʼ kěm",
+        "pronounciation": "máɳʈȕʔ kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animateur de rite des jumeaux",
+                "definition_en": "organizer of a rite of twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mántÿɔʼ",
+        "pronounciation": "mánʈɰɔ̀ʔ",
+        "synonym": [
+            "tégé kẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cache-sexe",
+                "definition_en": "mini bikini; g-string",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mántÿɔʼ",
+        "pronounciation": "mánʈɰɔ̀ʔ",
+        "synonym": [
+            "tégé kẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manúa",
+        "pronounciation": "màɳúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acacia",
+                "definition_en": "acacia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánʉnʉʉ (ndá)",
+        "pronounciation": "màɳɯ̀ɳɯ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui chie dans la maison",
+                "definition_en": "one who craps in the house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánẅile",
+        "pronounciation": "mánɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mépris",
+                "definition_en": "contempt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánẅìnẅì",
+        "pronounciation": "mánɥȉnɥȉ",
+        "synonym": [
+            "mánènẅèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille poilue qui pique",
+                "definition_en": "sp. furry caterpillar that stings",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mânyìŋ ntsèm",
+        "pronounciation": "mâɲĩ̏ŋ ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.pron.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’importe qui ; tout le monde",
+                "definition_en": "anyone; everyone",
+                "examples": [
+                    {
+                        "dialect": "Mânyìŋ ntsèm aa láʼɔɔn ńne ńzsé léshwóŋo ngiembɔɔn.",
+                        "fr": "N’importe qui dans ce village connaît parler la langue ngiemboon.",
+                        "en": "Anyone in this village knows how to speak the Ngiemboon language."
+                    }
+                ]
+            }
+        ]
+    }
+]

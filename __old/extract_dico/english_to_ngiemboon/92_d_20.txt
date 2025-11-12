@@ -1,0 +1,72 @@
+[
+    {
+        "noun": "dysphasia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dystasia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèŋe zẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dystocia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezyé ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dystomie",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dysuria",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsì ntʉ̀",
+                "examples": []
+            }
+        ]
+    }
+]

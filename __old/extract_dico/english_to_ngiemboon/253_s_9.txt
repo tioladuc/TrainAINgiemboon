@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "see, personally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkum lejÿɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see, pretend not to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwě ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seers, sacred hut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seesaw, play on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛɛ malʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see suffering",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see you later",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ tsɔ́ fʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see you soon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ fʉ̀ʼʉ yɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ púʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉʼ wɔ́gɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see you tomorrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ jǔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "see you tomorrow morning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ mbaʼámbaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seize forcefully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seize the moment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "select",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seller, spirit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sell in separate piles",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sell off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sell separately",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "semivowel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gèbe ncwògʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "send",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwèʼe nkʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Senegal bush baby",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Senegal coucal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandÿoonmacǔ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "noun": "makʉ́ŋ",
+        "pronounciation": "màkʉ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poissard",
+                "definition_en": "vulgar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makwáŋà kwɔb",
+        "pronounciation": "màkwã́ŋȁ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perroquet (gén.)",
+                "definition_en": "parrot (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "makwɔ̀ʼ",
+        "pronounciation": "mákwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "responsable",
+                "definition_en": "person responsible",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dɔɔn tè gyá mákwɔ̀ʼ na nò yɔɔn wɔ́ ńde nò gɔɔn.",
+                        "fr": "Si je ne vois pas le responsable de cette affaire, je ne dois pas parler.",
+                        "en": "If I don't see the person responsible for this matter, I must not speak."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mákẅálá",
+        "pronounciation": "mákɥálá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veuve dominicaine",
+                "definition_en": "pin-tailed whydah",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákẅìʼ",
+        "pronounciation": "mákɥȉʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "belle-mère",
+                "definition_en": "mother-in-law",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mákyè",
+        "pronounciation": "mákxjȅ",
+        "synonym": [
+            "mákìkyè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.c.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tel ; quelqu’un",
+                "definition_en": "one; someone",
+                "examples": [
+                    {
+                        "dialect": "Zyɛ́b zyɛ́b ńgɔɔn ngie mákyè zɔ cǔa múɔ wɔɔn.",
+                        "fr": "Il faut dire que c’est tel qui a tapé cet enfant.",
+                        "en": "It must be said that this is who hit this child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "malákú",
+        "pronounciation": "màlákú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot blanc",
+                "definition_en": "sp. white bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malàntê",
+        "pronounciation": "màlȁntê",
+        "synonym": [
+            "melàntɛ̂"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málàʼa",
+        "pronounciation": "málàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chandelle",
+                "definition_en": "candle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málefág",
+        "pronounciation": "málèfáq̚",
+        "synonym": [
+            "mélefág ",
+            " tàʼ lefág ",
+            " lefág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jumeau ; un des jumeaux",
+                "definition_en": "twin; one of the twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málegwàʼ",
+        "pronounciation": "málèɣwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collier",
+                "definition_en": "necklace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málekàŋ",
+        "pronounciation": "málèkã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narrateur",
+                "definition_en": "narrator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málekùmo",
+        "pronounciation": "málèkùmȍ",
+        "synonym": [
+            "málèkwɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "responsable",
+                "definition_en": "person responsible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málekwɔ̀ʼ",
+        "pronounciation": "málèkwɔ̏ʔ",
+        "synonym": [
+            "málèkùmo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "responsable",
+                "definition_en": "person responsible",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn te gyá málekwɔ̀ʼ na nò yɔɔn wɔ́, mbà á té giŋ wɔ́.",
+                        "fr": "Si tu ne vois pas le responsable sur cette affaire, alors sa ne peut pas marcher.",
+                        "en": "If you don't see the person responsible for this matter, then it can't work."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "malélúm ntsẅɛ̀ʼ",
+        "pronounciation": "màléɭúm ǹ̩tsɥɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (venimeux)",
+                "definition_en": "sp. ant (poisonous)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málem",
+        "pronounciation": "málə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málémngʉ̀a",
+        "pronounciation": "málə́mnɡɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máleŋ",
+        "pronounciation": "málə̃̀ŋ",
+        "synonym": [
+            "léŋ ",
+            " lʉ́ŋ ",
+            " málʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balançoire",
+                "definition_en": "swing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máletsyɛ̀ mbʉ̀ŋ",
+        "pronounciation": "málètsjɛ̏ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille",
+                "definition_en": "sp. caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málezẅé",
+        "pronounciation": "málèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chevron d’arêtier",
+                "definition_en": "angle rafter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malí",
+        "pronounciation": "màlí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malínɔ̀ɔn",
+        "pronounciation": "màlínɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit de lamentation ; s. tissu noir",
+                "definition_en": "k. mourning outfit; k. black cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malóló",
+        "pronounciation": "màlóló",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "málúʼ",
+        "pronounciation": "máɭúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleur du bananier",
+                "definition_en": "banana plant flower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malúʼ ngɔ̀ɔn",
+        "pronounciation": "màlúʔ ŋ̩̀gɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. crabe",
+                "definition_en": "sp. crab",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "noun": "kàŋa ssé",
+        "pronounciation": "kã̀ŋȁ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écureuil de terre rayé",
+                "definition_en": "striped ground squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋa twó",
+        "pronounciation": "kã́ŋá ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée ; militaire",
+                "definition_en": "army; soldier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋa twó",
+        "pronounciation": "kã́ŋá ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casque",
+                "definition_en": "helmet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàŋa tÿǒ",
+        "pronounciation": "kã̀ŋȁ ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écureuil des arbres",
+                "definition_en": "Gambian sun squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋfelé",
+        "pronounciation": "kã́ŋfə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. taro",
+                "definition_en": "sp. cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kaŋsɛ̂",
+        "pronounciation": "kã̀ŋsɛ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cancer",
+                "definition_en": "cancer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋwɔ́ɔn",
+        "pronounciation": "kã́ŋwɔ̃́ː",
+        "synonym": [
+            "kɔ́ɔnŋwɔ́ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kápà",
+        "pronounciation": "kápȁ",
+        "synonym": [
+            "képàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monnaie ancienne",
+                "definition_en": "ancient money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàpàg",
+        "pronounciation": "kȁpȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. calebasse utilisé autrefois comme assiette et gobelet",
+                "definition_en": "k. calabash used in the past as a plate and tumbler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàpàg",
+        "pronounciation": "kȁpȁq̚",
+        "synonym": [
+            "kèpàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carapace",
+                "definition_en": "shell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kapáŋapùʼ",
+        "pronounciation": "kàpã́ŋàpȕʔ",
+        "synonym": [
+            "tÿǒ pùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épée ; poignard",
+                "definition_en": "sword; dagger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàpìd",
+        "pronounciation": "kȁpȉt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haricot écrasé",
+                "definition_en": "ground beans",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kápíndɔ̀ɔn",
+        "pronounciation": "kápíndɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menuisier",
+                "definition_en": "carpenter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàpʉ̀ŋ",
+        "pronounciation": "kȁpɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pigeon gris",
+                "definition_en": "afep pigeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàpʉ̀ŋe mbÿě",
+        "pronounciation": "kȁpɯ̃̀ŋȅ m̩̀bɸɰě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pigeon vert",
+                "definition_en": "Bruce’s green pigeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kásà",
+        "pronounciation": "kásȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empereur",
+                "definition_en": "emperor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kasálà",
+        "pronounciation": "kàsálȁ",
+        "synonym": [
+            "ncùashùm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manioc (gén.)",
+                "definition_en": "cassava (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kasálà féfɔ́gɔ",
+        "pronounciation": "kàsálȁ féfɔ́ʁɔ́",
+        "synonym": [
+            "ncùashùm féfɔ́gɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. manioc blanc",
+                "definition_en": "sp. white cassava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kasálà pepàŋ",
+        "pronounciation": "kàsálȁ pèpã̏ŋ",
+        "synonym": [
+            "ncùashùm pepàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. manioc rouge",
+                "definition_en": "sp. red cassava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàsànetíʼ",
+        "pronounciation": "kȁsȁnètíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "merde (marquant l’indignation)",
+                "definition_en": "shit (showing indignation)",
+                "examples": [
+                    {
+                        "dialect": "Kàsànetíʼ! Ɔ̀ gÿo mmó yɛ né wɔ̌?",
+                        "fr": "Merde ! Tu fais ça à qui ?",
+                        "en": "Shit ! Who are you doing this to?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kàsàʼa",
+        "pronounciation": "kȁsàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jeu d’enfant pour avoir à manger",
+                "definition_en": "k. child’s game to be able to eat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kashÿò",
+        "pronounciation": "kàʃːɰȍ",
+        "synonym": [
+            "kacÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croustade ; croûte",
+                "definition_en": "croustade; crust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kásó",
+        "pronounciation": "kásó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix d’Afrique",
+                "definition_en": "African walnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàte",
+        "pronounciation": "kàtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lettre",
+                "definition_en": "letter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàtolé",
+        "pronounciation": "kȁtòlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "catholique",
+                "definition_en": "Catholic",
+                "examples": []
+            }
+        ]
+    }
+]

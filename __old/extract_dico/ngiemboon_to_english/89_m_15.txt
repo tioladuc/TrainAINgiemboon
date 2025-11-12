@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "mbíg",
+        "pronounciation": "m̩̀bíq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand",
+                "definition_en": "tall; big; large",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìg",
+        "pronounciation": "m̩̀bîq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gueule",
+                "definition_en": "mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbîg",
+        "pronounciation": "m̩̀bîq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stylo à bille",
+                "definition_en": "ball-point pen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìg mɔ̀b",
+        "pronounciation": "m̩̀bȉq̚ mɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gueule",
+                "definition_en": "big mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìge",
+        "pronounciation": "m̩̀bìʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consultant ; interlocuteur",
+                "definition_en": "consultant; speaker",
+                "examples": []
+            },
+            {
+                "definition_fr": "celui qui se renseigne",
+                "definition_en": "one who asks for information",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíge",
+        "pronounciation": "ḿ̩bíʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se renseigner",
+                "definition_en": "find out",
+                "examples": []
+            },
+            {
+                "definition_fr": "se concerter",
+                "definition_en": "consult each other",
+                "examples": []
+            },
+            {
+                "definition_fr": "interroger ; questionner ; s’entendre",
+                "definition_en": "interrogate; question; hear each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìi",
+        "pronounciation": "m̩̀bȉː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "preneur",
+                "definition_en": "taker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìle",
+        "pronounciation": "m̩̀bìlȅ",
+        "synonym": [
+            "mbìd"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui dépulpe",
+                "definition_en": "one who removes the pulp",
+                "examples": [
+                    {
+                        "dialect": "Mekú mɔɔn, ambìle gwɔ́ nzɔ̌?",
+                        "fr": "Voici le haricot, où est celui qui dépulpe ?",
+                        "en": "Here is the bean, where is the one that pulps?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbile",
+        "pronounciation": "ḿ̩bìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se plier ; replier ; faire l’acrobatie",
+                "definition_en": "fold oneself; fold over; do acrobatics",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíle",
+        "pronounciation": "ḿ̩bílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "garder ; réserver",
+                "definition_en": "keep; reserve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìlûm",
+        "pronounciation": "m̩̀bȉɭûm",
+        "synonym": [
+            "mbèlûm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peinture ; teinture ; couleur",
+                "definition_en": "paint; dye; colour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbím",
+        "pronounciation": "m̩̀bím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "forêt ; bois",
+                "definition_en": "forest; wood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìm",
+        "pronounciation": "m̩̀bȉm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animateur",
+                "definition_en": "driving force; prime mover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbím",
+        "pronounciation": "ḿ̩bím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être content ; animer",
+                "definition_en": "be content; lead",
+                "examples": []
+            },
+            {
+                "definition_fr": "accélérer ; animer ; exciter",
+                "definition_en": "accelerate; animate; excite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbím",
+        "pronounciation": "ḿ̩bím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soûler ; saouler",
+                "definition_en": "get drunk",
+                "examples": []
+            },
+            {
+                "definition_fr": "motiver ; pousser à agir",
+                "definition_en": "motivate; push to act",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìmbyé ntse",
+        "pronounciation": "m̩̀bȉm̀bɸjé ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "têtard ; larve de crapaud ou de grenouille",
+                "definition_en": "tadpole; polliwog; frog larva; toad larva",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíme",
+        "pronounciation": "ḿ̩bímé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soutenir",
+                "definition_en": "support",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńkwá nkáʼ gú, té píme, mbà é té tʉte wɔ́.",
+                        "fr": "Si tu attaches ta clôture sans soutenir, elle ne sera pas solide.",
+                        "en": "If you attach your fence without support, it will not be strong."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "rimer",
+                "definition_en": "rhyme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìmte",
+        "pronounciation": "m̩̀bìmtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accompagnateur",
+                "definition_en": "companion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìndàŋ",
+        "pronounciation": "m̩̀bȉndã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "babouin doguéra",
+                "definition_en": "olive baboon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìndôŋ",
+        "pronounciation": "m̩̀bȉndõ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bidon",
+                "definition_en": "can",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbiŋ",
+        "pronounciation": "ḿ̩bĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rentrer ; venir après",
+                "definition_en": "come home; come after",
+                "examples": []
+            },
+            {
+                "definition_fr": "après ; faire après",
+                "definition_en": "after; do after",
+                "examples": [
+                    {
+                        "dialect": "Piŋ ńtó ńkẅé nkáb jù.",
+                        "fr": "Viens après prendre ton argent.",
+                        "en": "Come after and take your money."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "remettre ; ramener",
+                "definition_en": "to put back ; to bring back",
+                "examples": []
+            },
+            {
+                "definition_fr": "retourner",
+                "definition_en": "return",
+                "examples": []
+            },
+            {
+                "definition_fr": "rembourser",
+                "definition_en": "repay",
+                "examples": []
+            },
+            {
+                "definition_fr": "réanimer",
+                "definition_en": "resuscitate",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire marche arrière",
+                "definition_en": "backtrack",
+                "examples": []
+            },
+            {
+                "definition_fr": "rapatrier ; rentrer au bercail",
+                "definition_en": "repatriate; return home",
+                "examples": []
+            },
+            {
+                "definition_fr": "rendre tiède (eau)",
+                "definition_en": "make lukewarm (water)",
+                "examples": []
+            },
+            {
+                "definition_fr": "retourner ce qu’on rôtit",
+                "definition_en": "turn over what you roast",
+                "examples": []
+            },
+            {
+                "definition_fr": "répéter",
+                "definition_en": "repeat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìŋe",
+        "pronounciation": "m̩̀bĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux qui tiennent les propos rétrogrades",
+                "definition_en": "reactionary people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìpí",
+        "pronounciation": "m̩̀bȉpí",
+        "synonym": [
+            "mbèpà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cafard",
+                "definition_en": "cockroach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìtà",
+        "pronounciation": "m̩̀bȉtȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cola amère",
+                "definition_en": "bitter cola",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìte",
+        "pronounciation": "m̩̀bìtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narrateur ; conteur",
+                "definition_en": "narrator; storyteller",
+                "examples": [
+                    {
+                        "dialect": "Mbìte nò yɛ̂, nyě tè tó.",
+                        "fr": "Le narrateur de cette affaire n’est pas encore venu.",
+                        "en": "The narrator of this affair has not yet come."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "shelf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwalákwàlà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lecÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shelf, market",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lewaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèpàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàpàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kègte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèkège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shell, groundnut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfǒmantʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máfǒsɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shells, cowry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shells, dried fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shell some groundnut pods",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shelter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅisẅê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shield",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́ʼʉ ncù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legẅi ncù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tíʼi shÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shield bug, adult green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shilly-shally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsiʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shinbone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwʉŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shirker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàsànetíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shiver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "levàtsàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoemaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sólómákà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "súlúmákà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoemaker’s needle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mengùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoe, second-hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèlekàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoe upper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùmo kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm melɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sî",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoot, bifurcated raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shoots, twin raffia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndametʉ̌a",
+                "examples": []
+            }
+        ]
+    }
+]

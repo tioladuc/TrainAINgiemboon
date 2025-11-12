@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "bread, corn-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèkɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bread, knead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "break",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjẅaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́ʼɔ kẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breakdown, sand quarry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máapàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breakfast, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbág létye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "break in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "break, quick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfǎd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "break the engagement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breakthrough",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "break (wood)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́kʉ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breastfeeding her baby, mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mápfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breastfeed, refuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ lépʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breast, mammal’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breathing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅige",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "breeder, stock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ menɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "brewer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋ melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "brick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbelég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "brickwork",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwǒon ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bridegroom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bridge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bridge entrance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòntúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "briefs",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋlòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "brilliant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meŋwʉŋé",
+                "examples": []
+            }
+        ]
+    }
+]

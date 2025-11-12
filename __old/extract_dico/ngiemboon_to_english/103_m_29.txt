@@ -1,0 +1,428 @@
+[
+    {
+        "noun": "mentʉ̌a",
+        "pronounciation": "mèɳʈɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rayé",
+                "definition_en": "striped",
+                "examples": [
+                    {
+                        "dialect": "Nzsǒ ye ee mentʉ̌a mentʉ̌a.",
+                        "fr": "Son habit est très rayé.",
+                        "en": "His clothing is very striped."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "méntʉ̂a",
+        "pronounciation": "méɳʈɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (modifiant les noms des classes 4 et 6)",
+                "definition_en": "five (modifies nouns from classes 4 and 6)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ményaŋ",
+        "pronounciation": "méɲã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "de justesse ; risqué",
+                "definition_en": "only just; risked",
+                "examples": [
+                    {
+                        "dialect": "À syě tà á cʉ́ʼʉ ményaŋ à gwe ssé.",
+                        "fr": "Il a glissé si bien qu’il a risqué tomber.",
+                        "en": "He slipped so badly that he almost fell."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "petitesse ; très faible quantité",
+                "definition_en": "smallness; very small quantity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menyě ntsɔ́ɔn",
+        "pronounciation": "mèɲě ǹ̩tsɔ̃́ː",
+        "synonym": [
+            "méneŋ nzáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chat domestique",
+                "definition_en": "domestic cat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menyɛ̌",
+        "pronounciation": "mèɲɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échantillons",
+                "definition_en": "samples",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ményìŋ",
+        "pronounciation": "méɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit homme ; diminutif de l’homme",
+                "definition_en": "short man; diminutive for a man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menÿɔ́g",
+        "pronounciation": "mèɳɰɔ́q̚",
+        "synonym": [
+            "nÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "yeux",
+                "definition_en": "eyes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menÿɔ́g ŋwàʼne",
+        "pronounciation": "mèɳɰɔ́q̚ ŋwȁʔnè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alphabets ; lettres de l’alphabet",
+                "definition_en": "alphabets; alphabet letters",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menzoŋ menzóŋ",
+        "pronounciation": "mèndzõ̀ŋ mèndzṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barbelé",
+                "definition_en": "barbed",
+                "examples": [
+                    {
+                        "dialect": "À lɔ̌g nkÿo menzoŋ menzóŋ ńkéle nkáʼ wé.",
+                        "fr": "Il a utilisé le fil barbelé pour clôturer son champ.",
+                        "en": "He used barbed wire to fence his field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mèŋ",
+        "pronounciation": "mə̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moi (pron. sujet emph., 1ère personne singulier)",
+                "definition_en": "me (emphatic subject pronoun, first person singular)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ gyua.",
+                        "fr": "Moi, je m’en vais.",
+                        "en": "I'm leaving."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "me ; moi",
+                "definition_en": "me",
+                "examples": [
+                    {
+                        "dialect": "A nǎ né mèŋ!",
+                        "fr": "Il me l’a donné.",
+                        "en": "He gave it to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "meŋegé",
+        "pronounciation": "mèŋə̀ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dernières forces",
+                "definition_en": "final forces",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meŋwàʼmeŋwàʼ",
+        "pronounciation": "mèŋwȁʔmèŋwȁʔ",
+        "synonym": [
+            "ŋwàʼŋwàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "camouflé ; bigarré",
+                "definition_en": "multi-coloured; camouflaged; mult-coloured",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meŋwʉŋé",
+        "pronounciation": "mèŋwɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rayon",
+                "definition_en": "ray",
+                "examples": []
+            },
+            {
+                "definition_fr": "brillant",
+                "definition_en": "brilliant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meŋwʉŋé",
+        "pronounciation": "mèŋwɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cristal ; métal",
+                "definition_en": "crystal; quartz; metal",
+                "examples": []
+            },
+            {
+                "definition_fr": "perle",
+                "definition_en": "pearl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mepab",
+        "pronounciation": "mèpàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mensonges",
+                "definition_en": "lies",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mepaŋ",
+        "pronounciation": "mèpã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouge (qualifie les noms des classes 2, 4, 6, 8 et 10)",
+                "definition_en": "red (qualifies class 2, 4, 6, 8 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "A jǔu mepaŋ pɔ̀ɔn.",
+                        "fr": "Il a acheté les sacs rouges.",
+                        "en": "He bought the red bags."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mépùʼ",
+        "pronounciation": "mépȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit couteau",
+                "definition_en": "small knife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mépʉ́a",
+        "pronounciation": "mépɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (modifiant les noms de la classe 2)",
+                "definition_en": "two (modifying nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mesǎ mésǎ",
+        "pronounciation": "mèsǎ mésǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pêle-mêle",
+                "definition_en": "higgledy-piggledy",
+                "examples": [
+                    {
+                        "dialect": "Eshúm tyéte ndá yé mesǎ mesǎ.",
+                        "fr": "Les choses sont disposées pêle-mêle dans sa maison.",
+                        "en": "Things are arranged haphazardly in his house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mesǎ mésaa",
+        "pronounciation": "mèsǎ mésà:",
+        "synonym": [
+            "sǎsaa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étendu ; étalé",
+                "definition_en": "outstretched; displayed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mesàb",
+        "pronounciation": "mèsȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "causerie ; conférence",
+                "definition_en": "talk; conference",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mesaŋá",
+        "pronounciation": "mèsã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couscous",
+                "definition_en": "couscous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mésáʼa kɔ́",
+        "pronounciation": "mésáʔá kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "information ; journal",
+                "definition_en": "information; newspaper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meséssé",
+        "pronounciation": "mèsésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noirs (qualifie les noms des classes 4 et 6)",
+                "definition_en": "black (modifies class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Áfílíkà áa pàga njÿó meséssé pʉ̀a.",
+                        "fr": "L’Afrique est le continent des Noirs.",
+                        "en": "Africa is the continent of black people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mesète pàʼa",
+        "pronounciation": "mèsètȅ pàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poinçon",
+                "definition_en": "awl",
+                "examples": []
+            }
+        ]
+    }
+]

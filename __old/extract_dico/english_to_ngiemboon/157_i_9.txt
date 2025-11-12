@@ -1,0 +1,193 @@
+[
+    {
+        "noun": "irritate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "isn’t it?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekɔ́ɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ù gwéen lé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "né ngie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "élé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ólé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "isolate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "itch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "itching",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mezɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iterative aspect in the past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iteratively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "-te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "it’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ée",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "áa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "aa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ivory",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesoŋ shÿóo",
+                "examples": []
+            }
+        ]
+    }
+]

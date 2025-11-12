@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "matron",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mats",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìntsyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matter, disturb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "matter, senseless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tendyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mattress",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matenɛ́sè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mature, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mature, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mat, weaving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "May",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ tsɛ̀ɛ cÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maybe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅɛ̀ʼ tsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ʼ tsɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mayor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ tÿǒsoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbouda",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbùʼndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "me",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mèŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mèŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meagre, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meaning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meaning, change",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meaning, inappropriate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "means needed for a job",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̌b siŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measles",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánkÿɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measurable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measurement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measure of length, unit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ɔn pwó",
+                "examples": []
+            }
+        ]
+    }
+]

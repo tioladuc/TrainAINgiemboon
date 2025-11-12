@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "gɔ̀ɔn",
+        "pronounciation": "ɣɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verbe",
+                "definition_en": "verb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gɔ̀ɔn ńgÿo",
+        "pronounciation": "ɣɔ̃̏ː ŋ̩́gxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui réalise ses promesses",
+                "definition_en": "person who keeps his promises",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gú",
+        "pronounciation": "ɣú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "invitation",
+                "definition_en": "invitation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gú",
+        "pronounciation": "ɣú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "te (pron. objet, 2e personne singulier)",
+                "definition_en": "you (second person singular object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "N díe gú.",
+                        "fr": "Je te regarde.",
+                        "en": "I'm looking at you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gú",
+        "pronounciation": "ɣú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 3)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tá gẅi gǎb nkáʼ, ńná gú é kɔ́g.",
+                        "fr": "Votre père a partagé le champ, et a donné le tien petit.",
+                        "en": "Your father divided the field, and gave yours little."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ton (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "your (second person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gù",
+        "pronounciation": "ɣȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 1)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gwǒon mêngáb wɔ̀ɔn, gwoon gù.",
+                        "fr": "J’ai arrêté ma poule, arrête la tienne.",
+                        "en": "I stopped my chicken, stop yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ton (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "your (second person singular possessive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gù",
+        "pronounciation": "ɣȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toi-même (pron. sujet emph., 2e personne singulier)",
+                "definition_en": "you yourself (second person singular emphatic subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtóŋo míŋ nyìŋ té poŋ, mbà gù zɔ ge zẅíŋ.",
+                        "fr": "Si tu fais du mal à l’enfant d’autrui, c’est le tien qui écopera.",
+                        "en": "If you hurt someone else's child, your child will suffer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gû",
+        "pronounciation": "ɣû",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de l’air qui passe brusquement",
+                "definition_en": "sound of air going quickly by",
+                "examples": [
+                    {
+                        "dialect": "Efÿág gÿǒ lê gû shÿó mèŋ.",
+                        "fr": "L’air a fait « gû » (passé brusquement) sur ma face.",
+                        "en": "The air “gû” (passed suddenly) on my face."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gu û",
+        "pronounciation": "ɣù û",
+        "synonym": [
+            "guʼ ú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le dédain)",
+                "definition_en": "(shows contempt)",
+                "examples": [
+                    {
+                        "dialect": "Gu û! Ɔ̀ pfɛ́ɛ mmó páʼ kúnɔ̀ɔn lá?",
+                        "fr": "« Gu û » ! Comment tu manges comme un porc ?",
+                        "en": "“Gu û”! How do you eat like a pig?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gubé",
+        "pronounciation": "ɣùβé",
+        "synonym": [
+            "penkʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfants humains",
+                "definition_en": "human children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gùbe",
+        "pronounciation": "ɣùβȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parapluie",
+                "definition_en": "umbrella",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gúcʉʉ",
+        "pronounciation": "ɣútʃɯ̀ɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(cri de blâme)",
+                "definition_en": "(cry of blame)",
+                "examples": [
+                    {
+                        "dialect": "A gɔ̌ɔn ngie gúcʉʉ, á pwoon ntsẅɛ̀ʼ ye.",
+                        "fr": "Il a dit « gúcʉʉ » et il a caché son sexe.",
+                        "en": "He said “gúcʉʉ” and hid his gender."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gûg",
+        "pronounciation": "ɣûq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aboiement (chien)",
+                "definition_en": "bark (dog)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gùgùbo",
+        "pronounciation": "ɣȕɣùβȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ample",
+                "definition_en": "ample",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ yé á maʼa gùgùbo nzsǒ.",
+                        "fr": "Je l’ai vu vêtu d’un habit ample.",
+                        "en": "I saw him dressed in a loose outfit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gugẅî",
+        "pronounciation": "ɣùɣɥî",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hosanna (marquant la gloire)",
+                "definition_en": "hosanna (celebrating glory)",
+                "examples": [
+                    {
+                        "dialect": "Gugẅî! Cʉ̀apʉ̀a zǐme na legwé.",
+                        "fr": "Hosanna ! Le Seigneur est ressuscité.",
+                        "en": "Hosanna! The Lord is resurrected."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gúlaandɔɔn",
+        "pronounciation": "ɣúlààndɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ironie",
+                "definition_en": "irony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gulû",
+        "pronounciation": "ɣùɭû",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le mépris)",
+                "definition_en": "(showing contempt)",
+                "examples": [
+                    {
+                        "dialect": "Gulû! Ɔ̀ ge cʉa nzɔ̌ le shúm tsǒŋ sɛ̂ loo?",
+                        "fr": "« Gulû » ! Tu passeras où avec ces objets volés ?",
+                        "en": "“Gulu”! Where will you go with these stolen items?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gúm ndóŋ",
+        "pronounciation": "ɣúm ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. aigle",
+                "definition_en": "crowned eagle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gùmo",
+        "pronounciation": "ɣùmȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ferme",
+                "definition_en": "farm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gùmopàʼa",
+        "pronounciation": "ɣùmȍpàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ferme ; arbalétrier ; charpente ; chevron",
+                "definition_en": "truss; frame; rafter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guɔ",
+        "pronounciation": "ɣùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maladie",
+                "definition_en": "sickness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guɔ pàga láʼ",
+        "pronounciation": "ɣùɔ̀ pàʁȁ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "endémie",
+                "definition_en": "endemic disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gutê",
+        "pronounciation": "ɣùte",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hôtel",
+                "definition_en": "hotel",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn tóo túm, ɔ̀ láʼa gutê.",
+                        "fr": "Si tu arrives à l’étranger, passe la nuit à l’hôtel.",
+                        "en": "If you arrive abroad, spend the night in a hotel."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "Guyà",
+        "pronounciation": "ɣùjȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Buea",
+                "definition_en": "Buea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gúʼ",
+        "pronounciation": "ɣúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. champignon avec grosse tête et longue tige",
+                "definition_en": "sp. mushroom with large head and long stem",
+                "examples": []
+            }
+        ]
+    }
+]

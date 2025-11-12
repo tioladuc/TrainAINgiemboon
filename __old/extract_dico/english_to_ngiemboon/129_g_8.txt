@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "grandmother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má we lÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandmother, great-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má pà má wɔ̀ɔn ndÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandmother, maternal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má pà má",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandmother, paternal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má pà tá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandson, great-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "míŋ míŋ múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grandstand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kábte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lemù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ nkyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grapes, pick off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, antelope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "laʼá ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, blade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, couch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔn ngùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, elephant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grasshopper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lembʉ̀le",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grasshopper, green sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fèfùʼ metyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grassing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóon ŋwóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, kyasuma",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùshwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, Napier",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, saromacca",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekàʼa ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, sp. kaysuma",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùshwòŋo mêngwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass, sp. wil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛʼɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grass stem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grated taro",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grater",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grave",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅì",
+                "examples": []
+            }
+        ]
+    }
+]

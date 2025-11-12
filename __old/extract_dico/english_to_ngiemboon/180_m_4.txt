@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "man, short",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ményìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantis (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋe lefùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋe lefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mantis, praying",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manufacture",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manufacturer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnyɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man, white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "many",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "many ...?, how",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yéshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "séshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méshÿɔ́ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wéshÿɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "many-sided",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menti mentí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "many times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a ngʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "marabou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ ngɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "March",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ lepyè shúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "march past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mare",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwě lÿoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "marijuana",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "marital problem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀ntʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "liŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pǎb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lìi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "market",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "market corner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lewaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "market entrance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "market shelf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lewaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "marking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mark, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mark out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnÿɔg",
+                "examples": []
+            }
+        ]
+    }
+]

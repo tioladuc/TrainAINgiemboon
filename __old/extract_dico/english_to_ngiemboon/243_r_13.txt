@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "rot, root",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyè ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rot someone’s brains",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rotten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "selʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "welʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yelʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pelʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rotten luck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉpʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rough, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roughcast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "round",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkènkélè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekélè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkènkèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "round, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzéme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rounds, go on one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbume",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "round things, long",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "roundworm, giant intestinal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "row",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "row of houses",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋa ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royal army",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sèm ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royal court",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royal nomination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tafùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn fùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̌ɔn fùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyè fùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tafùɔ móonpúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royal police",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "royalty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rub",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rubber for cleaning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rubber vine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndálè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rubbish dump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lenuŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rubbish, pile up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rule",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉankàŋ",
+                "examples": []
+            }
+        ]
+    }
+]

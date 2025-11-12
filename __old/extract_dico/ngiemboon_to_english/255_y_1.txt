@@ -1,0 +1,566 @@
+[
+    {
+        "noun": "ya",
+        "pronounciation": "jà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ce ... -là ; ces ... -là (adj. dém. qui modifie les noms des classes 7, 9 et 10 ; cette chose est connue mais peut-être éloignée de la vue, dans le temps, dans l’espace.)",
+                "definition_en": "that ... there; those ... there (demonstrative adjective modifying class 7, 9 or 10 nouns; the thing or things are known but might be far away as for sight, time or space)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ pǐŋ ńgÿo lêkɔ́ na pɔ̀ɔn ya?",
+                        "fr": "Tu as fait comment du sac-là ?",
+                        "en": "What did you do with that bag?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yàa",
+        "pronounciation": "jàȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(cri de blâme ou de doute)",
+                "definition_en": "(cry of blame or of doubt)",
+                "examples": [
+                    {
+                        "dialect": "Yàa! Á kɔ́ gie ɔ̀ gÿo pɛ́ʼɛ̀?",
+                        "fr": "« Yaa » ! Qu’est ce que tu fais comme-ça ?",
+                        "en": "“Yaa”! What are you doing like that?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yaléŋ",
+        "pronounciation": "jàlə̃́ŋ",
+        "synonym": [
+            "yalʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boucle",
+                "definition_en": "buckle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yalʉ́ŋ",
+        "pronounciation": "jàɭɯ̃́ŋ",
+        "synonym": [
+            "yaléŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boucle",
+                "definition_en": "buckle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yáŋ",
+        "pronounciation": "jã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "natte en feuilles de bambou",
+                "definition_en": "bamboo leaf mat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yàŋa yáŋa kẅìʼfùɔ",
+        "pronounciation": "jã̀ŋȁ jã́ŋá kẅȉʔfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ye",
+        "pronounciation": "jè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le sien (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 9)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 9)",
+                "definition_en": "his (third person singular possessive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 9)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour lui (pron. poss. obj. de la 3e personne du singulier qui renvoie aux noms de la classe 9)",
+                "definition_en": "for him (third person singular possessive object pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mepɔ̀ɔn mɔɔn, kaa ye (Mɔ́ɔnfùɔ).",
+                        "fr": "Voici ces sacs-ci, porte pour lui (Mouafo).",
+                        "en": "Here are these bags, carried for him (Mouafo)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ye",
+        "pronounciation": "jè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.poss",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui de (pron. poss. qui renvoie aux noms des classes 7 et 9)",
+                "definition_en": "that of (possessive pronoun referring back to class 7 and 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Apɔ̀ɔn Tâm pɔ́ ye míŋ we té poŋ.",
+                        "fr": "Le sac de Tam et celui de son enfant n’est pas bien.",
+                        "en": "Tam's bag and that of her child are not good."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ceux de (pron. poss. qui renvoie aux noms de la classes 10)",
+                "definition_en": "those of (possessive pronoun referring back to class 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ye",
+        "pronounciation": "jè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "par (lieu)",
+                "definition_en": "by (place)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ pfǒ ye nzɔ̌ tá ńgwɔ́ jʉʼɔɔn.",
+                        "fr": "Tu es passé par où avant d’être ici.",
+                        "en": "Where did you go before getting here?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yé",
+        "pronounciation": "jé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le sien (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 7) ; les siens  (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 10)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tà á pɔ́ɔn lékaa káŋ yɔ́ɔn, à kaa pɔ́ yé.",
+                        "fr": "Qu’il ne porte pas mon assiette, qu’il porte la sienne.",
+                        "en": "Let him not carry my plate, let him carry his own."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "son (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 7) ; ses (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "his (third person singular possessive adjective modifying class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ la lúɔ pɔ̀ɔn yé á lʉʼ.",
+                        "fr": "J’ai demandé son sac, il a refusé.",
+                        "en": "I asked for his bag, he refused."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "son (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 7) ; ses (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "his (third person singular possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yé",
+        "pronounciation": "jé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le",
+                "definition_en": "him",
+                "examples": [
+                    {
+                        "dialect": "N díe yé.",
+                        "fr": "Je le regarde.",
+                        "en": "I look at him."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "lui ; aussi ; également (pronom objet indirect de la 3e personne du singulier qui a une fonction additive quand il répète le sujet.)",
+                "definition_en": "him; also; equally (3rd person singular indirect object pronoun that has an additive function when repeating the subject)",
+                "examples": [
+                    {
+                        "dialect": "Tâm leʼé shúm lejÿó sé; múɔ leʼe sé yé.",
+                        "fr": "Tam a gardé sa nourriture ; l’enfant a gardé la sienne aussi.",
+                        "en": "Tam kept his food; the child kept his too."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yê",
+        "pronounciation": "jê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(cri d’étonnement)",
+                "definition_en": "(cry of astonishment)",
+                "examples": [
+                    {
+                        "dialect": "Yê! Yɛ̂ kɔ́ gie ɔ̀ gÿo tà á sẅíʼi nzẅìŋ gú?",
+                        "fr": "Eh ! Qu’est-ce que tu fais si bien que ça te dégrade ?",
+                        "en": "Hey! What do you do so well that it degrades you?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yée",
+        "pronounciation": "jéː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’étonnement)",
+                "definition_en": "(showing surprise)",
+                "examples": [
+                    {
+                        "dialect": "Yée! À gwǎʼ nkab.",
+                        "fr": "« Yee » ! Il a jeté l’argent.",
+                        "en": "“Yee”! He threw the money away."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yeféfɔ́gɔ",
+        "pronounciation": "jèféfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc (qualifie les noms des classes 7 et 9 )",
+                "definition_en": "white",
+                "examples": []
+            },
+            {
+                "definition_fr": "blancs (qualifie les noms de la classe 10)",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yeg",
+        "pronounciation": "jə̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 9)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńjú mbab, ɔ̀ ná yeg.",
+                        "fr": "Si tu achètes la viande, tu donnes la nôtre.",
+                        "en": "If you buy the meat, you give ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yég",
+        "pronounciation": "jə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj.add",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aussi ; également (pronom objet de la 1ère personne du pluriel qui a une fonction additive quand il répète le sujet.)",
+                "definition_en": "also; equally",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ nǎa pɔ̀ɔn yɔ́b. Náa yég yég.",
+                        "fr": "Tu leur as donné le sac. Donne le nôtre aussi.",
+                        "en": "You gave them the bag. Give ours too."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yég",
+        "pronounciation": "jə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms des classes 7) ; les nôtres (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms des classes 10)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tè nyé ŋwàʼne gí, ḿbíi yég.",
+                        "fr": "Ne laisse pas votre lettre pour lire la nôtre.",
+                        "en": "Don't leave your letter to read ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 7) ; nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 10)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 7) ; nos (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 10)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yege",
+        "pronounciation": "jə̀ʁè",
+        "synonym": [
+            "jʉ̀ge"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 9)",
+                "definition_en": "ours (first person plural inclusive pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Nzsǒ yɛ̂, ee yege.",
+                        "fr": "Cet habit est le nôtre.",
+                        "en": "This outfit is ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural inclusive adjective modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À maʼ nzsǒ yege.",
+                        "fr": "Il porte notre habit.",
+                        "en": "He wears our clothes."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "notre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 9)",
+                "definition_en": "our (first person plural inclusive emphatic adjective modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Maʼ yege nzsǒ.",
+                        "fr": "Porte notre habit.",
+                        "en": "Wear our clothes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yégè",
+        "pronounciation": "jə́ʁȅ",
+        "synonym": [
+            "jʉ́gè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre et le nôtre (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 7) ; les vôtres et les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tè tóŋo ŋwàʼne yé, tóŋ pɔ́ yégè.",
+                        "fr": "Ne lis pas sa lettre, lis que la nôtre.",
+                        "en": "Don't read his letter, just read ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 7) ; vos et nos (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vôtre et nôtre (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 7) ; vos et nos (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms de la classe 10)",
+                "definition_en": "yours and ours (first person plural inclusive emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yekʉ",
+        "pronounciation": "jèkɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "small; little (qualifies class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Náa pɔ̀ɔn yekʉ né mèŋ.",
+                        "fr": "Donne-moi le petit sac.",
+                        "en": "Give me the little bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yélékùa",
+        "pronounciation": "jélékùà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre (modifiant les noms de la classe 10)",
+                "definition_en": "four (modifying class 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yelʉ̌",
+        "pronounciation": "jèɭɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourri (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "rotten (qualifying class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À jÿǒ nkandi yelʉ̌.",
+                        "fr": "Il a mangé la banane pourrie.",
+                        "en": "He ate the rotten banana."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yelÿò",
+        "pronounciation": "jèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "great (modifies class 7, 9 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yembǐ",
+        "pronounciation": "jèmbǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prenable (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "available (qualifies class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Apɔ̀ɔn gi áa yembǐ.",
+                        "fr": "Ce sac-là est prenable.",
+                        "en": "This bag is takeable."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yembòŋo",
+        "pronounciation": "jèmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meilleur (modifiant les noms des classes 7, 9 et 10)",
+                "definition_en": "better (modifying nouns from classes 7, 9 and 10)",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,572 @@
+[
+    {
+        "noun": "hill, start on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "him",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "him, for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "se",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "himself, he",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ yé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"hind\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅé nɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hinder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hippopotamus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hip, shake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hips, shake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmiʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hires, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀gɔ ngàŋa fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "his",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "we",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "we",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "we",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hissing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lemí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "history",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mápitsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mándagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit (chest)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit (softly)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit strongly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit the road",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́me mánzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit with stick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hit with two drumsticks",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔɔn nŋwáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndá nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoarse, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hoarse, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáʼ",
+                "examples": []
+            }
+        ]
+    }
+]

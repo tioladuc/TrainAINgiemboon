@@ -1,0 +1,376 @@
+[
+    {
+        "noun": "lepóm",
+        "pronounciation": "lèpɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement d’une photo",
+                "definition_en": "photo’s development",
+                "examples": []
+            },
+            {
+                "definition_fr": "gonflement (roue)",
+                "definition_en": "inflation (tire)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepòŋ",
+        "pronounciation": "lèpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magnifique ; magnificence",
+                "definition_en": "magnificent; magnificence",
+                "examples": []
+            },
+            {
+                "definition_fr": "bonheur ; bien-être",
+                "definition_en": "happiness; well-being",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepúbè",
+        "pronounciation": "lèpúβȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serpent aveugle",
+                "definition_en": "blind snake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepùe",
+        "pronounciation": "lèpùȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étourderie",
+                "definition_en": "thoughtlessness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepum",
+        "pronounciation": "lèpùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œuf",
+                "definition_en": "egg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepúm",
+        "pronounciation": "lèpúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dizaine",
+                "definition_en": "about ten",
+                "examples": []
+            },
+            {
+                "definition_fr": "« cauri » ; porcelaine",
+                "definition_en": "cowry shell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepùme",
+        "pronounciation": "lèpùmȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accolade",
+                "definition_en": "accolade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepùme",
+        "pronounciation": "lèpùmȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perfection",
+                "definition_en": "perfection",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepùmondù",
+        "pronounciation": "lèpùmòɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouge-gorge",
+                "definition_en": "robin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepumtě ntse",
+        "pronounciation": "lèpùmtě ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "confluent",
+                "definition_en": "confluence; mingling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepuʼú",
+        "pronounciation": "lèpùʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colis ; paquet",
+                "definition_en": "package",
+                "examples": []
+            },
+            {
+                "definition_fr": "boule",
+                "definition_en": "ball",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepuʼú múɔ",
+        "pronounciation": "lèpùʔú múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "circoncision",
+                "definition_en": "circumcision",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepuʼú ŋweʼe",
+        "pronounciation": "lèpùʔú ŋwə̀ʔè",
+        "synonym": [
+            "mbuʼú ŋwèʼe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "document ; livre",
+                "definition_en": "document; book",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepuʼú pfó",
+        "pronounciation": "lèpùʔú pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épi de maïs contenant la poudre noire",
+                "definition_en": "ear of maize or corn containing black powder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́",
+        "pronounciation": "lèpɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sein de mammifère",
+                "definition_en": "mammal’s breast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ̌",
+        "pronounciation": "lèpɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "loi",
+                "definition_en": "law",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́a",
+        "pronounciation": "lèpɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pot ; vase d’eau bénite",
+                "definition_en": "pot; jar; vase of holy water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́méshʉŋ",
+        "pronounciation": "lèpɯ̀méʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́múɔ",
+        "pronounciation": "lèpɯ́múɔ́",
+        "synonym": [
+            "mambʉ́múɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́múɔ",
+        "pronounciation": "lèpɯ́múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "euphorbe (gén.)",
+                "definition_en": "spurge (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́múɔ kwɔb",
+        "pronounciation": "lèpɯ́múɔ́ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. euphorbe",
+                "definition_en": "sp. spurge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepʉ́múɔ tsẅɛ",
+        "pronounciation": "lèpɯ́múɔ́ tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poinsettia sauvage",
+                "definition_en": "spurge; wild poinsettia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwó",
+        "pronounciation": "lèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bûcher",
+                "definition_en": "stake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwó",
+        "pronounciation": "lèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ciel",
+                "definition_en": "sky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwǒon ndá",
+        "pronounciation": "lèpwõ̌ː ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maçonnerie",
+                "definition_en": "brickwork; masonry",
+                "examples": []
+            }
+        ]
+    }
+]

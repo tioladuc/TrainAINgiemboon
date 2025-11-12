@@ -1,0 +1,414 @@
+[
+    {
+        "noun": "ndá messó",
+        "pronounciation": "ǹ̩dá mèsːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poissonerie",
+                "definition_en": "fish shop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá mmɔ̌g",
+        "pronounciation": "ǹ̩dá m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuisine",
+                "definition_en": "kitchen; cooking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá ndêg",
+        "pronounciation": "ǹ̩dá ǹ̩də̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maison en étage",
+                "definition_en": "two-storey house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá nŋwáʼ",
+        "pronounciation": "ǹ̩dá ŋ̩̀ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruche",
+                "definition_en": "hive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá ntsem",
+        "pronounciation": "ǹ̩dá ǹ̩tsə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secrétariat",
+                "definition_en": "secretary’s office",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá nzse",
+        "pronounciation": "ǹ̩dá ndzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "case interdite",
+                "definition_en": "forbidden house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá ŋàg",
+        "pronounciation": "ǹ̩dá ŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tribunal",
+                "definition_en": "court",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá sɔ̀ɔn",
+        "pronounciation": "ǹ̩dá sɔ̃̏ː",
+        "synonym": [
+            "nzèle ngẅi ",
+            " fʉ̀ŋe sɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "termitière",
+                "definition_en": "termite mound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá Ssé",
+        "pronounciation": "ǹ̩dá sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "temple ou maison de Dieu ; église",
+                "definition_en": "temple or house of God; church",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndá tsǎŋ",
+        "pronounciation": "ǹ̩dá tsã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prison",
+                "definition_en": "prison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndaa",
+        "pronounciation": "ǹ̩dàː",
+        "synonym": [
+            "laa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jamais",
+                "definition_en": "never",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n daa mbab shÿóo pfɛ́ɛ.",
+                        "fr": "Je n’ai jamais mangé la viande d’éléphant.",
+                        "en": "I have never eaten elephant meat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndaa gyá",
+        "pronounciation": "ǹ̩dàː ɣjá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miracle ; chose extraordinaire",
+                "definition_en": "miracle; extraordinary thing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndàb",
+        "pronounciation": "ǹ̩dȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tissu batik pour le deuil",
+                "definition_en": "k. batik cloth for funerals",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdab",
+        "pronounciation": "ń̩dàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se chercher ; chercher de l’argent ; chercher les biens",
+                "definition_en": "search for one’s identity; search for money; search for wealth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáb",
+        "pronounciation": "ń̩dáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laver à moitié",
+                "definition_en": "half wash",
+                "examples": []
+            },
+            {
+                "definition_fr": "pétrir la boue ou le pain",
+                "definition_en": "knead mud or bread",
+                "examples": []
+            },
+            {
+                "definition_fr": "laver à moitié",
+                "definition_en": "wash halfway",
+                "examples": [
+                    {
+                        "dialect": "A labté káŋ ńnéŋ shúm léjÿó tsoló.",
+                        "fr": "Il a lavé l’assiette a̍ moitié et a mis la nourriture dedans.",
+                        "en": "He washed the plate halfway and put the food in it."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "avoir l’habilité",
+                "definition_en": "have the ability",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn lábte lépí shúm tá we.",
+                        "fr": "Cet enfant a l’habilité de prendre le choses de son père.",
+                        "en": "This child has the ability to take his father's things."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndàba",
+        "pronounciation": "ǹ̩dàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moissonneur ; producteur",
+                "definition_en": "harvester; producer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdabte",
+        "pronounciation": "ń̩dàptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir l’habitude",
+                "definition_en": "do habitually",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndǎg",
+        "pronounciation": "ǹ̩dǎq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "merci",
+                "definition_en": "thank you",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdag",
+        "pronounciation": "ń̩dàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ramasser",
+                "definition_en": "collect",
+                "examples": []
+            },
+            {
+                "definition_fr": "moissonner",
+                "definition_en": "harvest",
+                "examples": []
+            },
+            {
+                "definition_fr": "moissonner",
+                "definition_en": "harvest",
+                "examples": []
+            },
+            {
+                "definition_fr": "se méfier",
+                "definition_en": "be wary",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramasser",
+                "definition_en": "pick up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndàga",
+        "pronounciation": "ǹ̩dàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ramasseur",
+                "definition_en": "collector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndákwà",
+        "pronounciation": "ǹ̩dákwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélange de maïs et d’arachide grillés et écrasés",
+                "definition_en": "mix of ground grilled maize and peanuts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndálè",
+        "pronounciation": "ǹ̩dálȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "rubber vine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndalÿò",
+        "pronounciation": "ǹ̩dàɭɬɰȍ",
+        "synonym": [
+            "fala nda"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salon",
+                "definition_en": "lounge; sitting room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndameshǔ",
+        "pronounciation": "ǹ̩dàmèʃǔ",
+        "synonym": [
+            "nnameshú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndametʉ̌a",
+        "pronounciation": "ǹ̩dámèʈɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boutique",
+                "definition_en": "shop",
+                "examples": []
+            }
+        ]
+    }
+]

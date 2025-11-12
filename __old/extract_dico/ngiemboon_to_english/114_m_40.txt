@@ -1,0 +1,449 @@
+[
+    {
+        "noun": "ḿvfé",
+        "pronounciation": "ɱ̩́bvfé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fréquenté",
+                "definition_en": "be busy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être dans l’ambiance",
+                "definition_en": "be in the mood",
+                "examples": []
+            },
+            {
+                "definition_fr": "être fréquenté",
+                "definition_en": "to be frequented",
+                "examples": []
+            },
+            {
+                "definition_fr": "être dans l’ambiance",
+                "definition_en": "be in the mood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvfò",
+        "pronounciation": "ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devant",
+                "definition_en": "in front; ahead",
+                "examples": [
+                    {
+                        "dialect": "Mvfò yɔ́ɔn tyé tyě.",
+                        "fr": "Mon devant est ouvert.",
+                        "en": "My front is open."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "devant",
+                "definition_en": "in front; ahead",
+                "examples": [
+                    {
+                        "dialect": "A wɔ̌ tyé mvfò mèŋ?",
+                        "fr": "Qui est devant moi ?",
+                        "en": "Who is in front of me?"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mieux",
+                "definition_en": "better",
+                "examples": [
+                    {
+                        "dialect": "Mvfò gù légʉa.",
+                        "fr": "Le mieux, c’est que tu quittes.",
+                        "en": "The best thing is for you to leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mvfǒ",
+        "pronounciation": "ɱ̩̀bvfǒ",
+        "synonym": [
+            "mvfě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. vitex",
+                "definition_en": "sp. vitex",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvfo",
+        "pronounciation": "ɱ̩́bvfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coudre",
+                "definition_en": "sew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvfó",
+        "pronounciation": "ɱ̩́bvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuire ; être tendre",
+                "definition_en": "cook; be tender",
+                "examples": []
+            },
+            {
+                "definition_fr": "être, mûr",
+                "definition_en": "be ripe",
+                "examples": []
+            },
+            {
+                "definition_fr": "devenir mature",
+                "definition_en": "become mature",
+                "examples": []
+            },
+            {
+                "definition_fr": "cuir ; être tendre",
+                "definition_en": "leather ; be tender",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvfó",
+        "pronounciation": "ɱ̩́bvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’infecter",
+                "definition_en": "become infected; go septic",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’infecter",
+                "definition_en": "become infected",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvfò lyɛ̌ʼ",
+        "pronounciation": "ɱ̩̀bvfȍ ljɛ̌ʔ",
+        "synonym": [
+            "móonndi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lundi",
+                "definition_en": "Monday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvfò màga lyɛ̌ʼ",
+        "pronounciation": "ɱ̩̀bvfȍ màʁȁ ljɛ̌ʔ",
+        "synonym": [
+            "faládê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendredi",
+                "definition_en": "Friday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvfòluʼ",
+        "pronounciation": "ɱ̩̀bvfȍɭùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. agave",
+                "definition_en": "sisal; hemp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvib",
+        "pronounciation": "ɱ̩́bvìp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chicoter ; fouetter ; fustiger",
+                "definition_en": "argue about a trifle; whip; denounce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvòm",
+        "pronounciation": "ɱ̩̀bvɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graine",
+                "definition_en": "seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvom",
+        "pronounciation": "ɱ̩́bvɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intimider ; faire semblant de menacer",
+                "definition_en": "intimidate; pretend to threaten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvom",
+        "pronounciation": "ɱ̩́bvɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vanner",
+                "definition_en": "winnow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvòm lÿó",
+        "pronounciation": "ɱ̩̀bvɤ̏m ɭɬɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (mangeant)",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvòm nŋwáʼ",
+        "pronounciation": "ɱ̩̀bvɤ̏m nŋwáʔ",
+        "synonym": [
+            "nŋwáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abeille",
+                "definition_en": "bee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvómo",
+        "pronounciation": "ɱ̩́bvɤ́mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troubler ; interférer",
+                "definition_en": "disturb; interfere",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvómte",
+        "pronounciation": "ɱ̩́bvɤ́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parler dans le sommeil",
+                "definition_en": "talk in your sleep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvòŋ",
+        "pronounciation": "ɱ̩̀bvõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "levure",
+                "definition_en": "yeast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvoŋ",
+        "pronounciation": "ɱ̩́bvõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélanger ; troubler l’eau",
+                "definition_en": "mix; disrupt water",
+                "examples": []
+            },
+            {
+                "definition_fr": "mélanger plusieurs fois ; troubler l’eau plusieurs fois",
+                "definition_en": "mix several times; disturb the water several times",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvóŋo",
+        "pronounciation": "ɱ́bvṍŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troubler",
+                "definition_en": "disturb",
+                "examples": [
+                    {
+                        "dialect": "À lɔgɔ́ shwǒŋ ḿvóŋo twó yɔ́ɔn.",
+                        "fr": "Il m’a troublé avec le bavardage.",
+                        "en": "He disturbed me with the chatter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɔb",
+        "pronounciation": "ɱ̩́bvɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercher à profiter partout",
+                "definition_en": "search to make a profit everywhere",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɔb",
+        "pronounciation": "ɱ̩́bvɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vanner",
+                "definition_en": "winnow; sift",
+                "examples": []
+            },
+            {
+                "definition_fr": "cligner",
+                "definition_en": "blink; wink",
+                "examples": []
+            },
+            {
+                "definition_fr": "clignoter",
+                "definition_en": "flash",
+                "examples": []
+            },
+            {
+                "definition_fr": "vanner",
+                "definition_en": "to winnow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvɔbɔ́",
+        "pronounciation": "ɱ̩̀bvɔ̀βɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre ; farine",
+                "definition_en": "powder; flour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvɔbɔ́ tôtǒ",
+        "pronounciation": "ɱ̩̀bvɔ̀βɔ́ tôtǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pollen",
+                "definition_en": "pollen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɔg",
+        "pronounciation": "ɱ̩́bvɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arriver le premier ; être avant",
+                "definition_en": "come in first; be ahead",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "milder, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́le",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "milk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mélêg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ménêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mashʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "millet, ditch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndúm legǐ metʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "millet (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "million",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mileyôŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "millipede",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tòonŋwǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "millstone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mimic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésate shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mince",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mine, yours and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mingling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepumtě ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letemé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minimal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minimal quantity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minister",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋwâ láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwáláʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pásétò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Minister, Prime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋwámbʉ̀a twó mbúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwáláʼ twó mbúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mínẅîd",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ méntsẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "minutes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púɔ mefʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miracle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lemaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndaa gyá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀ʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntùbo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miracle, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔʼ ntsɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "miraculous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mambáŋambíle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mirror",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyà shÿó",
+                "examples": []
+            }
+        ]
+    }
+]

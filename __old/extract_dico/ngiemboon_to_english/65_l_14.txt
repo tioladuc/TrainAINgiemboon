@@ -1,0 +1,372 @@
+[
+    {
+        "noun": "lepwɔʼ",
+        "pronounciation": "lèpwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courge (gén.)",
+                "definition_en": "squash (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwɔʼ kúnɔ̀ɔn",
+        "pronounciation": "lèpwɔ̀ʔ kúnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. courge",
+                "definition_en": "sp. squash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwɔʼ kʉ́kʉ́b",
+        "pronounciation": "lèpwɔ̀ʔ kɯ́kɯ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "African tiger lotus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwɔʼ nkʉ́a",
+        "pronounciation": "lèpwɔ̀ʔ ŋ̩̀kɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "sp. creeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepwɔʼ ntsentse",
+        "pronounciation": "lèpwɔ̀ʔ",
+        "synonym": [
+            "pasetɛ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pastèque",
+                "definition_en": "watermelon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepyè",
+        "pronounciation": "lèpɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foie",
+                "definition_en": "liver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepyè",
+        "pronounciation": "lèpɸjȅ",
+        "synonym": [
+            "pyè ntʉ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourridié ; s. maladie des plantes",
+                "definition_en": "root rot; k. plant disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepÿé",
+        "pronounciation": "lèpɸɰé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trou",
+                "definition_en": "hole",
+                "examples": []
+            },
+            {
+                "definition_fr": "carrière",
+                "definition_en": "quarry; career",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepÿé mmɔ̌g",
+        "pronounciation": "lèpɸɰé m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfer",
+                "definition_en": "hell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepÿɛ́",
+        "pronounciation": "lèpɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faiblesse",
+                "definition_en": "weakness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leság",
+        "pronounciation": "lèsáq̚",
+        "synonym": [
+            "ncÿó ",
+            " lecwoŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fesse",
+                "definition_en": "buttock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesàg",
+        "pronounciation": "lèsȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "longueur",
+                "definition_en": "length",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesaʼá",
+        "pronounciation": "lèsàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "origine",
+                "definition_en": "origin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesaʼá nèm",
+        "pronounciation": "lèsàʔá nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lever du soleil",
+                "definition_en": "sunrise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leselé nzsè",
+        "pronounciation": "lèsə̀lé ǹ̩dzsȅ",
+        "synonym": [
+            "sèle nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déviateur ; déviation",
+                "definition_en": "diverter; deflection; diversion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshù",
+        "pronounciation": "lèʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac en toile ; petit sac de sel",
+                "definition_en": "k. cloth sack; small sack of salt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshùm",
+        "pronounciation": "lèʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeunesse",
+                "definition_en": "youth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉ́a",
+        "pronounciation": "lèʃɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fente (pied)",
+                "definition_en": "crack (foot)",
+                "examples": [
+                    {
+                        "dialect": "Leshʉ́a ée kwò múɔ.",
+                        "fr": "Il y a la fente au pied de l’enfant.",
+                        "en": "There is the slit in the child's foot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "leshʉaté",
+        "pronounciation": "lèʃɯ̀àté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "division",
+                "definition_en": "division",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉŋ",
+        "pronounciation": "lèʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ricin",
+                "definition_en": "castor oil plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Leshʉ́ŋ",
+        "pronounciation": "lèʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Balessing",
+                "definition_en": "Balessing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉŋé",
+        "pronounciation": "lèʃɯ̃̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carabe (gén.)",
+                "definition_en": "beetle (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉŋé mekéle",
+        "pronounciation": "lèʃɯ̃̀ŋé mèkə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. scarabée",
+                "definition_en": "sp. beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉŋé pîɛ",
+        "pronounciation": "lèʃɯ̃̀ŋé píɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cicindèle",
+                "definition_en": "tiger beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leshʉŋé shÿɔ́ʼ",
+        "pronounciation": "lèʃɯ̃̀ŋé ʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. scarabée",
+                "definition_en": "sp. beetle",
+                "examples": []
+            }
+        ]
+    }
+]

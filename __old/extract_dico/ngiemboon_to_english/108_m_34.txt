@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "ḿmómte",
+        "pronounciation": "ḿ̩mɤ́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer",
+                "definition_en": "close",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmoŋe",
+        "pronounciation": "ḿ̩mõ̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ignorer",
+                "definition_en": "ignore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmoon",
+        "pronounciation": "m̩̀mõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oui",
+                "definition_en": "yes",
+                "examples": [
+                    {
+                        "dialect": "À ně ńtóŋo yé, á zẅíŋ lê mmoon.",
+                        "fr": "Il a accepté oui quand il l’a appelé.",
+                        "en": "He agreed yes when he called him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mmɔ̀g",
+        "pronounciation": "m̩̀mɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "envie produit par le cou face à un bon plat",
+                "definition_en": "desire produced in the neck facing a good plate of food",
+                "examples": [
+                    {
+                        "dialect": "À gyǎ shúm léjÿó sɔ́ɔn lóŋ we gÿo lê mmɔ̀g.",
+                        "fr": "Il a vu ma viande et son cou a fait « mmɔ̀g ».",
+                        "en": "He saw my meat and his neck went “mmɔ̀g”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mmɔ̌g",
+        "pronounciation": "m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feu",
+                "definition_en": "fire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmɔg",
+        "pronounciation": "ḿ̩mɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dégager la fumée",
+                "definition_en": "give off smoke",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmɔg",
+        "pronounciation": "ḿ̩mɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écarquiller",
+                "definition_en": "stare wide-eyed",
+                "examples": []
+            },
+            {
+                "definition_fr": "mouvoir le cou",
+                "definition_en": "move the neck",
+                "examples": []
+            },
+            {
+                "definition_fr": "écarquiller",
+                "definition_en": "widen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmɔ̌gnè",
+        "pronounciation": "m̩̀mɔ̌q̚nȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "luciole",
+                "definition_en": "firefly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmɔɔn",
+        "pronounciation": "ḿ̩mɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exclamer ; s’exclamer",
+                "definition_en": "exclaim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmɔ́ɔn",
+        "pronounciation": "ḿ̩mɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embrasser tout à la fois ; saisir en masse",
+                "definition_en": "kiss all at once; embrace all at once; grab a bunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmɔ́ɔn",
+        "pronounciation": "ḿ̩mɔ̃́ː",
+        "synonym": [
+            "mɔ́ɔn ",
+            " mɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... même pas",
+                "definition_en": "not even",
+                "examples": [
+                    {
+                        "dialect": "Tè mɔ́ɔn ńzẅíŋe nò gie à gɔɔn.",
+                        "fr": "N’accepte même pas ce qu’il dit.",
+                        "en": "Don't even accept what he says."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mmɔ́ʼɔ",
+        "pronounciation": "m̩̀mɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un (seulement pour compter)",
+                "definition_en": "one",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmu",
+        "pronounciation": "ḿ̩mù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remplir (de personnes)",
+                "definition_en": "fill up (with people)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmuʼ",
+        "pronounciation": "ḿ̩mùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bêcher ; creuser le sol",
+                "definition_en": "dig up; dig the ground",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramollir",
+                "definition_en": "soften",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmuʼ",
+        "pronounciation": "ḿ̩mùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "découvrir",
+                "definition_en": "discover",
+                "examples": []
+            },
+            {
+                "definition_fr": "surgir",
+                "definition_en": "surge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmúʼte",
+        "pronounciation": "ḿ̩múʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gonfler",
+                "definition_en": "blow up; inflate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmʉ́",
+        "pronounciation": "ḿ̩mɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sortir à l’aube ; être matinale",
+                "definition_en": "go out at dawn; early riser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmʉ́ŋ",
+        "pronounciation": "ḿ̩mɯ̃́ŋ",
+        "synonym": [
+            "ḿméŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se gâter ; moisir",
+                "definition_en": "go bad; go mouldy; rot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mmʉ̀ʼ",
+        "pronounciation": "m̩̀mɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rosée",
+                "definition_en": "dew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmʉʼ",
+        "pronounciation": "ḿ̩mɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ébouler",
+                "definition_en": "crumble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmʉ́ʼ",
+        "pronounciation": "ḿ̩mɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sangloter ; faire des larmes",
+                "definition_en": "sob; cry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmʉ́ʼte",
+        "pronounciation": "ḿ̩mɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hésiter",
+                "definition_en": "hesitate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmwoon",
+        "pronounciation": "ḿ̩mwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercher ; fouiller",
+                "definition_en": "look for; dig up",
+                "examples": []
+            },
+            {
+                "definition_fr": "tâter",
+                "definition_en": "feel; touch",
+                "examples": []
+            },
+            {
+                "definition_fr": "tâter",
+                "definition_en": "feel",
+                "examples": []
+            },
+            {
+                "definition_fr": "tenter",
+                "definition_en": "to attempt",
+                "examples": []
+            },
+            {
+                "definition_fr": "examiner",
+                "definition_en": "examine",
+                "examples": []
+            },
+            {
+                "definition_fr": "consulter",
+                "definition_en": "to consult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmyɛʼ",
+        "pronounciation": "ḿ̩mjɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cligner",
+                "definition_en": "wink; blink",
+                "examples": []
+            },
+            {
+                "definition_fr": "cligner",
+                "definition_en": "blink",
+                "examples": []
+            },
+            {
+                "definition_fr": "clignoter",
+                "definition_en": "flash",
+                "examples": []
+            },
+            {
+                "definition_fr": "copuler ; se démener",
+                "definition_en": "copulate; to struggle",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire signe de main",
+                "definition_en": "wave",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿmÿag",
+        "pronounciation": "ḿ̩mɰàq̚",
+        "synonym": [
+            "ḿmÿɔg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regretter ; s’inquiéter",
+                "definition_en": "regret; worry",
+                "examples": []
+            },
+            {
+                "definition_fr": "regretter ; inquiéter ; se soucier ; irriter",
+                "definition_en": "regret; worry; to care; irritate",
+                "examples": []
+            }
+        ]
+    }
+]

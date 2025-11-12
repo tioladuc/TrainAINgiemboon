@@ -1,0 +1,444 @@
+[
+    {
+        "noun": "gwâ",
+        "pronounciation": "ɣwâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit par un tissu qui se déchire ou d’une pluie qui s’abat",
+                "definition_en": "sound of cloth ripping or rain beating down",
+                "examples": [
+                    {
+                        "dialect": "Nzsǒ ye shʉ̌a lê gwâ.",
+                        "fr": "Son habit s’est déchiré que « gwâ ».",
+                        "en": "His clothes were torn like “gwâ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gwág",
+        "pronounciation": "ɣwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "casserole",
+                "definition_en": "saucepan",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwága mekú",
+        "pronounciation": "ɣwáʁá mèkú",
+        "synonym": [
+            "ncʉ́agwág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille de niébé",
+                "definition_en": "cowpea leaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwága ntse",
+        "pronounciation": "ɣwáʁá ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embouchure ; estuaire ; delta",
+                "definition_en": "mouth; mouthpiece; estuary; delta",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwáŋa",
+        "pronounciation": "ɣwã́ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "famine ; disette",
+                "definition_en": "famine; food shortage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwàte",
+        "pronounciation": "ɣwàtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélange",
+                "definition_en": "mixture",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwáʼ",
+        "pronounciation": "ɣwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épilepsie",
+                "definition_en": "epilepsy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwaʼ ntaŋ",
+        "pronounciation": "ɣwàʔ ǹ̩tã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwáʼa",
+        "pronounciation": "ɣwáʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peste",
+                "definition_en": "plague; pest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwèle ntʉ̀",
+        "pronounciation": "ɣwə̀lȅ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "tulip tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwèle sẅɛ̀ʼɛ",
+        "pronounciation": "ɣwə̀lȅ sɥɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "siala",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "boundary tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwǒŋ",
+        "pronounciation": "ɣwõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profil ; côté ; flanc",
+                "definition_en": "profile; side; flank",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwɔ̀bɔ",
+        "pronounciation": "ɣwɔ̀βɔ̏",
+        "synonym": [
+            "ngwɔ̀b ",
+            " ngwɔ̀bɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourche ; crochet",
+                "definition_en": "hook; pitchfork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwɔ́bte",
+        "pronounciation": "ɣwɔ́pté",
+        "synonym": [
+            "kwóŋte ",
+            " kwóonte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruse ; exploitation",
+                "definition_en": "trick; trickery; exploitation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwɔ́g",
+        "pronounciation": "ɣwɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lime",
+                "definition_en": "file",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gwɔ́gɔ mbɔ̀ɔn",
+        "pronounciation": "ɣwɔ́ʁɔ́ m̩̀bɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de musique",
+                "definition_en": "k. musical instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅà",
+        "pronounciation": "ɣɥȁ",
+        "synonym": [
+            "gwà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅe megʉa",
+        "pronounciation": "ɣxɥè mèɣɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comédie",
+                "definition_en": "comedy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅète",
+        "pronounciation": "ɣxɥètȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sourire",
+                "definition_en": "smile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅi",
+        "pronounciation": "ɣɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui-là (pron. dém. de loin qui modifie les noms des classes 1 et 3)",
+                "definition_en": "that one; that one there (distant demonstrative pronoun referring to class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Nkáʼ wɔɔn fáŋ ńcʉa gẅi.",
+                        "fr": "Ce champ-ci est plus grand que celui-là.",
+                        "en": "This field is bigger than that one."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de loin qui modifie les noms des classes 1 et 3)",
+                "definition_en": "that; that ... there (distant demonstrative adjective referring to class 1 and 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅi",
+        "pronounciation": "ɣɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 1)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 1 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa na ngáb gi, ńgwoon gẅi.",
+                        "fr": "Parmi les poules-là, arrête la vôtre.",
+                        "en": "Among the chickens there, stop yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 1)",
+                "definition_en": "your (second person singular possessive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "votre (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 1)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour vous (pron. poss. objet de la 2e personne du pluriel qui renvoie aux noms de la classe 1)",
+                "definition_en": "for you (second person plural possessive object pronoun referring back to class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅí",
+        "pronounciation": "ɣɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vous (pron. objet, 2e personne pluriel)",
+                "definition_en": "you (second person plural object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "N tóŋo gẅí.",
+                        "fr": "Je vous appelle.",
+                        "en": "I'm calling you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gẅí",
+        "pronounciation": "ɣɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 3)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Nkáʼ wég wɔɔn, é gẅí gwɔ́.",
+                        "fr": "Voici notre champ, où est le vôtre.",
+                        "en": "Here is our field, where is yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 3)",
+                "definition_en": "your (second person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "votre (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 3)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour vous (pron. poss. objet de la 2e personne du pluriel qui renvoie aux noms de la classe 3)",
+                "definition_en": "for you (second person plural possessive object pronoun referring back to class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅie",
+        "pronounciation": "ɣɥìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que ; qui (pron. relatif qui modifie les noms des classes 1 et 3)",
+                "definition_en": "that; who (relative pronoun modifying class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tóo ḿbí nkẅíŋ gẅie é nuŋe jʉʼɔɔn lɔɔn ńdɔg ńgʉa.",
+                        "fr": "Viens prendre le bois qui est ici pour partir.",
+                        "en": "Come and take the wood that is here to leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gẅǐɛ",
+        "pronounciation": "ɣɥìɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étape ; échelon",
+                "definition_en": "step; rung",
+                "examples": [
+                    {
+                        "dialect": "Á zɛ́tè megẅǐɛ mentá tá mmo yɔɔn poŋ.",
+                        "fr": "Il faut trois étapes pour que cette chose réussisse.",
+                        "en": "It takes three steps for this thing to succeed."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,474 @@
+[
+    {
+        "noun": "ńkíle",
+        "pronounciation": "ŋ̩́kílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empêcher",
+                "definition_en": "prevent",
+                "examples": []
+            },
+            {
+                "definition_fr": "monopoliser",
+                "definition_en": "monopolize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkim",
+        "pronounciation": "ŋ̩́kìm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clouer",
+                "definition_en": "nail",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre la tôle",
+                "definition_en": "put on sheet metal",
+                "examples": []
+            },
+            {
+                "definition_fr": "se planter (chique)",
+                "definition_en": "to screw up (chic)",
+                "examples": [
+                    {
+                        "dialect": "Kúkwò ka kime kwò múɔ.",
+                        "fr": "La chique s’est plantée sur le pied de l’enfant.",
+                        "en": "The quid landed on the child’s foot."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "enclouer ; fixer",
+                "definition_en": "nail; fix",
+                "examples": [
+                    {
+                        "dialect": "A ně ḿmaʼ mbaŋa tʉ̌, é  kime na kwò yɔ́ɔn.",
+                        "fr": "Il a lancé le clou, il s’est fixé sur mon pied.",
+                        "en": "He threw the nail, it stuck on my foot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkim",
+        "pronounciation": "ŋ̩́kìm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être avare ; être égoïste",
+                "definition_en": "be miserly; be egotistical",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkím",
+        "pronounciation": "ŋ̩́kím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "évoquer ; prononcer",
+                "definition_en": "evoke; pronounce",
+                "examples": []
+            },
+            {
+                "definition_fr": "se rappeler",
+                "definition_en": "remember",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkìŋ",
+        "pronounciation": "ŋ̩̀kĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grenier",
+                "definition_en": "attic; barn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǐŋ",
+        "pronounciation": "ŋ̩̀kĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stérile",
+                "definition_en": "infertile; barren",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíŋ",
+        "pronounciation": "ŋ̩́kĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "isoler",
+                "definition_en": "isolate",
+                "examples": []
+            },
+            {
+                "definition_fr": "isoler",
+                "definition_en": "isolate",
+                "examples": []
+            },
+            {
+                "definition_fr": "couper des feuilles",
+                "definition_en": "cut leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíŋ",
+        "pronounciation": "ŋ̩́kĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se moquer",
+                "definition_en": "make fun",
+                "examples": []
+            },
+            {
+                "definition_fr": "se moquer de",
+                "definition_en": "make fun of",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíŋte",
+        "pronounciation": "ŋ̩́kĩ́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baratiner",
+                "definition_en": "sweet-talk",
+                "examples": [
+                    {
+                        "dialect": "Mênkɔ̀ʼ ne ńkíŋte mêngáb.",
+                        "fr": "Le coq baratine la poule.",
+                        "en": "The rooster bullshits the hen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkite",
+        "pronounciation": "ŋ̩́kìtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouler à terre",
+                "definition_en": "roll on the ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíʼ",
+        "pronounciation": "ŋ̩́kíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calciner",
+                "definition_en": "burn to ashes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkiʼi",
+        "pronounciation": "ŋ̩́kìʔì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fendiller ; avoir des failles",
+                "definition_en": "crack; have cracks",
+                "examples": []
+            },
+            {
+                "definition_fr": "fendiller ; avoir des failles",
+                "definition_en": "crack; crack; have flaws",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkoon",
+        "pronounciation": "ŋ̩̀kõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hochet en vannerie",
+                "definition_en": "rattle made of basketwork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǒon",
+        "pronounciation": "ŋ̩̀kõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "infirme",
+                "definition_en": "disabled",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkoon",
+        "pronounciation": "ŋ̩́kõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’ébouler ; s’affaisser",
+                "definition_en": "crumble; sink",
+                "examples": [
+                    {
+                        "dialect": "Tsetsáʼ kǒon.",
+                        "fr": "La terre s’est éboulée.",
+                        "en": "The earth collapsed."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "creuser",
+                "definition_en": "dig",
+                "examples": [
+                    {
+                        "dialect": "Tsìtsyɛ̀ kǒon nzsè.",
+                        "fr": "Le torrent a creusé la route.",
+                        "en": "The torrent dug the road."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkoon",
+        "pronounciation": "ŋ̩́kõ̀ː",
+        "synonym": [
+            "ńkɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dévorer à belles dents",
+                "definition_en": "devour with one’s teeth",
+                "examples": []
+            },
+            {
+                "definition_fr": "croquer",
+                "definition_en": "munch; crunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkoon kyɛ́d",
+        "pronounciation": "ŋ̩̀kõ̀ː kyɛ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arc musicale avec résonateur en boîte joué par les enfants",
+                "definition_en": "monochord arched harp, with a single string attached from a bowed stick inserted in a tin-can resonator, played by children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkòonte",
+        "pronounciation": "ŋ̩̀kõ̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche de la houe",
+                "definition_en": "hoe handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔ̌",
+        "pronounciation": "ŋ̩́kɔ̌:",
+        "synonym": [
+            "ńkɔʼɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être",
+                "definition_en": "be",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kɔʼɔ́ nzɔ̌? Mèŋ ńkɔʼɔ́ mbʉ̀a.",
+                        "fr": "Où-étais tu ? J’étais à la maison.",
+                        "en": "Where were you? I was at home."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔ̌",
+        "pronounciation": "ŋ̩́kɔ̌:",
+        "synonym": [
+            "ńkɔʼɔ́ ",
+            " ńkeʼé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "falloir ; devoir ; vouloir ; avoir envie de",
+                "definition_en": "must; have to; owe; want",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ ńkɔʼɔ́ gʉa metʉ̌a.",
+                        "fr": "Il faut que j’aille au marché.",
+                        "en": "I have to go to the market."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ́g",
+        "pronounciation": "ŋ̩̀kɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit ; étroit",
+                "definition_en": "small; little; narrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔ́g",
+        "pronounciation": "ŋ̩́kɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être petit",
+                "definition_en": "be small",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n kɔ́gɔ lépfɛ́ɛ mmó ɔ́.",
+                        "fr": "Je suis petit pour manger ton mets.",
+                        "en": "I am small to eat your food."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être petit",
+                "definition_en": "be small",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔɔn",
+        "pronounciation": "ŋ̩̀kɔ̃̀ː",
+        "synonym": [
+            "tánkɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seau ; s. panier avec anse",
+                "definition_en": "bucket; pail; k. basket with handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ̌ɔn",
+        "pronounciation": "ŋ̩̀kɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "siècle",
+                "definition_en": "century",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔɔn",
+        "pronounciation": "ŋ̩́kɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racler ; arracher",
+                "definition_en": "scrape; tear out",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger avec appétit",
+                "definition_en": "eat heartily",
+                "examples": []
+            }
+        ]
+    }
+]

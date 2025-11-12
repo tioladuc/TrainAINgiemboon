@@ -1,0 +1,310 @@
+[
+    {
+        "noun": "custom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅé láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "customer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut in half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut in pieces",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut into pieces",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut leaves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cutlet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̌ mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyɛʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cutter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut-throat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼa lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cutting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cutting edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cut wood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cylindrical drum, k. squat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cymbal, European",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàg káŋ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "noun": "tree, orange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lámáasè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, padauk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, peace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉnkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, prune",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, safou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ zoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, sandpaper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàba láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, sausage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree seed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyè metÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, silk-cotton",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèmenàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mambʉ́múɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́múɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntuntú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kékɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntèntàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lengɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo ndèndʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "péli tÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ mbàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ngág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máfùɔ tÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ menjʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "menguʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lùbo lengwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ kùbo ndèndʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ntɔ̀ʼ mbisí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shʉm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lélum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàba kwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ múɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ndyèente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ mekú nnu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lùbo lengwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋo ndùŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋondíŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔɔn pwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀alemvwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tree, velvet tamarind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngemé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tremble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tremble (ground)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnóŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trench",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tribe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tributary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trick by catching off guard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trickery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trick someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trickster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉ̀ʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trident",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔ̀b mentyɛ́ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trifle, argue about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvib",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "trill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèyà",
+                "examples": []
+            }
+        ]
+    }
+]

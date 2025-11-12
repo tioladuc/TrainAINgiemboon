@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "tòŋ ncwò",
+        "pronounciation": "tõ̏ŋ ǹ̩tʃːwȍ",
+        "synonym": [
+            "túŋ nkʉŋ ",
+            " tétúŋ nkʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "martin pêcheur",
+                "definition_en": "kingfisher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toŋó",
+        "pronounciation": "tõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goulot",
+                "definition_en": "spout; neck (bottle)",
+                "examples": [
+                    {
+                        "dialect": "À pwɔʼɔ́ toŋó tÿoon.",
+                        "fr": "Il a cassé le goulot.",
+                        "en": "He broke the bottleneck."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "toŋó ncÿó",
+        "pronounciation": "tõ̀ŋó ǹ̩tʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acceptation d’une fausse alerte",
+                "definition_en": "accept a false alarm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "toŋó ncÿó",
+        "pronounciation": "tõ̀ŋó ǹ̩tʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cul ; popotin ; fesse",
+                "definition_en": "bum; ass; bottom; buttock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòŋte káb",
+        "pronounciation": "tõ̀ŋtȅ káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cure-pipe",
+                "definition_en": "pipe cleaner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòŋte mesoŋ",
+        "pronounciation": "tõ̀ŋtȅ mèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cure-dents",
+                "definition_en": "toothpick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tóo ńtsyeen ḿmi",
+        "pronounciation": "tóː ń̩tsjẽ̀ː ḿ̩mì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "riz",
+                "definition_en": "rice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tóon",
+        "pronounciation": "tṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pierre",
+                "definition_en": "stone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tóon ntʉ̀",
+        "pronounciation": "tṍː ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. pierre",
+                "definition_en": "k. stone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tóon nzěm",
+        "pronounciation": "tṍː ǹ̩dzə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lâcheté",
+                "definition_en": "cowardice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòon twó",
+        "pronounciation": "tõ̏ː ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oreiller",
+                "definition_en": "pillow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòonngàŋ",
+        "pronounciation": "tõ̏ːŋgã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname jaune",
+                "definition_en": "sp. yellow yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tòonŋwǒon",
+        "pronounciation": "tõ̏ːŋwõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mille-pattes",
+                "definition_en": "millipede",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tôontǒon",
+        "pronounciation": "tõ̂ːtõ̌ː",
+        "synonym": [
+            "tôtǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleur (gén.)",
+                "definition_en": "flower (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tôtǒ",
+        "pronounciation": "tôtǒ",
+        "synonym": [
+            "tôontǒon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleur (gén.)",
+                "definition_en": "flower (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̂g",
+        "pronounciation": "tɔ̂q̚",
+        "synonym": [
+            "syâg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’une gifle",
+                "definition_en": "sound of a slap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̌g",
+        "pronounciation": "tɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accroissement de l’estomac",
+                "definition_en": "growth of the stomach",
+                "examples": []
+            },
+            {
+                "definition_fr": "caractéristique des vampires",
+                "definition_en": "characteristic of vampires",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̀g tɔ̀g",
+        "pronounciation": "tɔ̏qtɔ̏q",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit du maïs qui s’éclate sur le feu",
+                "definition_en": "sound of corn popping on a fire",
+                "examples": [
+                    {
+                        "dialect": "Ngesáŋ ne ḿvɛ́te lekʉŋ lê tɔ̀g tɔ̀g.",
+                        "fr": "Le maïs est en train de s’éclater que « tɔ̀g tɔ̀g ».",
+                        "en": "The corn is having a blast that “tɔ̀g tɔ̀g”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tɔgɔ ndá",
+        "pronounciation": "tɔ̀ʁɔ̀ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porte de secours",
+                "definition_en": "emergency exit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̀gɔ ndyé",
+        "pronounciation": "tɔ̀ʁɔ̀ ǹ̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cheminée",
+                "definition_en": "chimney",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̀gɔ nkyɛʼ",
+        "pronounciation": "tɔ̀ʁɔ̏ ŋ̩̀kjɛ̀ʔ",
+        "synonym": [
+            "fènɛ́tèle ",
+            " wúndù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fenêtre",
+                "definition_en": "window",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔgɔ́ tsye",
+        "pronounciation": "tɔ̀ʁɔ́ tsːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perle",
+                "definition_en": "pearl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ́gtè",
+        "pronounciation": "tɔ́qtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parcourt ; raccourci ; sentier",
+                "definition_en": "course; short cut; path",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tɔ̀gte",
+        "pronounciation": "tɔ̀qtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troué",
+                "definition_en": "holey",
+                "examples": [
+                    {
+                        "dialect": "Te néŋ nnáʼ tsɛ̀ɛ tɔ̀gte káŋ.",
+                        "fr": "Ne mets pas la sauce dans l’assiette trouée.",
+                        "en": "Do not put the sauce in the plate with holes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tɔ́ɔn",
+        "pronounciation": "tɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fosse",
+                "definition_en": "pit",
+                "examples": []
+            }
+        ]
+    }
+]

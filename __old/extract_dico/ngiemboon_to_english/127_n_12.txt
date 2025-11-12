@@ -1,0 +1,474 @@
+[
+    {
+        "noun": "ńdɔg",
+        "pronounciation": "ń̩dɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avec",
+                "definition_en": "with",
+                "examples": [
+                    {
+                        "dialect": "À lɔgɔ́ káŋ ńgʉa.",
+                        "fr": "Il est parti avec l’assiette.",
+                        "en": "He left with the plate."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "agir avec force",
+                "definition_en": "act forcefully",
+                "examples": []
+            },
+            {
+                "definition_fr": "signifier",
+                "definition_en": "mean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔg",
+        "pronounciation": "ń̩dɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coïter ; entretenir des rapports sexuels",
+                "definition_en": "copulate; have sexual relations",
+                "examples": [
+                    {
+                        "dialect": "À lɔgɔ́ manzwě zsǒ.",
+                        "fr": "Il a entretenu des rapports sexuels avec une femme en journée.",
+                        "en": "He had sexual relations with a woman during the day."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔg",
+        "pronounciation": "ń̩dɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "employer ; prendre ; moyenner",
+                "definition_en": "employ; take; obtain a result",
+                "examples": [
+                    {
+                        "dialect": "À lɔgɔ́ wɔ́ɔn jʉʼʉ fàʼ ye.",
+                        "fr": "Il m’a employé dans son lieu de travail.",
+                        "en": "He employed me in his workplace."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔg ńtó",
+        "pronounciation": "ń̩dɔ̀q ń̩tó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apporter",
+                "definition_en": "bring",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ lɔgɔ́ pɔ̀ɔn ńtó.",
+                        "fr": "Ils ont apporté le sac.",
+                        "en": "They brought the bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndɔ̀gɔ ngàŋa fàʼ",
+        "pronounciation": "ǹ̩dɔ̀ʁɔ̏ ŋ̩̀gã̀ŋȁ fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "employeur ; embaucheur ; recruteur",
+                "definition_en": "employer; one who hires; recruiter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔgɔ púʼu",
+        "pronounciation": "ń̩dɔ̀ʁɔ̀ púʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "de ce fait ; ainsi",
+                "definition_en": "from this event; in this way; thus",
+                "examples": [
+                    {
+                        "dialect": "À zoonté wɔ́ɔn, ńdɔgɔ púʼu ńgwága wɔ́ɔn.",
+                        "fr": "Il m’a insulté pour ainsi me simplifier.",
+                        "en": "He insulted me in order to simplify me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndɔ̀gtelé",
+        "pronounciation": "ǹ̩dɔ̏qtə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doctrine",
+                "definition_en": "doctrine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndɔɔn",
+        "pronounciation": "ǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": [
+                    {
+                        "dialect": "N dɔɔn ne ńguɔ, n gʉa lɔ́gtà.",
+                        "fr": "Si je suis malade, je vais à l’hôpital.",
+                        "en": "If I'm sick, I go to the hospital."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndɔ̌ɔn",
+        "pronounciation": "ǹ̩dɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit",
+                "definition_en": "cooked",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔɔn",
+        "pronounciation": "ń̩dɔ̃̀ː",
+        "synonym": [
+            "lɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔɔn",
+        "pronounciation": "ń̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lentement ; doucement",
+                "definition_en": "slowly; carefully",
+                "examples": [
+                    {
+                        "dialect": "Giŋ lê ndɔɔn laa láʼa mánzsè wɔ́.",
+                        "fr": "Qui marche lentement ne dort jamais en route.",
+                        "en": "He who walks slowly never sleeps on the way."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "patience ; du courage",
+                "definition_en": "patience; cheer up",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gwě ssé ɔ̀ tè gɔɔn ńdɔɔn wɔ́.",
+                        "fr": "Je suis tombé tu n’as pas dit patience.",
+                        "en": "I fell, you didn't say patience."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔɔn",
+        "pronounciation": "ń̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répandre",
+                "definition_en": "spread",
+                "examples": []
+            },
+            {
+                "definition_fr": "répandre",
+                "definition_en": "spread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔ́ɔn",
+        "pronounciation": "ń̩dɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuire",
+                "definition_en": "cook",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire cuire",
+                "definition_en": "make something cook",
+                "examples": []
+            },
+            {
+                "definition_fr": "préparer",
+                "definition_en": "prepare",
+                "examples": []
+            },
+            {
+                "definition_fr": "cuire plusieurs",
+                "definition_en": "cook several",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndɔɔn ndɔɔn",
+        "pronounciation": "ǹ̩dɔ̃̀ː ǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doucement ; lentement",
+                "definition_en": "gently; slowly",
+                "examples": [
+                    {
+                        "dialect": "Sẅíʼi ndɔɔn ndɔɔn.",
+                        "fr": "Descends doucement.",
+                        "en": "Go down slowly."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "encouragement",
+                "definition_en": "encouragement",
+                "examples": []
+            },
+            {
+                "definition_fr": "progressivement",
+                "definition_en": "progressively",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔɔnte",
+        "pronounciation": "ń̩dɔ̃̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traîner ; agir avec lenteur",
+                "definition_en": "pull; drag; slowly do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔ́ɔnte",
+        "pronounciation": "ń̩dɔ̃́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper ; mentir",
+                "definition_en": "deceive; lie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndɔ̀ʼɔ fùʼ",
+        "pronounciation": "ǹ̩dɔ̀ʔɔ̏ fȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gratuité ; quelque chose de gratuit",
+                "definition_en": "tip; something free",
+                "examples": [
+                    {
+                        "dialect": "Mbàŋa wɔɔn aa kwàʼ ndɔ̀ʼɔ fùʼ.",
+                        "fr": "Cet homme est vraiment celui qui aime la gratuité.",
+                        "en": "This man is truly one who loves free things."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔʼte",
+        "pronounciation": "ń̩dɔ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raconter",
+                "definition_en": "tell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù",
+        "pronounciation": "ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouture ; bout d’igname ; semence d’igname sucré",
+                "definition_en": "cutting; slip; end of a yam; sweet yam seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù",
+        "pronounciation": "ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crâne",
+                "definition_en": "skull",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù",
+        "pronounciation": "ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enclume",
+                "definition_en": "anvil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù",
+        "pronounciation": "ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fontaine",
+                "definition_en": "fountain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù",
+        "pronounciation": "ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mot",
+                "definition_en": "word",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdu",
+        "pronounciation": "ɳ̩́ɖù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se lever",
+                "definition_en": "get up",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en érection",
+                "definition_en": "be erect",
+                "examples": []
+            },
+            {
+                "definition_fr": "se lever",
+                "definition_en": "get up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdu",
+        "pronounciation": "ɳ̩́ɖù",
+        "synonym": [
+            "lu ",
+            " ge lu ",
+            " gÿo ",
+            " ge gÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur de demain (F3)",
+                "definition_en": "tomorrow future (F3)",
+                "examples": []
+            }
+        ]
+    }
+]

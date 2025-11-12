@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "pinch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pineapple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pin on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pin-tailed whydah",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákẅálá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pipe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pipe cleaner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tòŋte káb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pipe, mould",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔ̌ɔn lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pipe stem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pip, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mélesɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pirouette",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"pistachio nut\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pistachio nut, unripe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀bɔ njʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pita",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pitchfork",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ̀bɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀bɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mefagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pithaya cherry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kînáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pith, bamboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfwɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pith of a gourd",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pith of a melon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pits, melon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mezèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ɔn mézìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pity, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ɔn mezìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pity king",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ ntsɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "place",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntyè",
+                "examples": []
+            }
+        ]
+    }
+]

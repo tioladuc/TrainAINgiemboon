@@ -1,0 +1,501 @@
+[
+    {
+        "noun": "e",
+        "pronounciation": "è",
+        "synonym": [
+            "m ",
+            " n"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je (pron. sujet, première personne singulier)",
+                "definition_en": "I",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "e",
+        "pronounciation": "è",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; elle (pronom sujet pour la classe 9)",
+                "definition_en": "he; she (subject pronoun for class 9)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "e-",
+        "pronounciation": "è-",
+        "synonym": [
+            "m- ",
+            " n-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "des (pour la classe 8)",
+                "definition_en": "some",
+                "examples": [
+                    {
+                        "dialect": "epɔ̀ɔn,",
+                        "fr": "des sacs.",
+                        "en": "bags."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "é",
+        "pronounciation": "é",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; elle (pronom sujet pour les classes 3 et 5)",
+                "definition_en": "he; she (subject pronoun for classes 3 and 5)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ils ; elles (pronom sujet pour les classes 2, 4, 6, 8 et 10)",
+                "definition_en": "they (subject pronoun for classes 2, 4, 6, 8 and 10)",
+                "examples": [
+                    {
+                        "dialect": "Epʉ̀a pie é tǒ mbʉ̀a wɔɔn, é fóo lê nzɔ̌?",
+                        "fr": "Les gens qui sont venus dans cette maison, d’où viennent-ils ?",
+                        "en": "The people who came to this house, where did they come from?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "é-",
+        "pronounciation": "é-",
+        "synonym": [
+            "ń- ",
+            " ḿ-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "à (+verbe) ; de (+verbe)",
+                "definition_en": "to (+verb)",
+                "examples": [
+                    {
+                        "dialect": "ésáŋ,",
+                        "fr": "compter.",
+                        "en": "count."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "é-",
+        "pronounciation": "é-",
+        "synonym": [
+            "ń- ",
+            " ḿ-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.suj",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; ils (même sujet que la proposition précédente)",
+                "definition_en": "he; they (same subject as the preceding clause)",
+                "examples": [
+                    {
+                        "dialect": "Tóo ḿbí nkáb, ésáŋ.",
+                        "fr": "Viens prendre l’argent et comptes-le.",
+                        "en": "Come take the money and count it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "é-",
+        "pronounciation": "é-",
+        "synonym": [
+            "ń- ",
+            " ḿ-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.asp",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "(mode réalis, aspect imperfectif) ; vraiment",
+                "definition_en": "(realis mood, imperfective aspect); really",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "é-",
+        "pronounciation": "é-",
+        "synonym": [
+            "ń- ",
+            " ḿ-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.t",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui (P2)",
+                "definition_en": "today past;",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "é cʉ̂ʼ lyɛ̌ʼ shÿɔ́ʼɔ tsɔ́ wɔ́",
+        "pronounciation": "é tʃɯ̂ʔ ljɛ̌ʔ ʃɰɔ́ʔɔ́ tsɔ́ wɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dans quelques jours ; bientôt",
+                "definition_en": "in a few days; soon",
+                "examples": [
+                    {
+                        "dialect": "É cʉ́ʼ lyɛ̌ʼ shÿɔ́ʼɔ tsɔ́ wɔ́ me zye lépfɛ́ ngesáŋ sẅé.",
+                        "fr": "Dans quelques jours on commencera à manger le maïs frais.",
+                        "en": "In a few days we will start eating fresh corn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ee",
+        "pronounciation": "èː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.prol",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "c’est (pronom sujet pour la classe 9 dans les propositions sans verbes)",
+                "definition_en": "it’s (subject pronoun for class 9 for clauses without verbs)",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn, ee mbʉ̀a yɔ̀ɔn.",
+                        "fr": "Ici, c’est ma maison.",
+                        "en": "This is my house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ée",
+        "pronounciation": "éː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.prol",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "c’est (pronom sujet pour les classes 3 et 5 dans les propositions sans verbes) ; ce sont (pronom sujet pour les classes pluriels dans les propositions sans verbes)",
+                "definition_en": "it’s (subject pronoun for classes 3 and 5 for clauses without verbs); they’re (subject pronoun for the plural classes for clauses without verbs)",
+                "examples": [
+                    {
+                        "dialect": "Nkáʼ ée we wɔ́? Ée wég.",
+                        "fr": "A qui appartient le champ ? C’est le nôtre.",
+                        "en": "Who owns the field? It's ours."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ěen",
+        "pronounciation": "ẽ̌ː",
+        "synonym": [
+            "ɛ̌ɛn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(cri d’étonnement marquant l’oubli)",
+                "definition_en": "(cry of surprise regarding an oversight)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éen èen",
+        "pronounciation": "ẽ́ː ẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "non (marquant la négation)",
+                "definition_en": "no (marking negation)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge pfɛ́ mbab kúnɔ̀ɔn? Éen èen!",
+                        "fr": "Tu mangeras la viande du porc ? Éen èen !",
+                        "en": "Will you eat pork meat? Oh yeah!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éen héen",
+        "pronounciation": "ẽ́ː hẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si (marquant l’affirmation)",
+                "definition_en": "yes ... (affirmative response to negative question)",
+                "examples": [
+                    {
+                        "dialect": "Pɔgɔ te gʉa wɔ́ ka? Éen héen!",
+                        "fr": "N’allons-nous pas partir ? Si !",
+                        "en": "Are we not going to leave? If !"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfa",
+        "pronounciation": "éfà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffler",
+                "definition_en": "blow",
+                "examples": []
+            },
+            {
+                "definition_fr": "purger",
+                "definition_en": "purge",
+                "examples": []
+            },
+            {
+                "definition_fr": "bourrer",
+                "definition_en": "stuff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfá",
+        "pronounciation": "éfá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cravater",
+                "definition_en": "put a tie on",
+                "examples": []
+            },
+            {
+                "definition_fr": "froisser",
+                "definition_en": "wrinkle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfá",
+        "pronounciation": "éfá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfiler",
+                "definition_en": "thread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfag",
+        "pronounciation": "éfàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détacher (en enlevant d’un tronc)",
+                "definition_en": "detach; untie",
+                "examples": []
+            },
+            {
+                "definition_fr": "séparer",
+                "definition_en": "separate",
+                "examples": []
+            },
+            {
+                "definition_fr": "se détacher",
+                "definition_en": "break away",
+                "examples": []
+            },
+            {
+                "definition_fr": "virer",
+                "definition_en": "turn",
+                "examples": []
+            },
+            {
+                "definition_fr": "bifurquer",
+                "definition_en": "bifurcate",
+                "examples": []
+            },
+            {
+                "definition_fr": "se diviser",
+                "definition_en": "divide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfáŋ",
+        "pronounciation": "éfã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être grand ; être gros",
+                "definition_en": "be large, be big",
+                "examples": []
+            },
+            {
+                "definition_fr": "augmenter de volume",
+                "definition_en": "increase in volume",
+                "examples": []
+            },
+            {
+                "definition_fr": "se vanter",
+                "definition_en": "boast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfaŋte",
+        "pronounciation": "éfã̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mixer ; varier",
+                "definition_en": "mix; vary",
+                "examples": []
+            },
+            {
+                "definition_fr": "mélanger",
+                "definition_en": "mix; blend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfáte",
+        "pronounciation": "éfáté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brutaliser",
+                "definition_en": "mistreat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfaʼ",
+        "pronounciation": "éfàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "travailler",
+                "definition_en": "work",
+                "examples": []
+            },
+            {
+                "definition_fr": "chercher",
+                "definition_en": "search for",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfaʼte",
+        "pronounciation": "éfàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attaquer",
+                "definition_en": "attack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfée",
+        "pronounciation": "éféː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "louper ; manquer",
+                "definition_en": "miss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfege",
+        "pronounciation": "éfə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être léger",
+                "definition_en": "be light",
+                "examples": []
+            },
+            {
+                "definition_fr": "être faible",
+                "definition_en": "be weak",
+                "examples": []
+            },
+            {
+                "definition_fr": "être bête",
+                "definition_en": "stupid",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,401 @@
+[
+    {
+        "noun": "lʉ́a",
+        "pronounciation": "ɭɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀a",
+        "pronounciation": "ɭɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "genre",
+                "definition_en": "kind; type; sort",
+                "examples": [
+                    {
+                        "dialect": "Aa lʉ̀a wɔ̀ɔn. Áa lʉ̀a pamá we.",
+                        "fr": "C’est mon genre. C’est le genre de sa mère.",
+                        "en": "That's my type. That's his mother's type."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "catégorie",
+                "definition_en": "category",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀a megʉa",
+        "pronounciation": "ɭɯ̀ȁ mèɣɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tragédie",
+                "definition_en": "tragedy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉa njÿó",
+        "pronounciation": "ɭɯ̀à ǹ̩dʒʃɰó",
+        "synonym": [
+            "lÿe njÿó ",
+            " ndʉa njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube",
+                "definition_en": "dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ́m",
+        "pronounciation": "ɭɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue",
+                "definition_en": "tongue; language",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀m",
+        "pronounciation": "ɭɯ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vampirisme",
+                "definition_en": "necrophilia; vampirism",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ́me",
+        "pronounciation": "ɭɯ́mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distraction",
+                "definition_en": "lapse in concentration",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀me",
+        "pronounciation": "ɭɯ̏me",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "glucide",
+                "definition_en": "carbohydrate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ́me mmɔ̌g",
+        "pronounciation": "ɭɯ́mé m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flamme",
+                "definition_en": "flame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀mte",
+        "pronounciation": "ɭɯ̀mtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racine de luffa utilisé dans les sauces",
+                "definition_en": "loofah plant root used in sauces",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀mte",
+        "pronounciation": "ɭɯ̀mtȅ",
+        "synonym": [
+            "sókà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sucre ; sucré",
+                "definition_en": "sugar; sugared",
+                "examples": []
+            },
+            {
+                "definition_fr": "glucose",
+                "definition_en": "glucose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉŋ",
+        "pronounciation": "ɭɯ̃̀ŋ",
+        "synonym": [
+            "leŋ ",
+            " kwɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabouret",
+                "definition_en": "stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ́ŋ",
+        "pronounciation": "ɭɯ̃́ŋ",
+        "synonym": [
+            "léŋ ",
+            " máleŋ ",
+            " malʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balançoire",
+                "definition_en": "swing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ŋ",
+        "pronounciation": "ɭɯ̃̏ŋ",
+        "synonym": [
+            "lèŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. écureuil",
+                "definition_en": "sp. squirrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ŋe",
+        "pronounciation": "lɯ̃̀ŋȅ",
+        "synonym": [
+            "lèŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvaise partie de macabo",
+                "definition_en": "bad part of taro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ŋe",
+        "pronounciation": "lɯ̃̀ŋȅ",
+        "synonym": [
+            "lèŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "placenta",
+                "definition_en": "placenta",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ŋe lefùɔ",
+        "pronounciation": "lɯ̃̀ŋè lèfùɔ̏",
+        "synonym": [
+            "lèŋe lefùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mante (gén.)",
+                "definition_en": "mantis (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ŋte",
+        "pronounciation": "lɯ̃̀ŋtȅ",
+        "synonym": [
+            "lèŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitation",
+                "definition_en": "imitation",
+                "examples": []
+            },
+            {
+                "definition_fr": "test ; composition ; examen",
+                "definition_en": "test; exam; examination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀te",
+        "pronounciation": "ɭɯ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flatterie",
+                "definition_en": "flattery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀te ngwa",
+        "pronounciation": "ɭɯ̀tȅ ŋ̩̀gwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui tue en riant",
+                "definition_en": "one who kills while laughing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ʉ",
+        "pronounciation": "ɭɯ̀ɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourriture",
+                "definition_en": "rot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ʼ",
+        "pronounciation": "ɭɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "support",
+                "definition_en": "support",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉʼté",
+        "pronounciation": "ɭɯ̀ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menton",
+                "definition_en": "chin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̀ʼʉ mefʉ̀a",
+        "pronounciation": "ɭɯ̀ʔɯ̏ mèfɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désaveux",
+                "definition_en": "disavowal; repudiation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lwò",
+        "pronounciation": "ɭɬwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.impér",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pars ; avance (impératif irrégulier)",
+                "definition_en": "leave; advance (irregular imperative)",
+                "examples": [
+                    {
+                        "dialect": "Lwò pɔgɔ gʉa metʉ̌a.",
+                        "fr": "Avance-toi pour que nous partions au marché.",
+                        "en": "Come forward so we can go to the market."
+                    }
+                ]
+            }
+        ]
+    }
+]

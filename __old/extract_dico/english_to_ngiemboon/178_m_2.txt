@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "maize and peanuts, mix",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, ear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, grilled",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndákwà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, ground and prepared",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèndéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, sp. red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "paŋ ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize, sp. white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maize stalk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ ffòffò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "majestic rulers, yes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "majesty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbélòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zaa mòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔn mòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Majesty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "majority",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make a dam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make a date",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make an incision",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́me",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make fun of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋe twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnyɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maker of things",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "make supple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malaria",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿɔg nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "male",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndúm",
+                "examples": []
+            }
+        ]
+    }
+]

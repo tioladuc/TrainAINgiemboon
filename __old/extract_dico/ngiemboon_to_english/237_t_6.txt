@@ -1,0 +1,391 @@
+[
+    {
+        "noun": "tém nzèm ńná",
+        "pronounciation": "tə́m ǹ̩dzə̏m ń̩ná",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir confiance en quelqu’un",
+                "definition_en": "have confidence in someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temàg",
+        "pronounciation": "tèmȁq̚",
+        "synonym": [
+            "temì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éternel ; inachevé",
+                "definition_en": "eternal; unfinished",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "téme kwò",
+        "pronounciation": "tə́mé kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance pied",
+                "definition_en": "foot launch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tème nkyɛ",
+        "pronounciation": "tə̀mȅ ŋ̩̀kjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêt à porter",
+                "definition_en": "ready-to-wear clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tème nkÿo",
+        "pronounciation": "tə̀mȅ ŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. fusil",
+                "definition_en": "k. gun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tème ntaŋatuŋó",
+        "pronounciation": "tə̀mȅ ǹ̩tã̀ŋàtũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fusil moins efficace",
+                "definition_en": "ineffective gun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tème ntɔ́g",
+        "pronounciation": "tə̀mȅ ǹ̩tɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temì",
+        "pronounciation": "tèmȉ",
+        "synonym": [
+            "temàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éternel ; inachevé",
+                "definition_en": "eternal; unfinished",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "temmó",
+        "pronounciation": "tèmmó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démuni ; personne pauvre",
+                "definition_en": "impoverished; poor person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tèmte ncwò",
+        "pronounciation": "tə̀mtȅ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consonne",
+                "definition_en": "consonant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tendyèen",
+        "pronounciation": "tèndjẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inutile ; affaire sans sens ; hors contexte",
+                "definition_en": "useless; senseless matter; out of context",
+                "examples": [
+                    {
+                        "dialect": "Anò lɔɔn ńne ńcʉa wɔ́ɔn, ɔ̀ pɔ̌ɔn légíŋ ńzɛ́te wɔ́ɔn pà tendyèen.",
+                        "fr": "Il ne faut plus me demander les choses inutiles quand j’ai des problèmes.",
+                        "en": "You no longer have to ask me unnecessary things when I have problems."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tentʉ́",
+        "pronounciation": "tèɳʈɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "santé ; sain",
+                "definition_en": "health; healthy",
+                "examples": [
+                    {
+                        "dialect": "Leneŋé tentʉ́ aa mbòŋ.",
+                        "fr": "Vivre en santé c’est bien.",
+                        "en": "Living healthy is good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "téŋ",
+        "pronounciation": "tə̃́ŋ",
+        "synonym": [
+            "tʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau ; s. instrument de danse",
+                "definition_en": "k. hat; k. dance instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "teŋàg",
+        "pronounciation": "tèŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "humble ; obéissant ; discipliné ; docile",
+                "definition_en": "humble; obedient; disciplined; docile",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn te ná ngɔ́ʼ wɔ́; aa kwàʼ teŋàg.",
+                        "fr": "Cet enfant ne dérange pas ; il est très obéissant.",
+                        "en": "This child is not disturbing; he is very obedient."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tèŋe zẅɛʼ",
+        "pronounciation": "tə̃̀ŋȅ zɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dystasie ; difficultés de se tenir debout",
+                "definition_en": "dystasia; difficulty standing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tepòŋ",
+        "pronounciation": "tèpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais ; mal",
+                "definition_en": "bad; evil",
+                "examples": [
+                    {
+                        "dialect": "Lÿɔ́ʼ pʉ̀a tepòŋ.",
+                        "fr": "Evite les mauvaises gens.",
+                        "en": "Avoid bad people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tepwó",
+        "pronounciation": "tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doigt",
+                "definition_en": "digit; finger; toe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tepwó",
+        "pronounciation": "tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sans main",
+                "definition_en": "without a hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tetà",
+        "pronounciation": "tètȁ",
+        "synonym": [
+            "ntsànyìŋe ",
+            " nkènyìŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crampe",
+                "definition_en": "cramp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétáŋ mmɔ̌g",
+        "pronounciation": "tétã́ŋ mmɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "outil de sculpture",
+                "definition_en": "sculptor’s tool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétáŋ ndyèente",
+        "pronounciation": "tétã́ŋ ndjẽ̀:tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "outil pour déclencher un jouet local",
+                "definition_en": "local toy’s firing tool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétóŋ",
+        "pronounciation": "tétṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adulte d’un insecte comestible vert, en forme de bouclier",
+                "definition_en": "adult of green edible shield bug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétóŋ mbàʼ",
+        "pronounciation": "tétṍŋ m̩̀bȁʔ",
+        "synonym": [
+            "tétɔ́g mbàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tchitrec bleu",
+                "definition_en": "African blue crested flycatcher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tetɔ̀b",
+        "pronounciation": "tètjɔ̏p̚",
+        "synonym": [
+            "tetyɛ̀b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boue",
+                "definition_en": "mud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tétɔ́g mbàʼ",
+        "pronounciation": "tétɔ́q m̩̀bȁʔ",
+        "synonym": [
+            "tétóŋ mbàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tchitrec bleu",
+                "definition_en": "African blue crested flycatcher",
+                "examples": []
+            }
+        ]
+    }
+]

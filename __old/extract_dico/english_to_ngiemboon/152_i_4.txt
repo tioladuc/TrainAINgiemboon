@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "indifference",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metuŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "indifferent person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mi lé mèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "indignant, to make someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅíʼi nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "indignation, showing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàsànetíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "indomitable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekúe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "infected, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "infertile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "infertility",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inflame a matter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inflammation of the throat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "miʼté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inflate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtub",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inflation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inflation (tire)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepóm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "influence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿéshÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inform",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "information",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mésáʼa kɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "informational bulletin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "information, one who asks for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "information source",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "líɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inform behind the scene",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "informer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyà ńkyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "informing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwóon ŋwóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kélɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zémte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ingrained",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùm nkɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ingredient, essential",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inhabitant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅè",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "noun": "kyǎg kyǎg",
+        "pronounciation": "kjǎqkjǎq",
+        "synonym": [
+            "hàhàhà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un éclat de rire",
+                "definition_en": "sound of laughing",
+                "examples": [
+                    {
+                        "dialect": "À gẅe lê kyǎg kyǎg páʼ gʉ̀gʉ̀ la.",
+                        "fr": "Il rit aux éclats comme un aliéné.",
+                        "en": "He laughed out loud like a madman."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kyàgte",
+        "pronounciation": "kjàqtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traduction",
+                "definition_en": "translation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyé",
+        "pronounciation": "kxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charbon",
+                "definition_en": "coal; charcoal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyé mmɔ̌g",
+        "pronounciation": "kxjé m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charbon",
+                "definition_en": "coal; charcoal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ́d",
+        "pronounciation": "kjɛ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arc",
+                "definition_en": "bow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ́d nkyɛ",
+        "pronounciation": "kjɛ́t̚ ŋkjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lance-pierre",
+                "definition_en": "slingshot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ́ɛ nkÿo",
+        "pronounciation": "kjɛ́ː ŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saut à la corde",
+                "definition_en": "jump rope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ́ndele",
+        "pronounciation": "kjɛ́ndə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bougie",
+                "definition_en": "candle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ̀ʼ",
+        "pronounciation": "kjɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lumière ; éclair",
+                "definition_en": "light; lightning flash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ̀ʼ ndù",
+        "pronounciation": "kjɛ̏ʔ ɳ̩̀ɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adjectif",
+                "definition_en": "adjective",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kyɛ̀ʼɛ",
+        "pronounciation": "kjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclairage",
+                "definition_en": "lighting",
+                "examples": []
+            },
+            {
+                "definition_fr": "déréglé",
+                "definition_en": "not working properly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kÿɛɛ nɔ̀ɔn ndóŋ",
+        "pronounciation": "kɰɛ̀ɛ̀ nɔ̃̏ː ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kÿò láʼ",
+        "pronounciation": "kxɰȍ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "immigré",
+                "definition_en": "immigrant",
+                "examples": []
+            },
+            {
+                "definition_fr": "exilé",
+                "definition_en": "exiled person",
+                "examples": []
+            }
+        ]
+    }
+]

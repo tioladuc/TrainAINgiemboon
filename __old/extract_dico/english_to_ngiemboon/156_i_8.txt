@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "introduction",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzyě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzyeté",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzyè nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intruder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbǎʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invader",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe ńkÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invert",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invertebrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn tekẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "investigate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "investor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inveterate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùm nkɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "in view of that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔɔn ńgwaa gwɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invincible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekúe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invitation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invited one, receive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdye gʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "invite to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iris",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Irish potato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matétě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "matě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iron",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iron clapperless bell, double",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíʼ fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iron clothes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "iron (clothes)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "hányàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ironic, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ironweed leaves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndolé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ironweed, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "irony",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gúlaandɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "irrefutable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn temaʼ",
+                "examples": []
+            }
+        ]
+    }
+]

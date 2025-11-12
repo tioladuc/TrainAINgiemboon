@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "tá",
+        "pronounciation": "tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avant que ; avant de",
+                "definition_en": "before",
+                "examples": [
+                    {
+                        "dialect": "Pfɛ́ɛ mmó tá ńgʉa.",
+                        "fr": "Mange avant de partir.",
+                        "en": "Eat before you leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá",
+        "pronounciation": "̀tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dot",
+                "definition_en": "dowry",
+                "examples": [
+                    {
+                        "dialect": "Atáa manzwě áa těen maga wɔ́.",
+                        "fr": "La dot de la femme ne finit jamais.",
+                        "en": "A woman's dowry never ends."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá",
+        "pronounciation": "tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "père",
+                "definition_en": "father",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tà",
+        "pronounciation": "tȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marmite en argile",
+                "definition_en": "clay pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tà",
+        "pronounciation": "tȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jusqu’à ce que ; si bien que (avant une phrase)",
+                "definition_en": "until; so well that (before a clause)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ nǎ tà á pfɛ́.",
+                        "fr": "Tu lui as donné jusqu’à ce qu’il a mangé.",
+                        "en": "You gave him until he ate."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "jusqu’à (but; avant un verb à l’infinitif)",
+                "definition_en": "until (goal; before a verb in the infinitive)",
+                "examples": [
+                    {
+                        "dialect": "À tǒ tà ńtyé ncwò ndá.",
+                        "fr": "Il es venu jusqu’à se tenir à la porte.",
+                        "en": "He came so far as to stand at the door."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tà",
+        "pronounciation": "tȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég.imp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Tà mé pfó tàʼ sàga nzsè.",
+                        "fr": "Ne passons pas par le long chemin.",
+                        "en": "Let's not take the long way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tǎ",
+        "pronounciation": "tǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur antérieur",
+                "definition_en": "anterior future",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n da gɔɔn né yé, á tǎ ńgʉa ńkẅé.",
+                        "fr": "Je lui avais dit, puis il était parti prendre.",
+                        "en": "I told him, then he went to pick it up."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tà á kuʼ",
+        "pronounciation": "tȁ á kùʔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "après",
+                "definition_en": "after",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn, tà á kuʼ, á lu ssé ńgʉa.",
+                        "fr": "Après avoir dit, il s’est levé pout partir.",
+                        "en": "After saying that, he got up to leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tà á té púʼu wɔ́",
+        "pronounciation": "tȁ á té púʔú wɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sinon",
+                "definition_en": "otherwise; or else",
+                "examples": [
+                    {
+                        "dialect": "Gÿo mmó gie n gɔ̌ɔn ngie ɔ̀ gÿo, tà á té púʼu wɔ́ mbà ɔ̀ ge lʉa.",
+                        "fr": "Fais ce que je t’ai demandé de faire, sinon tu vas pleurer.",
+                        "en": "Do what I asked you to do, otherwise you will cry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá lepfó",
+        "pronounciation": "tá lèpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chef de quartier",
+                "definition_en": "neighbourhood chief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tá mbà",
+        "pronounciation": "tá m̩̀bȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourtant",
+                "definition_en": "yet",
+                "examples": [
+                    {
+                        "dialect": "À kaa tó; tá mbà n gyǎ ye.",
+                        "fr": "Il n’est pas venu ; et pourtant  je l’ai vu.",
+                        "en": "He did not come; and yet I saw it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tà mbà",
+        "pronounciation": "tȁ m̩̀bȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "même",
+                "definition_en": "same",
+                "examples": [
+                    {
+                        "dialect": "Tóo ńkaa lʉŋ yɔɔn tà mbà yɛ̂ ńdɔg ńtó.",
+                        "fr": "Viens porter cette chaise et même celle-là pour apporter.",
+                        "en": "Come carry this chair and even this one to bring."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "alors que",
+                "definition_en": "while",
+                "examples": []
+            },
+            {
+                "definition_fr": "si bien que",
+                "definition_en": "so that",
+                "examples": []
+            },
+            {
+                "definition_fr": "si non",
+                "definition_en": "if not",
+                "examples": [
+                    {
+                        "dialect": "Náa mmó m pfɛ́ tà mbà n ge cúa ɔ́.",
+                        "fr": "Donne-moi à manger si non je vais te taper.",
+                        "en": "Give me something to eat or I'll beat you up."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tà mbɔ̌",
+        "pronounciation": "tȁ m̩̀bɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ainsi que ; de même que",
+                "definition_en": "so; same as",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ḿbÿé múɔ mbwo metá pú, tà mbɔ̌ melyè pú.",
+                        "fr": "Va annoncer la naissance du bébé chez tes parents ainsi que tes frères.",
+                        "en": "Go and announce the birth of the baby to your parents and your brothers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá menò",
+        "pronounciation": "tá mènȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affairé ; homme d’affaires",
+                "definition_en": "busybody; businessman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tá mpfó",
+        "pronounciation": "tá ɱ̩̀pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "père du défunt",
+                "definition_en": "father of the deceased",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tà ńgaa",
+        "pronounciation": "tȁ ŋ̩́gàː",
+        "synonym": [
+            "ńgaa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ça va",
+                "definition_en": "how do you do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tá ngwòŋ",
+        "pronounciation": "tá ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chef de l’état",
+                "definition_en": "head of the country",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tà nò pʉ̀a wɔ́ɔn ńgÿo",
+        "pronounciation": "tȁ nȍ pɯ̀ȁ wɔ̃́ː ŋ̩́gxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tà ɔ̀ɔn",
+        "pronounciation": "tȁ ɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "excuse",
+                "definition_en": "excuse",
+                "examples": [
+                    {
+                        "dialect": "Tà ɔ̀ɔn n gʉa fʉ̀ʼɔɔn.",
+                        "fr": "Excuse ; je vais partir maintenant.",
+                        "en": "Excuse ; I'm going to leave now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá pà má",
+        "pronounciation": "tá pȁ má",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-père maternel",
+                "definition_en": "maternal grandfather",
+                "examples": [
+                    {
+                        "dialect": "Tá pà má we nyé wó.",
+                        "fr": "Son grand-père maternel vit encore.",
+                        "en": "His maternal grandfather is still living."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá pà tá",
+        "pronounciation": "tá pȁ tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-père paternel",
+                "definition_en": "paternal grandfather",
+                "examples": [
+                    {
+                        "dialect": "À nǎ nkẅíŋ né tá pà tá we.",
+                        "fr": "Il a donné le bois à son grand-père.",
+                        "en": "He gave the wood to his grandfather."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá pà tɔɔn ndÿò",
+        "pronounciation": "tá pȁ tɔ̃̀ː ɳ̩̀ɖθɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrière-grand-père",
+                "definition_en": "great-grandfather",
+                "examples": [
+                    {
+                        "dialect": "Tá pà tɔɔn ndÿò ne ńguɔ tɛʼ.",
+                        "fr": "Mon arrière-grand-père est malade.",
+                        "en": "My great-grandfather is ill."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá pɔ́ má",
+        "pronounciation": "tá pɔ́ má",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parents",
+                "definition_en": "relations",
+                "examples": [
+                    {
+                        "dialect": "Tá we pɔ́ má we ée mbʉ̀a.",
+                        "fr": "Ses parents (son père et sa mère) sont à la maison.",
+                        "en": "His parents (his father and his mother) are at home."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tá pùʼ",
+        "pronounciation": "tá pȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esclavagiste",
+                "definition_en": "supporter of slavery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tá we lÿò",
+        "pronounciation": "tá wè ɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-père",
+                "definition_en": "grandfather",
+                "examples": [
+                    {
+                        "dialect": "À ka gʉa ḿbÿé múɔ mbwo tá we ndÿo.",
+                        "fr": "Il est allé annoncer le nouveau-né chez son grand-père.",
+                        "en": "He went to announce the newborn to his grandfather."
+                    }
+                ]
+            }
+        ]
+    }
+]

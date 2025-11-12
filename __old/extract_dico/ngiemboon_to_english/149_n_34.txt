@@ -1,0 +1,445 @@
+[
+    {
+        "noun": "njʉʼ tÿǒ",
+        "pronounciation": "ǹ̩dʒɯ̀ʔ ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tournesol",
+                "definition_en": "sunflower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́ʼnzse",
+        "pronounciation": "ǹ̩dʒɯ́ʔǹdzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe servant aux cérémonies rituelles de deuil de certains notables",
+                "definition_en": "sp. weed used for ritual death ceremonies for certain noteworthy people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ̀ʼʉ",
+        "pronounciation": "ǹ̩dʒɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cultivateur",
+                "definition_en": "cultivator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njʉ́ʼʉ kwɔb",
+        "pronounciation": "ǹ̩dʒɯ́ʔɯ́ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salsepareille indigène",
+                "definition_en": "West African sarsaparilla",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjwéen",
+        "pronounciation": "ń̩dʒwẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se vider ; se décanter",
+                "definition_en": "empty; settle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwò",
+        "pronounciation": "ǹ̩dʒʃwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pois de terre rouge",
+                "definition_en": "Bambara groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjwo",
+        "pronounciation": "ń̩dʒʃwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raser",
+                "definition_en": "shave off",
+                "examples": []
+            },
+            {
+                "definition_fr": "épiler",
+                "definition_en": "pluck; remove hair from",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwò kwɔb",
+        "pronounciation": "ǹ̩dʒwȍ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot",
+                "definition_en": "sp. bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwò kwɔb legǐ",
+        "pronounciation": "ǹ̩dʒwȍ kwɔ̀p̚ lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane",
+                "definition_en": "sp. vine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjwoŋ",
+        "pronounciation": "ń̩dʒwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chasser",
+                "definition_en": "chase",
+                "examples": []
+            },
+            {
+                "definition_fr": "poursuivre ; rejoindre ; rattraper",
+                "definition_en": "pursue ; join ; catch up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjwoŋ",
+        "pronounciation": "ń̩dʒwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "allonger ; connecter",
+                "definition_en": "lengthen; connect",
+                "examples": []
+            },
+            {
+                "definition_fr": "rallonger ; reconnecter",
+                "definition_en": "extend; reconnect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjwóŋ",
+        "pronounciation": "ń̩dʒwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "construire ; monter",
+                "definition_en": "build; ascend",
+                "examples": []
+            },
+            {
+                "definition_fr": "construire péniblement",
+                "definition_en": "to build painfully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwòŋ lesyɛʼɛ́",
+        "pronounciation": "ǹ̩dʒwõ̏ŋ lèsjɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trou de l’aiguille",
+                "definition_en": "hole in a needle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwòŋo",
+        "pronounciation": "ǹ̩dʒwõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui joint ; celui qui poursuit",
+                "definition_en": "one who joins; one who pursues",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njwòŋo",
+        "pronounciation": "ǹ̩dʒwõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chasseur",
+                "definition_en": "hunter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjẅaʼ",
+        "pronounciation": "ń̩dʒɥàʔ",
+        "synonym": [
+            "ńzẅaʼ ",
+            " ńzwaʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "broyer ; casser",
+                "definition_en": "grind; break",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿê",
+        "pronounciation": "ǹ̩dʒʃɰê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avant hier ; récemment",
+                "definition_en": "day before yesterday; recently",
+                "examples": [
+                    {
+                        "dialect": "Peg ka tǒ njyê.",
+                        "fr": "Nous sommes venu avant hier.",
+                        "en": "We came the day before yesterday."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "après demain ; prochainement",
+                "definition_en": "day after tomorrow; soon",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge gÿo njyê gʉa tsẅɛ.",
+                        "fr": "J’irai au champ après demain.",
+                        "en": "I will go to the field the day after tomorrow."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njÿênjÿê",
+        "pronounciation": "ǹ̩dʒʃɰêndʒʃɰê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dernièrement ; récemment",
+                "definition_en": "lastly; recently",
+                "examples": [
+                    {
+                        "dialect": "À ka gʉa pɔ́ njyênjyê, á kaa néŋe.",
+                        "fr": "Il n’est parti que dernièrement, cela n’a pas duré.",
+                        "en": "He only left recently, it didn't last."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njÿó",
+        "pronounciation": "ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monde",
+                "definition_en": "world",
+                "examples": []
+            },
+            {
+                "definition_fr": "heure",
+                "definition_en": "hour",
+                "examples": []
+            },
+            {
+                "definition_fr": "vie",
+                "definition_en": "life",
+                "examples": []
+            },
+            {
+                "definition_fr": "nature",
+                "definition_en": "nature",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿò",
+        "pronounciation": "ǹ̩dʒʃɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consommateur",
+                "definition_en": "consumer; customer",
+                "examples": [
+                    {
+                        "dialect": "Anjÿò pʉ́a tó ; mé ké cʉ́ʼʉ yé nzɔ̌?",
+                        "fr": "Le consommateur de taro est venu ; où doit-on le garder ?",
+                        "en": "The taro consumer has come; where should we keep it?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿó",
+        "pronounciation": "ń̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consommer ; manger",
+                "definition_en": "consume; eat",
+                "examples": []
+            },
+            {
+                "definition_fr": "gagner",
+                "definition_en": "win",
+                "examples": []
+            },
+            {
+                "definition_fr": "fêter",
+                "definition_en": "celebrate",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger çà et là",
+                "definition_en": "eat here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńjÿó",
+        "pronounciation": "ń̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gagner",
+                "definition_en": "win",
+                "examples": []
+            },
+            {
+                "definition_fr": "gagner çà et là",
+                "definition_en": "win here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿò láʼ",
+        "pronounciation": "ǹ̩dʒʃɰȍ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cérémonie traditionnel en juin ; mois de Juin",
+                "definition_en": "traditional ceremony in June; month of June",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "njÿó lʉ́a",
+        "pronounciation": "ǹ̩dʒʃɰó ɭɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lendemain",
+                "definition_en": "next day",
+                "examples": [
+                    {
+                        "dialect": "A la semte tà ńtó, táʼ njÿó lʉ́a, à tè kẅɛɛ pǐ wɔ́.",
+                        "fr": "Il s’était efforcé jusqu’à venir, mais le lendemain il n’est pas sorti.",
+                        "en": "He had tried so hard to come, but the next day he did not come out."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "njÿò menáŋ",
+        "pronounciation": "ǹ̩dʒʃɰȍ mènã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "témoin",
+                "definition_en": "witness",
+                "examples": []
+            }
+        ]
+    }
+]

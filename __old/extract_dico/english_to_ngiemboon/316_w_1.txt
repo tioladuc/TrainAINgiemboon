@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "waders",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíkẅíle mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wager",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ nkwèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wagon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wagtail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sésáŋ ngwóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sésáŋ ndùm ngwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wailing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waist size",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wait",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waiting, move without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíbe nyibe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waiting, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wake up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk a tightrope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk, go for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́ʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk in water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk, lead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk, take for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walk with a stick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wall",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sǎg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sagá ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wallet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pɔ̀ɔn ŋwàʼne",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wall opposite entrance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wallpaperer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walnut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "walnut, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kásó",
+                "examples": []
+            }
+        ]
+    }
+]

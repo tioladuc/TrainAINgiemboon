@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "forgiving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèzɛndeme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forgiving person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ɔn mezìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fork",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mefagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fork, hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàg tepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "form, circle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fornicate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fornication",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fortunately",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅɛ́ʼ zsee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "móm lekùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forward, move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forward, push",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "for what reason",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "á nue kɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "for you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Foto",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Fùɔtɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Foumbot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Fúmbɔ̀d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "found",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuŋe cÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foundation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzyè letaŋá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júbo ntaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zyè ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿó ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foundation, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèkùʼu nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "founder, family’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "founder of a genealogy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàb ngẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "found, something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fountain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "four",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pélékùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mélekùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yélékùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sélékùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "four aces card game",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fourteen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀b lekùa lé legém",
+                "examples": []
+            }
+        ]
+    }
+]

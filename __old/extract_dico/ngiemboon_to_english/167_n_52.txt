@@ -1,0 +1,453 @@
+[
+    {
+        "noun": "ńníag",
+        "pronounciation": "ń̩níáq",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déshonorer",
+                "definition_en": "dishonour",
+                "examples": []
+            },
+            {
+                "definition_fr": "déshonorer ; insulter",
+                "definition_en": "dishonor; insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńníag",
+        "pronounciation": "ń̩níáq",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malaxer",
+                "definition_en": "knead; mix",
+                "examples": []
+            },
+            {
+                "definition_fr": "désunir une pâte",
+                "definition_en": "separate dough",
+                "examples": []
+            },
+            {
+                "definition_fr": "malaxer",
+                "definition_en": "knead",
+                "examples": []
+            },
+            {
+                "definition_fr": "désunir une pâte",
+                "definition_en": "break apart a dough",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńniɛb",
+        "pronounciation": "ń̩nìɛ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouillonner ; rendre pâteux",
+                "definition_en": "boil; make pasty",
+                "examples": []
+            },
+            {
+                "definition_fr": "bouillonner ; rendre pâteux",
+                "definition_en": "bubble; make pasty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnoŋ",
+        "pronounciation": "ǹ̩nõ̀ŋ",
+        "synonym": [
+            "lenoŋo twó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poil ; chevelure",
+                "definition_en": "hair; head of hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnóŋ",
+        "pronounciation": "ń̩nṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sucer ; allaiter ; aspirer",
+                "definition_en": "suck on; suckle; inhale",
+                "examples": []
+            },
+            {
+                "definition_fr": "allaiter",
+                "definition_en": "breast-feed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnóŋo",
+        "pronounciation": "ń̩nṍŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trembler (terre)",
+                "definition_en": "tremble (ground)",
+                "examples": [
+                    {
+                        "dialect": "Atsetsáʼ nóŋo, pʉ̀a gyá ngɔ́ʼ tɛʼ.",
+                        "fr": "Les gens souffrent beaucoup quand la terre tremble.",
+                        "en": "People suffer a lot when the earth shakes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔ́g",
+        "pronounciation": "ń̩nɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner ; déconseiller",
+                "definition_en": "embezzle; advise against",
+                "examples": []
+            },
+            {
+                "definition_fr": "détourner ; déconseiller",
+                "definition_en": "divert; advise against",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔ́g",
+        "pronounciation": "ń̩nɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sanctifier ; consacrer",
+                "definition_en": "sanctify; consecrate",
+                "examples": []
+            },
+            {
+                "definition_fr": "envoûter",
+                "definition_en": "bewitch",
+                "examples": []
+            },
+            {
+                "definition_fr": "sanctifier ; consacrer",
+                "definition_en": "sanctify; dedicate",
+                "examples": []
+            },
+            {
+                "definition_fr": "envoûter",
+                "definition_en": "bewitch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔ́g",
+        "pronounciation": "ń̩nɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrer ; entasser",
+                "definition_en": "grip; squeeze; tighten; pile up",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’inserer",
+                "definition_en": "insert oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "serrer ; entasser",
+                "definition_en": "to squeeze ; pile up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔ́ge",
+        "pronounciation": "ń̩nɔ́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être dense",
+                "definition_en": "be dense",
+                "examples": [
+                    {
+                        "dialect": "Mendá ée láʼ peg ńnɔ́ge tɛʼ.",
+                        "fr": "Les maisons sont très denses dans notre royaume.",
+                        "en": "Houses are very dense in our kingdom."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔɔn",
+        "pronounciation": "ń̩nɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gonfler",
+                "definition_en": "blow up; inflate",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’enfler",
+                "definition_en": "swell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔ́ɔn",
+        "pronounciation": "ń̩nɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poursuivre",
+                "definition_en": "chase",
+                "examples": []
+            },
+            {
+                "definition_fr": "poursuivre",
+                "definition_en": "pursue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔʼ",
+        "pronounciation": "ń̩nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brimer",
+                "definition_en": "aggravate; bully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔʼ",
+        "pronounciation": "ń̩nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "presser",
+                "definition_en": "squeeze",
+                "examples": []
+            },
+            {
+                "definition_fr": "presser ; appuyer par endroit",
+                "definition_en": "squeeze ; press in place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńnɔʼ",
+        "pronounciation": "ń̩nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semer",
+                "definition_en": "sow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú",
+        "pronounciation": "ɳ̩̀ɳú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serpent (gén.)",
+                "definition_en": "snake (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnù",
+        "pronounciation": "ǹ̩nȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buveur",
+                "definition_en": "drinker",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn lé cʉ́ʼʉ nnù melùʼ, faʼa tà néŋe twó.",
+                        "fr": "Ne sois pas buveurs, travaille sérieusement.",
+                        "en": "Don't be a drinker, work seriously."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńnú",
+        "pronounciation": "ɳ̩́ɳú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boire",
+                "definition_en": "drink",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú lepáʼ",
+        "pronounciation": "ɳ̩̀ɳú lèpáʔ",
+        "synonym": [
+            "nɔ̀ɔn lepáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pangolin commun",
+                "definition_en": "tree pangolin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú mekwò",
+        "pronounciation": "ɳ̩̀ɳú mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "varan orné",
+                "definition_en": "ornate monitor lizard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú mendóŋ",
+        "pronounciation": "ɳ̩̀ɳú mèndṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vipère cornue",
+                "definition_en": "many-horned adder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú metyé",
+        "pronounciation": "ɳ̩̀ɳú mètθjé",
+        "synonym": [
+            "ssé nnú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cobra cracheur",
+                "definition_en": "spitting cobra",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú metÿǒ",
+        "pronounciation": "ɳ̩̀ɳú mèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serpent vert d’Angola",
+                "definition_en": "Angolan green snake",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú ngém",
+        "pronounciation": "ɳ̩̀ɳú ŋ̩̀gə́m",
+        "synonym": [
+            "ngʉ̀ ntse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crodocile nain ; caïman",
+                "definition_en": "dwarf crocodile; Cayman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nnú panzwě",
+        "pronounciation": "ɳ̩̀ɳú pàndzwě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. serpent",
+                "definition_en": "West African night adder",
+                "examples": []
+            }
+        ]
+    }
+]

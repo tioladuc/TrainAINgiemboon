@@ -1,0 +1,424 @@
+[
+    {
+        "noun": "ńtyɛ́ʼte",
+        "pronounciation": "ń̩tjɛ́ʔté",
+        "synonym": [
+            "ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńteŋe ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "manage; make do",
+                "examples": [
+                    {
+                        "dialect": "Aa tÿǒsoŋ ne ńtyɛ́ʼte.",
+                        "fr": "Il se débrouille en ville.",
+                        "en": "He gets by in town."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿéen",
+        "pronounciation": "ɳ̩́ʈɰẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se dessiner",
+                "definition_en": "stand out; become apparent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿǒ",
+        "pronounciation": "ɳ̩̀ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bâtonnet",
+                "definition_en": "short rod",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿó",
+        "pronounciation": "ɳ̩́ʈθɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compenser",
+                "definition_en": "compensate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿóon",
+        "pronounciation": "ɳ̩̀ʈɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "proche ; intime ; connaissance",
+                "definition_en": "close; intimate; acquaintance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿɔ́g",
+        "pronounciation": "ɳ̩́ʈɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conseiller ; éduquer",
+                "definition_en": "advise; counsel; educate",
+                "examples": []
+            },
+            {
+                "definition_fr": "conseiller",
+                "definition_en": "advise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿɔ́g",
+        "pronounciation": "ɳ̩́ʈɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mettre",
+                "definition_en": "put",
+                "examples": []
+            },
+            {
+                "definition_fr": "donner un héritage",
+                "definition_en": "give an inheritance",
+                "examples": []
+            },
+            {
+                "definition_fr": "aligner ; mettre en rang",
+                "definition_en": "align; put in a row",
+                "examples": []
+            },
+            {
+                "definition_fr": "préférer ; envier",
+                "definition_en": "prefer ; envy",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre par endroit",
+                "definition_en": "put in place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔgɔ́",
+        "pronounciation": "ɳ̩̀ʈɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conseil",
+                "definition_en": "advice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ̀gɔ kwò",
+        "pronounciation": "ɳ̩̀ʈɰɔ̀ʁɔ̏ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pose-pied",
+                "definition_en": "footrest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ̀gte",
+        "pronounciation": "ɳ̩̀ʈɰɔ̀qtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conseilleur",
+                "definition_en": "counselor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ̀gte láʼ",
+        "pronounciation": "ɳ̩̀ʈɰɔ̀qtȅ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assembleur ; conseilleur",
+                "definition_en": "assembler; fitter; counsellor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ́ʼ",
+        "pronounciation": "ɳ̩̀ʈɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. grand tambour",
+                "definition_en": "k. very large drum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ́ʼ",
+        "pronounciation": "ɳ̩̀ʈɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vassal",
+                "definition_en": "vassal",
+                "examples": []
+            },
+            {
+                "definition_fr": "sous tutelle",
+                "definition_en": "under guardianship",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿɔ́ʼ",
+        "pronounciation": "ɳ̩́ʈɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encercler",
+                "definition_en": "surround",
+                "examples": []
+            },
+            {
+                "definition_fr": "empêcher de couler",
+                "definition_en": "prevent from flowing",
+                "examples": []
+            },
+            {
+                "definition_fr": "entourer ; encercler ; encadrer",
+                "definition_en": "surround; encircle; frame",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ̀ʼ mbwó",
+        "pronounciation": "ɳ̩̀ʈɰɔ̏ʔ m̩̀bɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "supplicateur",
+                "definition_en": "supplicator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtÿɔʼɔ",
+        "pronounciation": "ɳ̩́ʈɰɔ̀ʔɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déboîter",
+                "definition_en": "dislodge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntÿɔ̀ʼte",
+        "pronounciation": "ɳ̩̀ʈɰɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encadreur ; protecteur",
+                "definition_en": "framer; protector",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nùa",
+        "pronounciation": "ɳùȁ",
+        "synonym": [
+            "nùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "groupe",
+                "definition_en": "group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nue",
+        "pronounciation": "ɳùè",
+        "synonym": [
+            "ńnue"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parce que",
+                "definition_en": "because",
+                "examples": []
+            },
+            {
+                "definition_fr": "puisque",
+                "definition_en": "since",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "núnú melùʼ",
+        "pronounciation": "ɳúɳú mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soûlard ; ivrogne",
+                "definition_en": "boozer; drunkard",
+                "examples": [
+                    {
+                        "dialect": "Andǔm we kéen ńké ńjʉŋte mendá melùʼ tà à cʉ̌ʼ pɔ́ núnú melùʼ.",
+                        "fr": "Son mari a erré dans les buvettes si bien qu’il est devenu soûlard.",
+                        "en": "Her husband wandered into the bars so much that he became drunk."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nùŋe",
+        "pronounciation": "ɳũ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poseur ; exposant",
+                "definition_en": "show-off; exhibitor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nùŋe ngwòŋ",
+        "pronounciation": "ɳũ̀ŋȅ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "créateur",
+                "definition_en": "creator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nùŋe pwɔʼ",
+        "pronounciation": "ɳũ̀ŋȅ pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sacrificateur",
+                "definition_en": "sacrificer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nùɔ",
+        "pronounciation": "ɳùɔ̏",
+        "synonym": [
+            "nùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "groupe",
+                "definition_en": "group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nùʼte",
+        "pronounciation": "ɳùʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conjugaison",
+                "definition_en": "conjugation",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,431 @@
+[
+    {
+        "noun": "sèsàʼ tsẅɛ",
+        "pronounciation": "sȅsȁʔ tsɰɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "fimbry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seséssé",
+        "pronounciation": "sèsésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noir (qualifie les noms des classes 5 et 8)",
+                "definition_en": "black (modifies class 5 and 8 nouns",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin letÿǒon seséssé.",
+                        "fr": "Il a la noix de palme qui est noire.",
+                        "en": "It has a palm nut which is black."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sésɛ̌",
+        "pronounciation": "sésɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.dém.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui-là",
+                "definition_en": "that one (distant demonstrative pronoun that refers to class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pi lɔɔn ńtó, pi júu sésɛ̌ ńná né mèŋ.",
+                        "fr": "Si vous arrivez, achetez ceux-là pour me donner.",
+                        "en": "If you arrive, buy these to give to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "séshÿɔ́ʼɔ",
+        "pronounciation": "séʃɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien de ... ? (demandant pour les noms de la classe 8)",
+                "definition_en": "how many ...? (question for nouns from class 8)",
+                "examples": [
+                    {
+                        "dialect": "Pi ge pí lelÿɔʼ tɔ́ɔn séshÿɔ́ʼɔ?",
+                        "fr": "Vous allez prendre combien d’ignames ?",
+                        "en": "How many yams are you going to take?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sésilé",
+        "pronounciation": "sésìlé",
+        "synonym": [
+            "sísilé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "capricorne",
+                "definition_en": "longhorn beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sesoŋ",
+        "pronounciation": "sèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "centre",
+                "definition_en": "centre",
+                "examples": [
+                    {
+                        "dialect": "Tè tyé sesoŋ, tyé pɔ́ legʉŋ.",
+                        "fr": "Ne te tiens pas au centre, tiens-toi à côté.",
+                        "en": "Don't stand in the center, stand to the side."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sésɔg",
+        "pronounciation": "sésɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piment",
+                "definition_en": "birdseye chili",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésɔg meshʉ́ŋ",
+        "pronounciation": "sésɔ̀q̚ mèʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. piment de petite taille",
+                "definition_en": "sp. small pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésse",
+        "pronounciation": "sésːè",
+        "synonym": [
+            "síŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vertige",
+                "definition_en": "vertigo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "séssé",
+        "pronounciation": "sésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noir (qualifie les noms des tous classes)",
+                "definition_en": "black (modifies nouns from all classes)",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin ngáb séssé.",
+                        "fr": "Il a les poules noires.",
+                        "en": "He has black chickens."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "séssé mekú",
+        "pronounciation": "sésːé mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot noir",
+                "definition_en": "sp. black bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "séssé sɔ̀b",
+        "pronounciation": "sésːé sɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poivre noir",
+                "definition_en": "black pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sessò",
+        "pronounciation": "sèsːȍ",
+        "synonym": [
+            "sossò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pet",
+                "definition_en": "fart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sessò sẅǐŋ",
+        "pronounciation": "sèsːȍ sɥĩ̌ŋ",
+        "synonym": [
+            "zàkwɔ̀ʼ metoŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veuve",
+                "definition_en": "red-collared widowbird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sesẅé",
+        "pronounciation": "sèsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouveau (qualifie les noms des classes 5 et 8)",
+                "definition_en": "new (modifies class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Eshúm sɔɔn ée sesẅé; é té sezẅìŋ wɔ́.",
+                        "fr": "Les choses-ci sont nouvelles ; ce ne sont pas des anciennes.",
+                        "en": "These things are new; they are not old ones."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sèsyè ntʉ̀",
+        "pronounciation": "sȅsːjȅ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interdiction",
+                "definition_en": "ban",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sétá",
+        "pronounciation": "sétá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trois (modifiant les noms de la classe 8)",
+                "definition_en": "three (modifying class 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "setɔ̂g",
+        "pronounciation": "sètɔ̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bilan",
+                "definition_en": "appraisal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "setɔ̂g",
+        "pronounciation": "sètɔ̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaussette",
+                "definition_en": "sock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "setsɔ́",
+        "pronounciation": "sètsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 5 et 8)",
+                "definition_en": "certain; other (modifying class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mepfo mɔ́ɔn ée mémbʉ́a. Tàʼ zěm, setsɔ́ té zém.",
+                        "fr": "J’ai deux kolatiers, l’un a produit et l’autre n’a pas produit.",
+                        "en": "I have two kola trees, one produced and the other did not produce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sétʉ̂a",
+        "pronounciation": "sétɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (modifiant les noms de la classe 8)",
+                "definition_en": "five (modifies nouns from class 8)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sevfǒ",
+        "pronounciation": "sèvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit (qualifie les noms des classes 5 et 8)",
+                "definition_en": "cooked (qualifying nouns from classes 5 and 8)",
+                "examples": [
+                    {
+                        "dialect": "A pfɛ̌ letúʼ sevfǒ.",
+                        "fr": "Il a mangé le « dana » cuit.",
+                        "en": "He ate the cooked “dana”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sezẅìŋ",
+        "pronounciation": "sèzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieux (qualifie les noms des classes 5 et 8)",
+                "definition_en": "old (qualifies class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Eshúm sɔɔn ée sesẅé; é té sezẅìŋ wɔ́.",
+                        "fr": "Les choses-ci sont nouvelles ; elles ne sont pas anciennes.",
+                        "en": "These things are new; they are not old."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sɛ̀",
+        "pronounciation": "sɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui ; ceux ; celui-là ; ceux-là (pron. dém. de moyen proximité désignant les noms des classes 5 et 8)",
+                "definition_en": "that; that one; those; that one there; those there (middle distant demonstrative pronoun that refers to class 5 or 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "A gʉa na melÿɔ́ʼ mɛ̀, esɛ̀ zɔ̌ poŋ.",
+                        "fr": "Parmi ces ignames-là, c’est celui-là qui est bon.",
+                        "en": "Among these yams, this is the one that is good."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de moyen proximité qui modifie les noms de la classe 5) ; ces ; ces ... -là (adj. dém. de moyen proximité qui modifie les noms de la classe 8)",
+                "definition_en": "that; that ... there; those; those ... there (middle demonstrative adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɛ̌",
+        "pronounciation": "sɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lequel ? ; lesquels ? (demandant pour les noms des classes 5 et 8)",
+                "definition_en": "which one?; which ones? (asking for classes 5 or 8)",
+                "examples": [
+                    {
+                        "dialect": "À gɔɔn ngie mèŋ ńgʉa na pɔ̀ɔn ńkaa sɛ̌?",
+                        "fr": "Il me demande de porter lesquels des sacs ?",
+                        "en": "He asks me to carry which bags?"
+                    }
+                ]
+            }
+        ]
+    }
+]

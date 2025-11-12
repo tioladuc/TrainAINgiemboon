@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "smells, good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smelly ant, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matÿɔ́ʼ ntsɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅète",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smiley, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smithy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke, deposit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋwɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke, give off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke, intermittent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke out something, box",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétɔ́ʼ ndyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke, puffs",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smoke, rise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smooth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿote",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smooth, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smooth, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyágà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smuggler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ gÿáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snail (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼngwɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snail, planorbis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼngwǎ ngwoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snail, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngútà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snake, Angolan green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnú metÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snake, blind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepúbè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snake, Central African egg-eating",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mìmbum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snake (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snake skin, moulted",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ nnú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "snap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋte",
+                "examples": []
+            }
+        ]
+    }
+]

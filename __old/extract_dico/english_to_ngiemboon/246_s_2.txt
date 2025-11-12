@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "sad, feeling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sad, impression",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyɛ ntsyɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sadness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mÿɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùndú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sad, pretend to be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿágte shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɔ́gte shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "safety",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "náŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "safou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "safou tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ zoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sag",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sailor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔn ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tefʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀alʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saintliness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbǒŋ lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saintly, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtentʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salami",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sosí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pêen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salesman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salesman, door-to-door",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mamèkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sales, retail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "saliva",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salt, small sack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "salt, waste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèyàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Samara",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cúa páb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "same",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "same, all the",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fó ... lâ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "same as",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà mbɔ̌",
+                "examples": []
+            }
+        ]
+    }
+]

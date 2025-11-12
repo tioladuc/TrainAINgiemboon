@@ -1,0 +1,380 @@
+[
+    {
+        "noun": "melaʼá ndá",
+        "pronounciation": "mèlàʔá ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vie privée ; racontar",
+                "definition_en": "private life; gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélàʼmie",
+        "pronounciation": "mélȁʔmìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parce que",
+                "definition_en": "because",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ m pfɛ́ɛ mmó mélàʼmie nzyè ne ńgyáŋa wɔ́ɔn.",
+                        "fr": "Je mange parce que j’ai faim.",
+                        "en": "I eat because I am hungry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mélefág",
+        "pronounciation": "mə́lèfàq̚",
+        "synonym": [
+            "málefág ",
+            " tàʼ lefág ",
+            " lefág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jumeau ; un des jumeaux",
+                "definition_en": "twin; one of the twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélêg",
+        "pronounciation": "mélə̂q̚",
+        "synonym": [
+            "ménêg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lait",
+                "definition_en": "milk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélekùa",
+        "pronounciation": "mélékùà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quatre (modifiant les noms des classes 2, 4 et 6)",
+                "definition_en": "four (modifying class 2, 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melém njÿó",
+        "pronounciation": "mèlə́m ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube ; matinal",
+                "definition_en": "dawn; morning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélesɔ̀ɔn",
+        "pronounciation": "mə́lèsɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit pépin",
+                "definition_en": "small pip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melɔ́ɔn",
+        "pronounciation": "mèlɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuages",
+                "definition_en": "clouds",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melɔ̀ɔn",
+        "pronounciation": "mèlɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mensonges",
+                "definition_en": "lies",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melɔ̌ɔn",
+        "pronounciation": "mèlɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaussures",
+                "definition_en": "shoes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélɔɔn mbÿɛ",
+        "pronounciation": "mélɔ̃̀ː m̩̀bɰɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot",
+                "definition_en": "sp. bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melu nkóo",
+        "pronounciation": "mèɭù ŋ̩̀kóó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de construction de la case",
+                "definition_en": "k. construction implement for a hut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melùʼ",
+        "pronounciation": "mèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vin",
+                "definition_en": "wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melùʼ ndÿɔgɔ́",
+        "pronounciation": "mèɭȕʔ ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boisson importé (bière, jus)",
+                "definition_en": "imported drink",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melùʼ nkandi",
+        "pronounciation": "mèɭȕʔ ŋ̩̩̩̩̀kàndì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vin de banane",
+                "definition_en": "banana wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melùʼ ntʉtʉ",
+        "pronounciation": "mèɭȕʔ ɳ̩̀ʈɯ̀ʈɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "liqueur",
+                "definition_en": "liqueur",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meluʼú meluʼú",
+        "pronounciation": "mèɭùʔú mèɭùʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cassis (route) ; bosses",
+                "definition_en": "bump in the road; bumps",
+                "examples": [
+                    {
+                        "dialect": "Lelÿò menzsè tè cÿo gwɔ́ pɔ́ meluʼú meluʼú.",
+                        "fr": "La plupart des routes non bitumées ont des cassis.",
+                        "en": "Most unpaved roads have blackcurrants."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "melʉa njÿó",
+        "pronounciation": "mèɭɯ̀à ǹ̩dʒʃɰó",
+        "synonym": [
+            "melÿe njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "matinal ; levée du jour",
+                "definition_en": "morning; dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melwò",
+        "pronounciation": "mèɭɬwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œufs non fécondés",
+                "definition_en": "unfertilized eggs",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melwò",
+        "pronounciation": "mèɭɬwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miel",
+                "definition_en": "honey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melẅè",
+        "pronounciation": "mèlɬɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbuste (avec fleurs blanches)",
+                "definition_en": "sp. shrub (with white flowers)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melÿe njÿó",
+        "pronounciation": "mèɭɬɰè ǹ̩dʒʃɰó",
+        "synonym": [
+            "melʉa njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "matinal ; levée du jour",
+                "definition_en": "morning; dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melÿò",
+        "pronounciation": "mèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand (qualifie les noms des classes 4 et 6)",
+                "definition_en": "tall; big; large",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melÿò tsẅíŋ",
+        "pronounciation": "mèɭɬɰȍ tsɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moustaches",
+                "definition_en": "moustache",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "memǎ",
+        "pronounciation": "mèmǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros ; grand (modifiant les noms des classes pluriels)",
+                "definition_en": "big; large; tall (modifying plural noun classes)",
+                "examples": [
+                    {
+                        "dialect": "Memǎ metÿǒ tyé mbuʼ peg.",
+                        "fr": "Les gros arbres sont placés à l’entrée de chez nous.",
+                        "en": "Large trees are placed at the entrance to our home."
+                    }
+                ]
+            }
+        ]
+    }
+]

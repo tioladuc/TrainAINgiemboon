@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "vǎd",
+        "pronounciation": "vǎt̚",
+        "synonym": [
+            "gǎd ",
+            " kǎd ",
+            " vàg ",
+            " fím"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très vite",
+                "definition_en": "very fast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vàg",
+        "pronounciation": "vȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promptement ; soudainement",
+                "definition_en": "swiftly; suddenly",
+                "examples": [
+                    {
+                        "dialect": "Peg neŋé tà ńgyá á ye vàg ncwò ndá.",
+                        "fr": "Nous sommes restés jusqu’à le voir promptement à la porte.",
+                        "en": "We stayed until we saw him promptly at the door."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "vàg",
+        "pronounciation": "vȁq̚",
+        "synonym": [
+            "gǎd ",
+            " kǎd ",
+            " vǎd ",
+            " fím"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très vite",
+                "definition_en": "very fast",
+                "examples": [
+                    {
+                        "dialect": "Cʉ̀acʉa zyɛʼɛ́ ssé ndá lê vàg.",
+                        "fr": "La souri s’est passé très vite (rapidement) dans la maison.",
+                        "en": "The smile happened very quickly (quickly) in the house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "vakɔ́ɔn",
+        "pronounciation": "vàkɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "algue",
+                "definition_en": "seaweed; algae",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vakɔ́ɔn",
+        "pronounciation": "vàkɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouille",
+                "definition_en": "rust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "váŋ",
+        "pronounciation": "vã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adhérent",
+                "definition_en": "member; adherent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vàʼ",
+        "pronounciation": "vȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble",
+                "definition_en": "tumult; turmoil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "váʼ voŋó",
+        "pronounciation": "váʔ võ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cafouillage ; mouvement ; trouble",
+                "definition_en": "mess; movement; trouble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "véle",
+        "pronounciation": "və́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vouvoiement",
+                "definition_en": "addressing someone formally, using \"vous\"",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vèle",
+        "pronounciation": "və̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiffon ; torchon",
+                "definition_en": "rag; dust cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vévɛ́njÿòon",
+        "pronounciation": "vévɛ́ndʒɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cauchemar",
+                "definition_en": "nightmare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vɛ̀",
+        "pronounciation": "vɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chat haret ; chat domestique devenu sauvage",
+                "definition_en": "feral cat; domestic cat become wild",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vɛ́mbùm",
+        "pronounciation": "vɛ́mbȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accident",
+                "definition_en": "accident",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vfǒ",
+        "pronounciation": "vfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit",
+                "definition_en": "cooked",
+                "examples": []
+            },
+            {
+                "definition_fr": "mûr",
+                "definition_en": "ripe",
+                "examples": [
+                    {
+                        "dialect": "Náa pîɛ vfǒ né mèŋ.",
+                        "fr": "Donne-moi l’avocat mûr.",
+                        "en": "Give me the ripe avocado."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "viyôŋ",
+        "pronounciation": "vìjõ̂ŋ",
+        "synonym": [
+            "vyôŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avion",
+                "definition_en": "plane",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vòŋ",
+        "pronounciation": "võ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélange",
+                "definition_en": "mixture",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vóŋo",
+        "pronounciation": "vṍŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble ; complexe ; affaire difficile",
+                "definition_en": "tumult; turmoil; complex; difficult affair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vɔ̀g",
+        "pronounciation": "vɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chauve-souris de maison",
+                "definition_en": "house bat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vɔ̀gɔ ncù",
+        "pronounciation": "vɔ̀ʁɔ̏ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "offensive",
+                "definition_en": "offensive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vùb",
+        "pronounciation": "vȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit un pagne ou un habit ample lors d’une marche",
+                "definition_en": "sound of a wraparound skirt or large piece of clothing during walking",
+                "examples": [
+                    {
+                        "dialect": "Manzwě ne ńgine, sànzà yé gӱo lê vùb.",
+                        "fr": "La femme est en train de marcher et son pagne fait que « vùb ».",
+                        "en": "The woman is walking and her loincloth goes “vùb”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "vûb",
+        "pronounciation": "vûp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit un fouet",
+                "definition_en": "sound of a whip",
+                "examples": [
+                    {
+                        "dialect": "À lɔ̌g ngwɔɔn ńcʉ́a múɔ, e gӱo na nzsǒ lê vûb.",
+                        "fr": "Il a tapé l’enfant avec le fouet et cela a fait sur l’habit que « vûb ».",
+                        "en": "He hit the child with the whip and that made “vûb” on the coat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "vûm",
+        "pronounciation": "vûm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de la voiture qui passe",
+                "definition_en": "sound of a car going by",
+                "examples": [
+                    {
+                        "dialect": "Matua cʉ̌a lè vùm.",
+                        "fr": "La voiture est passé que « vùm ».",
+                        "en": "The car passed that “vùm”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "vwɔ̀ʼɔ",
+        "pronounciation": "vwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "battant d’une porte ou d’une fenêtre",
+                "definition_en": "door; window shutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vyôŋ",
+        "pronounciation": "vjõ̂ŋ",
+        "synonym": [
+            "viyôŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avion",
+                "definition_en": "plane",
+                "examples": []
+            }
+        ]
+    }
+]

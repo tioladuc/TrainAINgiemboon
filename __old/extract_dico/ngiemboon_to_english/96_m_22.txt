@@ -1,0 +1,399 @@
+[
+    {
+        "noun": "Mbyě nèm",
+        "pronounciation": "m̩̀bɸjě nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Ouest",
+                "definition_en": "West",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyè nkʉ̌a",
+        "pronounciation": "m̩̀bɸjȅ ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. couteau de vigneron",
+                "definition_en": "k. knife for a wine grower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyèmelùʼ",
+        "pronounciation": "m̩̀bɸjȅmèɭȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "genette tigrine ; « chat-tigre » (en français local)",
+                "definition_en": "blotched genet; large-spotted genet; \"tiger-cat\" (in local English);",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyɛ́b",
+        "pronounciation": "ḿ̩bjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attendre",
+                "definition_en": "wait",
+                "examples": []
+            },
+            {
+                "definition_fr": "garder",
+                "definition_en": "guard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyɛ̀b pyɛ̌b",
+        "pronounciation": "m̩̀bjɛ̏p̚ pjɛ̌p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gardien (pas propriétaire) ; intérimaire",
+                "definition_en": "guardian (not owner); temporary; temp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbyɛ̀bɛ",
+        "pronounciation": "m̩̀bjɛ̀βɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "garde ; gardien ; concierge",
+                "definition_en": "guard; guardian; caretaker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyɛ́te",
+        "pronounciation": "ḿ̩bjɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collecter",
+                "definition_en": "collect",
+                "examples": []
+            },
+            {
+                "definition_fr": "prendre sans rien laisser",
+                "definition_en": "take without leaving anything",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyɛʼ",
+        "pronounciation": "ḿ̩bjɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boire noblement",
+                "definition_en": "drink nobly",
+                "examples": [
+                    {
+                        "dialect": "À ne ḿbyɛʼɛ melùʼ pyɛʼ.",
+                        "fr": "Il boit noblement le vin.",
+                        "en": "He drinks wine nobly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyɛ́ʼte",
+        "pronounciation": "ḿ̩bjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épingler",
+                "definition_en": "pin on; catch; nab",
+                "examples": []
+            },
+            {
+                "definition_fr": "plier une feuille et retenir avec qqch.",
+                "definition_en": "fold a leaf and retain it with something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbyɛ́ʼte",
+        "pronounciation": "ḿ̩bjɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿag",
+        "pronounciation": "mbɰàq̚",
+        "synonym": [
+            "mbÿɔg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru",
+                "definition_en": "raw; uncooked",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿág",
+        "pronounciation": "ḿ̩bɰáq̚",
+        "synonym": [
+            "ḿbÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gâter",
+                "definition_en": "spoil",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire triste figure ; faire triste mine ; attrister ; fâcher",
+                "definition_en": "make a sad face; look sad; sadden; annoy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿágte",
+        "pronounciation": "ḿ̩bɰáqté",
+        "synonym": [
+            "ḿbÿɔ́gte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froisser",
+                "definition_en": "crease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿé",
+        "pronounciation": "m̩̀bɸɰé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terrier ; trou",
+                "definition_en": "burrow; hole",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿě",
+        "pronounciation": "m̩̀bɸɰě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aiélé ; esp. canarium (fruit noir)",
+                "definition_en": "aiele; sp. canarium nut (black fruit)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿé",
+        "pronounciation": "ḿ̩bɸɰé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "annoncer",
+                "definition_en": "announce",
+                "examples": []
+            },
+            {
+                "definition_fr": "promettre ; prospérer",
+                "definition_en": "promise; prosper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿé letuŋó",
+        "pronounciation": "m̩̀bɸɰé lèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conduit auditif",
+                "definition_en": "auditory canal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿé mezẅe",
+        "pronounciation": "m̩̀bɸɰé mèzsɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narines",
+                "definition_en": "nostrils",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿě ngem",
+        "pronounciation": "m̩̀bɸɰě ŋ̩̀gə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit comestible",
+                "definition_en": "velvet tamarind fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿè ngwóŋ",
+        "pronounciation": "m̩̀bɸɰȅ ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sillon (espace entre deux billons)",
+                "definition_en": "furrow (space between two ridges)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿè nnɛ́",
+        "pronounciation": "m̩̀bɸɰȅ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comédien",
+                "definition_en": "actor; comedian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbÿɛ̌",
+        "pronounciation": "m̩̀bɰɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bamboue",
+                "definition_en": "Bamboue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɛ",
+        "pronounciation": "ḿ̩bɰɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répondre ; rétorquer",
+                "definition_en": "respond; retort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɛ",
+        "pronounciation": "ḿ̩bɰɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verser",
+                "definition_en": "pour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɛ́",
+        "pronounciation": "ḿ̩bɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "affaiblir ; être faible",
+                "definition_en": "become feeble; be feeble",
+                "examples": []
+            },
+            {
+                "definition_fr": "affaiblir",
+                "definition_en": "weaken",
+                "examples": []
+            },
+            {
+                "definition_fr": "assouplir",
+                "definition_en": "soften",
+                "examples": []
+            }
+        ]
+    }
+]

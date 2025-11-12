@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "parasite, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzibte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pardon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿó gʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ɔn mezìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pardon me",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parents-in-law, family",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ tsé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parents-in-law, several",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ tsé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "park",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parliament",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parrot (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "makwáŋà kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parsimony, eat sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkumte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkendéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "particularly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcwoŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "part, most",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉʉ lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "part of a dividing up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kìm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "party, birthday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyeente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lôŋ nzsǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passably",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀a nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass away",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwele gwele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éféŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passenger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ legìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passer-by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀a mánzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀a nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "passion fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mambú mbÿàg pÿág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "laale",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pass many times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉate",
+                "examples": []
+            }
+        ]
+    }
+]

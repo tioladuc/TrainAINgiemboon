@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "down (feathers)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwènzẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "down, look up and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dowry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drab, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaga tsẅaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draff",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzà ngèle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzàŋ ngèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draft",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drag",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyéente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drag on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dragonfly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀a mángǐm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mapyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́mte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draining board",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe lekyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndòŋ nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draining rack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe lekyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndòŋ nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drains, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draught",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìyôŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaa jʉ́jʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drawer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàa mejʉ́jʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drawing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́jʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀kʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draw off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draw some lines",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draws water, person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùʼ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "draw water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dream",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "drench",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dressed, get",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼ nzsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dress (hastily)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyág",
+                "examples": []
+            }
+        ]
+    }
+]

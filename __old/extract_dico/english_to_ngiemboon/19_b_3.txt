@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "bamboo (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ ndeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndeŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo, join",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo leaf mat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo, outside layer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkyɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekyɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo pith",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfwɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo shutter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo, split",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo stool, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ ndʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bamboo stump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bamboue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbÿɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bamboutos mountain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mangwá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bamessingue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Sàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "Sìŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bamougong",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Megwǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bamun language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pamom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ban",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sèsyè ntʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banality",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana, dessert",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ ntíŋ ntíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana finger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana, green",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyága nkandi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana leaves, tool cutting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana-log xylophone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana, monkey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkandi nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana plant flower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "málúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "banana plant stump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ ngwoon",
+                "examples": []
+            }
+        ]
+    }
+]

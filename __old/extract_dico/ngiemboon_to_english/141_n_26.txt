@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "ngú",
+        "pronounciation": "ŋ̩̀gú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calomnie ; ragot ; mouchardage ; cancan",
+                "definition_en": "slander; gossip; sneaking",
+                "examples": [
+                    {
+                        "dialect": "Ngú sǎ cúʼtè.",
+                        "fr": "La calomnie a détruit la réunion.",
+                        "en": "Slander destroyed the meeting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngǔ",
+        "pronounciation": "ŋ̩̀gǔ",
+        "synonym": [
+            "ngá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fusil (gén.)",
+                "definition_en": "gun (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgú",
+        "pronounciation": "ŋ̩́gú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inviter à ; demander à travailler",
+                "definition_en": "invite to; ask to work",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgúa",
+        "pronounciation": "ŋ̩́gúá",
+        "synonym": [
+            "ńgúɔ",
+            " ńgúɔte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rendre visite ; visiter ; promener",
+                "definition_en": "visit; take for a walk",
+                "examples": []
+            },
+            {
+                "definition_fr": "se rencontrer",
+                "definition_en": "meet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùb",
+        "pronounciation": "ŋ̩̀gȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peau ; écorce",
+                "definition_en": "skin; bark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùb legwé",
+        "pronounciation": "ŋ̩̀gȕp̚ lèɣxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quête pour les funérailles",
+                "definition_en": "funeral collection",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgube",
+        "pronounciation": "ŋ̩́gùβè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aboutir ; accomplir",
+                "definition_en": "end up; accomplish",
+                "examples": []
+            },
+            {
+                "definition_fr": "dénouer",
+                "definition_en": "unknot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùm",
+        "pronounciation": "ŋ̩̀gȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force",
+                "definition_en": "strength; force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngúmnɔ̀ɔn",
+        "pronounciation": "ŋ̩̀gúmnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gouverneur",
+                "definition_en": "governor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùngwò leloŋó",
+        "pronounciation": "ŋ̩̀gȕŋgxwȍ lèlõ̀ŋó",
+        "synonym": [
+            "ndùŋngwò leloŋó ",
+            " nzoon mákẅiʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "clinging aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùngwò leloŋó kʉ́",
+        "pronounciation": "ŋ̩̀gȕŋgxwȍ lèlõ̀ŋó kɯ́",
+        "synonym": [
+            "ndùŋngwò leloŋó kʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "wandering Jew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùngwò leloŋó kwɔb",
+        "pronounciation": "ŋ̩̀gȕŋgxwȍ lèlõ̀ŋó kwɔ̀b",
+        "synonym": [
+            "ndùŋngwò leloŋó kwɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aneilema",
+                "definition_en": "sp. aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùngwò leloŋó ntse",
+        "pronounciation": "ŋ̩̀gȕŋgxwȍ lèlõ̀ŋó ǹ̩tsè",
+        "synonym": [
+            "ndùŋngwò leloŋó ntse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "azolle",
+                "definition_en": "water velvet; mosquito fern",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nguɔ",
+        "pronounciation": "ŋ̩̀gùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malade",
+                "definition_en": "sick person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńguɔ",
+        "pronounciation": "ŋ̩́gùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être malade",
+                "definition_en": "be sick",
+                "examples": []
+            },
+            {
+                "definition_fr": "être souvent malade",
+                "definition_en": "be sick often",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgúɔ",
+        "pronounciation": "ŋ̩́gúɔ́",
+        "synonym": [
+            "ńgúa",
+            " ńgúate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rendre visite ; visiter ; promener",
+                "definition_en": "visit; take for a walk",
+                "examples": []
+            },
+            {
+                "definition_fr": "se rencontrer",
+                "definition_en": "meet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngútà",
+        "pronounciation": "ŋ̩̀gútȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. escargot",
+                "definition_en": "sp. snail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngùʼ",
+        "pronounciation": "ŋ̩̀gùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "année ; an ; annuel",
+                "definition_en": "year; yearly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngǔʼ",
+        "pronounciation": "ŋ̩̀gǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "turaco vert",
+                "definition_en": "green turaco",
+                "examples": []
+            },
+            {
+                "definition_fr": "plume rouge d’oiseau",
+                "definition_en": "red bird feather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńguʼ",
+        "pronounciation": "ŋ̩́gùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désirer ; convoiter ; envier",
+                "definition_en": "desire; covet; be envious",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn tè yɔ́ɔn mmó yɛ ná, ń de guʼ.",
+                        "fr": "Je ne désirerai pas si tu ne me donnes pas.",
+                        "en": "I will not desire if you do not give me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "louer ; adorer",
+                "definition_en": "to rent out ; worship",
+                "examples": []
+            },
+            {
+                "definition_fr": "utiliser pour se consoler ; s’enorgueillir",
+                "definition_en": "use to comfort oneself; to be proud",
+                "examples": [
+                    {
+                        "dialect": "Ammó gie ɔ̀ lɔgɔ ńguʼu gwɔ́ pɔ́ nzɔ̌?",
+                        "fr": "Où est la chose que tu enorgueillisse ?",
+                        "en": "Where is the thing you are proud of?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńgúʼ",
+        "pronounciation": "ŋ̩́gúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grandir",
+                "definition_en": "grow",
+                "examples": []
+            },
+            {
+                "definition_fr": "être large",
+                "definition_en": "be large",
+                "examples": []
+            },
+            {
+                "definition_fr": "grandir ; avoir grandi",
+                "definition_en": "to grow ; having grown up",
+                "examples": []
+            },
+            {
+                "definition_fr": "être volumineux",
+                "definition_en": "to be bulky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngǔʼ panzwě",
+        "pronounciation": "ŋ̩̀ɡǔʔ pànzwě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coucou geai",
+                "definition_en": "great spotted cuckoo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀",
+        "pronounciation": "ŋ̩̀gɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étranger",
+                "definition_en": "stranger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ ntse",
+        "pronounciation": "ŋ̩̀gɯ̏ ǹ̩tsè",
+        "synonym": [
+            "nnú ngém"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crodocile nain ; caïman",
+                "definition_en": "dwarf crocodile; Cayman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉa",
+        "pronounciation": "ŋ̩̀gɯ̀à",
+        "synonym": [
+            "ngʉagʉa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partant",
+                "definition_en": "starter",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zẅǐŋ tà ńcʉ́ʼ pɔ́ ngʉ̀agʉa.",
+                        "fr": "Je suis vieux si bien que je suis partant.",
+                        "en": "I'm old so I'm up for it."
+                    }
+                ]
+            }
+        ]
+    }
+]

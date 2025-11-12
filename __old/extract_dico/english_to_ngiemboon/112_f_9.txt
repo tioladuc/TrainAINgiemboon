@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "fitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀gte láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "five",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yétʉ̂a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méntʉ̂a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pétʉ̂a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "métʉ̂a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̂a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sétʉ̂a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flag",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsòliŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́me mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flare",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lâm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flare up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepàba",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flat, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flat path, move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flat path, progress along",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flatsedge, haspan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndúm ngʉngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flatten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flatter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flatterer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa lʉ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flattery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flavour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "làméndɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flaw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fúɔ nkèsàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fleabane",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyé melẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flees from, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flesh for certain fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flicker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔbte",
+                "examples": []
+            }
+        ]
+    }
+]

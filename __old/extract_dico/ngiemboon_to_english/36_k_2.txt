@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "káfom",
+        "pronounciation": "káfɤ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "xylocope",
+                "definition_en": "carpenter bee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàg",
+        "pronounciation": "kàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeille",
+                "definition_en": "basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kága",
+        "pronounciation": "káʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kákaa",
+        "pronounciation": "kákàː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "int",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’impatience ; marquant la méfiance)",
+                "definition_en": "(shows impatience; shows distrust)",
+                "examples": [
+                    {
+                        "dialect": "N tóo, á cúa wɔ́ɔn tà ńdɔgɔ gɔɔn pɔ́ ngie kákaa tà ɔɔn fɔ̌ɔn ńtó wɔ́!",
+                        "fr": "Je suis venu, il m’a tapé sérieusement comme s’il m’attendait impatiemment pour le faire.",
+                        "en": "I came, he hit me seriously as if he was impatiently waiting for me to do it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kàkẅì",
+        "pronounciation": "kȁkɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "congné ; articulation du doigt",
+                "definition_en": "knuckle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kála",
+        "pronounciation": "kálá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": [
+                    {
+                        "dialect": "Kála n gẅiin nkáb!",
+                        "fr": "Si je pouvais avoir de l’argent !",
+                        "en": "If I could only have money!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kàlàngá",
+        "pronounciation": "kȁlȁŋgá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séchoir",
+                "definition_en": "dryer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàlàsí",
+        "pronounciation": "kȁlȁsí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pétrole",
+                "definition_en": "oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàlasôŋ",
+        "pronounciation": "kàlȁsõ̂ŋ",
+        "synonym": [
+            "selîb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caleçon ; slip",
+                "definition_en": "boxer shorts; bathing slip; bathing suit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kalém",
+        "pronounciation": "kàlə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "melon",
+                "definition_en": "melon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàletúsè",
+        "pronounciation": "kȁlèʈúsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eucalyptus",
+                "definition_en": "eucalyptus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kalɔ̂d",
+        "pronounciation": "kàlɔ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carotte",
+                "definition_en": "carrot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Kàmalûm",
+        "pronounciation": "kàmàlûm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Cameroun",
+                "definition_en": "Cameroon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kànàlínè",
+        "pronounciation": "kȁnȁlínȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comptine (jeu)",
+                "definition_en": "nursery rhyme; counting rhyme (game)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kànɔ̀ɔn",
+        "pronounciation": "kȁnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kánɔ́ɔnsè",
+        "pronounciation": "kánɔ̃́ːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "palmiste",
+                "definition_en": "palm-kernel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kántoŋ",
+        "pronounciation": "kántõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant au nombril enroulé à la naissance",
+                "definition_en": "child with a naval wound up since birth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kanúʼ",
+        "pronounciation": "kàɳúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pirogue",
+                "definition_en": "dugout canoe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kánzà",
+        "pronounciation": "kándzȁ",
+        "synonym": [
+            "kánzɔɔn ",
+            " kánzì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeille",
+                "definition_en": "basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kánzì",
+        "pronounciation": "kándzȉ",
+        "synonym": [
+            "kánzɔɔn ",
+            " kánzà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeille",
+                "definition_en": "basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kánzɔɔn",
+        "pronounciation": "kándzɔ̃̀ː",
+        "synonym": [
+            "kánzà ",
+            " kánzì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeille",
+                "definition_en": "basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋ",
+        "pronounciation": "kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assiette ; plat",
+                "definition_en": "plate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàŋ",
+        "pronounciation": "kã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écureuil (gén.)",
+                "definition_en": "squirrel (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋa jùa",
+        "pronounciation": "kã́ŋá ʒùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assiette en aluminium",
+                "definition_en": "aluminium plate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káŋa mekéle",
+        "pronounciation": "kã́ŋá mèkə́lé",
+        "synonym": [
+            "mekú mentsáʼa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assiette tachetée",
+                "definition_en": "speckled plate",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. haricot tacheté",
+                "definition_en": "sp. speckled beans",
+                "examples": []
+            }
+        ]
+    }
+]

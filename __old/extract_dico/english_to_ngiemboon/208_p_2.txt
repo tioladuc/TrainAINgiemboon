@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "palm, African wild date",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm-kernel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kánɔ́ɔnsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm-kernel oil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palmnut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letʉ̌ʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palmnut, immature",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palmnuts, bagasse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekáŋa letÿǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm of hand, catch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm of the hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̌ɔn pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm, oil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letʉ̌ʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "palm tree fluff",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pamper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pamperer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pangolin, tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnú lepáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn lepáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "panic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsiʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "panther",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "panties",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pants",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùu kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kème shùu kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pants, wear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pípà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paper exploding, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sagá nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̌ɔn nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paradise, grains",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paragraph",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkendéŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paralysis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwʉ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwéʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "parasite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lème ńnéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ lesoŋ ńkɔ nnáʼ",
+                "examples": []
+            }
+        ]
+    }
+]

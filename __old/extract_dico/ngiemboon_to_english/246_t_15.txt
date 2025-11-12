@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "tùbo nkàʼ",
+        "pronounciation": "ʈùβȍ ŋ̩̀[kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dos rond",
+                "definition_en": "humpback",
+                "examples": [
+                    {
+                        "dialect": "Peg ka gyǎ tsɔ̌ ndÿò, á gwɔ́ tùbo nkàʼ.",
+                        "fr": "Nous avons vu un monsieur, il était dos rond.",
+                        "en": "We saw a gentleman, he had a round back."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tùbte",
+        "pronounciation": "ʈùptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désordre",
+                "definition_en": "disorder",
+                "examples": []
+            },
+            {
+                "definition_fr": "distinction",
+                "definition_en": "mention; distinction",
+                "examples": []
+            },
+            {
+                "definition_fr": "discrimination",
+                "definition_en": "discrimination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùbtùb",
+        "pronounciation": "ʈȕpʈȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un moteur",
+                "definition_en": "sound of a motor",
+                "examples": [
+                    {
+                        "dialect": "Matûa ne ńzẅɛ ḿbége jʉʼ lè tùbtùb tùbtùb.",
+                        "fr": "La voiture ronfle en faisant un bruit « tùbtùb tùbtùb ».",
+                        "en": "The car hums, making a “tùbtùb tùbtùb” noise."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tùbtùb",
+        "pronounciation": "ʈȕpʈȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pompe à moteur",
+                "definition_en": "pump motor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túlékáŋ",
+        "pronounciation": "ʈúlékã́ŋ",
+        "synonym": [
+            "nkàʼ ",
+            " lâm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lampe",
+                "definition_en": "lamp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túm",
+        "pronounciation": "ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu où on voyage",
+                "definition_en": "place where one travels",
+                "examples": []
+            },
+            {
+                "definition_fr": "étranger ; extérieur",
+                "definition_en": "foreign; outside",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùme túm",
+        "pronounciation": "ʈùmȅ ʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inter-tribu ; international",
+                "definition_en": "intertribal; international",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túŋ",
+        "pronounciation": "ʈṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. panier",
+                "definition_en": "k. basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùŋ",
+        "pronounciation": "ʈũ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marquant le picotement",
+                "definition_en": "smarting; prickling",
+                "examples": [
+                    {
+                        "dialect": "Efʉ̌ŋ yɔɔn ne ńtsɔ́ʼte lê tùŋ.",
+                        "fr": "Ma blessure picore que « tùŋ » !",
+                        "en": "My wound tickles that “tùŋ”!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "túŋ nkʉŋ",
+        "pronounciation": "ʈṹŋ ŋ̩̀kɯ̃̀ŋ",
+        "synonym": [
+            "tétúŋ nkʉŋ ",
+            " tòŋ ncwò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "martin pêcheur",
+                "definition_en": "kingfisher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túŋ sẅɛ́ɛ",
+        "pronounciation": "ʈṹŋ sɥɛ́:",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. panier",
+                "definition_en": "k. basket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùŋo legwé",
+        "pronounciation": "ʈũ̀ŋȍ lèɣxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "choses données par le beau fils pour l’enterrement",
+                "definition_en": "things given by the son-in-law for a burial",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tútú",
+        "pronounciation": "ʈúʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "statue ; masque",
+                "definition_en": "statue; idol; mask",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùtùʼu",
+        "pronounciation": "tȕʈùʔȕ",
+        "synonym": [
+            "tètùʼu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "court",
+                "definition_en": "short",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùtùʼu mendóŋ nkandi",
+        "pronounciation": "ʈȕʈùʔȕ mèndṍŋ ŋ̩̀kàndì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. banane",
+                "definition_en": "sp. banana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùtùʼu mendóŋ nkandòŋ",
+        "pronounciation": "ʈȕʈùʔȕ mèndṍŋ ŋ̩̀kàndõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain à courte doigt",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùu nò",
+        "pronounciation": "ʈȕː nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dissertation",
+                "definition_en": "essay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túundê",
+        "pronounciation": "ʈú:ndê",
+        "synonym": [
+            "mbɔ́ɔntè mvfò lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mardi",
+                "definition_en": "Tuesday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùutǔ",
+        "pronounciation": "ʈȕːʈǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri de l’oiseau « màndÿoonmacǔ »",
+                "definition_en": "call of bird \"mandyoonmacu\"",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tǔʼ",
+        "pronounciation": "ʈǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bosse de dos",
+                "definition_en": "humpback",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tǔʼ",
+        "pronounciation": "ʈǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "zéro",
+                "definition_en": "zero",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùʼ mbab",
+        "pronounciation": "ʈȕʔ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. petit souris roux des champs",
+                "definition_en": "sp. rust colored field mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùʼ ncwò",
+        "pronounciation": "ʈȕʔ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. moustique brun",
+                "definition_en": "sp. brown mosquito",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tùʼ ndéle",
+        "pronounciation": "ʈȕʔ ǹ̩də́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collier",
+                "definition_en": "necklace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "túʼtoŋ",
+        "pronounciation": "ʈúʔtõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "wild tea bush",
+                "examples": []
+            }
+        ]
+    }
+]

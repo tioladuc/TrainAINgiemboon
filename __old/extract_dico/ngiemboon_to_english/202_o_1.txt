@@ -1,0 +1,111 @@
+[
+    {
+        "noun": "ólé",
+        "pronounciation": "ólé",
+        "synonym": [
+            "élé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "question-tag",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est-ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "óo",
+        "pronounciation": "óː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oui",
+                "definition_en": "yes",
+                "examples": [
+                    {
+                        "dialect": "Óo! mèŋ n ne ńtóo pɔ́ fʉ̀ʼɔɔn.",
+                        "fr": "Oui ! J’arrive tout de suite.",
+                        "en": "Yes ! I'll be there right away."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "oon",
+        "pronounciation": "õ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oui",
+                "definition_en": "yes",
+                "examples": [
+                    {
+                        "dialect": "Agẅi oon gwɔ́ pɔ́ oon.",
+                        "fr": "Que votre oui soit oui.",
+                        "en": "May your yes be yes."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "oui",
+                "definition_en": "yes",
+                "examples": [
+                    {
+                        "dialect": "Oon, n ge pfɛ́ fʉ̀ʼɔɔn.",
+                        "fr": "Oui,  je vais manger maintenant.",
+                        "en": "Yes, I'm going to eat now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "óon gòʼ",
+        "pronounciation": "ṍː ɣȍʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je ne sais pas ! (réponse)",
+                "definition_en": "I don’t know (response)",
+                "examples": [
+                    {
+                        "dialect": "À cua gú ńtí kɔ́? Óon gòʼ!",
+                        "fr": "Il te tape pourquoi ? Je ne sais pas !",
+                        "en": "Why is he hitting you? I don't know !"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "oon wéen",
+        "pronounciation": "õ̀ː wẽ́ː",
+        "synonym": [
+            "ù wéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quoi ? (pour demander á quelqu’un de répéter ce qu’il vient de dire)",
+                "definition_en": "what (to ask someone to repeat what they just said)",
+                "examples": [
+                    {
+                        "dialect": "Oon wéen? Ɔ̀ gɔ̌ɔn ngie n tó lá?",
+                        "fr": "Quoi ? Tu dis que je vienne ?",
+                        "en": "What ? Are you saying I'm coming?"
+                    }
+                ]
+            }
+        ]
+    }
+]

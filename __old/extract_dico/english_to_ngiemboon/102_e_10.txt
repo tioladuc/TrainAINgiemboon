@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "expensive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀ nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "moŋo nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "expensive, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "expensive, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "expert",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿò mbòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "explain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "explanation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letyɛ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekyɛ́ʼtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "explode",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "explode, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exploitation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "explosion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀e",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀me ngyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̀ʼɔ ngyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "expression",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáŋa shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extension",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "memaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extensive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyě lepfòm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exterior",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exterminator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyàga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extirpate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extract",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extraordinary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extraordinary, do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ nzàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extraordinary, something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lemaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extraordinary thing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndaa gyá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "extremity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eye",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eyeball",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eyebrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̌ŋ nÿɔ́g",
+                "examples": []
+            }
+        ]
+    }
+]

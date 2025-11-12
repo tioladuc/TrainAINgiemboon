@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "force, driving",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forcefully act",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg tʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forcefully seize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forcefully stop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "force, police",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forces, final",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meŋegé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forefather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forehead",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zǐ shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forehead, jutting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́be zǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋo zǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foreign",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foreigner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìŋe túm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forest guard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèmóon púʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forestry worker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòon tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forest, sacred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefomó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "foretell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́ njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forethought",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwàŋa ndyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forever",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndàʼndàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forfeit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésa shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forge hammer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù lɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sashÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forgery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sashÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forget",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "forgiveness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ɔn mézìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsɔʼ",
+                "examples": []
+            }
+        ]
+    }
+]

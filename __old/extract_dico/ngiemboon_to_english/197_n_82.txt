@@ -1,0 +1,394 @@
+[
+    {
+        "noun": "nzwàʼa",
+        "pronounciation": "ǹ̩dzwàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "broyeur",
+                "definition_en": "grinder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě",
+        "pronounciation": "ǹ̩dzwě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "femelle",
+                "definition_en": "female",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě kěm",
+        "pronounciation": "ǹ̩dzwě kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "reine",
+                "definition_en": "queen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě lÿoon",
+        "pronounciation": "ǹ̩dzwě ɭɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jument",
+                "definition_en": "mare",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě nkʉ̌a",
+        "pronounciation": "ǹ̩dzwě ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guenon ; femelle de singe",
+                "definition_en": "guenon; female monkey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě ssé",
+        "pronounciation": "ǹ̩dzwě sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voyante ; guérisseur",
+                "definition_en": "seer; clairvoyant; healer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwě tsɔb",
+        "pronounciation": "ǹ̩dzswě tsɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "femelle de civette africaine",
+                "definition_en": "female African civet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzwènzẅɛ̀",
+        "pronounciation": "ǹ̩dzswȅndzɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "duvet ; petits poils",
+                "definition_en": "down (feathers); short hair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅag",
+        "pronounciation": "ń̩dzɥàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouillir",
+                "definition_en": "boil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅag",
+        "pronounciation": "ń̩dzɥàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raser",
+                "definition_en": "shave off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅaʼ",
+        "pronounciation": "ń̩dzɥàʔ",
+        "synonym": [
+            "ńjẅaʼ ",
+            " ńzwaʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "broyer ; casser",
+                "definition_en": "grind; break",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅè",
+        "pronounciation": "ǹ̩dzsɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tueur",
+                "definition_en": "killer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅé",
+        "pronounciation": "ń̩dzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tuer",
+                "definition_en": "kill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅege",
+        "pronounciation": "ń̩dzɥə̀ʁè",
+        "synonym": [
+            "ńzẅige"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "respirer",
+                "definition_en": "breathing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛ",
+        "pronounciation": "ń̩dzɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ronfler",
+                "definition_en": "snore",
+                "examples": []
+            },
+            {
+                "definition_fr": "gronder (pluie)",
+                "definition_en": "thunder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛ́",
+        "pronounciation": "ń̩dzɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rassasier",
+                "definition_en": "eat one’s fill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅɛté",
+        "pronounciation": "ǹ̩dzɥɛ̀té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vacance ; congé",
+                "definition_en": "vacation; holiday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛte",
+        "pronounciation": "ń̩dzɥɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se reposer",
+                "definition_en": "rest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛ́te",
+        "pronounciation": "ń̩dzɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "murmurer ; chuchoter",
+                "definition_en": "murmur; whisper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛʼ",
+        "pronounciation": "ń̩dzɥɛ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "percer (trou)",
+                "definition_en": "pierce (hole)",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’écrouler ; affaisser",
+                "definition_en": "collapse; sag",
+                "examples": []
+            },
+            {
+                "definition_fr": "dégonfler ; trouer",
+                "definition_en": "deflate; hole",
+                "examples": []
+            },
+            {
+                "definition_fr": "perforer plusieurs fois ; être perforé par plusieurs trous",
+                "definition_en": "perforate several times; be perforated with several holes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛ́ʼ",
+        "pronounciation": "ń̩dzɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profiter",
+                "definition_en": "profit; take advantage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzẅɛ̀ʼ tsɔ́",
+        "pronounciation": "ǹ̩dzɥɛ̏ʔ tsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peut-être",
+                "definition_en": "perhaps; maybe",
+                "examples": [
+                    {
+                        "dialect": "Nzẅɛ̀ʼ tsɔ́, anò gie ɔ̀ gɔɔn á nénʉ́.",
+                        "fr": "Ce que tu dis est peut-être vrai.",
+                        "en": "What you say may be true."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzẅɛ́ʼ zsee",
+        "pronounciation": "ǹ̩dzɥɛ́ʔ zsèː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "heureusement",
+                "definition_en": "fortunately",
+                "examples": [
+                    {
+                        "dialect": "Nzẅɛ́ʼ zsee à gwǎ tó mbà mèŋ n gʉ̌a.",
+                        "fr": "Heureusement qu’à son arrivée j’étais déjà parti.",
+                        "en": "Fortunately, when he arrived, I had already left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅɛ́ʼte",
+        "pronounciation": "ń̩dzɥɛ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tiédir ; attiédir ; échauder",
+                "definition_en": "cool down; grow warmer; become lukewarm; get one’s fingers burnt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzẅi",
+        "pronounciation": "ń̩dzɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soupirer",
+                "definition_en": "sigh",
+                "examples": []
+            },
+            {
+                "definition_fr": "assécher",
+                "definition_en": "dry",
+                "examples": []
+            }
+        ]
+    }
+]

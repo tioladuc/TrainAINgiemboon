@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "twókɔ̀ɔn",
+        "pronounciation": "ʈθwókɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "twókɔ̀ɔn",
+        "pronounciation": "ʈθwókɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅag",
+        "pronounciation": "tɥàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de la chique qui s’éclate",
+                "definition_en": "sound of a jigger that explodes",
+                "examples": [
+                    {
+                        "dialect": "À sẅě kúkwò tà á gӱo le tẅag.",
+                        "fr": "Il a tué la chique jusqu’à il a fait que « tẅag ».",
+                        "en": "He killed the quid until he made that “tẅag”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tẅɛ́",
+        "pronounciation": "tɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. champignon large et gros",
+                "definition_en": "sp. big and fat mushroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅɛ̀",
+        "pronounciation": "tɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propreté ; élégance",
+                "definition_en": "cleanliness; elegance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅɛ́ péli",
+        "pronounciation": "tɥɛ́ pélí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arachide immature",
+                "definition_en": "immature groundnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅɛ̂b",
+        "pronounciation": "tɥɛ̂p̚",
+        "synonym": [
+            "tsɛ̀ɛzsǒ ",
+            " tʉ̀zsǒ ",
+            " táŋazsǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "midi",
+                "definition_en": "noon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅɛ̂b lêtsẅɛ́ʼ",
+        "pronounciation": "tɥɛ̂p̚ lêtsɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minuit",
+                "definition_en": "midnight",
+                "examples": [
+                    {
+                        "dialect": "A ně ńtó na twɛ̂b lêtsẅɛ́ʼ, ḿbúʼte ncwò ndá.",
+                        "fr": "Il est venu à minuit et à frapper la porte.",
+                        "en": "He came at midnight and knocked on the door."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tẅítè",
+        "pronounciation": "tɥítȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sinueux",
+                "definition_en": "winding",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅítẅǐ",
+        "pronounciation": "tɥítɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embêtement",
+                "definition_en": "problem; annoyance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tẅìʼ",
+        "pronounciation": "tɥȉʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "béquille ; appui ; bâton",
+                "definition_en": "crutch; support; stick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyàg",
+        "pronounciation": "tjȁq̚",
+        "synonym": [
+            "tsyàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte ; peu",
+                "definition_en": "drop; little",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyèen",
+        "pronounciation": "tjẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raison",
+                "definition_en": "reason",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyeente",
+        "pronounciation": "tjẽ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dés",
+                "definition_en": "since; from",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyenkwé",
+        "pronounciation": "tjèŋkxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot",
+                "definition_en": "sp. bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyéntsem",
+        "pronounciation": "tθjéntsə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot (noir, petit grain)",
+                "definition_en": "sp. small black bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyétyé nkwɔ̀ʼ",
+        "pronounciation": "tθjétθjé ŋ̩̀kwɔ̏ʔ",
+        "synonym": [
+            "tétyé nkwɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "statue",
+                "definition_en": "statue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyɛ́b",
+        "pronounciation": "tjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui insulte ; vaurien",
+                "definition_en": "one who insults; good-for-nothing person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyɛ̀ʼte",
+        "pronounciation": "tjɛ̀ʔtȅ",
+        "synonym": [
+            "fègte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "différence",
+                "definition_en": "difference",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyɛ̀ʼte",
+        "pronounciation": "tjɛ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guide ; indication",
+                "definition_en": "guide; indication",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tyɛ̀ʼtendù",
+        "pronounciation": "tjɛ̀ʔtȅɳɖȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dictionnaire",
+                "definition_en": "dictionary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿè",
+        "pronounciation": "ʈɰȅ",
+        "synonym": [
+            "tÿèen ",
+            " hányàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fer à repasser",
+                "definition_en": "iron (clothes)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿèen",
+        "pronounciation": "ʈɰẽ̏ː",
+        "synonym": [
+            "tÿè ",
+            " hányàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fer à repasser",
+                "definition_en": "iron (clothes)",
+                "examples": [
+                    {
+                        "dialect": "À ne ńdɔgɔ tÿèen ńcÿo menzsǒ.",
+                        "fr": "Il est en train de repasser ses habits avec le fer à repasser.",
+                        "en": "He is ironing his clothes with the iron."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ",
+        "pronounciation": "ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arbre (gén.)",
+                "definition_en": "tree (generic)",
+                "examples": []
+            },
+            {
+                "definition_fr": "piquet",
+                "definition_en": "picket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tÿǒ cʉ̀a nzsó",
+        "pronounciation": "ʈθɰǒ tʃɯ̀ȁ ǹ̩dzsó",
+        "synonym": [
+            "tÿǒ tsɔ̀ɔn nzsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "red-leaved fig tree",
+                "examples": []
+            }
+        ]
+    }
+]

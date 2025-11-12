@@ -1,0 +1,394 @@
+[
+    {
+        "noun": "ncwòmamúɔ",
+        "pronounciation": "ǹ̩tʃːwȍmàmúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herbe aux sorciers",
+                "definition_en": "goatweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòmamúɔ ntʉ̀",
+        "pronounciation": "ǹ̩tʃːwȍmàmúɔ́ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "African bonebract",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòmpfó",
+        "pronounciation": "ǹ̩tʃːwȍɱpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "testament",
+                "definition_en": "testament",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòndá",
+        "pronounciation": "ǹ̩tʃːwȍndá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porte",
+                "definition_en": "door",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòngú",
+        "pronounciation": "ǹ̩tʃːwȍŋgú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup de fusil",
+                "definition_en": "gunshot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòntse",
+        "pronounciation": "ǹ̩tʃːwȍntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rive où on sert pour puiser de l’eau",
+                "definition_en": "riverbank where people draw water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòntúm",
+        "pronounciation": "ǹ̩tʃːwȍɳʈúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrée d’un pont",
+                "definition_en": "bridge entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwònzém",
+        "pronounciation": "ǹ̩tʃːwȍndzə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soir",
+                "definition_en": "evening",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcwóŋ",
+        "pronounciation": "ń̩tʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "descendre",
+                "definition_en": "go down",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcwóŋ",
+        "pronounciation": "ń̩tʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nouer",
+                "definition_en": "knot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcwoŋo",
+        "pronounciation": "ń̩tʃwõ̀ŋò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minutieusement ; avec précision",
+                "definition_en": "meticulously; with precision",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn nge ńnyɛte mmó, ɔ̀ cwoŋo ńnyɛte.",
+                        "fr": "Si tu veux fabriquer quelque chose, fais-le minutieusement.",
+                        "en": "If you want to make something, do it carefully."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "particulièrement ; parfaitement",
+                "definition_en": "particularly; perfectly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncwòŋte",
+        "pronounciation": "ǹ̩tʃwõ̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrangeur ; réparateur",
+                "definition_en": "arranger; repairman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcwoŋte",
+        "pronounciation": "ń̩tʃwõ̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réparer ; réfectionner ; arranger",
+                "definition_en": "repair; reconstitute; arrange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿé jʉʼ",
+        "pronounciation": "ń̩tʃːɰé ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rester tranquille",
+                "definition_en": "stay quiet",
+                "examples": [
+                    {
+                        "dialect": "Cÿé jʉʼ tè gíŋe shwóŋo shwǒŋ.",
+                        "fr": "Reste tranquille, ne bavarde plus.",
+                        "en": "Stay quiet, don't talk anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ncÿó",
+        "pronounciation": "ǹ̩tʃːɰó",
+        "synonym": [
+            "leság ",
+            " lecwoŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fesse",
+                "definition_en": "buttock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿǒ",
+        "pronounciation": "ǹ̩tʃːɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saleté",
+                "definition_en": "dirtiness; dirt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿo",
+        "pronounciation": "ń̩tʃːɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cimenter ; talocher",
+                "definition_en": "cement; cuff; clout",
+                "examples": []
+            },
+            {
+                "definition_fr": "lisser",
+                "definition_en": "smooth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿo",
+        "pronounciation": "ń̩tʃːɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "repasser le linge",
+                "definition_en": "iron clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿo",
+        "pronounciation": "ń̩tʃːɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salir",
+                "definition_en": "dirty",
+                "examples": []
+            },
+            {
+                "definition_fr": "salir",
+                "definition_en": "dirty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿó gʉ́m",
+        "pronounciation": "ń̩tʃːɰó ɣɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gratifier ; offrir un don ; gracier",
+                "definition_en": "favour; give a gift; pardon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncÿò ngwòŋ",
+        "pronounciation": "ǹ̩tʃːɰȍ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui écrie",
+                "definition_en": "one who cries",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿó ngwɔ̀ʼ",
+        "pronounciation": "ń̩tʃːɰó ŋ̩̀gwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amplifier",
+                "definition_en": "amplify",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿó nnɛ́",
+        "pronounciation": "ń̩tʃːɰó ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minutieusement ; soigneusement",
+                "definition_en": "meticulously; carefully",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtyé na fàʼ, ɔ̀ cÿó nnɛ́ faʼ.",
+                        "fr": "Si tu as un travail, il faut travailler minutieusement.",
+                        "en": "If you have a job, you have to work carefully."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ncÿòon",
+        "pronounciation": "ǹ̩tʃɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix de palme immature",
+                "definition_en": "immature palmnut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcÿoon",
+        "pronounciation": "ń̩tʃɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désinfecter",
+                "definition_en": "disinfect",
+                "examples": [
+                    {
+                        "dialect": "Ńcÿoon fʉ́ŋ.",
+                        "fr": "Désinfecter la plaie.",
+                        "en": "Disinfect the wound."
+                    }
+                ]
+            }
+        ]
+    }
+]

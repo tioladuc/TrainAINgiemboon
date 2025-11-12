@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "hearing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwá letuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hearing problem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùʼu metuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heart",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hearth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekyè mmɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿò mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hearth, left of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heartily, eat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heartily eat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heat up to dry out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heavily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzaza",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heavy, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉ́e",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hedge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̂a nkáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepàa nkáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hedgehog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìŋe kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heel, high",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅɛ̀ʼ ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "he himself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ yé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "height",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heir apparent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ménkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "held, poorly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmessé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepÿé mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "helmet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "káŋa twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "help",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "agyɔɔnme",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "help, cry for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndìte ngwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngyè tetʉ̂",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíte ngwòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "help group, communal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hemp",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvfòluʼ",
+                "examples": []
+            }
+        ]
+    }
+]

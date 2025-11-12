@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "cyág",
+        "pronounciation": "tʃjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit une machette lorsqu’on se sert pour couper",
+                "definition_en": "sound of a machete cutting into something",
+                "examples": [
+                    {
+                        "dialect": "Nně zaʼá tépwó we lê cyág.",
+                        "fr": "La machette a coupé le toit que « cyág ».",
+                        "en": "The machete cut the roof that “cyág”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cÿáŋaláŋláŋ",
+        "pronounciation": "tʃɰã́ŋalã́ŋlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit les objets en verre qui tombent",
+                "definition_en": "sound of glass objects falling",
+                "examples": [
+                    {
+                        "dialect": "Mencʉ́ŋ gwě, ńgye lê cӱáŋaláŋláŋ.",
+                        "fr": "Les bouteilles sont tombées et ont résonné que « cӱáŋaláŋláŋ ».",
+                        "en": "The bottles fell and sounded like “cӱáŋaláŋláŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cÿáŋcÿáŋ",
+        "pronounciation": "tʃɰã́ŋtʃɰã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boules de concussion",
+                "definition_en": "concussion balls",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿâʼ",
+        "pronounciation": "tʃɰâʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit produit lorsqu’on fait frire",
+                "definition_en": "sound of frying",
+                "examples": [
+                    {
+                        "dialect": "N kǎŋ mèvɛ, ńkẅiʼi ntse mǒ, é gÿo lê cÿâʼ.",
+                        "fr": "J’ai fait frire l’huile, y ai ajouté de l’eau et cela a fait « cÿâʼ ».",
+                        "en": "I fried the oil, added water and it made “cÿâʼ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cÿó",
+        "pronounciation": "tʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "famine",
+                "definition_en": "famine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿó gʉm",
+        "pronounciation": "tʃːɰó ɣɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "don ; grâce",
+                "definition_en": "gift; grace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿó ndá",
+        "pronounciation": "tʃːɰó ndá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondation",
+                "definition_en": "foundation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿòon",
+        "pronounciation": "tʃɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gouttière",
+                "definition_en": "gutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́b",
+        "pronounciation": "tʃɰɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pioche",
+                "definition_en": "pickaxe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀b",
+        "pronounciation": "tʃɰɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gale",
+                "definition_en": "scabies; mange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀b",
+        "pronounciation": "tʃɰɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poison",
+                "definition_en": "poison",
+                "examples": []
+            },
+            {
+                "definition_fr": "fétiche",
+                "definition_en": "fetish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́g",
+        "pronounciation": "tʃɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discussion ; discorde",
+                "definition_en": "discussion; discord",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́g",
+        "pronounciation": "tʃɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gencives",
+                "definition_en": "gums",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀gɔ",
+        "pronounciation": "tʃɰɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "endurci (igname)",
+                "definition_en": "hardened (yam)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̌nò",
+        "pronounciation": "tʃɰɔ̌nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mensonge",
+                "definition_en": "lie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ɔsè",
+        "pronounciation": "tʃɰɔ́ːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "église",
+                "definition_en": "church",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ʼ",
+        "pronounciation": "tʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviteur",
+                "definition_en": "servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀ʼ",
+        "pronounciation": "tʃɰɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chapeau ; coiffure",
+                "definition_en": "hat; hair style",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀ʼ",
+        "pronounciation": "tʃɰɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peur ; crainte",
+                "definition_en": "fear",
+                "examples": [
+                    {
+                        "dialect": "Ecÿɔ̀ʼ té poŋ.",
+                        "fr": "La peur n’est pas bonne.",
+                        "en": "Fear is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ʼ letuŋó",
+        "pronounciation": "tʃɰɔ́ʔ lèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lobe de l’oreille",
+                "definition_en": "ear lobe",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gíŋe tʉʉ twó, e syé cÿɔ́ʼ letuŋó gù.",
+                        "fr": "Tu t’entêtes encore, je trancherai le lobe de ton oreille.",
+                        "en": "You persist again, I will cut off your earlobe."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ʼ ntɔ́ʼ",
+        "pronounciation": "tʃɰɔ́ʔ ǹ̩tɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "valet ; serviteur",
+                "definition_en": "valet; servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ʼ Ssé",
+        "pronounciation": "tʃɰɔ́ʔ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ange",
+                "definition_en": "angle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ́ʼfùɔ",
+        "pronounciation": "tʃɰɔ́ʔfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "valet du roi ; serviteur du roi",
+                "definition_en": "valet; king’s servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀ʼɔ cʉ́ŋ",
+        "pronounciation": "tʃɰɔ̀ʔɔ̏ tʃʉ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cÿɔ̀ʼɔ kùbe ncwò",
+        "pronounciation": "tʃɰɔ̀ʔɔ̏ kùβȅ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau",
+                "definition_en": "k. hat",
+                "examples": []
+            }
+        ]
+    }
+]

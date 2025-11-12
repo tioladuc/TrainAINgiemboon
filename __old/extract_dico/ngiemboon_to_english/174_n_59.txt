@@ -1,0 +1,461 @@
+[
+    {
+        "noun": "ńtaŋte",
+        "pronounciation": "ń̩tã̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’amincir",
+                "definition_en": "get thinner",
+                "examples": []
+            },
+            {
+                "definition_fr": "se dessécher",
+                "definition_en": "wither; dry out",
+                "examples": []
+            },
+            {
+                "definition_fr": "tendre",
+                "definition_en": "tender",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàsòŋ",
+        "pronounciation": "ǹ̩tȁsõ̏ŋ",
+        "synonym": [
+            "tètɔ̀ʼ tsɔɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grenouille (gén.)",
+                "definition_en": "frog (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtate",
+        "pronounciation": "ń̩tàtè",
+        "synonym": [
+            "ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se débrouiller ; déployer ; accélérer",
+                "definition_en": "manage; make do; deploy; accelerate",
+                "examples": [
+                    {
+                        "dialect": "Ńtate ndʉ̌.",
+                        "fr": "Accélérez la course.",
+                        "en": "Speed ​​up the run."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtáte",
+        "pronounciation": "ń̩táté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empêcher",
+                "definition_en": "prevent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntáʼ",
+        "pronounciation": "ǹ̩táʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelques choses longues et rondes",
+                "definition_en": "some long, round things",
+                "examples": [
+                    {
+                        "dialect": "Náa wɔ́ɔn ntáʼ kǔʼ.",
+                        "fr": "Donne-moi quelques tubercules de taros.",
+                        "en": "Give me some taro tubers."
+                    },
+                    {
+                        "dialect": "Ntáʼ kẅíŋ té ndá mèŋ wɔ́.",
+                        "fr": "Je n’ést pas quelques morceaux de bois chez moi.",
+                        "en": "I don't have a few pieces of wood in my house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntàʼ",
+        "pronounciation": "ǹ̩tȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourse",
+                "definition_en": "grant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtaʼ",
+        "pronounciation": "ń̩tàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouiller (dans l’intérieur)",
+                "definition_en": "search (inside); dig",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépouiller un sac",
+                "definition_en": "rob a sack",
+                "examples": []
+            },
+            {
+                "definition_fr": "creuser",
+                "definition_en": "dig",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáʼ",
+        "pronounciation": "ń̩táʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir la voix rauque ; s’enrouer",
+                "definition_en": "be hoarse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàʼa",
+        "pronounciation": "ǹ̩tàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouilleur (dans l’intérieur)",
+                "definition_en": "researcher (inside things); archaeologist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáʼte",
+        "pronounciation": "ń̩táʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gésir ; s’asseoir gaillardement",
+                "definition_en": "be lying; sit down cheerfully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nté",
+        "pronounciation": "ǹ̩té",
+        "synonym": [
+            "te"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ; sans (accord avec les classes 2, 3, 4, 5, 6, 7, 8 et 10)",
+                "definition_en": "not; without (agreement with classes 2, 3, 4, 5, 6, 7, 8, and 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntě",
+        "pronounciation": "ǹ̩tě",
+        "synonym": [
+            "těen ",
+            " tě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas ; ne ... jamais",
+                "definition_en": "not; never",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n tě ńjʉʉ wɔ́.",
+                        "fr": "Je ne vole jamais.",
+                        "en": "I never steal."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntèbe",
+        "pronounciation": "ǹ̩tə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étourderie ; chose embarrassante",
+                "definition_en": "thoughtlessness; embarrassing happening",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtebe",
+        "pronounciation": "ń̩tə̀βè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coincer ; embrouiller ; être embarrassé",
+                "definition_en": "jam; mix up; be embarrassed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntěen",
+        "pronounciation": "ǹ̩tẽ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas ; ne ... jamais",
+                "definition_en": "not; never",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n těen ḿpfɛ́ɛ mbab kúnɔ̀ɔn wɔ́.",
+                        "fr": "Je ne mange jamais la viande du porc.",
+                        "en": "I never eat pork."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtéen nkʉŋ",
+        "pronounciation": "ń̩tẽ́ː ŋ̩̀kɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discriminer",
+                "definition_en": "discriminate",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn aa těen ńnáa mmó né míŋ nyìŋ ndyɛ̀ʼɛ wɔ́.",
+                        "fr": "Cet enfant ne donne jamais quelques choses à l’enfant d’autrui.",
+                        "en": "This child never gives things to someone else's child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtege",
+        "pronounciation": "ń̩tə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "glisser",
+                "definition_en": "glide; slip",
+                "examples": []
+            },
+            {
+                "definition_fr": "lisser ; rendre lisse",
+                "definition_en": "smooth; make smooth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtége",
+        "pronounciation": "ń̩tə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étouffer une blessure",
+                "definition_en": "suffocate a wound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtége",
+        "pronounciation": "ń̩tə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lisser",
+                "definition_en": "smooth",
+                "examples": []
+            },
+            {
+                "definition_fr": "biner ; recouvrir",
+                "definition_en": "hoe; cover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntegé légè",
+        "pronounciation": "ǹ̩tə̀ʁé lə́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélange",
+                "definition_en": "mixture",
+                "examples": [
+                    {
+                        "dialect": "À la néŋe ntegé légè mekú pɔ̀ɔn, ńná né mèŋ.",
+                        "fr": "Il avait mis le mélange de haricot dans le sac pour me donner.",
+                        "en": "He had put the bean mixture in the bag to give to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtége metwo",
+        "pronounciation": "ń̩tə́ʁé mèʈθwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conclure",
+                "definition_en": "conclude",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtela",
+        "pronounciation": "ń̩tə̀là",
+        "synonym": [
+            "ńtela ",
+            " ńtra ",
+            " ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer",
+                "definition_en": "try",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtele",
+        "pronounciation": "ń̩tə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "surnager ; flotter",
+                "definition_en": "float",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntèm",
+        "pronounciation": "ǹ̩tə̏m",
+        "synonym": [
+            "ntème"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joueur",
+                "definition_en": "player",
+                "examples": []
+            },
+            {
+                "definition_fr": "tireur",
+                "definition_en": "gunman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntěm",
+        "pronounciation": "ǹ̩tə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cousu",
+                "definition_en": "sewn; stitched",
+                "examples": [
+                    {
+                        "dialect": "Anò gwɔ́ pɔ́ ngie nzsǒ yɔ̀ɔn gwɔ́ ye ntěm.",
+                        "fr": "Pourvu que mon habit soit cousu.",
+                        "en": "As long as my suit is sewn."
+                    }
+                ]
+            }
+        ]
+    }
+]

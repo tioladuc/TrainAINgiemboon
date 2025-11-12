@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "yam beetle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánzsèlʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, burnt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, end",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "júʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, hardened",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam seed, sweet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, sp. aerial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letúʼ métsẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepàŋ letúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, sp. West African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu féfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu kwéʼe tÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu sẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu ngwá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu zigé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yam, sp. yellow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zigé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tòonngàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Yangben language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa shÿó Mbafia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngálè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tetʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yawn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yaws",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀g mekẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "year",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yearly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "year, next",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ páʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yeast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yefen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉngʉ́ŋe kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yellow yam, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zigé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tòonngàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Yemba language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò Tsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yes ...",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éen héen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "óo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "oon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "woo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "oon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mmoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yes (honorary)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yes-men",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅíŋ zẅiŋ",
+                "examples": []
+            }
+        ]
+    }
+]

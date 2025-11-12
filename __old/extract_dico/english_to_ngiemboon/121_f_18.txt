@@ -1,0 +1,207 @@
+[
+    {
+        "noun": "furry caterpillar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánènẅèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mambǎ saŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánẅìnẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mámbàŋa tẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fusses over something, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánàŋa vèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fuss over",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége nnɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "futile thing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, anterior",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, distant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge táa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge tó tá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, immediate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, today",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "piŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge piŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, tomorrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge gÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "future, very distant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            }
+        ]
+    }
+]

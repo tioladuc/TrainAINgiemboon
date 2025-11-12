@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "jʉ́jʉ́ŋ",
+        "pronounciation": "ʒɯ́ʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dessin ; image",
+                "definition_en": "drawing; image",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ̀jÿó",
+        "pronounciation": "ʒɯ̏ʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "groseille sauvage du cap",
+                "definition_en": "Cape gooseberry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ̀jÿó méshʉŋ",
+        "pronounciation": "ʒɯ̏ʒʃɰó méʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ̀jÿó ndÿɔgɔ́",
+        "pronounciation": "ʒɯ̏ʒʃɰó ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. groseille",
+                "definition_en": "slender wild cape gooseberry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ́jÿó pwɔʼ",
+        "pronounciation": "ʒɯ́ʒʃɰó pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (jaune et de petite taille)",
+                "definition_en": "sp. ant (yellow and small)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉ̂ŋ",
+        "pronounciation": "ʒɯ̃̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tôle",
+                "definition_en": "sheet metal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉŋe",
+        "pronounciation": "ʒɯ̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bonnes odeurs",
+                "definition_en": "good smells",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉŋé",
+        "pronounciation": "ʒɯ̃̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grenadin",
+                "definition_en": "sp. waxbill finch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉŋé ntʉ̀",
+        "pronounciation": "ʒɯ̃̀ŋé ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cordonbleu à joues rouges",
+                "definition_en": "red-cheeked cordon-bleu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉŋé pʉ̀pÿɛ̂",
+        "pronounciation": "ʒɯ̃̀ŋé pɯ̏pɰɛ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "astrild nonnette",
+                "definition_en": "black-crowned waxbill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼ",
+        "pronounciation": "ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "place ; lieu ; endroit",
+                "definition_en": "seat; place",
+                "examples": []
+            },
+            {
+                "definition_fr": "atmosphère ; temps",
+                "definition_en": "weather; time; atmosphere",
+                "examples": [
+                    {
+                        "dialect": "Áa ncwò nzem, ejʉʼ zye lésíŋ.",
+                        "fr": "Le soir, le temps commence à être noir.",
+                        "en": "In the evening, the weather begins to get dark."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jʉ́ʼ kʉŋ",
+        "pronounciation": "ʒɯ́ʔ kʉ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigile",
+                "definition_en": "vigil",
+                "examples": [
+                    {
+                        "dialect": "Pi nyìŋ lɔɔn ńge ńtÿɔ́g ntsem, pi yé fó tsetsɛ̀ɛ pajʉ́ʼ kʉŋ ńkẅɛ.",
+                        "fr": "Si tu veux parler en aparté avec quelqu’un, retirez-vous des vigiles.",
+                        "en": "If you want to talk to someone separately, remove yourself from the security guards."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼɛ",
+        "pronounciation": "ʒɯ̀ʔɛ̀",
+        "synonym": [
+            "jʉʼʉ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.l",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "là",
+                "definition_en": "there",
+                "examples": [
+                    {
+                        "dialect": "Kaa ńzába jʉʼɛ gie ɔ̀ tyé wó lɛ̀.",
+                        "fr": "Porte pour mettre là où tu es placé.",
+                        "en": "Door to put where you are placed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼɔɔn",
+        "pronounciation": "ʒɯ̀ʔɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.l",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ici",
+                "definition_en": "here",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge pí ńnuŋe jʉʼɔɔn.",
+                        "fr": "Je prendrai pour mettre ici.",
+                        "en": "I will take to put here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼʉ",
+        "pronounciation": "ʒɯ̀ʔɯ̀",
+        "synonym": [
+            "jʉʼɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.l",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "là",
+                "definition_en": "there",
+                "examples": [
+                    {
+                        "dialect": "Kaa ńzába jʉʼʉ gie ɔ̀ tyé wó lɛ̀.",
+                        "fr": "Porte pour mettre là où tu es placé.",
+                        "en": "Door to put where you are placed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼʉ kwɔ́ʼ",
+        "pronounciation": "ʒɯ̀ʔɯ̀ kwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dysenterie",
+                "definition_en": "dysentery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jʉʼʉ sẅisẅé",
+        "pronounciation": "ʒɯ̀ʔɯ̀ sɥìsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ombre",
+                "definition_en": "shade",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jwàʼ",
+        "pronounciation": "ʒwȁʔ",
+        "synonym": [
+            "zwàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un fagot de bambou tombé au sol",
+                "definition_en": "sound of a bundle of bamboo falling on the ground",
+                "examples": [
+                    {
+                        "dialect": "À mǎʼ mbwɔ̀ʼ ndʉŋ, é gwe lê jwàʼ.",
+                        "fr": "Il a jeté le fagot de bambou et c’est tombé que « jwàʼ ».",
+                        "en": "He threw the bundle of bamboo and it fell “jwàʼ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jwóŋ",
+        "pronounciation": "ʒwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jwóŋ",
+        "pronounciation": "ʒwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresse",
+                "definition_en": "laziness",
+                "examples": [
+                    {
+                        "dialect": "Jwóŋ pǔ ńgÿo fàʼ yɔ́ɔn té mag.",
+                        "fr": "La paresse a fait à ce que mon travail n’est pas fini.",
+                        "en": "Laziness has meant that my work is not finished."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jwòŋmbì",
+        "pronounciation": "ʒwõ̏ŋmbȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfant mal formé",
+                "definition_en": "disfigured child",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jwòŋo",
+        "pronounciation": "ʒwõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "allonge ; rallonge",
+                "definition_en": "long reach; extension cord",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jyâjyâ",
+        "pronounciation": "ʒjâʒjâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "légèreté",
+                "definition_en": "lightness",
+                "examples": []
+            },
+            {
+                "definition_fr": "non sens",
+                "definition_en": "nonsense",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿâ",
+        "pronounciation": "ʒɰâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un courant d’air",
+                "definition_en": "sound of air moving",
+                "examples": [
+                    {
+                        "dialect": "Fefa cʉ̌a lê jӱâ.",
+                        "fr": "Le vent est passé que « jӱâ ».",
+                        "en": "The wind passed that “jӱâ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jÿó",
+        "pronounciation": "ʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mets ; repas ; nourriture",
+                "definition_en": "dish; meal; food",
+                "examples": [
+                    {
+                        "dialect": "Melùʼ ée ssé tá jÿó té wó wɔ́.",
+                        "fr": "Il y a la boisson mais pas de nourriture.",
+                        "en": "There is drink but no food."
+                    }
+                ]
+            }
+        ]
+    }
+]

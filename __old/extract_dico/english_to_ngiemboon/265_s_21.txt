@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "slip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slipper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cúa páb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slips into, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slit-gong, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slit-gong, k. vertical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼ kànɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼ metútú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slit-gong, k. very large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelemé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slogan, honorific",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "alálàlǔŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkenkʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mecʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉnkʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sloth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ lesoŋ ńkɔ nnáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slowly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔɔn ndɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyébe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slowly do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slowly, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slowly move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slug",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ téngwǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ʼte ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slump onto a large surface",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋ menÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋe menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kékɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mé-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sekʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "small, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smallness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ményaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "small, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ méntsẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smarting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́g tùŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "smell bad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdem",
+                "examples": []
+            }
+        ]
+    }
+]

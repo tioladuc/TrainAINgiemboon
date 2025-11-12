@@ -1,0 +1,405 @@
+[
+    {
+        "noun": "nkùu",
+        "pronounciation": "ŋ̩̀kȕː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrant",
+                "definition_en": "incomer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkuu tàŋa",
+        "pronounciation": "ŋ̩̀kùː tã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrait",
+                "definition_en": "tie-beam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkuzsò",
+        "pronounciation": "ŋ̩̀kùzsȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "African magi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkuʼ",
+        "pronounciation": "ŋ̩́kùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suffire",
+                "definition_en": "suffice",
+                "examples": []
+            },
+            {
+                "definition_fr": "accomplir",
+                "definition_en": "accomplish",
+                "examples": []
+            },
+            {
+                "definition_fr": "être modeste ; être suffisant",
+                "definition_en": "be modest; be sufficient",
+                "examples": [
+                    {
+                        "dialect": "À kwɛ̌ ndá,  é kuʼkuʼ.",
+                        "fr": "Il a construit une maison suffisante.",
+                        "en": "He built a sufficient house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkùʼte",
+        "pronounciation": "ŋ̩̀kùʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conservateur ; détenteur",
+                "definition_en": "curator; librarian; holder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkúʼte",
+        "pronounciation": "ŋ̩́kúʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenir",
+                "definition_en": "hold",
+                "examples": []
+            },
+            {
+                "definition_fr": "conserver",
+                "definition_en": "keep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀",
+        "pronounciation": "ŋ̩̀kɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "message ; nouvelle ; information",
+                "definition_en": "message; news; information",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ",
+        "pronounciation": "ŋ̩́kɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charger en désordre (sac)",
+                "definition_en": "load untidily (sack)",
+                "examples": []
+            },
+            {
+                "definition_fr": "bricoler",
+                "definition_en": "tinker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀a",
+        "pronounciation": "ŋ̩̀kɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "créancier",
+                "definition_en": "creditor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀a",
+        "pronounciation": "ŋ̩̀kɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nid",
+                "definition_en": "nest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̌a",
+        "pronounciation": "ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guenon ; singe (gén.)",
+                "definition_en": "green monkey (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̌a",
+        "pronounciation": "ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raphia",
+                "definition_en": "raffia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉa",
+        "pronounciation": "ŋ̩́kɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jurer",
+                "definition_en": "swear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉa",
+        "pronounciation": "ŋ̩́kɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tracer",
+                "definition_en": "draw; trace",
+                "examples": []
+            },
+            {
+                "definition_fr": "tracer plusieurs traits ; griffonner",
+                "definition_en": "draw several lines; scribble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́a",
+        "pronounciation": "ŋ̩́kɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réclamer",
+                "definition_en": "claim; reclaim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́a",
+        "pronounciation": "ŋ̩́kɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se fatiguer",
+                "definition_en": "tire out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀a gégaŋá",
+        "pronounciation": "ŋ̩̀kɯ̀ȁ ɣéɣã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toile d’araignée",
+                "definition_en": "spider web",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀a gúm",
+        "pronounciation": "ŋ̩̀kɯ̀ȁ ɣúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "association terroriste",
+                "definition_en": "terrorist organization",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀a lezyé",
+        "pronounciation": "ŋ̩̀kɯ̀ȁ lèzsjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "utérus",
+                "definition_en": "womb; uterus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀alemvwɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀kɯ̀ȁlembvwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉb",
+        "pronounciation": "ŋ̩́kɯ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "creuser avec force",
+                "definition_en": "dig forcefully",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́b",
+        "pronounciation": "ŋ̩́kɯ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décortiquer",
+                "definition_en": "shell; hull",
+                "examples": []
+            },
+            {
+                "definition_fr": "décortiquer quelques gousses (arachide)",
+                "definition_en": "shell a few pods (peanut)",
+                "examples": []
+            },
+            {
+                "definition_fr": "cogner",
+                "definition_en": "knock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́e",
+        "pronounciation": "ŋ̩́kɯ́é",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "repousser",
+                "definition_en": "repel",
+                "examples": []
+            },
+            {
+                "definition_fr": "persécuter",
+                "definition_en": "persecute",
+                "examples": []
+            },
+            {
+                "definition_fr": "délaisser",
+                "definition_en": "abandon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́mte",
+        "pronounciation": "ŋ̩́kɯ́mté",
+        "synonym": [
+            "ńkémte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rétrécir",
+                "definition_en": "take in",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́mte",
+        "pronounciation": "ŋ̩́kɯ́mté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenir dans les bras",
+                "definition_en": "hold in one’s arms",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,473 @@
+[
+    {
+        "noun": "ńtág",
+        "pronounciation": "ń̩táq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "provoquer ; attaquer",
+                "definition_en": "provoke; cause; attack",
+                "examples": []
+            },
+            {
+                "definition_fr": "lutter",
+                "definition_en": "to struggle against",
+                "examples": []
+            },
+            {
+                "definition_fr": "revendiquer ; venger ; intervenir ; défendre",
+                "definition_en": "claim; avenge; to intervene ; defend",
+                "examples": []
+            },
+            {
+                "definition_fr": "déranger",
+                "definition_en": "to disturb",
+                "examples": []
+            },
+            {
+                "definition_fr": "provoquer",
+                "definition_en": "to provoke",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàg melàʼ",
+        "pronounciation": "ǹ̩tȁq̚ mèlȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutteur",
+                "definition_en": "wrestler; fighter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàg nzèm",
+        "pronounciation": "ǹ̩tȁq̚ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défenseur",
+                "definition_en": "defender",
+                "examples": [
+                    {
+                        "dialect": "Antàg nzèm wɔɔn wɔɔn.",
+                        "fr": "Voici mon défenseur.",
+                        "en": "This is my defender."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "avocat défenseur",
+                "definition_en": "defence lawyer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàga",
+        "pronounciation": "ǹ̩tàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destructeur",
+                "definition_en": "destructive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàga kwò",
+        "pronounciation": "ǹ̩tàʁȁ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jambe",
+                "definition_en": "leg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàgte",
+        "pronounciation": "ǹ̩tàqtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destructeur",
+                "definition_en": "destructive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtala",
+        "pronounciation": "ń̩tàlà",
+        "synonym": [
+            "ńtela ",
+            " ńtra ",
+            " ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer",
+                "definition_en": "try",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntànkwàga",
+        "pronounciation": "ǹ̩tȁŋkwàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hyponomeute",
+                "definition_en": "hyponomeute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntantú",
+        "pronounciation": "ǹ̩tàɳʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "horrible ; compliqué ; terrible",
+                "definition_en": "horrible; complicated; terrible; awful",
+                "examples": [
+                    {
+                        "dialect": "Ambàŋa wɔɔn aa ntantú; à nuŋe menɔ̀ɔn.",
+                        "fr": "Cet homme est horrible; il couche avec les animaux.",
+                        "en": "This man is horrible; he sleeps with animals."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntaŋ",
+        "pronounciation": "ǹ̩tã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corne traversière",
+                "definition_en": "transverse cow-horn, played for funerals",
+                "examples": []
+            },
+            {
+                "definition_fr": "haut-parleur",
+                "definition_en": "loud speaker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntaŋ",
+        "pronounciation": "ǹ̩tã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magasin",
+                "definition_en": "shop; store",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ",
+        "pronounciation": "ǹ̩tã̀ŋ",
+        "synonym": [
+            "ntàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défenseur",
+                "definition_en": "defender",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ",
+        "pronounciation": "ǹ̩tã̀ŋ",
+        "synonym": [
+            "ntàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trahison",
+                "definition_en": "betrayal; treason",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáŋ",
+        "pronounciation": "ń̩tã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourner ; gérer",
+                "definition_en": "manage; turn",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn zsě létáŋ nkáb.",
+                        "fr": "Cet enfant connaît tourner de l’argent.",
+                        "en": "This child knows how to spin money."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "marchander",
+                "definition_en": "haggle over",
+                "examples": []
+            },
+            {
+                "definition_fr": "mentir",
+                "definition_en": "lie",
+                "examples": []
+            },
+            {
+                "definition_fr": "calomnier",
+                "definition_en": "slander",
+                "examples": []
+            },
+            {
+                "definition_fr": "aligner",
+                "definition_en": "align",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ mbab",
+        "pronounciation": "ǹ̩tã̏ŋ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boucher (vendeur de viande)",
+                "definition_en": "butcher (meat-seller)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ melɔ̀ɔn",
+        "pronounciation": "ǹ̩tã̏ŋ mèlɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menteur",
+                "definition_en": "liar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ metʉ̌a",
+        "pronounciation": "ǹ̩tã̏ŋ mèʈɯ̀á",
+        "synonym": [
+            "ntàŋ sɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commerçant ; marchand",
+                "definition_en": "shopkeeper; tradesman; merchant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋ sɔ̌ɔn",
+        "pronounciation": "ǹ̩tã̏ŋ sɔ̃̌ː",
+        "synonym": [
+            "ntàŋ metʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commerçant ; marchand",
+                "definition_en": "shopkeeper; tradesman; merchant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋa",
+        "pronounciation": "ǹ̩tã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendeur",
+                "definition_en": "seller; salesman",
+                "examples": []
+            },
+            {
+                "definition_fr": "comploteur",
+                "definition_en": "conspirator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋa",
+        "pronounciation": "ǹ̩tã̀ŋà",
+        "synonym": [
+            "ntàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défenseur",
+                "definition_en": "defender",
+                "examples": [
+                    {
+                        "dialect": "Ntaŋa wɔ̀ɔn a wɔɔn.",
+                        "fr": "Voici mon défenseur.",
+                        "en": "This is my defender."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋa",
+        "pronounciation": "ǹ̩tã̀ŋà",
+        "synonym": [
+            "ntàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trahison",
+                "definition_en": "betrayal; treason",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáŋa",
+        "pronounciation": "ń̩tã́ŋá",
+        "synonym": [
+            "ńtúŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comploter",
+                "definition_en": "plot",
+                "examples": []
+            },
+            {
+                "definition_fr": "arranger ; ordonner",
+                "definition_en": "arrange; order",
+                "examples": []
+            },
+            {
+                "definition_fr": "organiser",
+                "definition_en": "organize",
+                "examples": []
+            },
+            {
+                "definition_fr": "ranger",
+                "definition_en": "put away",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋshʉ̀ŋ",
+        "pronounciation": "ǹ̩tã̏ŋʃɯ̃̏ŋ",
+        "synonym": [
+            "ntàŋsìŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋsìŋ",
+        "pronounciation": "ǹ̩tã̏ŋsĩ̏ŋ",
+        "synonym": [
+            "ntàŋshʉ̀ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàŋte",
+        "pronounciation": "ǹ̩tã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ordonnateur ; coordonnateur",
+                "definition_en": "organizer; coordinator",
+                "examples": []
+            }
+        ]
+    }
+]

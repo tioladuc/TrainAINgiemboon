@@ -1,0 +1,447 @@
+[
+    {
+        "noun": "dazzle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deacon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè mvfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dead, risen from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deafen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deaf person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbǔʼ metuŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Deam’s clearweed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gáʼa mevɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̀ nzẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "moŋo nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dearer, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgéʼe nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dearest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tângɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dear, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̀nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "death",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "death, cause",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "debase",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "debater",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "debit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "debt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "debtor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ njǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fùu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "decant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceased, father",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tá mpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceased, mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má mpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceased, ritual for the mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceitful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋ menÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋe menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbabte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deceiver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa fʉ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ pàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa pàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "December",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ lùm",
+                "examples": []
+            }
+        ]
+    }
+]

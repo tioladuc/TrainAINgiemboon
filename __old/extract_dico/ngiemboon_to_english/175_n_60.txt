@@ -1,0 +1,507 @@
+[
+    {
+        "noun": "ńtem",
+        "pronounciation": "ń̩tə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réunir ; mélanger",
+                "definition_en": "gather together; mix",
+                "examples": []
+            },
+            {
+                "definition_fr": "réunir",
+                "definition_en": "bring together",
+                "examples": []
+            },
+            {
+                "definition_fr": "réunir ; associer ; mettre dans un même endroit",
+                "definition_en": "bring together; associate; put in one place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtém",
+        "pronounciation": "ń̩tə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coudre",
+                "definition_en": "sew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtém",
+        "pronounciation": "ń̩tə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdre de valeur",
+                "definition_en": "lose value",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtém",
+        "pronounciation": "ń̩tə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tirer",
+                "definition_en": "pull",
+                "examples": []
+            },
+            {
+                "definition_fr": "jouer",
+                "definition_en": "play",
+                "examples": []
+            },
+            {
+                "definition_fr": "se tourner ; avoir confiance",
+                "definition_en": "turn; have confidence",
+                "examples": []
+            },
+            {
+                "definition_fr": "lapider ; massacrer",
+                "definition_en": "stone; massacre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntèm menɔ̀ɔn",
+        "pronounciation": "ǹ̩tə̏m mènɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chasseur",
+                "definition_en": "hunter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntèm menzsǒ",
+        "pronounciation": "ǹ̩tə̏m mèndzsǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couturier",
+                "definition_en": "fashion designer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntème",
+        "pronounciation": "ǹ̩tə̀mȅ",
+        "synonym": [
+            "ntèm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joueur",
+                "definition_en": "player",
+                "examples": []
+            },
+            {
+                "definition_fr": "tireur",
+                "definition_en": "gunman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntèntàŋ",
+        "pronounciation": "ǹ̩tȅntã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntèntàŋ shʉ̀ŋ",
+        "pronounciation": "ǹ̩tȅntã̏ŋ ʃɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buisson de Noël",
+                "definition_en": "Christmas bush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtentʉ́",
+        "pronounciation": "ń̩tèɳʈɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être saint ; être vivant ; être en bonne santé",
+                "definition_en": "be saintly; be alive; be healthy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńteŋ",
+        "pronounciation": "ń̩tə̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citer ; honorer quelqu’un en chantant",
+                "definition_en": "quote; cite; honour someone with a song",
+                "examples": [
+                    {
+                        "dialect": "A zɔ̌b tà ńteŋe wɔ́ɔn.",
+                        "fr": "Il a chanté jusqu’à m’honoré.",
+                        "en": "He sang until he honored me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "utiliser des appellations honorifiques",
+                "definition_en": "use honorary appellations",
+                "examples": []
+            },
+            {
+                "definition_fr": "penser",
+                "definition_en": "think",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńne ńgaba mbab, ɔ̀ teŋ gubé.",
+                        "fr": "Au moment de partager la viande, il faut penser aux enfants.",
+                        "en": "When sharing meat, you have to think about the children."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "louer de temps en temps ; honorer dans un chant de temps en temps",
+                "definition_en": "rent from time to time; honor in a song from time to time",
+                "examples": []
+            },
+            {
+                "definition_fr": "utiliser des appellations honorifiques",
+                "definition_en": "use honorifics",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńteŋe",
+        "pronounciation": "ń̩tə̃̀ŋè",
+        "synonym": [
+            "ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "manage; make do",
+                "examples": []
+            },
+            {
+                "definition_fr": "travailler ardument",
+                "definition_en": "work hard",
+                "examples": [
+                    {
+                        "dialect": "À teŋte na fàʼ tɛʼ.",
+                        "fr": "Il travaille ardument (au travail).",
+                        "en": "He works hard (at work)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńteŋe",
+        "pronounciation": "ń̩tə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peiner",
+                "definition_en": "pain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtéŋe",
+        "pronounciation": "ń̩tə̃́ŋé",
+        "synonym": [
+            "ńtʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pencher ; incliner",
+                "definition_en": "tilt; lean; incline",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtéŋte",
+        "pronounciation": "ń̩tə̃́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tituber ; zigzaguer ; être tordu",
+                "definition_en": "stagger; reel; zigzag; be twisted",
+                "examples": []
+            },
+            {
+                "definition_fr": "déformer ; sinuer",
+                "definition_en": "deform; twist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtéʼe",
+        "pronounciation": "ń̩tə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pointer ; tendre",
+                "definition_en": "tick off; aim at",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntí",
+        "pronounciation": "ǹ̩tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manière ; couleur",
+                "definition_en": "way; manner; colour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntí",
+        "pronounciation": "ǹ̩tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qualité",
+                "definition_en": "quality",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtí",
+        "pronounciation": "ń̩tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "á cause de",
+                "definition_en": "because of",
+                "examples": [
+                    {
+                        "dialect": "Aa jʉʼɔɔn fʉ̀ʼɔɔn páʼɔɔn ńtí míŋ we gẅie à pyě.",
+                        "fr": "Il est encore ici comme ça à cause de son fils qui s’est égaré.",
+                        "en": "He is still here like this because of his son who went astray."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtí kɔ́",
+        "pronounciation": "ń̩tí kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourquoi",
+                "definition_en": "why",
+                "examples": [
+                    {
+                        "dialect": "Ńtí kɔ́ ɔ̀ gɔɔn né mèŋ ngie n tè pfɛ́ɛ mekú wɔ́.",
+                        "fr": "Pourquoi me dis-tu que je ne dois pas manger le haricot.",
+                        "en": "Why are you telling me I shouldn't eat the bean."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtí nue",
+        "pronounciation": "ń̩tí ɳùè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parce que ; puisque",
+                "definition_en": "because; since",
+                "examples": [
+                    {
+                        "dialect": "À zoŋte wɔ́ɔn ńtí nue n cǔa yé.",
+                        "fr": "Il m’insulte parce que je l’ai tapé.",
+                        "en": "He insults me because I hit him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtí páʼ",
+        "pronounciation": "ń̩tí páʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parce que",
+                "definition_en": "because",
+                "examples": [
+                    {
+                        "dialect": "Peg ge gʉa ńtí páʼ mbʉ̀ŋ ne ńkwɔ́ʼɔ.",
+                        "fr": "Nous allons partir parce qu’il menace de pleuvoir.",
+                        "en": "We are going to leave because it threatens to rain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtíɛ",
+        "pronounciation": "ń̩tíɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever",
+                "definition_en": "remove",
+                "examples": []
+            },
+            {
+                "definition_fr": "essuyer",
+                "definition_en": "dry",
+                "examples": []
+            },
+            {
+                "definition_fr": "discerner ; discriminer",
+                "definition_en": "discern; discriminate",
+                "examples": []
+            },
+            {
+                "definition_fr": "avorter",
+                "definition_en": "abort",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramasser les selles",
+                "definition_en": "pick up stools",
+                "examples": []
+            },
+            {
+                "definition_fr": "forcer ; s’efforcer",
+                "definition_en": "to force; strive",
+                "examples": []
+            },
+            {
+                "definition_fr": "écarquiller",
+                "definition_en": "widen",
+                "examples": []
+            },
+            {
+                "definition_fr": "retirer çà et là",
+                "definition_en": "remove here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtíle",
+        "pronounciation": "ń̩tílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esquiver",
+                "definition_en": "dodge",
+                "examples": []
+            },
+            {
+                "definition_fr": "traverser sans piétiner",
+                "definition_en": "cross without trampling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntìntyɛ̀ʼ",
+        "pronounciation": "ǹ̩tȉntjɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pantalon",
+                "definition_en": "trousers",
+                "examples": []
+            }
+        ]
+    }
+]

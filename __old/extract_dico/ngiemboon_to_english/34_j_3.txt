@@ -1,0 +1,167 @@
+[
+    {
+        "noun": "jÿònjÿɔg ncwò",
+        "pronounciation": "ʒʃɰȍndʒɥɔ̀q ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ingrat",
+                "definition_en": "ungrateful person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿòŋ",
+        "pronounciation": "ʒɰõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drogue (jargon des drogués)",
+                "definition_en": "drug (drug user slang)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńgẅiin méjʉʼʉ jÿòŋ jʉʼɛ, ɔ̀ náa wɔ́ɔn, n dɔg ńkwɛ́ nnɛ́.",
+                        "fr": "Si tu as un peu de drogue là-bas, tu me donnes pour que je me fortifie.",
+                        "en": "If you have some drugs there, give it to me so I can get stronger."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̀g",
+        "pronounciation": "ʒɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros billon",
+                "definition_en": "short-log",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̂g",
+        "pronounciation": "ʒɰɔ̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dame-jeanne",
+                "definition_en": "demi-john; jug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̀gɔ",
+        "pronounciation": "ʒɰɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balai",
+                "definition_en": "broom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ́ʼ",
+        "pronounciation": "ʒɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patrimoine",
+                "definition_en": "inheritance; heritage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ́ʼ",
+        "pronounciation": "ʒɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "louage",
+                "definition_en": "rental",
+                "examples": []
+            },
+            {
+                "definition_fr": "laissé en location",
+                "definition_en": "to rent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̀ʼ (mi)",
+        "pronounciation": "ʒɰɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« vampire » (en français locale) ; femme enceinte dont on dit qu’elle mange son fœtus par des voies spirituelles",
+                "definition_en": "\"vampire\" (in local English); pregnant woman who makes her unborn child disappear by spiritual means",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ́ʼɔ",
+        "pronounciation": "ʒɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "placard",
+                "definition_en": "cupboard; poster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̀ʼɔ",
+        "pronounciation": "ʒɰɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrure ; cadenas ; fermeture",
+                "definition_en": "lock; padlock; fastener",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "jÿɔ̀ʼɔ ndá",
+        "pronounciation": "ʒɰɔ̀ʔɔ̏ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermeture",
+                "definition_en": "closing; fastener",
+                "examples": []
+            }
+        ]
+    }
+]

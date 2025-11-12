@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "presiding judge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàʼ ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pressed, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "press in places",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pressure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretend not to see",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretend to be sad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿágte shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɔ́gte shÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretend to threaten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretext",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndilétáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretext, look for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretty, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿboŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pretty, not be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prevent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkíle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prevent from flowing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "price",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "priceless thing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "moŋo nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prickling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́g tùŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prickly solanum",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿónè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prick out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pride",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tìʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "maŋáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fómtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prideful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "maŋáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "priest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fálà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "priest, head",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tándá panùŋe pwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "priests, purifying",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "púɔláʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Prime Minister",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋwámbʉ̀a twó mbúm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwáláʼ twó mbúm",
+                "examples": []
+            }
+        ]
+    }
+]

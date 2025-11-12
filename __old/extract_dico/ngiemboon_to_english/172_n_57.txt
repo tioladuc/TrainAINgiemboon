@@ -1,0 +1,446 @@
+[
+    {
+        "noun": "nɔ̀ɔn lepáʼ",
+        "pronounciation": "nɔ̃̏ː lèpáʔ",
+        "synonym": [
+            "nnú lepáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pangolin commun",
+                "definition_en": "tree pangolin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn nnɛ́",
+        "pronounciation": "nɔ̃̏ː ǹ̩nɛ́",
+        "synonym": [
+            "nɔ̀ɔn lekʉʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buffle",
+                "definition_en": "buffalo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn nŋʉ́",
+        "pronounciation": "nɔ̃̏ː ŋ̩̀ŋɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hyène rayée",
+                "definition_en": "striped hyena",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn ssé",
+        "pronounciation": "nɔ̃̏ː sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn tàʼ ndóŋ",
+        "pronounciation": "nɔ̃̏ː tȁʔ ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rhinocéros (esp. pas trouvé dans la région)",
+                "definition_en": "rhinoceros (sp. not found in the region)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn tekẅǐ",
+        "pronounciation": "nɔ̃̏ː tèkɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "invertébré",
+                "definition_en": "invertebrate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn temaʼ",
+        "pronounciation": "nɔ̃̏ː tèmàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "inattaquable (appellation affective aux rois)",
+                "definition_en": "irrefutable; unassailable (affectionate address for kings)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ɔn tsèbe",
+        "pronounciation": "nɔ̃̏ː tsə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terre cultivée après jachère",
+                "definition_en": "cultivated ground after lying fallow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔʼ",
+        "pronounciation": "nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paisiblement",
+                "definition_en": "peacefully",
+                "examples": [
+                    {
+                        "dialect": "À giŋe lê nɔʼ.",
+                        "fr": "Il marche paisiblement.",
+                        "en": "He walks peacefully."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nɔʼ",
+        "pronounciation": "nɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chefferie",
+                "definition_en": "chief’s palace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ʼ",
+        "pronounciation": "nɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dominance ; domination ; brimade",
+                "definition_en": "dominance; domination; bullying",
+                "examples": [
+                    {
+                        "dialect": "Nyé mmó múɔ wɛ̂. Anɔ̀ʼ té poŋ.",
+                        "fr": "Laisse la chose de l’enfant-là. La brimade n’est pas bien.",
+                        "en": "Leave the child thing there. Bullying is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ʼ",
+        "pronounciation": "nɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blâme",
+                "definition_en": "blame",
+                "examples": [
+                    {
+                        "dialect": "Anɔ̀ʼ té poŋ.",
+                        "fr": "Le blâme n’est pas bien.",
+                        "en": "Blame is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nɔ̀ʼ",
+        "pronounciation": "nɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "volume élevé du macabo",
+                "definition_en": "large volume of taro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntá",
+        "pronounciation": "ǹ̩tá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trois (seulement pour compter)",
+                "definition_en": "three (only for counting)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntà",
+        "pronounciation": "ǹ̩tȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "capital ; fonds",
+                "definition_en": "capital; financing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntà",
+        "pronounciation": "ǹ̩tȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fleur de taro",
+                "definition_en": "macabo flower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńta",
+        "pronounciation": "ń̩tà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étaler",
+                "definition_en": "display",
+                "examples": []
+            },
+            {
+                "definition_fr": "étaler",
+                "definition_en": "spread",
+                "examples": [
+                    {
+                        "dialect": "Ḿbáʼ mepɔ̀ɔn ńtate.",
+                        "fr": "Tisser les sacs en étalant.",
+                        "en": "Weave the bags while spreading."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntà nkěm",
+        "pronounciation": "ǹ̩tȁ ŋ̩̀kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de construction de la case",
+                "definition_en": "k. construction implement for a hut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntàb",
+        "pronounciation": "ǹ̩tȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hangar ; tente ; case",
+                "definition_en": "shed; hangar; tent; hut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáb",
+        "pronounciation": "ń̩táp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrer dans la boue",
+                "definition_en": "enter into mud",
+                "examples": []
+            },
+            {
+                "definition_fr": "gaspiller la sauce",
+                "definition_en": "waste sauce",
+                "examples": []
+            },
+            {
+                "definition_fr": "troubler (eau, liquide)",
+                "definition_en": "make cloudy (water, liquid)",
+                "examples": []
+            },
+            {
+                "definition_fr": "melanger (liquide)",
+                "definition_en": "mix (liquid)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtáb",
+        "pronounciation": "ń̩táp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "régénérer ; bourgeonner",
+                "definition_en": "regenerate; bud",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtabte",
+        "pronounciation": "ń̩tàptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer de parler ; se débrouiller",
+                "definition_en": "try to speak; manage; make do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntaffó",
+        "pronounciation": "ǹ̩tàfːó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. petit champignon",
+                "definition_en": "sp. small mushroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtag",
+        "pronounciation": "ń̩tàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gémir",
+                "definition_en": "moan",
+                "examples": []
+            },
+            {
+                "definition_fr": "gigoter",
+                "definition_en": "wriggle",
+                "examples": []
+            },
+            {
+                "definition_fr": "rater",
+                "definition_en": "miss",
+                "examples": [
+                    {
+                        "dialect": "A taga té gwɔ́ ndʉ̀m, mbà aa ntsǒŋ.",
+                        "fr": "S’il rate d’être vampire, il sera bandit.",
+                        "en": "If he fails to be a vampire, he will be a bandit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtág",
+        "pronounciation": "ń̩táq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détruire",
+                "definition_en": "destroy",
+                "examples": []
+            },
+            {
+                "definition_fr": "jeter le trouble",
+                "definition_en": "cause trouble",
+                "examples": []
+            },
+            {
+                "definition_fr": "chasser",
+                "definition_en": "chase",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’écouler ; éparpiller",
+                "definition_en": "flow; scatter",
+                "examples": []
+            },
+            {
+                "definition_fr": "se détruire (fœtus)",
+                "definition_en": "destroy oneself (fetus)",
+                "examples": []
+            },
+            {
+                "definition_fr": "déranger ; détruire",
+                "definition_en": "to disturb ; destroy",
+                "examples": []
+            },
+            {
+                "definition_fr": "provoquer",
+                "definition_en": "to provoke",
+                "examples": []
+            }
+        ]
+    }
+]

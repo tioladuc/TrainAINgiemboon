@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "vice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅɛ́tè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vice-versa",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm ntsèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "victim, accident",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "viewfinder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "view of that, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔɔn ńgwaa gwɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vigil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́ʼ kʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vigilance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔgɔ́lɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vigour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ndʉ̀ nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "village",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "village, developed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàʼ pa láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "village neighbourhood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "villager",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyìŋe láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vine, rubber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndálè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vine, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njwò kwɔb legǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mânkoŋ kéloŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mângoŋ kéloŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vineyard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "visit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "visitor to sick people",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "visit someone sick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vitamin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "vitex, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvfě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvfǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "voice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "voice, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "voice, raise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "volcanic rock, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njúngù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "volleyball",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkentsyɛ̀ʼ mbwó",
+                "examples": []
+            }
+        ]
+    }
+]

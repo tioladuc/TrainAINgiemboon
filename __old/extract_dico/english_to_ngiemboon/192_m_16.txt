@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "moustache",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melÿò tsẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwága ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉmé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, big",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìg mɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, come out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, distort",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔb ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, finger coming out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅǐd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, gaping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwògʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, open",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouthpiece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwága ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉmé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, roof",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mouth, screw up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋele",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move a great bulk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move along a flat path",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move discreetly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "movement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "váʼ voŋó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "movement, intermittent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move one’s neck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mover",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mover and shaker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùte melàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mover, prime",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ pím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "move without waiting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíbe nyibe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mrs.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̌ɔnmé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Ms",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ manzwě",
+                "examples": []
+            }
+        ]
+    }
+]

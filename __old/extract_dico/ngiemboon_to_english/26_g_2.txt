@@ -1,0 +1,481 @@
+[
+    {
+        "noun": "gèbe ncwògʉ̀",
+        "pronounciation": "ɣə̀βȅ ǹ̩tʃːwȍɣɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semi-voyelle",
+                "definition_en": "semivowel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gegàŋ",
+        "pronounciation": "ɣèɣã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gombo",
+                "definition_en": "okra",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gégaŋá",
+        "pronounciation": "ɣéɣã̀ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "araignée (gén.)",
+                "definition_en": "spider (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gegàŋa nkèsàŋ",
+        "pronounciation": "ɣèɣã̀ŋȁ ŋ̩̀kȅsã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. gombo (des nordistes)",
+                "definition_en": "redweed; chocolate weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gegàŋa tsẅɛ",
+        "pronounciation": "ɣèɣã̀ŋȁ tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "garden hibiscus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gegÿɛ́",
+        "pronounciation": "ɣèɣɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fantôme",
+                "definition_en": "ghost",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gégÿɛ́",
+        "pronounciation": "ɣéɣɰɛ́",
+        "synonym": [
+            "gʉgÿɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papillon (gén.)",
+                "definition_en": "butterfly (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gégÿɛ́ ndʉ̀m",
+        "pronounciation": "ɣéɣɰɛ́ ɳ̩̀ɖɯ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "zeuzère ; cossidé",
+                "definition_en": "leopard moth; cossid miller moth; carpenter miller moth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gegÿɛ́ nzsó",
+        "pronounciation": "ɣèɣɰɛ́ ǹ̩dzsó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corsage",
+                "definition_en": "blouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gèlegÿàʼ",
+        "pronounciation": "ɣə̀lȅɣɰȁʔ",
+        "synonym": [
+            "nzab kéyàʼ ",
+            " nkía"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gem",
+        "pronounciation": "ɣə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trou ; fosse",
+                "definition_en": "hole; pit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gém",
+        "pronounciation": "ɣə́m",
+        "synonym": [
+            "gʉ́m ",
+            " táa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froid fort en temps brumeux ; brume",
+                "definition_en": "strong cold during times of fog; mist; fog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gèʼe",
+        "pronounciation": "ɣə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement ; inflation",
+                "definition_en": "development; inflation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gɛ́",
+        "pronounciation": "ɣɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adultère",
+                "definition_en": "adultery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gi",
+        "pronounciation": "ɣì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui-là (pron. dém. de loin qui modifie les noms des classes 7 et 9) ; ceux ; ceux-là (pron. dém. de loin qui modifie les noms de la classe 10)",
+                "definition_en": "that one; that one there; those; those there (distant demonstrative pronoun referring to class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "N kaa mmó tsɛ̀ɛ pɔ̀ɔn yɛ̂ gyá ; taʼa gi pɔ̀gɔ gyá.",
+                        "fr": "Je n’ai pas vu quelque chose dans le sac ; fouille celui-là voir.",
+                        "en": "I didn't see anything in the bag; search this one see."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de loin qui modifie les noms des classes 7 et 9) ; ces ... -là (adj. dém. de loin qui modifie les noms de la classe 10)",
+                "definition_en": "that; that ... there; those ... there (distant demonstrative adjective referring to class 7, 9 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gi",
+        "pronounciation": "ɣì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre (pron. poss. de la 2e personne du pluriel renvoyant aux noms de la classe 9)",
+                "definition_en": "yours (second person plural possessive pronoun referring back to class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ngesáŋ yɔɔn, pí gi.",
+                        "fr": "Voici le maïs, prends le vôtre.",
+                        "en": "Here's the corn, take yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 9)",
+                "definition_en": "your (second person plural possessive adjective modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ndá gi gwě.",
+                        "fr": "Votre maison est tombée.",
+                        "en": "Your house has fallen."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 9)",
+                "definition_en": "your (second person plural possessive adjective modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tóo ńkaa gi ngesáŋ.",
+                        "fr": "Viens porter votre maïs.",
+                        "en": "Come carry your corn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gí",
+        "pronounciation": "ɣí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le vôtre (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 7) ; les vôtres (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 10)",
+                "definition_en": "yours (second person plural possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À tǒ ńkaa mekwɔ̀ʼɔ, ńkaa gí.",
+                        "fr": "En portant les tabourets, il a porté le vôtre.",
+                        "en": "While carrying the stools, he carried yours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 7) ; vos (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 10)",
+                "definition_en": "your (second person plural possessive adjective modifying class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Apɔ̀ɔn gí,  á yɔɔn.",
+                        "fr": "Voici votre sac.",
+                        "en": "Here is your bag."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "votre (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 7) ; vos (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 10)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tóo ńtÿɔ́gɔ gí kwɔ̀ʼɔ.",
+                        "fr": "Viens mettre votre tabouret.",
+                        "en": "Come and put your stool."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pour vous (pron. poss. objet de la 2e personne du pluriel qui renvoie aux noms des classes 7 et 10)",
+                "definition_en": "for you (second person plural possessive object pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À ge gwaa kaa pɔ̀ɔn, é kaa gí.",
+                        "fr": "Avant de porter le sac, il portera pour vous.",
+                        "en": "Before you carry the bag, it will carry for you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gí",
+        "pronounciation": "ɣí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj.add",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vous ; vous aussi (pronom objet de la 2e personne du pluriel qui a une fonction additive quand il répète le sujet)",
+                "definition_en": "you; you also (second person plural object pronoun that has an additive function when repeating the subject)",
+                "examples": [
+                    {
+                        "dialect": "Pí gʉa gí ńtsɛ́ɛ tá wégè Ssé.",
+                        "fr": "Allez vous aussi rejoindre Dieu notre père.",
+                        "en": "Go and join God our father too."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gie",
+        "pronounciation": "ɣìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.rel",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "que ; qui (pron. relatif qui modifie les noms des classes 7, 9 et 10)",
+                "definition_en": "that; who (relative pronoun modifying class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńkaa káŋ gie á tyé li, ńdɔg ńtó.",
+                        "fr": "Va porter l’assiette qui est posée là-bas pour apporter.",
+                        "en": "Go carry the plate that is placed there to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gígyé",
+        "pronounciation": "ɣíɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit",
+                "definition_en": "small; little",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńne ńtóŋo pʉ̀a, tè tóŋo gígyé.",
+                        "fr": "Si tu appelles les gens, n’appelle pas les petits.",
+                        "en": "If you call people, don't call the little ones."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "minuscule",
+                "definition_en": "minute; tiny",
+                "examples": [
+                    {
+                        "dialect": "Atÿǒ pîɛ yɔɔn, áa gwe pɔ́ gígyé metɔ̌ɔn.",
+                        "fr": "Cet avocatier produit toujours les fruits minuscules.",
+                        "en": "This avocado tree always produces tiny fruits."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gígyé sésɔg",
+        "pronounciation": "ɣíɣxjé sésɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse de courge cultivée",
+                "definition_en": "cultivated squash calabash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gíle yé",
+        "pronounciation": "ɣílé jé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seul",
+                "definition_en": "alone",
+                "examples": [
+                    {
+                        "dialect": "Zɔ́g gílé yé la shʉ́a nkʉ̌a nkàʼ.",
+                        "fr": "Celui qui vit seul a percé le raphia à l’envers.",
+                        "en": "The one who lives alone has pierced the raffia upside down."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gíyɛʼ",
+        "pronounciation": "ɣíjɛ̀ʔ",
+        "synonym": [
+            "yíyɛʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami (appel)",
+                "definition_en": "friend (call)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gìʼi",
+        "pronounciation": "ɣìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le dédain)",
+                "definition_en": "(shows contempt)",
+                "examples": [
+                    {
+                        "dialect": "Gìʼi! Yɛ̂ kɔ́ gie à gÿo pɛ́ʼɛ?",
+                        "fr": "Eh ! Qu’est-ce que tu fais comme cela ?",
+                        "en": "Hey! What are you doing like this?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gǒon",
+        "pronounciation": "ɣõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "creux ; fosse",
+                "definition_en": "hollow; hole; pit; grave",
+                "examples": []
+            }
+        ]
+    }
+]

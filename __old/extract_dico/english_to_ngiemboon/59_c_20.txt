@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "commune",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nò láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mmó láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "communicate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "communication",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejǔʼ shwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "communicator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jùʼu shwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "communion, receive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compactor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nàganága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "companion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwò zɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "companionship",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwò zɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "company",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwò zɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "comparable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "comparison",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compartment, secret",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compassionate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ ntsɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compensate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compete",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "competitor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "complain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "complaint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "complement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "complex",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vóŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fúʼtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "complicated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntantú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "component",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "compose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcub",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcubte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "composer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa ncùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwòte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa cùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "composition",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "píte",
+                "examples": []
+            }
+        ]
+    }
+]

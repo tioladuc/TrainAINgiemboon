@@ -1,0 +1,405 @@
+[
+    {
+        "noun": "sɔ̀bɔntsì",
+        "pronounciation": "sɔ̀βɔ̏ntsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "titre de notabilité royale ; aîné du chef",
+                "definition_en": "royal notability title; older sibling of the chief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́g",
+        "pronounciation": "sɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "sp. fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀g",
+        "pronounciation": "sɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savon",
+                "definition_en": "soap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́gɔ̀",
+        "pronounciation": "sɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien et le mien (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 5) ; les tiens et les miens (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 8)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 5) ; mes et tes (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 8)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 5) ; mes et tes (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 8)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀gɔ mesoŋ",
+        "pronounciation": "sɔ̀ʁɔ̏ mèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brosse à dents",
+                "definition_en": "toothbrush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀gɔ mvɔ́bɔ",
+        "pronounciation": "sɔ̀ʁɔ̏ ɱ̩̀bvɔ́βɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savon en poudre",
+                "definition_en": "soap powder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀gɔ ntsentse",
+        "pronounciation": "sɔ̀ʁɔ̏ ǹ̩tsèntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savon en liquide",
+                "definition_en": "liquid soap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔɔn",
+        "pronounciation": "sɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aucun ; personne",
+                "definition_en": "none; no one",
+                "examples": [
+                    {
+                        "dialect": "Sɔɔn nyìŋ kaa tóo.",
+                        "fr": "Aucune personne n’est venue.",
+                        "en": "No one came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sɔɔn",
+        "pronounciation": "sɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceci ; celui ; celui-ci (pron. dém. de proche proximité qui modifie les noms de la classe 5) ; ceux ; ceux-ci (pron. dém. de proche proximité qui modifie les noms de la classe 8)",
+                "definition_en": "this; this one; this one here; these; these here (close demonstrative pronoun referring to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ce ; ce ... -ci (adj. dém. de proche proximité qui modifie les noms de la classe 5) ; ces ; ces ... -ci (adj. dém. de proche proximité qui modifie les noms de la classe 8)",
+                "definition_en": "this; this ... here; these; these ... here (close demonstrative adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́ɔn",
+        "pronounciation": "sɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le mien (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 5) ; les miens (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 8)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 5) ; mes (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "my (first person singular possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 5) ; mes (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 8)",
+                "definition_en": "my (first person singular emphatic possessive adjective modifying class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́ɔn",
+        "pronounciation": "sɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. liane très tendre",
+                "definition_en": "sp. very tender creeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̀ɔn",
+        "pronounciation": "sɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. termite jaune",
+                "definition_en": "sp. yellow termite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ̌ɔn",
+        "pronounciation": "sɔ̃̌ː",
+        "synonym": [
+            "metʉ̌a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marché",
+                "definition_en": "market",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔɔn mbʉ́a",
+        "pronounciation": "sɔ̃̀ː m̩̀bɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sept",
+                "definition_en": "seven",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sɔ́ʼ",
+        "pronounciation": "sɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jarre ; pot",
+                "definition_en": "jar; pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé",
+        "pronounciation": "sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dieu",
+                "definition_en": "god",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé",
+        "pronounciation": "sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noir",
+                "definition_en": "black",
+                "examples": [
+                    {
+                        "dialect": "À ka júu ssé nzsǒ.",
+                        "fr": "Il a acheté un habit noir.",
+                        "en": "He bought a black suit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ssé",
+        "pronounciation": "sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sol",
+                "definition_en": "ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé",
+        "pronounciation": "sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vraiment en train de (aspect progressif réalis emphatique)",
+                "definition_en": "right in the process of (emphatic realis progressive aspect)",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a sɔ̌ɔn tà àa ssé ńtó.",
+                        "fr": "Il est parti au marché jusqu’à ce qu’il est en train de venir.",
+                        "en": "He went to the market until he came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "Ssé",
+        "pronounciation": "sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Dieu",
+                "definition_en": "God",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé lejÿɔ́g",
+        "pronounciation": "sːé lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "iris",
+                "definition_en": "iris",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé ndá",
+        "pronounciation": "sːé ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sol de la maison",
+                "definition_en": "floor of a house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé nnú",
+        "pronounciation": "sːé ɳ̩̀ɳú",
+        "synonym": [
+            "nnú metyé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cobra cracheur",
+                "definition_en": "spitting cobra",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ssé ntʉ́m",
+        "pronounciation": "sːé ɳ̩̀ʈɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "méchant ; pervers",
+                "definition_en": "nasty person; pervert",
+                "examples": [
+                    {
+                        "dialect": "Ssé ntʉ́m wa gíŋe ńtó.",
+                        "fr": "Le méchant-là est venu.",
+                        "en": "The bad guy has come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ssé nyìŋ",
+        "pronounciation": "sːé ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "homme noir ; noir ; nègre",
+                "definition_en": "black man; black; negro",
+                "examples": []
+            }
+        ]
+    }
+]

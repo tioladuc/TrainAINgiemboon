@@ -1,0 +1,470 @@
+[
+    {
+        "noun": "ńtswéʼe",
+        "pronounciation": "ń̩tswə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joindre ; relier",
+                "definition_en": "join; bind",
+                "examples": []
+            },
+            {
+                "definition_fr": "pointer",
+                "definition_en": "tick off; check off",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅá",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": []
+    },
+    {
+        "noun": "ńtsẅág",
+        "pronounciation": "ń̩tsɥáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’approvisionner ; garnir",
+                "definition_en": "stock up; garnish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅaga",
+        "pronounciation": "ń̩tsɥàʁà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fade",
+                "definition_en": "be tasteless; be drab; be dull",
+                "examples": []
+            },
+            {
+                "definition_fr": "être fade ; être moins sucré",
+                "definition_en": "be bland; be less sweet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅagte",
+        "pronounciation": "ń̩tsɥàqtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bénir",
+                "definition_en": "bless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅaŋ",
+        "pronounciation": "ń̩tsɥã̀ŋ",
+        "synonym": [
+            "ńtswaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effilocher ; tisser (araignée)",
+                "definition_en": "fray; weave (spider)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅàŋa",
+        "pronounciation": "ǹ̩tsɥã̀ŋȁ",
+        "synonym": [
+            "ntswàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisseur",
+                "definition_en": "weaver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅè",
+        "pronounciation": "ǹ̩tsːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "habitant",
+                "definition_en": "inhabitant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅè",
+        "pronounciation": "ǹ̩tsːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nomination",
+                "definition_en": "nomination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅě",
+        "pronounciation": "ǹ̩tsːɥě",
+        "synonym": [
+            "ntẅě"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colorant ; couleur",
+                "definition_en": "colouring; colour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅe",
+        "pronounciation": "ń̩tsːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feinter",
+                "definition_en": "feint",
+                "examples": [
+                    {
+                        "dialect": "À zǐŋ tà ńtsẅe wɔ́ɔn.",
+                        "fr": "Il a dansé jusqu’à me feinter.",
+                        "en": "He danced until he faked me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "feinter",
+                "definition_en": "feint",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅe",
+        "pronounciation": "ń̩tsːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "germer",
+                "definition_en": "sprout; germinate",
+                "examples": [
+                    {
+                        "dialect": "Ngesáŋ nkáʼ ne ńtsẅe menÿɔ́g.",
+                        "fr": "Au champ, le maïs est en train de germer.",
+                        "en": "In the field, the corn is germinating."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "avoir l’habitude",
+                "definition_en": "be used to",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n te tsẅe ḿpfɛ́ɛ mmó yɛ̂ wɔ́.",
+                        "fr": "Je n’ai pas l’habitude de manger cette chose-là.",
+                        "en": "I'm not used to eating this thing."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "habituellement ; généralement ; normalement",
+                "definition_en": "usually; habitually; generally; normally",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n tsẅe ńzsé mámbàŋa wɛ̂ táʼ n daa júʼ pɛ́ʼɛ̀ na ye wɔ́.",
+                        "fr": "Je connais habituellement cet homme mais je n’ai jamais entendu cela sur lui.",
+                        "en": "I usually know this man but have never heard this about him."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "germer ; commencer à pousser ; commencer à apparaître",
+                "definition_en": "germinate; start to push; start to appear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅe",
+        "pronounciation": "ń̩tsːɥè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réserver ; scinder",
+                "definition_en": "reserve; split up",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ne ńgaba, ɔ̀ tsẅe yé.",
+                        "fr": "Au moment où tu partages, tu réserves sa part.",
+                        "en": "The moment you share, you reserve his share."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "réserver ; scinder",
+                "definition_en": "to book ; split",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅé",
+        "pronounciation": "ń̩tsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "durer ; demeurer ; vivre",
+                "definition_en": "last; live",
+                "examples": []
+            },
+            {
+                "definition_fr": "laisser",
+                "definition_en": "to leave",
+                "examples": []
+            },
+            {
+                "definition_fr": "finir",
+                "definition_en": "finish",
+                "examples": []
+            },
+            {
+                "definition_fr": "cesser",
+                "definition_en": "cease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅɛ́",
+        "pronounciation": "ǹ̩tsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limite",
+                "definition_en": "boundary; limit",
+                "examples": [
+                    {
+                        "dialect": "À shwoŋó tà ńzyɛ́ʼ ntsẅɛ́.",
+                        "fr": "Il a parlé jusqu’à dépasser la limite.",
+                        "en": "He spoke to the point of crossing the line."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅɛ",
+        "pronounciation": "ń̩tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émousser ; ne pas savoir danser",
+                "definition_en": "blunt; not know how to dance",
+                "examples": []
+            },
+            {
+                "definition_fr": "être impoli",
+                "definition_en": "be rude",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅɛ́",
+        "pronounciation": "ń̩tsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être sauvé",
+                "definition_en": "be saved",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’échapper ; être sauvé ensemble",
+                "definition_en": "escape; be saved together",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅɛ́ ndá",
+        "pronounciation": "ǹ̩tsɥɛ́ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "benjamin",
+                "definition_en": "youngest son",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅɛ́te",
+        "pronounciation": "ń̩tsɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diminuer ; retrancher ; soustraire",
+                "definition_en": "diminish; remove; subtract",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅɛ̀ʼ",
+        "pronounciation": "ǹ̩tsɥɛ̏ʔ",
+        "synonym": [
+            "ndem"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fesse et partie génitale ensemble",
+                "definition_en": "buttock and genitals together",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅɛ́ʼ",
+        "pronounciation": "ń̩tsɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piler",
+                "definition_en": "grind",
+                "examples": []
+            },
+            {
+                "definition_fr": "broyer",
+                "definition_en": "crush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅɛ̀ʼ ntèbe",
+        "pronounciation": "ǹ̩tsɥɛ̏ʔ ǹ̩tə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bricoleur",
+                "definition_en": "handyman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅì",
+        "pronounciation": "ǹ̩tsɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dénomination",
+                "definition_en": "denomination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅi",
+        "pronounciation": "ń̩tsɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dire ; informer",
+                "definition_en": "say; inform",
+                "examples": []
+            },
+            {
+                "definition_fr": "nommer quelqu’un",
+                "definition_en": "name someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "informer çà et là ; dire de temps en temps",
+                "definition_en": "inform here and there; say from time to time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅi",
+        "pronounciation": "ń̩tsɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gémir",
+                "definition_en": "moan",
+                "examples": []
+            },
+            {
+                "definition_fr": "gémir (ensemble)",
+                "definition_en": "moan (together)",
+                "examples": []
+            }
+        ]
+    }
+]

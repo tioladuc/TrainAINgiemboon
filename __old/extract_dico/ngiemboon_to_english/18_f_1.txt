@@ -1,0 +1,358 @@
+[
+    {
+        "noun": "fà",
+        "pronounciation": "fȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "silex ; matière facilitant l’allumage",
+                "definition_en": "flint; material that helps light a fire",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàa",
+        "pronounciation": "fȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfileur",
+                "definition_en": "one who slips into something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàa",
+        "pronounciation": "fȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "purgeur",
+                "definition_en": "bleeder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàa",
+        "pronounciation": "fȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souffleur",
+                "definition_en": "blower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàg nnɛ́",
+        "pronounciation": "fàʁȁ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secte",
+                "definition_en": "sect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàg nnɛ́",
+        "pronounciation": "fȁq̚ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séparatiste",
+                "definition_en": "separatist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàgte",
+        "pronounciation": "fàqtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séparation ; dispersion",
+                "definition_en": "separation; dispersion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fálà",
+        "pronounciation": "fálȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêtre",
+                "definition_en": "priest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fala nda",
+        "pronounciation": "fàlà ǹ̩dà",
+        "synonym": [
+            "ndalÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salon",
+                "definition_en": "lounge; sitting room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faládê",
+        "pronounciation": "fàládê",
+        "synonym": [
+            "màga lyɛ̌ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vendredi",
+                "definition_en": "Friday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "falîne",
+        "pronounciation": "fàlînè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "farine",
+                "definition_en": "flour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "falísay",
+        "pronounciation": "fàlísàj",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pharisien",
+                "definition_en": "Pharisee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàŋ",
+        "pronounciation": "fã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre dont on fait la jute de l’écorce",
+                "definition_en": "sp. tree that you can make jute from its bark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàʼ",
+        "pronounciation": "fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "travail",
+                "definition_en": "work",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàʼa",
+        "pronounciation": "fàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "travailleur",
+                "definition_en": "worker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faʼá nò",
+        "pronounciation": "fàʔá nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "recherche",
+                "definition_en": "research",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fàʼa nò",
+        "pronounciation": "fàʔȁ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercheur",
+                "definition_en": "researcher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fáʼtè",
+        "pronounciation": "fáʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rhume ; grippe",
+                "definition_en": "cold; flu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèbe",
+        "pronounciation": "fə̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mensonge",
+                "definition_en": "lie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèfà",
+        "pronounciation": "fȅfȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vent",
+                "definition_en": "wind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fèffò",
+        "pronounciation": "fȅfːȍ",
+        "synonym": [
+            "fòffò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bourreau",
+                "definition_en": "executioner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "féfɔ́gɔ",
+        "pronounciation": "féfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "féfɔ́gɔ mekú",
+        "pronounciation": "féfɔ́ʁɔ́ mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot blanc",
+                "definition_en": "sp. white bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "féfɔ́gɔ ncùm",
+        "pronounciation": "féfɔ́ʁɔ́ ǹ̩tʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aigrette à gorge blanche",
+                "definition_en": "Western reef egret",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "féfɔ́gɔ ngesáŋ",
+        "pronounciation": "féfɔ́ʁɔ́ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. maïs blanc",
+                "definition_en": "sp. white maize",
+                "examples": []
+            }
+        ]
+    }
+]

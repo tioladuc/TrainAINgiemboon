@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "Babadjou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Shǔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Babete",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Tÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baboon, olive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìndàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baby",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ mbÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "baby’s cereal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kukúlu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "\"bachelor\"",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tánkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm nkàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back-bite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúu lɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back, carry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back, chair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejʉʼʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back, loader",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "paa nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back of the hand",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back of the neck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "backpack, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̀ɔn nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back, slap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa lesẅɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "back up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tepòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetepòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "badge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga tákʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿméŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad luck",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅíŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbo ngɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "badly, judge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùb lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad, smell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bad, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Bafou",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Ffó",
+                "examples": []
+            }
+        ]
+    }
+]

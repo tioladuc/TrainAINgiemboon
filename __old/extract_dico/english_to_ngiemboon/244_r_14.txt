@@ -1,0 +1,219 @@
+[
+    {
+        "noun": "ruler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa nɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉankàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rumble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rumble (sky)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rumbling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "run",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsa ndʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "run down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyime",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyibe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rung",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gẅǐɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "runner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿo ndʉ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "running",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "runs away, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "runt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsège múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rush (caterpillar)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rust",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vakɔ́ɔn",
+                "examples": []
+            }
+        ]
+    }
+]

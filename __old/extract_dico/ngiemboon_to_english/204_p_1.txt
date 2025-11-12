@@ -1,0 +1,439 @@
+[
+    {
+        "noun": "pa",
+        "pronounciation": "pà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ces ... -là (adj. dém. qui modifie les noms de la classe 2 ; ces choses sont connues mais peuvent être éloignées de la vue, dans le temps et dans l’espace.)",
+                "definition_en": "those ... there (demonstrative adjective modifying class 2 nouns; the things are known but can be distant in time, space or view)",
+                "examples": [
+                    {
+                        "dialect": "Epʉ̀a pa té pʉ̀a wɔ́; pɔ́ kʉʼʉ́ wɔ́ɔn.",
+                        "fr": "Ces gens-là ne sont pas sérieux ; ils m’ont étonnés.",
+                        "en": "These people are not serious; they surprised me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pa",
+        "pronounciation": "pȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.n.pl",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "des ; les (modifiant les noms de la classe 2 désignant les êtres humains qui portent le même nom)",
+                "definition_en": "some; the",
+                "examples": [
+                    {
+                        "dialect": "À ge gʉa líe pa Mɔ́ɔfùɔ.",
+                        "fr": "Il va aller regarder les gens qui s’appellent Moffo.",
+                        "en": "He's going to go look at the people called Moffo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pa-",
+        "pronounciation": "pa-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n.pl",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "des (pour certains mots de la classe 2)",
+                "definition_en": "some",
+                "examples": [
+                    {
+                        "dialect": "panzwě,",
+                        "fr": "des femmes.",
+                        "en": "women."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pà",
+        "pronounciation": "pȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à",
+                "definition_en": "by",
+                "examples": [
+                    {
+                        "dialect": "Pi tó pà tàʼ pà tàʼ.",
+                        "fr": "Venez un à un !",
+                        "en": "Come one by one!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pà",
+        "pronounciation": "pȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.assoc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "de (entre certains noms de qualités et le nom modifié)",
+                "definition_en": "of (between certain quality nouns and the noun modified)",
+                "examples": [
+                    {
+                        "dialect": "Tâm gyǎ tsɔ̌ nzàʼ pà nɔ̀ɔn wá á gẅiin mendóŋ twó yé méntá.",
+                        "fr": "Tam a vu un étrange animal qui avait trois cornes sur la tête.",
+                        "en": "Tam saw a strange animal that had three horns on its head."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pâ",
+        "pronounciation": "pâ",
+        "synonym": [
+            "lâ ",
+            " lé ",
+            " né"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et ; avec",
+                "definition_en": "and; with",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n kǎa mekáŋ pâ mekʉŋ ńtÿɔ́ʼɔ ndá.",
+                        "fr": "J’ai porté les assiettes avec les marmites pour mettre dans la maison.",
+                        "en": "I carried the plates with the pots to put in the house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "páa",
+        "pronounciation": "páː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cale",
+                "definition_en": "wedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "paa nkàʼ",
+        "pronounciation": "pàː ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porteur ; chargeur par le dos",
+                "definition_en": "porter; loader onto the back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páb",
+        "pronounciation": "páp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’acclamation des mains",
+                "definition_en": "sound of hands clapping",
+                "examples": [
+                    {
+                        "dialect": "À cǔa mbwó mé lê páb.",
+                        "fr": "Il a acclamé que « páb ».",
+                        "en": "He cheered that “páb”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàb",
+        "pronounciation": "pȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromperie",
+                "definition_en": "trickery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pǎb",
+        "pronounciation": "pǎp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "place ; marque ; tache",
+                "definition_en": "seat; mark; brand; stain; spot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páblà",
+        "pronounciation": "páblȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre",
+                "definition_en": "powder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pǎbpab",
+        "pronounciation": "pǎpːàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tacheté",
+                "definition_en": "speckled; spotted",
+                "examples": [
+                    {
+                        "dialect": "Nzsǒ múɔ gwɔ́ pɔ́ pǎbpab.",
+                        "fr": "L’habit de l’enfant est tacheté.",
+                        "en": "The child's clothing is spotted."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pabtwó",
+        "pronounciation": "pàpʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle à Batcham",
+                "definition_en": "k. cultural dance at Batcham",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàg",
+        "pronounciation": "pȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coquillage",
+                "definition_en": "shell",
+                "examples": [
+                    {
+                        "dialect": "Mepàg mbùm ngáb.",
+                        "fr": "Coquillages des œufs de poule.",
+                        "en": "Shells from chicken eggs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàg",
+        "pronounciation": "pȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "morceau",
+                "definition_en": "piece",
+                "examples": [
+                    {
+                        "dialect": "Shʉ́a júʼ mepàg mepàg.",
+                        "fr": "Fends l’igname en plusieurs morceaux.",
+                        "en": "Split the yam into several pieces."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàg",
+        "pronounciation": "pȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "page",
+                "definition_en": "page",
+                "examples": [
+                    {
+                        "dialect": "Nyɛ́ʼɛ ŋwàʼne na pàg tá.",
+                        "fr": "Ouvre le livre à la page trois.",
+                        "en": "Open the book to page three."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàg",
+        "pronounciation": "pȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plat ; plaque",
+                "definition_en": "flat; plaque; sheet",
+                "examples": [
+                    {
+                        "dialect": "Te gÿo mekèle metúʼ, gÿo pɔ́ me mepàg.",
+                        "fr": "Ne fais pas les beignets rond, fais plutôt les plats.",
+                        "en": "Don't make the donuts round, make the dishes instead."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàg káŋ",
+        "pronounciation": "pȁq̚ kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cymbale Européenne (littéralement « morceau de plat »)",
+                "definition_en": "European cymbal (literally: \"piece of plate\")",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàga káŋ",
+        "pronounciation": "pàʁȁ kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plat ; disque",
+                "definition_en": "dish; disk; disc",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàga láʼ",
+        "pronounciation": "pàʁȁ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sous-région",
+                "definition_en": "sub-region",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàga ngwòŋ",
+        "pronounciation": "pàʁȁ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "province ; région",
+                "definition_en": "province; region",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàga njÿó",
+        "pronounciation": "pàʁȁ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "continent",
+                "definition_en": "continent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàga tákʉ́ʼ",
+        "pronounciation": "pàʁȁ tákɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "badge",
+                "definition_en": "badge",
+                "examples": []
+            },
+            {
+                "definition_fr": "médaille",
+                "definition_en": "medal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "págalág",
+        "pronounciation": "páʁáláq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de l’assiette",
+                "definition_en": "sound of a dish",
+                "examples": [
+                    {
+                        "dialect": "Mekáŋ gyě lê págalág.",
+                        "fr": "Les assiettes ont résonné que « págalág ».",
+                        "en": "The plates sounded like “págalág”."
+                    }
+                ]
+            }
+        ]
+    }
+]

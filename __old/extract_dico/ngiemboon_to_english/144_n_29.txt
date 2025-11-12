@@ -1,0 +1,459 @@
+[
+    {
+        "noun": "ngwàʼa",
+        "pronounciation": "ŋ̩̀gwàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeteur",
+                "definition_en": "thrower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwáʼa",
+        "pronounciation": "ŋ̩́gwáʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être semblable ; être comme",
+                "definition_en": "be similar to; be like",
+                "examples": [
+                    {
+                        "dialect": "Tasòŋ gwáʼa mèŋ la.",
+                        "fr": "Tasòŋ est semblable à moi.",
+                        "en": "Tasòŋ is similar to me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "sembler ; paraître",
+                "definition_en": "seem; appear",
+                "examples": [
+                    {
+                        "dialect": "Á gwáʼa fʉ̀ʼ gie mbʉ̀ŋ ge lú la.",
+                        "fr": "Il semble qu’il va pleuvoir.",
+                        "en": "It looks like it's going to rain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwè",
+        "pronounciation": "ŋ̩̀gxwȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe comestible",
+                "definition_en": "sp. edible herb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwè",
+        "pronounciation": "ŋ̩̀gxwȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tombeur",
+                "definition_en": "thrower; Casanova",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwe",
+        "pronounciation": "ŋ̩́gxwè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tomber",
+                "definition_en": "fall",
+                "examples": []
+            },
+            {
+                "definition_fr": "tomber beaucoup de fois",
+                "definition_en": "fall many times",
+                "examples": []
+            },
+            {
+                "definition_fr": "tituber",
+                "definition_en": "stagger",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’amuser avec",
+                "definition_en": "have fun with",
+                "examples": []
+            },
+            {
+                "definition_fr": "échouer",
+                "definition_en": "fail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwè gwáʼ",
+        "pronounciation": "ŋ̩̀gxwȅ ɣwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épileptique",
+                "definition_en": "epileptic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwè lekwɛ́",
+        "pronounciation": "ŋ̩̀gxwȅ lèkwɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ginseng",
+                "definition_en": "ginseng",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwè méshʉŋ",
+        "pronounciation": "ŋ̩̀gxwȅ méʃɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émilie",
+                "definition_en": "yellow tassleflower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwè tÿǒ",
+        "pronounciation": "ŋ̩̀gxwȅ ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. margouillat",
+                "definition_en": "sp. gecko",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwéen",
+        "pronounciation": "ŋ̩́gwẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "solder",
+                "definition_en": "sell off",
+                "examples": []
+            },
+            {
+                "definition_fr": "solder",
+                "definition_en": "sell",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwele",
+        "pronounciation": "ŋ̩́gwə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire escale",
+                "definition_en": "stop over at",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire un crochet ; passer par",
+                "definition_en": "make a hook; go through",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwèngwà",
+        "pronounciation": "ŋ̩̀gwȅŋgwȁ",
+        "synonym": [
+            "ngwʉ̀ngwà nÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cil",
+                "definition_en": "eyelash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwéʼe",
+        "pronounciation": "ŋ̩́gwə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": [
+                    {
+                        "dialect": "N gwéʼe ńgẅiin nkáb, mbà mèŋ n gʉa ntsíŋ.",
+                        "fr": "Si j’avais de l’argent, je serais parti en ville.",
+                        "en": "If I had money, I would have gone to town."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwɛ̌",
+        "pronounciation": "ŋ̩̀gwɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche (couteau, machette)",
+                "definition_en": "handle (knife, machete)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwò",
+        "pronounciation": "ŋ̩̀gxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadi",
+                "definition_en": "kadi",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. tribunal",
+                "definition_en": "k. court",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. jugement",
+                "definition_en": "k. judgement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwó",
+        "pronounciation": "ŋ̩́gxwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aller à tâtons",
+                "definition_en": "gropingly",
+                "examples": []
+            },
+            {
+                "definition_fr": "choisir un seul",
+                "definition_en": "choose only one",
+                "examples": []
+            },
+            {
+                "definition_fr": "déambuler ; errer ; tâtonner",
+                "definition_en": "wander; wander ; grope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwóŋ",
+        "pronounciation": "ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parcelle de terre ; labour",
+                "definition_en": "plot of land; plowing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwòŋ",
+        "pronounciation": "ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri d’alarme",
+                "definition_en": "cry for help",
+                "examples": [
+                    {
+                        "dialect": "Andúm we cǔa ye, á líte ngwòŋ.",
+                        "fr": "Son mari l’a tapé, elle a poussé un cri d’alarme.",
+                        "en": "Her husband hit her, she let out a cry of alarm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwòŋ",
+        "pronounciation": "ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pays ; nation",
+                "definition_en": "country; nation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwóŋ",
+        "pronounciation": "ŋ̩́gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demeurer ; s’éterniser",
+                "definition_en": "live somewhere; go on and on; drag on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwoon",
+        "pronounciation": "ŋ̩̀gwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "banane (gén.)",
+                "definition_en": "banana (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwoon",
+        "pronounciation": "ŋ̩́gwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrêter ; appréhender",
+                "definition_en": "stop; apprehend",
+                "examples": []
+            },
+            {
+                "definition_fr": "saisir ; attraper",
+                "definition_en": "seize; trap",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’enflammer ; prendre feu",
+                "definition_en": "catch fire; catch fire",
+                "examples": []
+            },
+            {
+                "definition_fr": "convenir",
+                "definition_en": "agree",
+                "examples": []
+            },
+            {
+                "definition_fr": "arrêter çà et là",
+                "definition_en": "stop here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwóon",
+        "pronounciation": "ŋ̩́gwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "subitement ; immédiatement ; du coup ; sans tarder",
+                "definition_en": "suddenly; immediately; without waiting",
+                "examples": [
+                    {
+                        "dialect": "À gwě ssé ńgwóon ńdÿóon.",
+                        "fr": "Il est tombé, subitement il s’est blessé.",
+                        "en": "He fell and suddenly got injured."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwoon málúʼ",
+        "pronounciation": "ŋ̩̀gwõ̀ː máɭùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwoon ssé",
+        "pronounciation": "ŋ̩̀gwõ̀ː sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    }
+]

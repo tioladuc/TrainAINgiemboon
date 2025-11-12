@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "diverter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sèle nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leselé nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divided up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gàbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divide up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfagte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dividing up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dividing up, part",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kìm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divination",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divination tool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diving beetle, predaceous",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelíɛ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divisible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gàbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "division",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshʉaté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divorce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkÿo mekyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "docile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "teŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doctor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ́gtà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa ffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "doctrine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀gtelé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "document",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú ŋweʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbuʼú ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dodder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelàb kénáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dodge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkweente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dodge each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "do, eagerly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtséʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mêngwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dog bark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dog, bark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gûg",
+                "examples": []
+            }
+        ]
+    }
+]

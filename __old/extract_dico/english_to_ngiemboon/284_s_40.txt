@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "suffering",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùndú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ngʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffering, great",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ngʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffering, see",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffer, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkée",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffer too much (sickness)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffix",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìŋ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffocate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfómo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suffocate a wound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sugar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀mte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sókà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sugarcane",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùnkùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sugared",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀mte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suggest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suicide, commit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwé ńdɔg ḿbʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "suitcase",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̌b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "summit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sun",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sunbeam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nèm meshʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sunbird (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sun, burnt by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Sunday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛʼɛ́ sẅíŋtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sóndi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sunflower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njʉʼ tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sunlight, ray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ̀ŋ nèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̌a nèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sunrise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesaʼá nèm",
+                "examples": []
+            }
+        ]
+    }
+]

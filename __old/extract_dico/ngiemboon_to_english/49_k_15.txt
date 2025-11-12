@@ -1,0 +1,376 @@
+[
+    {
+        "noun": "kwɔ̀ʼ kwɔ̀ʼ",
+        "pronounciation": "kwɔ̏ʔ kwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant une démarche impropre)",
+                "definition_en": "(shows an improper gait)",
+                "examples": [
+                    {
+                        "dialect": "À giŋe kwɔ̀ʼ kwɔ̀ʼ páʼ fòŋ lá.",
+                        "fr": "Il a une démarche impropre comme celle de la vache.",
+                        "en": "He has an improper gait like that of a cow."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼ melǒŋ",
+        "pronounciation": "kwɔ̏ʔ mèlõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appellation affective (enfants)",
+                "definition_en": "appellation of affection (children)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ́ʼ ngɔʼ",
+        "pronounciation": "kwɔ́ʔ ŋ̩̀gɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oreillons",
+                "definition_en": "mumps",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼ twó",
+        "pronounciation": "kwɔ̏ʔ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. souris",
+                "definition_en": "sp. mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ́ʼɔ",
+        "pronounciation": "kwɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chéri",
+                "definition_en": "beloved; darling; dearest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ",
+        "pronounciation": "kwɔ̀ʔɔ̏",
+        "synonym": [
+            "leŋ ",
+            " lʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabouret",
+                "definition_en": "stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ fùɔ",
+        "pronounciation": "kwɔ̀ʔɔ̏ fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trône",
+                "definition_en": "throne",
+                "examples": []
+            },
+            {
+                "definition_fr": "mante religieuse",
+                "definition_en": "praying mantis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ fùɔ mámbàb",
+        "pronounciation": "kwɔ̀ʔɔ̏ fùɔ̏ mámbȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ lekʉb",
+        "pronounciation": "kwɔ̀ʔɔ̏ lèkɯ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaise en rotin",
+                "definition_en": "rattan chair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ lóŋ",
+        "pronounciation": "kwɔ̀ʔɔ̏ ɭṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jalousie",
+                "definition_en": "jealousy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ lʉŋ",
+        "pronounciation": "kwɔ̀ʔɔ̏ ɭɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaise",
+                "definition_en": "chair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ mekwò",
+        "pronounciation": "kwɔ̀ʔɔ̏ mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tabouret",
+                "definition_en": "k. stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ ndá",
+        "pronounciation": "kwɔ̀ʔɔ̏ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seuil",
+                "definition_en": "threshold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ ndá",
+        "pronounciation": "kwɔ̀ʔɔ̏ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfants appartenant à une même femme",
+                "definition_en": "children belonging to the same woman",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ ndʉŋ",
+        "pronounciation": "kwɔ̀ʔɔ̏ ɳ̩̀ɖɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. tabouret en bambou",
+                "definition_en": "k. bamboo stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ ngwoon",
+        "pronounciation": "kwɔ̀ʔɔ̏ ŋ̩̀gwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souche de bananier",
+                "definition_en": "banana plant stump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ njʉʼʉ́",
+        "pronounciation": "kwɔ̀ʔɔ̏ ǹ̩dʒɯ̀ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fauteuil ; chaise",
+                "definition_en": "armchair; chair",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ nkʉ́a",
+        "pronounciation": "kwɔ̀ʔɔ̏ ŋ̩̀kɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "siège de raphia",
+                "definition_en": "seat made of raffia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ nzáŋ",
+        "pronounciation": "kwɔ̀ʔɔ̏ ǹ̩dzã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwɔ̀ʼɔ tsé",
+        "pronounciation": "kwɔ̀ʔɔ̏ tsé",
+        "synonym": [
+            "tsé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "famille à plusieurs beaux-parents",
+                "definition_en": "family with several parents-in-law",
+                "examples": [
+                    {
+                        "dialect": "Peg yé teme kwɔ̀ʼɔ tsé; anzwě wé pɔ́ wɔ̀ɔn fóo tàʼ mbʉ̀a.",
+                        "fr": "Nous avons les mêmes beaux-parents; sa femme et la mienne sont issues de la même concession.",
+                        "en": "We have the same in-laws; his wife and mine come from the same concession."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kwʉ́ŋ",
+        "pronounciation": "kwɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieille monnaie",
+                "definition_en": "old currency",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kwʉ́ʼte",
+        "pronounciation": "kwɯ́ʔté",
+        "synonym": [
+            "kwéʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paralysie",
+                "definition_en": "paralysis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅàga",
+        "pronounciation": "kɥàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toux",
+                "definition_en": "cough",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅâŋkẅâŋ",
+        "pronounciation": "kɥã̂ŋkɥã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hululement (duc)",
+                "definition_en": "hooting (duck)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅé mpfwɔ̀ʼ",
+        "pronounciation": "kxɥé ɱ̩̀pfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scorpion",
+                "definition_en": "scorpion",
+                "examples": []
+            }
+        ]
+    }
+]

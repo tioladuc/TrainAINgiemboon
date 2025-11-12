@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "primrose, water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅé pepaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prince",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ntɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "princess, purple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkunjʉ̀njÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prison",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿòon kèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndá tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prisoner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa tsǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "private life",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melaʼá ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "probe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ká",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "problem",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tẅítẅǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "problem, delicate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉa nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "problem, marital",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "problems, get into",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "process of, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ne",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "process of, right in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "produce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "producer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "profile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gwǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "profit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "profit everywhere, search to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "progress",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "progress along a flat path",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "progressive aspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "progressively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔɔn ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prohibition",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "project",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "peláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "prolongation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "memaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezabá",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "noun": "ɔ́",
+        "pronounciation": "ɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "te (pronom objet de la 2e personne du singulier)",
+                "definition_en": "you (second person singular object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɛté ɔ́, ɔ̀ tè tsɔ́b.",
+                        "fr": "Je t’ai demandé, tu n’as rien dit.",
+                        "en": "I asked you, you didn't say anything."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɔ̀",
+        "pronounciation": "ɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tu (pron. sujet, 2e personne singulier)",
+                "definition_en": "you (second person singular subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ tóo ńgÿo kɔ́?",
+                        "fr": "Tu viens faire quoi ?",
+                        "en": "What are you coming to do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɔ̀ láʼte ntʉ́ʉ",
+        "pronounciation": "ɔ̏ láʔté ɳ̩̀ʈɯ́ɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "as-tu bien passé la nuit",
+                "definition_en": "has your night gone well",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ láʼte ntʉ́ʉ míŋ wɔ̀ɔn?",
+                        "fr": "As-tu bien passé la nuit mon fils ?",
+                        "en": "Did you have a good night, my son?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɔ̀ zɔ́gte ntʉ́ʉ",
+        "pronounciation": "ɔ̏ zɔ́qté ɳ̩̀ʈɯ́ɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "as-tu bien passé la journée",
+                "definition_en": "has your day been good",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ zɔ́gte ntʉ́ʉ míŋ wɔ̀ɔn?",
+                        "fr": "As-tu bien passé la journée mon fils ?",
+                        "en": "Did you have a good day my son?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ɔ̀ɔ",
+        "pronounciation": "ɔ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.prol",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tu es ; tu as",
+                "definition_en": "you are; you have",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ɔ jʉʼɛ ńgÿo kɔ́?",
+                        "fr": "Tu es là en train de faire quoi ?",
+                        "en": "What are you here doing?"
+                    }
+                ]
+            }
+        ]
+    }
+]

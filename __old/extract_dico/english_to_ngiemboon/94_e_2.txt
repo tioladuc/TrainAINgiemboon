@@ -1,0 +1,387 @@
+[
+    {
+        "noun": "eat a lot of sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat, game to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat heartily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿóte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat, lips",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat one’s fill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkumte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat without being hungry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat without fear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "eat with parsimony (sauce)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkumte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ebony",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ ndùm máshúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ nzem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "echo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "economist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "economy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿɔʼ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge, be on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge of, on the",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge of the ridge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉŋ ngwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge of the roof",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mecʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edge or the roof",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ pfɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "edit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅile ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "editor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅìle ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "educate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "education",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zìʼi",
+                "examples": []
+            }
+        ]
+    }
+]

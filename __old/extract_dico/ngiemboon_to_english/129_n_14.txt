@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "ńduŋ mvfò",
+        "pronounciation": "ɳ̩́ɖũ̀ŋ m̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être devant",
+                "definition_en": "be in front; be ahead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋngwò leloŋó",
+        "pronounciation": "ɳ̩̀ɖũ̏ŋŋ̩̀ɡwȍ lèlõ̀ŋó",
+        "synonym": [
+            "ngùngwò leloŋó ",
+            " nzoon mákẅiʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "clinging aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋngwò leloŋó kʉ́",
+        "pronounciation": "ɳ̩̀ɖũ̏ŋŋ̩̀ɡwȍ lèlõ̀ŋó kɯ́",
+        "synonym": [
+            "ngùngwò leloŋó kʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "wandering Jew",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋngwò leloŋó kwɔb",
+        "pronounciation": "ɳ̩̀ɖũ̏ŋŋ̩̀ɡwȍ lèlõ̀ŋó kwɔ̀b",
+        "synonym": [
+            "ngùngwò leloŋó kwɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aneilema",
+                "definition_en": "sp. aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋngwò leloŋó ntse",
+        "pronounciation": "ŋ̩̀gȕŋgxwȍ lèlõ̀ŋó ǹ̩tsè",
+        "synonym": [
+            "ngùngwò leloŋó ntse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "azolle",
+                "definition_en": "water velvet; mosquito fern",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdúŋo",
+        "pronounciation": "ɳ̩́ɖṹŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "focaliser",
+                "definition_en": "focus",
+                "examples": [
+                    {
+                        "dialect": "Lejÿɔ́g shú náʼa ńdúŋo na mèŋ tɛʼ káa?",
+                        "fr": "Tes yeux sont souvent focalisés sur moi, n’est-ce pas ?",
+                        "en": "Your eyes are often focused on me, aren't they?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋo ndùŋo",
+        "pronounciation": "ɳ̩̀ɖũ̀ŋȍ ɳ̩̀ɖũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndúɔ",
+        "pronounciation": "ɳ̩̀ɖúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mendicité",
+                "definition_en": "begging",
+                "examples": [
+                    {
+                        "dialect": "Ndúɔ è tè poŋ.",
+                        "fr": "La mendicité n’est pas bonne.",
+                        "en": "Begging is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdúɔ",
+        "pronounciation": "ɳ̩́ɖúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demander",
+                "definition_en": "ask",
+                "examples": []
+            },
+            {
+                "definition_fr": "mendier",
+                "definition_en": "beg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdúte",
+        "pronounciation": "ɳ̩́ɖúté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aggraver",
+                "definition_en": "make worse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùtépòŋ",
+        "pronounciation": "ɳ̩̀ɖȕtépõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malchanceux",
+                "definition_en": "unlucky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdúʼ",
+        "pronounciation": "ɳ̩́ɖúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "creuser",
+                "definition_en": "dig",
+                "examples": []
+            },
+            {
+                "definition_fr": "se creuser",
+                "definition_en": "dig oneself",
+                "examples": [
+                    {
+                        "dialect": "Mánzsè luʼé ncwò mbuʼ peg.",
+                        "fr": "La route s’est creusée à l’entrée de chez nous.",
+                        "en": "The road has dug up at the entrance to our house."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être rugueux",
+                "definition_en": "be rough",
+                "examples": [
+                    {
+                        "dialect": "À lʉŋ yɔɔn lúʼte.",
+                        "fr": "Cet tabouret est rugueux.",
+                        "en": "This stool is rough."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "enquêter ; fouiner ; percer (secret)",
+                "definition_en": "investigate ; snoop; break through (secret)",
+                "examples": [
+                    {
+                        "dialect": "Mbàŋa wɔɔn lúʼte nò tɛʼ.",
+                        "fr": "Cet homme enquête beaucoup.",
+                        "en": "This man investigates a lot."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀",
+        "pronounciation": "ɳ̩̀ɖɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attache",
+                "definition_en": "tie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̌",
+        "pronounciation": "ɳ̩̀ɖɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "course",
+                "definition_en": "running; race",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉ́",
+        "pronounciation": "ɳ̩́ɖɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourrir",
+                "definition_en": "rot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ lepyè",
+        "pronounciation": "ɳ̩̀ɖɯ̏ lèpɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "liane très tendre",
+                "definition_en": "very tender creeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ nnɛ́",
+        "pronounciation": "ɳ̩̀ɖɯ̏ ǹ̩nɛ́",
+        "synonym": [
+            "ndʉ̀ndʉ̀ nnɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vigueur",
+                "definition_en": "vigour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀ nnú",
+        "pronounciation": "ɳ̩̀ɖɯ̏ ɳ̩̀ɳú",
+        "synonym": [
+            "mbùmɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. boa",
+                "definition_en": "sp. boa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀a",
+        "pronounciation": "ɳ̩̀ɖɯ̀ȁ",
+        "synonym": [
+            "mátsɔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vulve ; vagin",
+                "definition_en": "vulva; vagina",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉa",
+        "pronounciation": "ɳ̩́ɖɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pleurer",
+                "definition_en": "cry",
+                "examples": []
+            },
+            {
+                "definition_fr": "pleurer en groupe",
+                "definition_en": "cry in a group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdʉ́a",
+        "pronounciation": "ɳ̩́ɖɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être clair ; être propre ; être pur",
+                "definition_en": "be clear; be clean; be pure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉa njÿó",
+        "pronounciation": "ɳ̩̀ɖɯ̀à ǹ̩dʒʃɰó",
+        "synonym": [
+            "lʉa njÿó ",
+            " lÿe njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube",
+                "definition_en": "dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀alʉ̌a",
+        "pronounciation": "ɳ̩̀ɖɯ̀ȁɭɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sans péché ; saint",
+                "definition_en": "without sin; saint",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ̌ nyìŋ mesoŋ gẅie aa ndʉ̀alʉ̌a à tè tsɛ̀ɛ njÿó wɔ́.",
+                        "fr": "Il n’y a pas d’homme sans péché dans le monde.",
+                        "en": "There is no sinless man in the world."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndʉm",
+        "pronounciation": "ɳ̩̀ɖɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sucré",
+                "definition_en": "sweet",
+                "examples": [
+                    {
+                        "dialect": "À tè pfɛ́ mmó ndʉm wɔ́.",
+                        "fr": "Il ne mange pas ce qui est sucré.",
+                        "en": "He doesn't eat sweet things."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndʉ̀m",
+        "pronounciation": "ɳ̩̀ɖɯ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effraie des clochers ; chouette Africaine",
+                "definition_en": "barn owl; African wood owl",
+                "examples": []
+            },
+            {
+                "definition_fr": "« vampire » (en français local) ; personne dont on dit avoir un pouvoir inné lui permettant de se dédoubler et de se déplacer en esprit pour aller manger les organes internes de ses ennemies afin de les rendre malades ou de provoquer leur décès",
+                "definition_en": "\"vampire\" (in local English); people who are said to possess an inherited power to travel in their spirit and eat the internal organs of their enemies, causing them to get sick or die",
+                "examples": []
+            }
+        ]
+    }
+]

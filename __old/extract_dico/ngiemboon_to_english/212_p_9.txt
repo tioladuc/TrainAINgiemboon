@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "pɔ̀ɔn lyɛb",
+        "pronounciation": "pɔ̃̏ː ljɛ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac en bandoulière",
+                "definition_en": "k. shoulder sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn mbwɔ̀ʼɔ",
+        "pronounciation": "pɔ̃̏ː m̩̀bwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac",
+                "definition_en": "k. sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn mbÿɛ̀",
+        "pronounciation": "pɔ̃̏ː m̩̀bɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac en fibre",
+                "definition_en": "k. fibre sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̌ɔn mmó",
+        "pronounciation": "pɔ̃̌ː m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plaque",
+                "definition_en": "plaque; sheet",
+                "examples": [
+                    {
+                        "dialect": "Mé ně ńdɔgɔ pɔ̌ɔn mmó, ńtsɛ́ɛ ncwò kɔ̀ʼ.",
+                        "fr": "On a fermé le portique avec la plaque.",
+                        "en": "We closed the portico with the plate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́ɔn ndè",
+        "pronounciation": "pɔ̃́ː ǹ̩dȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit des notables",
+                "definition_en": "k. outfit for prominent citizens",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn ngùb",
+        "pronounciation": "pɔ̃̏ː ŋ̩̀gȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac en cuir",
+                "definition_en": "k. leather sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn nkàʼ",
+        "pronounciation": "pɔ̃̏ː ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac au dos",
+                "definition_en": "k. backpack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn sẅíŋ",
+        "pronounciation": "pɔ̃̏ː sɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac fait en fibre",
+                "definition_en": "k. fibre sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn syɛ́ʼ",
+        "pronounciation": "pɔ̃̏ː sjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. sac",
+                "definition_en": "k. sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pú",
+        "pronounciation": "pú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aventure",
+                "definition_en": "adventure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pú",
+        "pronounciation": "pú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les tiens (pron. poss. de la 2e personne du singulier qui renvoie aux noms de la classe 2)",
+                "definition_en": "yours (second person singular possessive pronoun referring back to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Menɔ̀ɔn pie n gyǎ pǐ, epú ée mǒ.",
+                        "fr": "Les animaux que j’ai vus dehors, il y a les tiens parmi eux.",
+                        "en": "The animals I saw outside, there are yours among them."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tes (adj. poss. de la 2e personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "your (second person singular possessive adjective modifying class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "tes (adj. poss. emph. de la 2e personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "your (second person singular emphatic possessive adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùalô",
+        "pronounciation": "pùȁlô",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poireau",
+                "definition_en": "leek",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùavolóŋ",
+        "pronounciation": "pùȁvòlṍŋ",
+        "synonym": [
+            "shʉ́shÿó ndÿɔgɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poivron",
+                "definition_en": "chili pepper; capsicum; red pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùb",
+        "pronounciation": "pȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un couvercle lâché sur la poussière ou sur le sable",
+                "definition_en": "sound of a casserole lid falling onto dust or sand",
+                "examples": [
+                    {
+                        "dialect": "Nzìŋe lekʉŋ gwě na pfepfɔ́b lê pùb.",
+                        "fr": "Le couvercle est tombé sur la poussière que « pùb ».",
+                        "en": "The lid fell on the dust that “pùb”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pùbpùb",
+        "pronounciation": "pȕpːȕp",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de la flamme d’une lampe qui s’éteint",
+                "definition_en": "sound of the flame of a lamp that goes out",
+                "examples": [
+                    {
+                        "dialect": "Lâm ne ńgӱo lê pùbpùb, ńgee mbyě.",
+                        "fr": "La lampe est en train de faire « pùbpùb » pour s’éteindre.",
+                        "en": "The lamp is going “pùbpùb” to turn off."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pùm",
+        "pronounciation": "pȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charançon",
+                "definition_en": "weevil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùm peláŋ",
+        "pronounciation": "pȕm pèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "xylophage ; insectes qui mangent le bois",
+                "definition_en": "xylophage; wood-eating insects",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pùmo ngɔɔn",
+        "pronounciation": "pùmȍ ŋ̩̀gɔ̃̀ː",
+        "synonym": [
+            "nò té tsẅe pàa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "divers",
+                "definition_en": "diverse; varied",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔ",
+        "pronounciation": "púɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfants",
+                "definition_en": "children",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔ mefʉ̀ʼ",
+        "pronounciation": "púɔ́ mèfɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minutes",
+                "definition_en": "minutes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔ ngùɔ",
+        "pronounciation": "púɔ́ ŋ̩̀gùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesdemoiselles",
+                "definition_en": "ladies; girls",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔ panzwě",
+        "pronounciation": "púɔ́ pàndzwě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesdemoiselles",
+                "definition_en": "ladies; young ladies",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔ shùm",
+        "pronounciation": "púɔ́ ʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeunes hommes",
+                "definition_en": "young men",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "púɔláʼ",
+        "pronounciation": "púɔ́láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêtres purificateurs",
+                "definition_en": "purifying priests",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pupú",
+        "pronounciation": "pùpú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "idiot",
+                "definition_en": "idiot",
+                "examples": []
+            }
+        ]
+    }
+]

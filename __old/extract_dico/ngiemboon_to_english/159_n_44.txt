@@ -1,0 +1,403 @@
+[
+    {
+        "noun": "nkʉnkʉŋ",
+        "pronounciation": "ŋ̩̀kɯ̀ŋkɯ̃̀ŋ",
+        "synonym": [
+            "nkʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« arbre de paix » (en français local)",
+                "definition_en": "\"peace tree\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉnkʉ́ŋe",
+        "pronounciation": "ŋ̩̀kɯ̀ŋkɯ̃́ŋé",
+        "synonym": [
+            "nkenkʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pente",
+                "definition_en": "slope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ́nkʉʼʉ́",
+        "pronounciation": "ŋ̩̀kɯ́ŋkɯ̀ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi (noir doré)",
+                "definition_en": "sp. ant (gilded black)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉnkÿo",
+        "pronounciation": "ŋ̩̀kɯ̀ŋkxɰò",
+        "synonym": [
+            "nkenkÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ficelle ; courroie",
+                "definition_en": "string; strap; belt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉŋ",
+        "pronounciation": "ŋ̩̀kɯ̃̀ŋ",
+        "synonym": [
+            "nkʉnkʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« arbre de paix » (en français local)",
+                "definition_en": "\"peace tree\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ́ŋ",
+        "pronounciation": "ŋ̩̀kɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bord ; rivage",
+                "definition_en": "edge; shore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉŋ",
+        "pronounciation": "ŋ̩́kɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cacher",
+                "definition_en": "hide",
+                "examples": []
+            },
+            {
+                "definition_fr": "protéger",
+                "definition_en": "protect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉŋ",
+        "pronounciation": "ŋ̩́kɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tailler",
+                "definition_en": "cut; prune",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper",
+                "definition_en": "cut out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉŋ mefág",
+        "pronounciation": "ŋ̩̀kɯ̃̀ŋ mèfáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadet des jumeaux",
+                "definition_en": "younger twin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉŋ ngwóŋ",
+        "pronounciation": "ŋ̩̀kɯ̃̀ŋ ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bord du billon",
+                "definition_en": "edge of the ridge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉŋ nzèm",
+        "pronounciation": "ŋ̩́kɯ̃̀ŋ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assister",
+                "definition_en": "assist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉŋe",
+        "pronounciation": "ŋ̩́kɯ̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nettoyer légèrement",
+                "definition_en": "lightly clean",
+                "examples": []
+            },
+            {
+                "definition_fr": "ramasser ; rassembler ; entasser les ordures",
+                "definition_en": "pick up; gather together; pile up rubbish",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper",
+                "definition_en": "cut out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́ŋe",
+        "pronounciation": "ŋ̩́kɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maudire",
+                "definition_en": "curse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉŋte",
+        "pronounciation": "ŋ̩́kɯ̃̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lever la voix (deuil, appeler)",
+                "definition_en": "raise one’s voice (funeral, calling)",
+                "examples": [
+                    {
+                        "dialect": "Ńkʉŋte mbuʼu legwé.",
+                        "fr": "Lever la voix à l’entrée (de la concession) du deuil.",
+                        "en": "Raise your voice at the entrance (of the compound) of mourning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉʼte",
+        "pronounciation": "ŋ̩́kɯ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étonner ; surprendre",
+                "definition_en": "astonish; surprise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkʉ̀ʼʉ",
+        "pronounciation": "ŋ̩̀kɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miracle ; chose étonnante ; merveille",
+                "definition_en": "miracle; surprising thing; wonder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉʼʉ",
+        "pronounciation": "ŋ̩́kɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étonner ; surprendre",
+                "definition_en": "astonish; surprise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkʉ́ʼʉ",
+        "pronounciation": "ŋ̩́kɯ́ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se promener",
+                "definition_en": "go for a walk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwa",
+        "pronounciation": "ŋ̩́kwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promettre",
+                "definition_en": "promise",
+                "examples": []
+            },
+            {
+                "definition_fr": "penser ; avoir l’idée",
+                "definition_en": "think; have an idea",
+                "examples": []
+            },
+            {
+                "definition_fr": "désintéresser ; quitter de vue ; faire l’occupé",
+                "definition_en": "disinterest; leave sight; keep busy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwá lʉʼʉ́",
+        "pronounciation": "ŋ̩̀kwá ɭɯ̀ʔɯ́",
+        "synonym": [
+            "kwá lʉʼʉ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devinette ; énigme",
+                "definition_en": "riddle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwag",
+        "pronounciation": "ŋ̩́kwàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manger beaucoup d’arachides",
+                "definition_en": "eat a lot of ground nuts",
+                "examples": []
+            },
+            {
+                "definition_fr": "se chamailler",
+                "definition_en": "argue for futile reasons",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwág",
+        "pronounciation": "ŋ̩́kwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élaguer un arbre",
+                "definition_en": "prune a tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwág",
+        "pronounciation": "ŋ̩́kwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puiser une plus petite quantité d’eau",
+                "definition_en": "draw a small amount of water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwág",
+        "pronounciation": "ŋ̩́kwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racler",
+                "definition_en": "scrape",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwálà",
+        "pronounciation": "ŋ̩̀kwálȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "catéchisme",
+                "definition_en": "catechism",
+                "examples": []
+            }
+        ]
+    }
+]

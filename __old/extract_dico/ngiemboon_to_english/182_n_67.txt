@@ -1,0 +1,439 @@
+[
+    {
+        "noun": "ńtsɔ́ɔn",
+        "pronounciation": "ń̩tsɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désirer",
+                "definition_en": "desire",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir pitié ; consoler ; pardonner",
+                "definition_en": "to have pity; to console; forgive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ɔn mezìŋe",
+        "pronounciation": "ǹ̩tsɔ̃̏ː mèzĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consolateur ; celui qui est miséricordieux",
+                "definition_en": "comforter; merciful person; forgiving person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ́ʼ",
+        "pronounciation": "ǹ̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrachage ; prélèvement",
+                "definition_en": "uproot; withdrawal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼ",
+        "pronounciation": "ǹ̩tsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "touffe",
+                "definition_en": "tuft; clump",
+                "examples": []
+            },
+            {
+                "definition_fr": "toit",
+                "definition_en": "roof",
+                "examples": []
+            },
+            {
+                "definition_fr": "accent ; ton",
+                "definition_en": "tone; accent",
+                "examples": [
+                    {
+                        "dialect": "Tʉ̀ gẅiin ntsɔ̀ʼ gie zẅɛ̌ʼ.",
+                        "fr": "Le mot « tʉ̀  » en langue ngiemboon a un ton bas.",
+                        "en": "The word “tʉ̀” in Ngiemboon language has a low tone."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "terrible",
+                "definition_en": "terrible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ʼ",
+        "pronounciation": "ń̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever ; arracher",
+                "definition_en": "remove; pull out",
+                "examples": []
+            },
+            {
+                "definition_fr": "déplumer",
+                "definition_en": "pluck",
+                "examples": []
+            },
+            {
+                "definition_fr": "enlever par endroits",
+                "definition_en": "remove from various  places",
+                "examples": []
+            },
+            {
+                "definition_fr": "cesser de travailler",
+                "definition_en": "stop working",
+                "examples": []
+            },
+            {
+                "definition_fr": "conspuer",
+                "definition_en": "scold",
+                "examples": []
+            },
+            {
+                "definition_fr": "reporter",
+                "definition_en": "postpone",
+                "examples": []
+            },
+            {
+                "definition_fr": "déplumer",
+                "definition_en": "pluck",
+                "examples": []
+            },
+            {
+                "definition_fr": "enlever par endroits",
+                "definition_en": "remove in places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ʼ",
+        "pronounciation": "ń̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvrir",
+                "definition_en": "open",
+                "examples": []
+            },
+            {
+                "definition_fr": "juger",
+                "definition_en": "judge",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir",
+                "definition_en": "open",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ʼ",
+        "pronounciation": "ń̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répliquer",
+                "definition_en": "reply; retaliate",
+                "examples": []
+            },
+            {
+                "definition_fr": "trahir",
+                "definition_en": "betray",
+                "examples": []
+            },
+            {
+                "definition_fr": "répliquer",
+                "definition_en": "replicate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ʼ",
+        "pronounciation": "ń̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rembourser ; remettre",
+                "definition_en": "pay back; put back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼ mesoŋ",
+        "pronounciation": "ǹ̩tsɔ̏ʔ mèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dentiste",
+                "definition_en": "dentist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼ ngɔ̌ɔn",
+        "pronounciation": "ǹ̩tsɔ̏ʔ ŋ̩̀gɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marabout ; voyant ; médium ; oracle",
+                "definition_en": "marabou; clairvoyant; medium; oracle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼ ngɔ̌ɔn",
+        "pronounciation": "ǹ̩tsɔ̏ʔ ŋ̩̀gɔ̃̌ː",
+        "synonym": [
+            "lengɔ̀ʼɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boubou tropical",
+                "definition_en": "puffback shrike",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼ púɔ",
+        "pronounciation": "ǹ̩tsɔ̏ʔ púɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui fait avorter",
+                "definition_en": "one who causes an abortion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼngàŋ",
+        "pronounciation": "ǹ̩tsɔ̏ʔŋ̩̀gã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poule avec crête",
+                "definition_en": "chicken with a comb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼɔ",
+        "pronounciation": "ǹ̩tsɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracheur ; électeur ; votant",
+                "definition_en": "uprooter; voter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔʼɔ́ fàʼ",
+        "pronounciation": "ǹ̩tsɔ̀ʔɔ́ fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadeau ; récompense",
+                "definition_en": "gift; payment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɔ́ʼɔ fàʼ",
+        "pronounciation": "ń̩tsɔ́ʔɔ́ fȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t./synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remercier ; récompenser",
+                "definition_en": "thank; reward",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼte",
+        "pronounciation": "ǹ̩tsɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracheur ; modérateur ; juge",
+                "definition_en": "uprooter; regulator, judge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɔ̀ʼte ntsaŋ",
+        "pronounciation": "ǹ̩tsɔ̀ʔtȅ ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "juge",
+                "definition_en": "judge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtswaŋ",
+        "pronounciation": "ń̩tswã̀ŋ",
+        "synonym": [
+            "ńtsẅaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "effilocher ; tisser (araignée)",
+                "definition_en": "fray; weave (spider)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntswàŋa",
+        "pronounciation": "ǹ̩tswã̀ŋȁ",
+        "synonym": [
+            "ntsẅàŋa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisseur",
+                "definition_en": "weaver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtswáʼ",
+        "pronounciation": "ń̩tswáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concasser",
+                "definition_en": "crush; grind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtswáʼ",
+        "pronounciation": "ń̩tswáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’entraîner ; s’échauffer",
+                "definition_en": "learn by repetition; train oneself; warm up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntswaʼá",
+        "pronounciation": "ǹ̩tswàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tontine",
+                "definition_en": "tontine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtswéʼe",
+        "pronounciation": "ń̩tswə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépendre",
+                "definition_en": "depend on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtswéʼe",
+        "pronounciation": "ń̩tswə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être sérieux",
+                "definition_en": "be serious",
+                "examples": []
+            }
+        ]
+    }
+]

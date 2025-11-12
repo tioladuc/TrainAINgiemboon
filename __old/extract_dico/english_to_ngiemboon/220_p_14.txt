@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "point",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkèmbàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "point (buttock)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́e",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pointed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pointed end",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅíi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pointed, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "point out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "points, trace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poison",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "liʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poisoner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿɔ̀bɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poison, rat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo cʉcʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poking, attack by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "police force",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "policeman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn pàŋa cÿɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "police officer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mékɔ́ɔn ssé cÿɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "police, royal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poliomyelitis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "polisher, floor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "polite, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzeŋe ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "polite person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèŋe ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "politics",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zéme",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkÿonkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poll",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pollen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvɔbɔ́ tôtǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "polliwog",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìmbyé ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pollster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅìte",
+                "examples": []
+            }
+        ]
+    }
+]

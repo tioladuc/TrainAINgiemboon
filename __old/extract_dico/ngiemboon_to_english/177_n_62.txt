@@ -1,0 +1,401 @@
+[
+    {
+        "noun": "ntɔ̌ɔn",
+        "pronounciation": "ǹ̩tɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "sp. fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔɔn",
+        "pronounciation": "ń̩tɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deviner",
+                "definition_en": "solve; guess",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔɔn",
+        "pronounciation": "ń̩tɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espacer ; écarter",
+                "definition_en": "space out; separate",
+                "examples": []
+            },
+            {
+                "definition_fr": "espacer",
+                "definition_en": "space",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔ́ɔn",
+        "pronounciation": "ń̩tɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saisir ; appréhender ; attraper par le pied ou la main",
+                "definition_en": "grab; seize; apprehend; catch by the foot or hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́ɔn kwò",
+        "pronounciation": "ǹ̩tɔ̃́ː kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuisse ; jambe",
+                "definition_en": "thigh; leg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́ɔn pwó",
+        "pronounciation": "ǹ̩tɔ̃́ː pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bras ; unité de mesure de longueur",
+                "definition_en": "arm; unit of measure of length",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ̀ɔnte",
+        "pronounciation": "ǹ̩tɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compétiteur ; candidat",
+                "definition_en": "competitor; candidate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔ́ɔnte",
+        "pronounciation": "ń̩tɔ̃́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concourir ; faire un concours",
+                "definition_en": "compete; take an exam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́ʼ",
+        "pronounciation": "ǹ̩tɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noyau",
+                "definition_en": "pit; core",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntɔ́ʼ",
+        "pronounciation": "ǹ̩tɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "royal ; royaume",
+                "definition_en": "royal; kingdom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔʼ",
+        "pronounciation": "ń̩tɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chapeauter",
+                "definition_en": "head; oversee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtɔʼ",
+        "pronounciation": "ń̩tɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interdire",
+                "definition_en": "forbid; ban",
+                "examples": []
+            },
+            {
+                "definition_fr": "sevrer",
+                "definition_en": "wean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtra",
+        "pronounciation": "ń̩tɾà",
+        "synonym": [
+            "ńtela ",
+            " ńtala ",
+            " ńdóŋte ",
+            " ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essayer",
+                "definition_en": "try",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsa ndʉ̌",
+        "pronounciation": "ń̩tsà ɳ̩̀ɖɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filer",
+                "definition_en": "run",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàase",
+        "pronounciation": "ǹ̩tsȁːsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui diagnostique ; consultant",
+                "definition_en": "diagnostician; consultant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsáase",
+        "pronounciation": "ń̩tsáːsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.c.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consulter ; surveiller ; contrôler ; vérifier ; examiner",
+                "definition_en": "consult; watch; control; verify; examine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàb",
+        "pronounciation": "ǹ̩tsȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cache-sexe",
+                "definition_en": "mini bikini; g-string",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsab",
+        "pronounciation": "ń̩tsàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tremper",
+                "definition_en": "soak; drench",
+                "examples": []
+            },
+            {
+                "definition_fr": "mouiller ; laver mal",
+                "definition_en": "wet; wash poorly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsáb",
+        "pronounciation": "ń̩tsáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "élever",
+                "definition_en": "raise; bring up",
+                "examples": []
+            },
+            {
+                "definition_fr": "engraisser",
+                "definition_en": "fatten",
+                "examples": []
+            },
+            {
+                "definition_fr": "adopter",
+                "definition_en": "adopt",
+                "examples": []
+            },
+            {
+                "definition_fr": "nourrir",
+                "definition_en": "feed",
+                "examples": []
+            },
+            {
+                "definition_fr": "capitaliser",
+                "definition_en": "capitalize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtság",
+        "pronounciation": "ń̩tsáq̚",
+        "synonym": [
+            "ńtsyág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insulter ; simplifier",
+                "definition_en": "insult; simplify",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàncùa",
+        "pronounciation": "ǹ̩tsȁntʃùȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grappe",
+                "definition_en": "cluster",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsànyìŋe",
+        "pronounciation": "ǹ̩tsȁɲĩ̀ŋȅ",
+        "synonym": [
+            "tetà ",
+            " nkènyìŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crampe",
+                "definition_en": "cramp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsaŋ",
+        "pronounciation": "ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étagère",
+                "definition_en": "shelf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsaŋ",
+        "pronounciation": "ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "palabre ; plainte ; procès ; litige",
+                "definition_en": "argument; complaint; trial; dispute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsaŋ",
+        "pronounciation": "ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "main de banane",
+                "definition_en": "hand of bananas",
+                "examples": []
+            }
+        ]
+    }
+]

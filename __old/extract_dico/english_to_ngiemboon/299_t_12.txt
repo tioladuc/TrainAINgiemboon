@@ -1,0 +1,407 @@
+[
+    {
+        "noun": "token",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tokens",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "feláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomato",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tòmátè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvwɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomorrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ gẅie à ne ntóo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jǔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomorrow, day after",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ̌ júɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomorrow future",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ge gÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ge lu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomorrow morning, see you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ mbaʼámbaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tomorrow, see you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "à cʉ́ʼ jǔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tom-tom, try",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tongue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tongue, click",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tongue, mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋè láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tontine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntswaʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "too",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shúm fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool cutting banana leaves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool, cutting edge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool, k. sculpting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool, sculptor’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétáŋ mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tool, toy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétáŋ ndyèente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "too much",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "séság",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "légʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "too much water, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tooth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesoŋ",
+                "examples": []
+            }
+        ]
+    }
+]

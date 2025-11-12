@@ -1,0 +1,118 @@
+[
+    {
+        "noun": "ńzyéen",
+        "pronounciation": "ń̩dzjẽ́ː",
+        "synonym": [
+            "ńzí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développer ; évoluer ; aller de l’avant",
+                "definition_en": "develop; evolve; go ahead",
+                "examples": []
+            },
+            {
+                "definition_fr": "évoluer ; aller de l’avant",
+                "definition_en": "evolve ; move forward",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzyeente",
+        "pronounciation": "ǹ̩dzjẽ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "génération ; génétique",
+                "definition_en": "generation; genetics",
+                "examples": [
+                    {
+                        "dialect": "Menzyèente tà ńgyɔ́ɔn ge láʼ zẅɛ́ʼɛ fàʼa jú.",
+                        "fr": "Plusieurs générations profiteront de ton travail.",
+                        "en": "Several generations will benefit from your work."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzyeté",
+        "pronounciation": "ǹ̩dzsjèté",
+        "synonym": [
+            "nzyě ",
+            " nzyè nò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "introduction",
+                "definition_en": "introduction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyɛ́b",
+        "pronounciation": "ń̩dzjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever ; ôter ; débarrasser",
+                "definition_en": "remove; take off; clear; clear away",
+                "examples": []
+            },
+            {
+                "definition_fr": "vomir",
+                "definition_en": "vomit",
+                "examples": []
+            },
+            {
+                "definition_fr": "menstrate",
+                "definition_en": "menstratum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzyɛ́ʼ",
+        "pronounciation": "ń̩dzjɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traverser",
+                "definition_en": "cross",
+                "examples": []
+            },
+            {
+                "definition_fr": "déborder",
+                "definition_en": "overflow",
+                "examples": []
+            },
+            {
+                "definition_fr": "enjamber",
+                "definition_en": "stride over; straddle",
+                "examples": []
+            },
+            {
+                "definition_fr": "exagérer",
+                "definition_en": "exaggerate",
+                "examples": []
+            },
+            {
+                "definition_fr": "passer par ; traverser les uns les autres",
+                "definition_en": "go through; cross each other",
+                "examples": []
+            }
+        ]
+    }
+]

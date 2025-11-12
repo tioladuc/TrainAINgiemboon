@@ -1,0 +1,400 @@
+[
+    {
+        "noun": "ngàŋa sẅè",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ sːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avare ; égoïste",
+                "definition_en": "miser; egotist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa tág",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ táq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble-fête ; agresseur",
+                "definition_en": "spoilsport; aggressor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa táŋte",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ tã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrangeur ; organisateur",
+                "definition_en": "arranger; organizer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa tɔ́ɔntè",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ tɔ̃́ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "candidat",
+                "definition_en": "candidate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa tsǎŋ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ tsã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prisonnier ; détenu",
+                "definition_en": "prisoner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa tsìʼte",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ tsìʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "douteur ; sceptique",
+                "definition_en": "doubter; sceptic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa záʼ",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ záʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "emprunteur (celui qui prend à crédit)",
+                "definition_en": "borrower (one who takes a loan)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋa zɔ̀b",
+        "pronounciation": "ŋ̩̀gã̀ŋȁ zɔ̏p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanteur",
+                "definition_en": "singer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàte",
+        "pronounciation": "ŋ̩̀gàtȅ",
+        "synonym": [
+            "ngÿàte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourneur",
+                "definition_en": "embezzler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgáte",
+        "pronounciation": "ŋ̩́gáté",
+        "synonym": [
+            "ńgÿáte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner ; désaxer",
+                "definition_en": "embezzle; throw off balance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgaʼ",
+        "pronounciation": "ŋ̩́gàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grandir ; développer ; être gros",
+                "definition_en": "grow; develop; be bit; be large",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgáʼ",
+        "pronounciation": "ŋ̩́gáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "évoluer ; développer",
+                "definition_en": "evolve; develop",
+                "examples": []
+            },
+            {
+                "definition_fr": "grandir ; évoluer ; développer",
+                "definition_en": "to grow ; evolve ; develop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàʼ pa láʼ",
+        "pronounciation": "ŋ̩̀gȁʔ pà láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "village développé",
+                "definition_en": "developed village",
+                "examples": [
+                    {
+                        "dialect": "Peg néŋe tsɛ̀ɛ ngàʼ pa láʼ.",
+                        "fr": "Nous restons dans un village développé.",
+                        "en": "We stay in a developed village."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngaʼá",
+        "pronounciation": "ŋ̩̀gàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgaʼte",
+        "pronounciation": "ŋ̩́gàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crier",
+                "definition_en": "cry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngě",
+        "pronounciation": "ŋ̩̀gě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "endroit où aller ; refuge ; asile",
+                "definition_en": "place to go; refuge; sanctuary; asylum",
+                "examples": [
+                    {
+                        "dialect": "Tè néŋe ńtóo mbʉ̀a mèŋ ńnéŋe, yɔ̀ɔn tè zǎg ngě wɔ́.",
+                        "fr": "Ne viens plus rester chez moi, ce n’est pas une asile.",
+                        "en": "Don't come and stay with me anymore, it's not an asylum."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngě nÿɔ́g",
+        "pronounciation": "ŋ̩̀gě nɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "strabisme divergent",
+                "definition_en": "exotropia",
+                "examples": []
+            },
+            {
+                "definition_fr": "personne aux yeux divergents",
+                "definition_en": "person with exotropia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgebe",
+        "pronounciation": "ŋ̩́gə̀βè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être stupide ; être sot ; aliéner",
+                "definition_en": "be stupid; be silly; be foolish; alienate; give up",
+                "examples": []
+            },
+            {
+                "definition_fr": "être à moitié",
+                "definition_en": "be half",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgebe",
+        "pronounciation": "ŋ̩́gə̀βè",
+        "synonym": [
+            "ńgʉbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déraisonner ; faire le mongolien ; aliéner",
+                "definition_en": "rave; talk nonsense; play the idiot; alienate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgee",
+        "pronounciation": "ŋ̩́gèː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aller",
+                "definition_en": "go",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgege",
+        "pronounciation": "ŋ̩́gə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menacer ; mépriser",
+                "definition_en": "threaten; despise",
+                "examples": []
+            },
+            {
+                "definition_fr": "ennuyer",
+                "definition_en": "bother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgége",
+        "pronounciation": "ŋ̩́gə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’empresser ; presser ; se hâter",
+                "definition_en": "fuss over; squeeze; hasten",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’empresser ; presser ; se hâter",
+                "definition_en": "hurry; squeeze ; to hasten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngelâŋ",
+        "pronounciation": "ŋ̩̀gèlã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gros sac",
+                "definition_en": "large sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngelávù",
+        "pronounciation": "ŋ̩̀gèlávȕ",
+        "synonym": [
+            "ngalávù ",
+            " ngeyávò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goyave",
+                "definition_en": "guava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngele",
+        "pronounciation": "ŋ̩̀gə̀lè",
+        "synonym": [
+            "ngʉle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    }
+]

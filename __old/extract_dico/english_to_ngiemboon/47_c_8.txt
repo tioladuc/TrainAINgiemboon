@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "chameleon (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kénáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chance, game",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njámbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúbe pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "changeable (chameleon)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sà ntí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change, climate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fèŋe fÿag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change from time to time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change, impossible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "changer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkùbo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change, season",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fèŋe fÿag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "change the meaning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "channels, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "charcoal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kyé mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "charge, masculine person in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "támbìʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "charge, woman in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mámbiʼí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "charm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "charms",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chase",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chassis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsemte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chatter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyaga shwǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "chauffer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "checker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "checkerboard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyɛ̀ʼɛ twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "checkers",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyɛ̀ʼɛ twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "check off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswéʼe",
+                "examples": []
+            }
+        ]
+    }
+]

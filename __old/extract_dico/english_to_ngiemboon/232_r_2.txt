@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "rain, stop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raise an animal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raise one’s voice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rake lightly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ram",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kèkwòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ransom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rapidly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rapidly, pass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfǎd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rare, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rat, common",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ mbândum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rat (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rat, giant pouched",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàandum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rat, greater cane",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rat poison",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo cʉcʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattan chair",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼɔ lekʉb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ̀ŋwàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle, basketwork",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàntsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle, calabash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàntsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle, calf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle, gourd net-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle made of a can",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle made of basketwork",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rattle, wood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàntsàʼ",
+                "examples": []
+            }
+        ]
+    }
+]

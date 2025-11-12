@@ -1,0 +1,416 @@
+[
+    {
+        "noun": "ńdú",
+        "pronounciation": "ɳ̩́ɖú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pleuvoir",
+                "definition_en": "rain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù lɔ̀ɔn",
+        "pronounciation": "ɳ̩̀ɖȕ lɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marteau de la forge",
+                "definition_en": "forge hammer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndù nnɛ́",
+        "pronounciation": "ɳ̩̀ɖȕ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "libre ; indépendant ; liberté",
+                "definition_en": "free; independent; freedom",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́gɔ̀ lɔɔn ńjÿó ncù wɔɔn mbà pɔ́gɔ̀ ge cʉ́ʼ pandù nnɛ́.",
+                        "fr": "Si nous gagnons cette guerre, nous serons libres.",
+                        "en": "If we win this war, we will be free."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdúe",
+        "pronounciation": "ɳ̩́ɖúé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remplir",
+                "definition_en": "fill",
+                "examples": [
+                    {
+                        "dialect": "Lekʉŋ lǔe.",
+                        "fr": "La marmite est pleine.",
+                        "en": "The pot is full."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "remplir plusieurs ; se remplir",
+                "definition_en": "fill several; fill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdule",
+        "pronounciation": "ɳ̩́ɖùlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être apparent (bosse)",
+                "definition_en": "be obvious (lump, hump)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndúm",
+        "pronounciation": "ɳ̩̀ɖúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mâle",
+                "definition_en": "male",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm",
+        "pronounciation": "ɳ̩̀ɖȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sur ; dessus",
+                "definition_en": "on; above",
+                "examples": [
+                    {
+                        "dialect": "Kaa pàga káŋ, ńtÿɔ́gɔ ndùm kúmbù.",
+                        "fr": "Porte le plat pour le mettre au dessus de la soupière.",
+                        "en": "Carry the dish to place it above the soup tureen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndǔm",
+        "pronounciation": "ɳ̩̀ɖǔm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mari",
+                "definition_en": "husband",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdum",
+        "pronounciation": "ɳ̩́ɖùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être chaud",
+                "definition_en": "be warm; be hot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdúm",
+        "pronounciation": "ɳ̩́ɖúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mordre ; être tranchant",
+                "definition_en": "bite; be sharp",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir des grandes douleurs en période d’accouchement",
+                "definition_en": "having severe pain during childbirth",
+                "examples": [
+                    {
+                        "dialect": "Manzwě ne ńdúme.",
+                        "fr": "La femme a des douleurs d’accouchement.",
+                        "en": "The woman has labor pains."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être au travail",
+                "definition_en": "be at work",
+                "examples": []
+            },
+            {
+                "definition_fr": "mordiller",
+                "definition_en": "bite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm kǔ",
+        "pronounciation": "ɳ̩̀ɖȕm kǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dessus du lit",
+                "definition_en": "on top of the bed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndúm legǐ metʉ̌a",
+        "pronounciation": "ɳ̩̀ɖúm lèɣǐ metɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "ditch millet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm melɔ̌ɔn",
+        "pronounciation": "ɳ̩̀ɖȕm mèlɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empeigne",
+                "definition_en": "shoe upper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm ndùm",
+        "pronounciation": "ɳ̩̀ɖȕm ɳ̩̀ɖȕm",
+        "synonym": [
+            "mbùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égrugeoir ; s. mortier très profond",
+                "definition_en": "mortar; k. very deep mortar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndúm ngʉngʉ́ŋ",
+        "pronounciation": "ɳ̩̀ɖúm ŋ̩̀gɯ̀ŋgɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "haspan flatsedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm ngwóŋ",
+        "pronounciation": "ɳ̩̀ɖȕm ŋ̩̀gwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sillon",
+                "definition_en": "furrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùm nɔ̀ɔn",
+        "pronounciation": "ɳ̩̀ɖȕm nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "potamochère d’Afrique",
+                "definition_en": "red river hog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùmbòŋo",
+        "pronounciation": "ɳ̩̀ɖȕmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanceux",
+                "definition_en": "lucky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdumo",
+        "pronounciation": "ɳ̩́ɖùmò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piler ; égruger",
+                "definition_en": "grind; crush; pulverize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùmo kwò",
+        "pronounciation": "ɳ̩̀ɖùmȍ kxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empeigne",
+                "definition_en": "shoe upper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùmommóléjÿo",
+        "pronounciation": "ǹ̩dùmȍmmóléʒʃɥò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gourmand",
+                "definition_en": "greedy person",
+                "examples": [
+                    {
+                        "dialect": "Ndùmommóléjÿo aa těen ńjÿó mmó ńzẅɛ́ɛ wɔ́.",
+                        "fr": "Quand le gourmand mange, il ne se rassasie jamais.",
+                        "en": "When the gourmand eats, he never gets satisfied."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndùndú",
+        "pronounciation": "ɳ̩̀ɖȕɳɖú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peine ; souffrance",
+                "definition_en": "sadness; trouble; suffering",
+                "examples": [
+                    {
+                        "dialect": "Mé lɔɔn ńcúa ɔ́, ɔ̀ pɔ́ɔn létsɔ́ʼ ndùndú ná né mèŋ.",
+                        "fr": "Si on te tape, ne me renvoie pas la peine.",
+                        "en": "If you get hit, don't blame me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndùngwɔ̌ʼ",
+        "pronounciation": "ɳ̩̀ɖȕŋgwɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "termitière",
+                "definition_en": "termite mound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdúŋ",
+        "pronounciation": "ɳ̩́ɖṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter le deuil ; lamenter",
+                "definition_en": "be in mourning; lament; moan",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndùŋ mvfò",
+        "pronounciation": "ɳ̩̀ɖũ̏ŋ ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.ord",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier",
+                "definition_en": "first",
+                "examples": [
+                    {
+                        "dialect": "Tâm kɔʼɔ́ ńgwɔ́ ndùŋ mvfò nyìŋ létóo ndá cúʼtè.",
+                        "fr": "Tam était le premier à être à la réunion.",
+                        "en": "Tam was the first to be at the meeting."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,551 @@
+[
+    {
+        "noun": "wetsɔ̌",
+        "pronounciation": "wètsɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autre ; certain (modifiant les noms de la classe 1)",
+                "definition_en": "other; certain",
+                "examples": [
+                    {
+                        "dialect": "Wetsɔ̌ nyìŋ ge tó yé pɔ́ ncwò nzem.",
+                        "fr": "L’autre personne ne viendra que dans la soirée.",
+                        "en": "The other person will only come in the evening."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wetsɔ̌ júɔ",
+        "pronounciation": "wètsɔ̌ ʒúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avant-hier ; après-demain",
+                "definition_en": "day before yesterday; day after tomorrow",
+                "examples": [
+                    {
+                        "dialect": "Peg ka tè tó jǔɔ wɔ́; á ka gwɔ̌ pɔ́ wetsɔ̌ júɔ.",
+                        "fr": "Nous ne sommes pas venus hier ; c’était avant-hier.",
+                        "en": "We didn't come yesterday; it was the day before yesterday."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wevfǒ",
+        "pronounciation": "wèvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit (qualifie les noms des classes 1 et 3)",
+                "definition_en": "cooked (qualifying nouns from classes 1 and 3)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mûr (qualifie les noms des classes 1 et 3)",
+                "definition_en": "ripe (qualifying nouns from classes 1 and 3)",
+                "examples": [
+                    {
+                        "dialect": "Náa pîɛ wevfǒ né mèŋ.",
+                        "fr": "Donne-moi l’avocat mûr.",
+                        "en": "Give me the ripe avocado."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wèwa",
+        "pronounciation": "wȅwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. oiseau",
+                "definition_en": "sp. bird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wéwɛ̌",
+        "pronounciation": "wéwɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.dém.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui-là",
+                "definition_en": "that one (distant demonstrative pronoun that refers to class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pi lɔɔn ńtó, pi júu wéwɛ̌ ńná né mèŋ.",
+                        "fr": "Si vous arrivez, achetez celui-là pour me donner.",
+                        "en": "If you arrive, buy this one to give to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɛ̀",
+        "pronounciation": "wɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui ; celui-là (pron. dém. de moyen proximité désignant les noms des classes 1 et 3)",
+                "definition_en": "that; that one; that one there (middle distant demonstrative pronoun that refers to class 1 or 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "A gʉa na mvfó yɛ̀, wɛ̀ zɔ̌ fáŋ.",
+                        "fr": "Parmi ces chèvres-là, c’est celle-là qui est grande.",
+                        "en": "Among these goats, this is the one that is big."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de moyen proximité qui modifie les noms des classes 1 et 3)",
+                "definition_en": "that; that ... there (middle demonstrative adjective modifying class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Nyìŋ wɛ̀, à te poŋ.",
+                        "fr": "Cet homme-là, il n’est pas bon.",
+                        "en": "This man is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɛ̌",
+        "pronounciation": "wɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lequel ? (demandant pour les noms des classes 1 et 3)",
+                "definition_en": "which one? (asking for classes 1 or 3)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ ge gʉa na menkáʼ mɔɔn, é jú wɛ̌?",
+                        "fr": "Parmi les champs-ci, tu achèteras lequel ?",
+                        "en": "Which of the following fields will you buy?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wó",
+        "pronounciation": "wó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.l",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "là",
+                "definition_en": "there",
+                "examples": [
+                    {
+                        "dialect": "À gɔ̌ɔn ngie à tè wó wɔ́.",
+                        "fr": "Il a dit qu’il ne sera pas là.",
+                        "en": "He said he won't be there."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "woo",
+        "pronounciation": "wòː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant le dégoût ; marquant la déception)",
+                "definition_en": "(shows distaste); (shows disappointment)",
+                "examples": [
+                    {
+                        "dialect": "Woo míŋ mbǎʼ nyìŋ oo! Tà à ge tsẅɛ́ɛ?",
+                        "fr": "« Woo » enfant d’autrui ! S’en sortira t-il ?",
+                        "en": "“Woo” someone else’s child! Will he get through it?"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "oui (réponse)",
+                "definition_en": "yes (response)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n tǒŋo yé, á gɔɔn ngie woo.",
+                        "fr": "Je l’ai appelé, il a dit oui.",
+                        "en": "I called him, he said yes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wóo ... móo",
+        "pronounciation": "wóː ... móː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’émotion)",
+                "definition_en": "(shows emotion)",
+                "examples": [
+                    {
+                        "dialect": "Wóo míŋ wɔ̀ɔn móo! Ɔ̀ nyě ńgʉe gʉe.",
+                        "fr": "« Wóo » mon fils ! Tu es encore bête.",
+                        "en": "“Wóo” my son! You're still stupid."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́",
+        "pronounciation": "wɔ́",
+        "synonym": [
+            "mɔ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ téen ńge ńtó wɔ́.",
+                        "fr": "Ils ne viendront pas.",
+                        "en": "They won't come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔ̌",
+        "pronounciation": "wɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qui",
+                "definition_en": "who",
+                "examples": [
+                    {
+                        "dialect": "À wɔ̌ toŋó gú?",
+                        "fr": "Qui t’a appelé ?",
+                        "en": "Who called you?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́ pɔ̂",
+        "pronounciation": "wɔ́ pɔ̂",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la surprise ; marquant l’étonnement)",
+                "definition_en": "(shows surprise)",
+                "examples": [
+                    {
+                        "dialect": "Wɔ́ pɔ̂! egubé nyé tè kwɔʼɔ́ sekúd páʼɔɔn é gwe nzyè.",
+                        "fr": "« Wɔ́ pɔ̂ » ! Les enfants ne sont pas toujours rentrés de l’école, ils peuvent crever de faim.",
+                        "en": "“Wɔ́ pɔ̂”! The children are not always home from school, they can starve."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔb",
+        "pronounciation": "wɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "leur (pro. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 1)",
+                "definition_en": "theirs (third person plural possessive pronoun referring back to class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 1)",
+                "definition_en": "their (third person plural possessive adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 1)",
+                "definition_en": "their (third person plural emphatic possessive adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́b",
+        "pronounciation": "wɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les (pron. obj. de la 3e personne du pluriel)",
+                "definition_en": "them (3rd person plural object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńtóŋo wɔ́b!",
+                        "fr": "Pars les appeler !",
+                        "en": "Go call them!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́b",
+        "pronounciation": "wɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le leur (pron. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 3)",
+                "definition_en": "his (3rd person plural possessive pronoun referring back to class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 3)",
+                "definition_en": "his (3rd person plural possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 3)",
+                "definition_en": "his (3rd person plural emphatic possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́gɔ̀",
+        "pronounciation": "wɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien et le mien (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 3)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 3)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 3)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ̀gɔ",
+        "pronounciation": "wɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien et le mien (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 1)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 1)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 1 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 1)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 1 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́ɔ",
+        "pronounciation": "wɔ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ou bien",
+                "definition_en": "either",
+                "examples": [
+                    {
+                        "dialect": "Tóŋo mambàŋa kà manzwě wɔ́ɔ.",
+                        "fr": "Appelle l’homme ou bien la femme.",
+                        "en": "Call the man or the woman."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔɔn",
+        "pronounciation": "wɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceci ; celui ; celui-ci (pro. dém. de proche proximité qui modifie les noms des classes 1 et 3)",
+                "definition_en": "this; this one; this one here (close demonstrative pronoun modifying class 1 and 3 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn lékaa mêngáb wɛ̂, kaa pɔ́ wɔɔn.",
+                        "fr": "Ne porte pas ce poule-là, porte seulement celle-ci.",
+                        "en": "Don't wear that hen, just wear this one."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -ci (adj. dém. de proche proximité qui modifie les noms des classes 1 et 3)",
+                "definition_en": "this; this ... here (close demonstrative adjective modifying class 1 and 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́ɔn",
+        "pronounciation": "wɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "me (pron. obj. de la 1ère personne du singulier)",
+                "definition_en": "me (first person singular object pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Te líe wɔ́ɔn.",
+                        "fr": "Ne me regarde pas.",
+                        "en": "Don't look at me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wɔ́ɔn",
+        "pronounciation": "wɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le mien (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 3)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "my (first person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 3)",
+                "definition_en": "my (first person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ̀ɔn",
+        "pronounciation": "wɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le mien (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 1)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "my (first person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 1)",
+                "definition_en": "my (first person singular possessive adjective modifying class 3 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wɔ̌wɔ́ɔ",
+        "pronounciation": "wɔ̌wɔ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.indéf.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’importe qui",
+                "definition_en": "anyone",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ tsẅǐ ngie wɔ̌wɔ́ɔ néŋe ssé.",
+                        "fr": "Ils ont demandé à tout le monde de s’asseoir.",
+                        "en": "They asked everyone to sit down."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "wúndù",
+        "pronounciation": "wúndȕ",
+        "synonym": [
+            "fènɛ́tèle ",
+            " tɔ̀gɔ nkyɛ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fenêtre",
+                "definition_en": "window",
+                "examples": []
+            }
+        ]
+    }
+]

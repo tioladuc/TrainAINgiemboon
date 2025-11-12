@@ -1,0 +1,391 @@
+[
+    {
+        "noun": "ŋàg",
+        "pronounciation": "ŋȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jugement",
+                "definition_en": "judgement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋàŋa",
+        "pronounciation": "ŋã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigre ; maigrichon",
+                "definition_en": "thin; skinny; lean",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ nǎ tsɔ́ ŋàŋa mêngwé né mèŋ.",
+                        "fr": "Ils m’ont donné un maigre chien.",
+                        "en": "They gave me a skinny dog."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋâŋǎ",
+        "pronounciation": "ŋâŋǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cri du corbeau pie",
+                "definition_en": "pied crow’s cry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋátè",
+        "pronounciation": "ŋátȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "torsion",
+                "definition_en": "twisting; torsion",
+                "examples": []
+            },
+            {
+                "definition_fr": "détournement ; injustice ; iniquité",
+                "definition_en": "diversion; embezzlement; injustice; iniquity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋáʼ ncwò",
+        "pronounciation": "ŋáʔ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imbécile ; idiot",
+                "definition_en": "imbecile; idiot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋáʼ ncwò",
+        "pronounciation": "ŋáʔ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋáʼtè",
+        "pronounciation": "ŋáʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espacement",
+                "definition_en": "spacing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋáʼtè",
+        "pronounciation": "ŋáʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vantardise",
+                "definition_en": "boastfulness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋège",
+        "pronounciation": "ŋə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force ; mouvement ; geste ; effort",
+                "definition_en": "strength; force; movement; gesture; effort",
+                "examples": [
+                    {
+                        "dialect": "A gǔɔ tà tsɔ̌ meŋège té gíŋe ńgwɔ́ wó wɔ́.",
+                        "fr": "Il a été malade si bien qu’il n’a plus aucune force.",
+                        "en": "He has been sick so much that he no longer has any strength."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋeŋɛ́",
+        "pronounciation": "ŋə̀ŋɛ́",
+        "synonym": [
+            "ŋʉŋÿá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeau pie",
+                "definition_en": "pied crow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋʉŋÿá",
+        "pronounciation": "ŋɯ̀ŋɰá",
+        "synonym": [
+            "ŋeŋɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corbeau pie",
+                "definition_en": "pied crow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwa",
+        "pronounciation": "ŋwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ascaris",
+                "definition_en": "giant intestinal roundworm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwá letuŋó",
+        "pronounciation": "ŋwá lèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouie",
+                "definition_en": "hearing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwa lezẅé",
+        "pronounciation": "ŋwà lèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vomer",
+                "definition_en": "vomer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwà ntság",
+        "pronounciation": "ŋwȁ ǹ̩tsáq̚",
+        "synonym": [
+            "ŋwà ntsyág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désordonné",
+                "definition_en": "disorderly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwà ntsyág",
+        "pronounciation": "ŋwȁ ǹ̩tsjáq̚",
+        "synonym": [
+            "ŋwà ntság"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désordonné",
+                "definition_en": "disorderly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwáláʼ",
+        "pronounciation": "ŋwáláʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ministre",
+                "definition_en": "minister",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwáláʼ twó mbúm",
+        "pronounciation": "ŋwáláʔ ʈθwó m̩̀búm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier ministre",
+                "definition_en": "Prime Minister",
+                "examples": [
+                    {
+                        "dialect": "Ŋwáláʼ twó mbúm ne ńtóŋo meŋwáláʼ.",
+                        "fr": "Le premier ministre appelle les ministres.",
+                        "en": "The Prime Minister calls the ministers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwàʼ",
+        "pronounciation": "ŋwȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit de lamentation",
+                "definition_en": "k. mourning outfit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwàʼne",
+        "pronounciation": "ŋwȁʔnè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "livre ; lettre",
+                "definition_en": "book; letter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwàʼne mezíŋ",
+        "pronounciation": "ŋwȁʔnè mèzĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "registre ; liste",
+                "definition_en": "register; list",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwàʼne Ssé",
+        "pronounciation": "ŋwȁʔnè sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bible",
+                "definition_en": "Bible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwàʼŋwàʼ",
+        "pronounciation": "ŋwȁʔŋwȁʔ",
+        "synonym": [
+            "meŋwàʼmeŋwàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "camouflé ; bigarré",
+                "definition_en": "multi-coloured; camouflaged; mult-coloured",
+                "examples": [
+                    {
+                        "dialect": "Enzsǒ múɔ we ŋwàʼŋwàʼ.",
+                        "fr": "L’habit de l’enfant est camouflé.",
+                        "en": "The child's clothing is camouflaged."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ŋwéŋwelé",
+        "pronounciation": "ŋwə́ŋwə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miette",
+                "definition_en": "crumb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ŋwèʼe",
+        "pronounciation": "ŋwə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lettre ; livre",
+                "definition_en": "letter; book",
+                "examples": []
+            }
+        ]
+    }
+]

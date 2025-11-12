@@ -1,0 +1,372 @@
+[
+    {
+        "noun": "water, draw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, drop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàb ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, have too much",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, holy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water leaving calabash, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, make cloudy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, make lukewarm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water-melon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pasetɛ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "watermelon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwɔʼ ntsentse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, object falling into",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water point",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letiʼí ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water primrose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅé pepaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, river",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, shallow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, upstream",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ wɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, used",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melabá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, vase of holy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water velvet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋngwò leloŋó ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùngwò leloŋó ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "water, walk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waterway, cross",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wax",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefóon nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waxbill, black-crowned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋé pʉ̀pÿɛ̂",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waxbill finch, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉŋé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "waxbill finch, sp. red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "way",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lìŋe",
+                "examples": []
+            }
+        ]
+    }
+]

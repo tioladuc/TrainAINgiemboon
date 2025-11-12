@@ -1,0 +1,512 @@
+[
+    {
+        "noun": "cold, strong",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepfòm ndǔm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collaborators",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅíŋ zẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collapse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collapse onto a large surface",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbwɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lôŋ nzsǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcub",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcubte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collect a liquid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùbo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cùbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collection, funeral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngùb legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collect money",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼa káŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collector",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndàga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa ncùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncùbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa cùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collector, tax",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè ncùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "collide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colonize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colonizer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nʉ̀ʼʉ tsetsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colony",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsáʼa nʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlûm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntẅě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbìlûm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lìi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coloured, be light",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿéen páŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colouring",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎʼ nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntẅě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colours, reverse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "colours, show one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "comb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kekÿɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "syɛ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "combatant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèsɔ̀b ngẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔn màncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "comb, chicken",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼngàŋ",
+                "examples": []
+            }
+        ]
+    }
+]

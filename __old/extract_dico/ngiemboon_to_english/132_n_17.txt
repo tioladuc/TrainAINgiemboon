@@ -1,0 +1,465 @@
+[
+    {
+        "noun": "ńdye",
+        "pronounciation": "ń̩dθjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourrir ; recevoir quelqu’un",
+                "definition_en": "feed; receive someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "recevoir l’invité",
+                "definition_en": "receive the guest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyé",
+        "pronounciation": "ń̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décanter",
+                "definition_en": "settle",
+                "examples": []
+            },
+            {
+                "definition_fr": "décanter",
+                "definition_en": "decant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyé",
+        "pronounciation": "ń̩dθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dormir ; endormir",
+                "definition_en": "sleep; put to sleep",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’endormir",
+                "definition_en": "fall asleep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyè fùɔ",
+        "pronounciation": "ǹ̩dθjȅ fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nomination royale ; berceur du roi",
+                "definition_en": "royal nomination; king’s nursemaid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndye múɔ",
+        "pronounciation": "ǹ̩dθjè múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "berceur",
+                "definition_en": "lullaby",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndye múɔ",
+        "pronounciation": "ǹ̩dθjè múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille",
+                "definition_en": "sp. caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyèen",
+        "pronounciation": "ǹ̩djẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.bén",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "utile",
+                "definition_en": "useful",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyeen",
+        "pronounciation": "ń̩djẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se cacher",
+                "definition_en": "hide oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "se cacher",
+                "definition_en": "hide",
+                "examples": []
+            },
+            {
+                "definition_fr": "se cacher à plusieurs endroits",
+                "definition_en": "hide in several places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyeen",
+        "pronounciation": "ń̩djẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "transmettre",
+                "definition_en": "transmit; broadcast",
+                "examples": []
+            },
+            {
+                "definition_fr": "garder",
+                "definition_en": "keep",
+                "examples": []
+            },
+            {
+                "definition_fr": "transiter ; transmettre",
+                "definition_en": "transit; to transmit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyèente",
+        "pronounciation": "ǹ̩djẽ̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jouet guerrier local",
+                "definition_en": "local soldier’s toy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛ",
+        "pronounciation": "ń̩djɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "allumer le feu",
+                "definition_en": "start a fire",
+                "examples": []
+            },
+            {
+                "definition_fr": "allumer plusieurs fois ; allumer çà et là",
+                "definition_en": "turn on several times; light here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛ",
+        "pronounciation": "ń̩djɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coller",
+                "definition_en": "glue",
+                "examples": []
+            },
+            {
+                "definition_fr": "coller",
+                "definition_en": "stick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀ ngʉ̀a",
+        "pronounciation": "ǹ̩djɛ̏ ŋ̩̀gɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éternel sur terre",
+                "definition_en": "eternal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛb",
+        "pronounciation": "ń̩djɛ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accrocher à l’épaule ; porter en bandoulière",
+                "definition_en": "hang from the shoulder; carry by shoulder strap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀bte",
+        "pronounciation": "ǹ̩djɛ̀ptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accrocheur ; coltineur",
+                "definition_en": "porter",
+                "examples": []
+            },
+            {
+                "definition_fr": "charmeur",
+                "definition_en": "charm; enchant",
+                "examples": []
+            },
+            {
+                "definition_fr": "dompteur",
+                "definition_en": "trainer",
+                "examples": [
+                    {
+                        "dialect": "Ndyɛ̀bte menɔ̀ɔn wɔɔn.",
+                        "fr": "Voici le dompteur des animaux.",
+                        "en": "This is the animal tamer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛ́bte",
+        "pronounciation": "ń̩djɛ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dompter ; attirer ; charmer",
+                "definition_en": "tame; pull; charm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀ɛ",
+        "pronounciation": "ǹ̩djɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colleur",
+                "definition_en": "billsticker; wallpaperer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛte",
+        "pronounciation": "ń̩djɛ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir de l’affection",
+                "definition_en": "like",
+                "examples": [
+                    {
+                        "dialect": "Múɔ lyɛte má we tɛʼ.",
+                        "fr": "Cet enfant a trop d’affection à sa mère.",
+                        "en": "This child has too much affection for his mother."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛ́te",
+        "pronounciation": "ń̩djɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "recueillir",
+                "definition_en": "collect; gather",
+                "examples": [
+                    {
+                        "dialect": "Ńdyɛ́te ntse.",
+                        "fr": "Recueillir l’eau.",
+                        "en": "Collect the water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀ʼ",
+        "pronounciation": "ǹ̩djɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Ndyɛ̀ʼ ɔ̀ gÿo tà nyìŋ júʼ.",
+                        "fr": "Ne fais pas jusqu’à ce que quelqu’un sache.",
+                        "en": "Don't until someone knows."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "peut-être",
+                "definition_en": "perhaps",
+                "examples": [
+                    {
+                        "dialect": "À nyě  te tó ka? Ndyɛ̀ʼ aa mánzsè.",
+                        "fr": "N’est-il pas encore venu ? Peut-être il est en route.",
+                        "en": "Has he not come yet? Maybe he's on his way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀ʼ tsɔ́",
+        "pronounciation": "ǹ̩djɛ̏ʔ tsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peut-être",
+                "definition_en": "perhaps; maybe",
+                "examples": [
+                    {
+                        "dialect": "Ndyɛ̀ʼ tsɔ́ à gwǎ gɔɔn à tè zsé ngie ɔ̀ ge júʼ wɔ́.",
+                        "fr": "Peut-être en le disant il n’a pas su que tu pouvais comprendre.",
+                        "en": "Perhaps when he said it he didn't know that you could understand."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndyɛ̀ʼɛ",
+        "pronounciation": "ǹ̩djɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms de toutes les classes)",
+                "definition_en": "certain; other (modifying nouns from all classes)",
+                "examples": [
+                    {
+                        "dialect": "Aa nyìŋ ndyɛ̀ʼɛ, n tè ne ńzsé yé wɔ́.",
+                        "fr": "C’est un inconnu, je ne le connais pas.",
+                        "en": "He's a stranger, I don't know him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛʼte",
+        "pronounciation": "ń̩djɛ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "expliquer",
+                "definition_en": "explain",
+                "examples": []
+            },
+            {
+                "definition_fr": "indiquer",
+                "definition_en": "indicate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdyɛʼte",
+        "pronounciation": "ń̩djɛ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gronder",
+                "definition_en": "rumble; growl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿèen",
+        "pronounciation": "ǹ̩dɰẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rinceur",
+                "definition_en": "dishwasher",
+                "examples": [
+                    {
+                        "dialect": "Á gʉa na pi pie pi ne sɔgɔ mekáŋ pɛ́ʼɛ andÿèen gwɔ́ wɔ̌?",
+                        "fr": "Parmi vous qui lavez les assiettes, qui est le rinceur ?",
+                        "en": "Among you who wash the plates, who is the rinser?"
+                    }
+                ]
+            }
+        ]
+    }
+]

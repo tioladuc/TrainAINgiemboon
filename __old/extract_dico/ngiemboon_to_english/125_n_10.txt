@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "ndeʼé",
+        "pronounciation": "ǹ̩də̀ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rendez-vous",
+                "definition_en": "appointment; meeting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèʼe",
+        "pronounciation": "ǹ̩də̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conservateur",
+                "definition_en": "curator; librarian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeʼe",
+        "pronounciation": "ń̩də̀ʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cacher",
+                "definition_en": "hide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeʼe",
+        "pronounciation": "ń̩də̀ʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se fixer un rendez-vous",
+                "definition_en": "make a date",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeʼe",
+        "pronounciation": "ń̩də̀ʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guarder",
+                "definition_en": "keep",
+                "examples": []
+            },
+            {
+                "definition_fr": "lyncher",
+                "definition_en": "lynch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdéʼe",
+        "pronounciation": "ń̩də́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caler ; suspendre ; rester en haut",
+                "definition_en": "wedge; suspend; stay on top",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdeʼe ngʉ̀ngʉ̀",
+        "pronounciation": "ń̩də̀ʔè ŋ̩̀gɯ̏ŋgɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lyncher",
+                "definition_en": "lynch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèʼe nkáb",
+        "pronounciation": "ǹ̩də̀ʔȅ ŋ̩̀káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trésorier",
+                "definition_en": "treasurer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèʼe ntsem",
+        "pronounciation": "ǹ̩də̀ʔȅ ǹ̩tsə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secrétaire",
+                "definition_en": "secretary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndi",
+        "pronounciation": "ǹ̩dì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hochet de cheville en coques de fruit sec",
+                "definition_en": "calf rattle made of dried fruit shells",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdí",
+        "pronounciation": "ń̩dí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être en retard",
+                "definition_en": "be late",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdibe",
+        "pronounciation": "ń̩dìβè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "envier",
+                "definition_en": "envy",
+                "examples": [
+                    {
+                        "dialect": "Te láʼa ńdibe na mmó nyìŋ pɛ́ʼɛ̀.",
+                        "fr": "Il faut pas envier la chose de quelqu’un comme-ça.",
+                        "en": "You shouldn't envy someone like that."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdíbe",
+        "pronounciation": "ń̩díβé",
+        "synonym": [
+            "ńdíbte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "desserrer",
+                "definition_en": "loosen",
+                "examples": []
+            },
+            {
+                "definition_fr": "être faible ; être fatigué  (élastique)",
+                "definition_en": "be feeble; be worn out (elastic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíbte",
+        "pronounciation": "ń̩dípté",
+        "synonym": [
+            "ńdíbe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "desserrer",
+                "definition_en": "loosen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndìe",
+        "pronounciation": "ǹ̩dìȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "observateur ; dirigeant",
+                "definition_en": "observer; leader",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíe",
+        "pronounciation": "ń̩díé",
+        "synonym": [
+            "ńcʉte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regarder",
+                "definition_en": "look at",
+                "examples": []
+            },
+            {
+                "definition_fr": "se regarder",
+                "definition_en": "look at each other",
+                "examples": []
+            },
+            {
+                "definition_fr": "converger les yeux",
+                "definition_en": "converge the eyes",
+                "examples": []
+            },
+            {
+                "definition_fr": "surveiller",
+                "definition_en": "to watch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndǐe jʉʼ",
+        "pronounciation": "ǹ̩dìé ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regard",
+                "definition_en": "look; glance",
+                "examples": [
+                    {
+                        "dialect": "Ambàŋa wɔɔn, ndǐe jʉʼ wé té poŋ.",
+                        "fr": "Cet homme, son regard n’est pas bien.",
+                        "en": "This man, his look is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdiɛ",
+        "pronounciation": "ń̩dìɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se servir le taro",
+                "definition_en": "serve oneself taro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíɛ",
+        "pronounciation": "ń̩díɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être clair ; être propre",
+                "definition_en": "be clear; be clean",
+                "examples": []
+            },
+            {
+                "definition_fr": "être propre",
+                "definition_en": "be clean",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńtúʼ ntse gẅie é ne ńdíɛte.",
+                        "fr": "Va puiser de l’eau qui est propre.",
+                        "en": "Go get some clean water."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdile",
+        "pronounciation": "ń̩dìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être collant",
+                "definition_en": "be sticky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndilétáŋ",
+        "pronounciation": "ǹ̩dìlétã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alibi ; prétexte ; échappatoire",
+                "definition_en": "alibi; pretext; excuse; evasion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdimte",
+        "pronounciation": "ń̩dìmtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réchauffer",
+                "definition_en": "reheat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíndaʼ",
+        "pronounciation": "ń̩díndàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sauf ; excepté",
+                "definition_en": "except; apart from",
+                "examples": [
+                    {
+                        "dialect": "Mé pǔ ńtó tà ńdíndàʼ tàʼ nyìŋ.",
+                        "fr": "On est tous venu sauf une personne.",
+                        "en": "We all came except one person."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdiŋ",
+        "pronounciation": "ń̩dĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "reconnaître",
+                "definition_en": "recognize",
+                "examples": []
+            },
+            {
+                "definition_fr": "remarquer",
+                "definition_en": "notice; remark",
+                "examples": []
+            },
+            {
+                "definition_fr": "donner un signe de reconnaissance",
+                "definition_en": "give a sign of recognition",
+                "examples": []
+            },
+            {
+                "definition_fr": "remarquer",
+                "definition_en": "to remark",
+                "examples": []
+            },
+            {
+                "definition_fr": "noter",
+                "definition_en": "note",
+                "examples": []
+            },
+            {
+                "definition_fr": "remarquer un peu ; faire des remarques",
+                "definition_en": "notice a little; make remarks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndìŋe",
+        "pronounciation": "ǹ̩dĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chimpanzé",
+                "definition_en": "chimpanzee",
+                "examples": []
+            }
+        ]
+    }
+]

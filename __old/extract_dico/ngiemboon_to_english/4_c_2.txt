@@ -1,0 +1,420 @@
+[
+    {
+        "noun": "cʉ̀cʉ̀ʼ",
+        "pronounciation": "tʃɯ̏tʃɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouvement",
+                "definition_en": "movement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿò",
+        "pronounciation": "tʃɯ̏tʃːɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. sickness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́cÿɔ́d",
+        "pronounciation": "tʃɯ́tʃɰɔ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. moustique (noir, brun)",
+                "definition_en": "sp. black or brown mosquito",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿɔ̀gɔ",
+        "pronounciation": "tʃɯ̏tʃɰɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chenille (gén.)",
+                "definition_en": "caterpillar (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿɔ̀gɔ kaafé",
+        "pronounciation": "tʃɯ̏tʃɰɔ̀ʁɔ̏ kààfé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petite chenille noire qui mange les feuilles de caféiers",
+                "definition_en": "tiny black caterpillar that eats coffee leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿɔ̀gɔ lefaŋ",
+        "pronounciation": "tʃɯ̏tʃɰɔ̀ʁɔ̏ lèfã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pyrale",
+                "definition_en": "borer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿɔ̀gɔ mentÿo",
+        "pronounciation": "tʃɯ̏tʃɰɔ̀ʁɔ̏ mèɳʈθɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "phrygane",
+                "definition_en": "caddisfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cÿɔ̀gɔ ngesáŋ",
+        "pronounciation": "tʃɯ̏tʃɰɔ̀ʁɔ̏ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille",
+                "definition_en": "sp. caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀me",
+        "pronounciation": "tʃɯ̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépôt (où on confie)",
+                "definition_en": "depot; warehouse (where one leaves things)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀me ngyè",
+        "pronounciation": "tʃɯ̀mȅ ŋ̩̀gxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détonation ; éclatement",
+                "definition_en": "detonation; explosion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́ŋ",
+        "pronounciation": "tʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très acide",
+                "definition_en": "very acidic",
+                "examples": [
+                    {
+                        "dialect": "Lámásè we cÿɔ̌g lê cʉ́ŋ.",
+                        "fr": "Son orange est très acide.",
+                        "en": "Its orange is very acidic."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉŋ nzẅìŋ",
+        "pronounciation": "tʃɯ̃̀ŋ ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "décevant ; fourbe",
+                "definition_en": "double-dealer; disappointing; double-dealer",
+                "examples": []
+            },
+            {
+                "definition_fr": "souillure",
+                "definition_en": "stain",
+                "examples": [
+                    {
+                        "dialect": "Lenuŋe nzwě fɛ̌ gù, á kwàʼ cʉ̀ŋe nzẅìŋ.",
+                        "fr": "Entretenir les rapports sexuels avec la femme de ton frère est une souillure grave.",
+                        "en": "Having sexual relations with your brother's wife is a serious defilement."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀ŋe nkáb",
+        "pronounciation": "tʃɯ̃̀ŋȅ ŋ̩̀káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaspillage",
+                "definition_en": "waste",
+                "examples": [
+                    {
+                        "dialect": "Legwé nziŋte ziŋté, áa kwàʼ cʉ̀ŋe nkáb.",
+                        "fr": "Les cérémonies funéraires sont vraiment un gaspillage.",
+                        "en": "Funeral ceremonies are really a waste."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́ʼ",
+        "pronounciation": "tʃɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "par derrière ; après",
+                "definition_en": "from behind; after",
+                "examples": [
+                    {
+                        "dialect": "Cʉ́ʼ ńdíe penkʉ́ mboŋó.",
+                        "fr": "Par derrière, surveille bien les enfants.",
+                        "en": "From behind, keep a close eye on the children."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀ʼ",
+        "pronounciation": "tʃɯ̀ʔ",
+        "synonym": [
+            "cʉ̀ʼʉmáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "friperie",
+                "definition_en": "second-hand clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̂ʼ",
+        "pronounciation": "tʃɯ̂ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très amer",
+                "definition_en": "very bitter",
+                "examples": [
+                    {
+                        "dialect": "Affo ŋwɛ́ lẅe lê cʉ̂ʼ páʼ mekáŋ la.",
+                        "fr": "Le remède est très amer comme le Vernonia.",
+                        "en": "The remedy is very bitter like Vernonia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́ʼ múɔ lyé",
+        "pronounciation": "tʃɯ́ʔ múɔ̀ lɬjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tilapia",
+                "definition_en": "tilapia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́ʼ pɛ́ʼɛ̀",
+        "pronounciation": "tʃɯ́ʔ pɛ́ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remerciement",
+                "definition_en": "thanks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀ʼʉ",
+        "pronounciation": "tʃɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... plus",
+                "definition_en": "no longer",
+                "examples": [
+                    {
+                        "dialect": "Cʉ̀ʼʉ ńgÿo mmó yɛ̀.",
+                        "fr": "Ne fais plus ça.",
+                        "en": "Don't do this anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ́ʼʉ ... wɔ́",
+        "pronounciation": "tʃɯ́ʔɯ́ ... wɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.nég.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... plus",
+                "definition_en": "no longer",
+                "examples": [
+                    {
+                        "dialect": "Apɔ̀ɔn ya cʉ́ʼʉ pǐ wɔ́.",
+                        "fr": "Le sac-là n’est plus dehors.",
+                        "en": "That bag is no longer outside."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀ʼʉmáʼ",
+        "pronounciation": "tʃɯ̀ʔɯ̏máʔ",
+        "synonym": [
+            "cʉ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "friperie",
+                "definition_en": "second-hand clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀ʼʉnzàʼa",
+        "pronounciation": "tʃɯ̀ʔɯ̏ndzàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cwóŋ",
+        "pronounciation": "tʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très mauvais",
+                "definition_en": "very bad",
+                "examples": [
+                    {
+                        "dialect": "Legwaʼá kʉŋe sɔɔn leme lê cwóŋ.",
+                        "fr": "La poubelle-ci sent très mauvais.",
+                        "en": "This trash can smells very bad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cwóŋ",
+        "pronounciation": "metʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tas",
+                "definition_en": "pile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cwoŋo njúʼ",
+        "pronounciation": "tʃwõ̀ŋõ̀ ǹ̩dʒúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rappel",
+                "definition_en": "reminder",
+                "examples": [
+                    {
+                        "dialect": "Mé shwǒŋ tà mé ée fʉ̀ʼɔɔn, ńgwɔ́ tsɛ̀ɛ cwoŋo ńjúʼ.",
+                        "fr": "On a parlé jusqu’à maintenant, on est sur le rappel.",
+                        "en": "We have spoken until now, we are on recall."
+                    }
+                ]
+            }
+        ]
+    }
+]

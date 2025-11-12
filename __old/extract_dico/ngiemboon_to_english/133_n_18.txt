@@ -1,0 +1,406 @@
+[
+    {
+        "noun": "ńdÿéen",
+        "pronounciation": "ɳ̩́ɖɰẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rincer",
+                "definition_en": "rinse",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir un teint clair",
+                "definition_en": "have a fair complexion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿeen njÿó",
+        "pronounciation": "ɳ̩́ɖɰẽ̀ː ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apparaître à l’aurore ; apparaître à l’aube",
+                "definition_en": "appear at dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿò",
+        "pronounciation": "ɳ̩̀ɖθɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adulte",
+                "definition_en": "adult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿò",
+        "pronounciation": "ɳ̩̀ɖθɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand ; grand personnage",
+                "definition_en": "great; important person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿò",
+        "pronounciation": "ɳ̩̀ɖθɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limite",
+                "definition_en": "boundary; limit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿò",
+        "pronounciation": "ɳ̩̀ɖθɰȍ",
+        "synonym": [
+            "lÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gastrite",
+                "definition_en": "gastritis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿo",
+        "pronounciation": "ɳ̩́ɖθɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutter",
+                "definition_en": "wrestle; fight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿoon",
+        "pronounciation": "ɳ̩̀ɖɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tombeau",
+                "definition_en": "tomb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿóon",
+        "pronounciation": "ɳ̩̀ɖɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "roussette paillée africaine",
+                "definition_en": "Straw-colored fruit bat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿòon",
+        "pronounciation": "ɳ̩̀ɖɰõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accidenté ; victime",
+                "definition_en": "accident victim",
+                "examples": [
+                    {
+                        "dialect": "Matúa gwě, mé náa ndÿòon ndá ffo.",
+                        "fr": "La voiture s’est renversée, on a conduit l’accidenté chez le guérisseur.",
+                        "en": "The car overturned, the accident victim was taken to the healer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿoon",
+        "pronounciation": "ɳ̩́ɖɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cacher",
+                "definition_en": "hide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿóon",
+        "pronounciation": "ɳ̩́ɖɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se blesser",
+                "definition_en": "injure",
+                "examples": []
+            },
+            {
+                "definition_fr": "se blesser",
+                "definition_en": "get hurt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿoon lÿoon",
+        "pronounciation": "ɳ̩̀ɖɰõ̀ː ɭɰõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "secrètement",
+                "definition_en": "secretly",
+                "examples": [
+                    {
+                        "dialect": "Ńtí kɔ́ ɔ̀ gɔɔn ndÿoon lÿoon?",
+                        "fr": "Pourquoi dis-tu secrètement ?",
+                        "en": "Why do you say secretly?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndÿòon menkǐb",
+        "pronounciation": "ɳ̩̀ɖɰõ̏ː mèŋkǐp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sournois",
+                "definition_en": "shrewd; cunning; crafty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿòon ncù",
+        "pronounciation": "ɳ̩̀ɖɰõ̏ː ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée camouflant",
+                "definition_en": "camouflaged army",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿɔ̀g",
+        "pronounciation": "ɳ̩̀ɖɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle ; s. grand tambour",
+                "definition_en": "k. cultural dance; k. large drum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿɔgɔ́",
+        "pronounciation": "ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autorité ; administrateur",
+                "definition_en": "authority; administrator",
+                "examples": []
+            },
+            {
+                "definition_fr": "homme blanc",
+                "definition_en": "white man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿɔgɔ",
+        "pronounciation": "ɳ̩́ɖɰɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdre conscience",
+                "definition_en": "pass out; lose consciousness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿɔgte",
+        "pronounciation": "ɳ̩́ɖɰɔ̀qtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flatter",
+                "definition_en": "flatter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdÿɔ́ʼ",
+        "pronounciation": "ɳ̩́ɖɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éviter ; esquiver",
+                "definition_en": "avoid; dodge",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire la guerre",
+                "definition_en": "make war",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿɔ̀ʼ ncù",
+        "pronounciation": "̀ɳ̩̀ɖɰɔ̏ʔ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guerrier",
+                "definition_en": "warrior",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndÿɔ̀ʼɔ",
+        "pronounciation": "ǹ̩dɰɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prudent ; guerrier ; esquiveur",
+                "definition_en": "careful; cautious; warrior; shirker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ne",
+        "pronounciation": "nè",
+        "synonym": [
+            "ńne"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.asp",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en train de (aspect progressif)",
+                "definition_en": "in the process of (progressive aspect)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "né",
+        "pronounciation": "né",
+        "synonym": [
+            "lâ ",
+            " lé ",
+            " pâ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "et ; avec",
+                "definition_en": "and; with",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńkaa káŋ ɔ́ nê yɔ́ɔn, ńdɔg ńtó.",
+                        "fr": "Pars porter ton assiette avec la mienne, tu apportes.",
+                        "en": "Go carry your plate with mine, you bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "né",
+        "pronounciation": "né",
+        "synonym": [
+            "lé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à ; au ; dans ; en ; pour ; chez",
+                "definition_en": "to; in; for; at",
+                "examples": [
+                    {
+                        "dialect": "Ná né yé!",
+                        "fr": "Donne à lui !",
+                        "en": "Give it to him!"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "noun": "rave",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "raw",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pembÿág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sembÿag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wembÿag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "membÿag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbÿɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yembÿag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meŋwʉŋé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ray of sunlight",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwʉ̀ŋ nèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ̌a nèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "razor blade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lísà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reach by attacking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkumte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reach, long",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jwòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reactionary people",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "read",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reader",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ready-to-wear clothes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tème nkyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "realis, imperfective",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "realis progressive aspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "really",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńděen ńké",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿ-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ń-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "é-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "reason",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rebel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métsyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rebellious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métsyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "rebuild",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíʼi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recall questioning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ù gu gu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recapture",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "receive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "receive from time to time",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "receive someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "receive the invited one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdye gʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "recently",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿênjÿê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿê",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "noun": "ntsẅì nkʉ̀ Ssé",
+        "pronounciation": "ǹ̩tsɥȉ ŋ̩̀kɯ̏ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prophète",
+                "definition_en": "prophet",
+                "examples": [
+                    {
+                        "dialect": "Yěsô laa kwàʼ ntsẅì nkʉ̀ Ssé.",
+                        "fr": "Jésus était un vrai prophète.",
+                        "en": "Jesus was a true prophet."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅíle",
+        "pronounciation": "ń̩tsɥílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’échapper",
+                "definition_en": "escape from",
+                "examples": []
+            },
+            {
+                "definition_fr": "être  petit",
+                "definition_en": "be small",
+                "examples": []
+            },
+            {
+                "definition_fr": "déséquilibrer",
+                "definition_en": "throw someone off balance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅiŋ",
+        "pronounciation": "ń̩tsɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner",
+                "definition_en": "bump; strike",
+                "examples": []
+            },
+            {
+                "definition_fr": "cogner",
+                "definition_en": "knock",
+                "examples": []
+            },
+            {
+                "definition_fr": "attaquer",
+                "definition_en": "tackle",
+                "examples": []
+            },
+            {
+                "definition_fr": "taper à la porte gentiment",
+                "definition_en": "knock on the door kindly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅiŋ",
+        "pronounciation": "ń̩tsɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "résister",
+                "definition_en": "resist",
+                "examples": []
+            },
+            {
+                "definition_fr": "manquer de respect",
+                "definition_en": "lack respect",
+                "examples": []
+            },
+            {
+                "definition_fr": "décourager",
+                "definition_en": "discourage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅíŋ",
+        "pronounciation": "ń̩tsɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gémir ; pousser",
+                "definition_en": "moan; push",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅìŋe",
+        "pronounciation": "ǹ̩tsɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogneur ; boxeur",
+                "definition_en": "hitter; boxer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsẅiŋe lɔ̌ɔn",
+        "pronounciation": "ǹ̩tsɥĩ̀ŋè lɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui décourage",
+                "definition_en": "discourager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅite",
+        "pronounciation": "ń̩tsɥìtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amuser ; plaisanter",
+                "definition_en": "amuse; joke",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅíte",
+        "pronounciation": "ń̩tsɥíté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assécher ; commencer à cesser (pluie)",
+                "definition_en": "dry; start to stop (rain)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsẅíʼ",
+        "pronounciation": "ń̩tsɥíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter",
+                "definition_en": "carry",
+                "examples": []
+            },
+            {
+                "definition_fr": "prendre (rapidement, furtivement)",
+                "definition_en": "take (rapidly, furtively)",
+                "examples": []
+            },
+            {
+                "definition_fr": "capter",
+                "definition_en": "pick up; harness; capture",
+                "examples": []
+            },
+            {
+                "definition_fr": "entretenir",
+                "definition_en": "maintain",
+                "examples": [
+                    {
+                        "dialect": "Nkʉ̌a poŋo létsẅíʼ.",
+                        "fr": "La vigne est bien quand on l’entretient.",
+                        "en": "The vine is good when you take care of it."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "soupeser",
+                "definition_en": "weigh",
+                "examples": []
+            },
+            {
+                "definition_fr": "enlever les herbes sur l’arachide",
+                "definition_en": "remove herbs from peanut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Ntsyà",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": []
+    },
+    {
+        "noun": "ntsyág",
+        "pronounciation": "ǹ̩tsjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup ; fois",
+                "definition_en": "blow; time",
+                "examples": [
+                    {
+                        "dialect": "Múɔ zẅiŋé tàʼ ntsyág.",
+                        "fr": "L’enfant a accepté d’un coup.",
+                        "en": "The child agreed suddenly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsyàg",
+        "pronounciation": "ǹ̩tsjȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchet (habit) ; haillon",
+                "definition_en": "scrap (clothing); rag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyág",
+        "pronounciation": "ń̩tsjáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclabousser",
+                "definition_en": "splash",
+                "examples": []
+            },
+            {
+                "definition_fr": "gicler",
+                "definition_en": "spurt; squirt",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre la terre un peu partout",
+                "definition_en": "put a bit of soil all over the place",
+                "examples": []
+            },
+            {
+                "definition_fr": "éclabousser",
+                "definition_en": "splash",
+                "examples": []
+            },
+            {
+                "definition_fr": "gicler",
+                "definition_en": "squirt",
+                "examples": []
+            },
+            {
+                "definition_fr": "mettre la terre un peu partout",
+                "definition_en": "put the earth everywhere",
+                "examples": []
+            },
+            {
+                "definition_fr": "déverser (en pâte, liquide)",
+                "definition_en": "pour out (paste, liquid)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyág",
+        "pronounciation": "ń̩tsjáq̚",
+        "synonym": [
+            "ńtság"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insulter ; simplifier",
+                "definition_en": "insult; simplify",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyagte",
+        "pronounciation": "ń̩tsjàqtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchiqueter",
+                "definition_en": "shred",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsye",
+        "pronounciation": "ń̩tsːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couper en morceau",
+                "definition_en": "cut in pieces",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper ; hacher",
+                "definition_en": "cut out; chop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsye",
+        "pronounciation": "ń̩tsːjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filtrer ; décanter",
+                "definition_en": "filter; screen; settle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyèen",
+        "pronounciation": "ǹ̩tsjẽ̏ː",
+        "synonym": [
+            "nzìʼi nyìŋ ",
+            " ntsèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "facilitateur ; entraîneur ; enseignant ; maître",
+                "definition_en": "facilitator; coach; teacher; primary school teacher",
+                "examples": [
+                    {
+                        "dialect": "Antsyèen pʉ̀a na cúʼtè yɔɔn wɔ́?",
+                        "fr": "Où est le facilitateur de cette réunion ?",
+                        "en": "Where is the facilitator of this meeting?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyeen",
+        "pronounciation": "ń̩tsjẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "initier ; entraîner",
+                "definition_en": "initiate; train",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyeen",
+        "pronounciation": "ń̩tsjẽ̀ː",
+        "synonym": [
+            "ńtseen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entraîner (marche) ; faciliter ; diriger",
+                "definition_en": "lead (walk); facilitate; manage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyéen",
+        "pronounciation": "ń̩tsjẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mâcher",
+                "definition_en": "chew",
+                "examples": []
+            },
+            {
+                "definition_fr": "broyer",
+                "definition_en": "grind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyɛ́",
+        "pronounciation": "ǹ̩tsjɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ironie (se faire malheureux alors qu’on ne l’est pas)",
+                "definition_en": "irony (feel sad while not being so)",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsyɛ",
+        "pronounciation": "ń̩tsjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir des grossesses très rapprochées",
+                "definition_en": "be pregnant frequently",
+                "examples": []
+            },
+            {
+                "definition_fr": "donner l’impression d’être malheureux",
+                "definition_en": "give the impression of being unhappy",
+                "examples": []
+            },
+            {
+                "definition_fr": "décourager ; s’inquiéter ; s’impatienter",
+                "definition_en": "discourage; worry; get impatient",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsyɛ̀ ntsyɛ́",
+        "pronounciation": "ǹ̩tsjɛ̏ ǹ̩tsjɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui se dit malheureux alors que ..",
+                "definition_en": "he who says he is miserable though ..",
+                "examples": []
+            }
+        ]
+    }
+]

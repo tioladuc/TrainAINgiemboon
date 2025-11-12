@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "content, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "context",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "context, out of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tendyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "continent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "continues, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contract",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contribute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "control",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáase",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "controller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "contuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "convalescence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅétè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "converse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋe mépʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "converse with someone, intimately",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsemte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "convulse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cook",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooked",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mevfǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wevfǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pevfǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yevfǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̌ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sevfǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "vfǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooked, be half",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooked, be poorly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooking-pot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooking stone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cooking stone, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cook, make something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cook several",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅisẅê",
+                "examples": []
+            }
+        ]
+    }
+]

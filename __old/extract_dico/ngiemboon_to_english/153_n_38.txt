@@ -1,0 +1,401 @@
+[
+    {
+        "noun": "nkekéle",
+        "pronounciation": "ŋ̩̀kèkə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.l.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abords ; environs",
+                "definition_en": "surroundings",
+                "examples": [
+                    {
+                        "dialect": "Á kaa pyé, á gwɔ́ pɔ́ nkekéle jʉʼɔɔn.",
+                        "fr": "Ce n’est pas perdu, c’est aux environs d’ici.",
+                        "en": "It's not lost, it's around here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkele",
+        "pronounciation": "ŋ̩́kə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rouler",
+                "definition_en": "roll",
+                "examples": []
+            },
+            {
+                "definition_fr": "manger beaucoup de sauce",
+                "definition_en": "eat a lot of sauce",
+                "examples": []
+            },
+            {
+                "definition_fr": "rouler par terre",
+                "definition_en": "roll on the ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkéle",
+        "pronounciation": "ŋ̩́kə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contourner ; tournoyer ; entourer",
+                "definition_en": "skirt around; bypass; swirl around; circle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèlʉ̀ʼ",
+        "pronounciation": "ŋ̩̀kȅɭɯʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bauhinia",
+                "definition_en": "bauhinia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkěm",
+        "pronounciation": "ŋ̩̀kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notable",
+                "definition_en": "prominent citizen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkem",
+        "pronounciation": "ŋ̩́kə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "découvrir",
+                "definition_en": "discover",
+                "examples": []
+            },
+            {
+                "definition_fr": "dénoncer",
+                "definition_en": "denounce",
+                "examples": []
+            },
+            {
+                "definition_fr": "dépister ; découvrir",
+                "definition_en": "screen; discover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkem",
+        "pronounciation": "ŋ̩́kə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détruire",
+                "definition_en": "destroy",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’écrouler",
+                "definition_en": "collapse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkem",
+        "pronounciation": "ŋ̩́kə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répandre",
+                "definition_en": "spread",
+                "examples": []
+            },
+            {
+                "definition_fr": "répandre une poudre çà et là",
+                "definition_en": "spread a powder here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkem ngù",
+        "pronounciation": "ŋ̩̀kə̀m ŋ̩̀ɡȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "Budda pea; Indian jointvetch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkem ssé",
+        "pronounciation": "ŋ̩̀kə̀m sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dément",
+                "definition_en": "mad; insane",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkem ssé",
+        "pronounciation": "ŋ̩̀kə̀m sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guérisseur",
+                "definition_en": "healer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkem ssé",
+        "pronounciation": "ŋ̩̀kə̀m sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviteur de Dieu",
+                "definition_en": "God’s servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkem ssé kwáŋ",
+        "pronounciation": "ŋ̩̀kə̀m sːé kwã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Monseigneur",
+                "definition_en": "Your Grace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèmbàŋ",
+        "pronounciation": "ŋ̩̀kȅmbã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pointe",
+                "definition_en": "point; nail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèmbwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀kȅmbwɔ̏ʔ",
+        "synonym": [
+            "nkàmbwɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkème pwó",
+        "pronounciation": "ŋ̩̀kə̀mȅ pɸwó",
+        "synonym": [
+            "kème pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manchot",
+                "definition_en": "armless man; one-armed man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèmenàŋ",
+        "pronounciation": "ŋ̩̀kȅmènã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre (avec des fruits rouges comestibles)",
+                "definition_en": "sp. tree (with edible red fruit)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkémte",
+        "pronounciation": "ŋ̩́kə́mté",
+        "synonym": [
+            "ńkʉ́mte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rétrécir",
+                "definition_en": "take in",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkèndéen",
+        "pronounciation": "ŋ̩̀kȅndẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maïs concassé et préparé",
+                "definition_en": "ground and prepared maize; ground and prepared corn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkendéŋe",
+        "pronounciation": "ŋ̩̀kèndə̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partie ; morceau",
+                "definition_en": "part; piece",
+                "examples": []
+            },
+            {
+                "definition_fr": "paragraphe",
+                "definition_en": "paragraph",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkendɔ́ʼ",
+        "pronounciation": "ŋ̩̀kèndɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gallon ; grade ; cadeau",
+                "definition_en": "gallon; note; gift",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkènkáb",
+        "pronounciation": "ŋ̩̀kȅŋkáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "African rock fig",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkènkélè",
+        "pronounciation": "ŋ̩̀kȅŋkə́lȅ",
+        "synonym": [
+            "lekélè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ronde ; pourtour ; circonférence",
+                "definition_en": "round; perimeter; circumference",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkènkèle",
+        "pronounciation": "ŋ̩̀kȅŋkə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "environs ; dans cette zone ; rond ; pourtour",
+                "definition_en": "area; in this zone; round; perimeter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkenkème",
+        "pronounciation": "ŋ̩̀kȅŋkə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mûre noire",
+                "definition_en": "black mulberry; African mulberry",
+                "examples": []
+            }
+        ]
+    }
+]

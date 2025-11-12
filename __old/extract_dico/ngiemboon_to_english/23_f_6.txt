@@ -1,0 +1,426 @@
+[
+    {
+        "noun": "fʉ̌ʼ nò",
+        "pronounciation": "fɯ̌ʔ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crime",
+                "definition_en": "crime; murder",
+                "examples": [
+                    {
+                        "dialect": "Efʉ̌ʼ nò múɔ wɔɔn cʉ́ʼʉ gẅie ngwɔ́ mé láŋte wɔ́.",
+                        "fr": "Le crime de cet enfant n’est plus à tolérer.",
+                        "en": "This child’s crime can no longer be tolerated."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ ntsèm",
+        "pronounciation": "fɯ̏ʔ ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaque fois ; tout le temps",
+                "definition_en": "each time; all the time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ páʼɔɔn",
+        "pronounciation": "fɯ̏ʔ páʔɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’an prochain ; l’année prochaine",
+                "definition_en": "next year",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge láʼa fʉ̀ʼ páʼɔɔn é kwɛ́ ndá yɔ̀ɔn.",
+                        "fr": "L’année prochaine, je construirai ma maison.",
+                        "en": "Next year I will build my house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼɔɔn",
+        "pronounciation": "fɯ̏ʔɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maintenant ; immédiatement ; sur le champ",
+                "definition_en": "now; immediately",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn tè gʉa fʉ̀ʼɔɔn wɔ́, mbà ɔ̀ ge lí.",
+                        "fr": "Tu seras en retard si tu ne pars pas maintenant.",
+                        "en": "You'll be late if you don't leave now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ",
+        "pronounciation": "fɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitateur",
+                "definition_en": "imitator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ",
+        "pronounciation": "fɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesureur",
+                "definition_en": "measurer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ kɔ́",
+        "pronounciation": "fɯ̀ʔɯ̏ kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quel moment ?",
+                "definition_en": "which moment?",
+                "examples": [
+                    {
+                        "dialect": "À ge tó tsɛ́ɛ wɔ́ɔn fʉ̀ʼʉ kɔ́?",
+                        "fr": "Il viendra me rejoindre à quel moment ?",
+                        "en": "When will he come join me?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ mmó",
+        "pronounciation": "fɯ̀ʔɯ̏ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "système métrique ; mesure des choses",
+                "definition_en": "metric system; measuring system",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ mvfò",
+        "pronounciation": "fɯ̀ʔɯ̏ ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "auparavant ; autrefois",
+                "definition_en": "long before; long ago",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ nèm kénáŋ",
+        "pronounciation": "fɯ̀ʔɯ̏ nə̏m kénã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crépuscule",
+                "definition_en": "twilight; dusk",
+                "examples": [
+                    {
+                        "dialect": "Aneŋe těen ńnyé té zɔbɔ fʉ̀ʼʉ nèm kénáŋ wɔ́.",
+                        "fr": "Le pinson ne manque pas de chanter au crépuscule.",
+                        "en": "The finch never fails to sing at dusk."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼʉ yɛ̌",
+        "pronounciation": "fɯ̀ʔɯ̏ jɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prochainement ; une autre fois",
+                "definition_en": "soon; another time",
+                "examples": [
+                    {
+                        "dialect": "À cʉ́ʼʉ wɔ́gɔ̀ fʉ̀ʼʉ yɛ̌.",
+                        "fr": "A nous revoir très prochainement.",
+                        "en": "See you again very soon."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fwɔ̀ʼ fwɔ̀ʼ",
+        "pronounciation": "fwɔ̏ʔfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit des grosses tubercules ou des gros fruits qui sortent d’un récipient (sortir en cascade)",
+                "definition_en": "sound of large tubers or large fruit leaving a receptacle (cascading out)",
+                "examples": [
+                    {
+                        "dialect": "Pîɛ ne ńkẅɛɛ lê fwɔ̀ʼ fwɔ̀ʼ tsɛ̀ɛ pɔ̀ɔn.",
+                        "fr": "Les avocats sortent « fwɔ̀ʼ fwɔ̀ʼ » (en cascade) dans le sac.",
+                        "en": "The avocados take out “fwɔ̀ʼ fwɔ̀ʼ” (cascading) into the bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fwɔ̀ʼ mepfó",
+        "pronounciation": "fwɔ̏ʔ mèpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exhumeur ; déterreur des cadavres",
+                "definition_en": "grave-digger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fwɔ̀ʼ ssé",
+        "pronounciation": "fwɔ̏ʔ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fwɔ̀ʼɔ",
+        "pronounciation": "fwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déterreur",
+                "definition_en": "one who digs something up",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a ńtóŋo fwɔ̀ʼ menò, á tó fwɔʼte tà ...",
+                        "fr": "Il est parti appeler celui qui déterre les souvenirs, il a déterré jusqu’à ...",
+                        "en": "He went to call the one who digs up memories, he dug up until..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "Fwɔ̀ʼsab",
+        "pronounciation": "fwɔ̏ʔsàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bafoussam",
+                "definition_en": "Bafoussam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿág",
+        "pronounciation": "fɰáq̚",
+        "synonym": [
+            "fÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froid ; air",
+                "definition_en": "cold; air",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿàg",
+        "pronounciation": "fɰȁq̚",
+        "synonym": [
+            "fÿɔ̀g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pauvre",
+                "definition_en": "poor person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿàg",
+        "pronounciation": "fɰȁq̚",
+        "synonym": [
+            "fÿɔ̀g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pauvreté",
+                "definition_en": "poverty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿàg",
+        "pronounciation": "fɰȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vanneur ; souffleur",
+                "definition_en": "winnower; blower",
+                "examples": [
+                    {
+                        "dialect": "Fÿág mekú mɛ; ɔ̀ lɔɔn ńgwɔ́ fÿàga, ɔ̀ tó fÿág.",
+                        "fr": "Vanne le haricot-là ; si tu es vanneur, tu viens vanner.",
+                        "en": "Winnow the bean there; if you are a winnower, you come to winnow."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fÿɛ́",
+        "pronounciation": "fɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meurtrier ; assassin ; tueur",
+                "definition_en": "murderer; assassin; killer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿɛ̀",
+        "pronounciation": "fɰɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouc castré",
+                "definition_en": "castrated goat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿɛ́ɛ nɔ̀ɔn",
+        "pronounciation": "fɰɛ́ː nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "animal stérile",
+                "definition_en": "sterile animal",
+                "examples": []
+            },
+            {
+                "definition_fr": "animal sauvage",
+                "definition_en": "wild animal",
+                "examples": []
+            },
+            {
+                "definition_fr": "animal engraissé",
+                "definition_en": "greased animal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿɔ́g",
+        "pronounciation": "fɰɔ́q̚",
+        "synonym": [
+            "fÿág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froid ; air",
+                "definition_en": "cold; air",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fÿɔ̀g",
+        "pronounciation": "fɰɔ̏q̚",
+        "synonym": [
+            "fÿàg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pauvre",
+                "definition_en": "poor person",
+                "examples": []
+            }
+        ]
+    }
+]

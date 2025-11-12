@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "sight of, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwa lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sign",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "signal, starting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyǎŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kényǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "signify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔgɔ ngie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sign of mourning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sign of recognition",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silent, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silent, keep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉʉd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silk, corn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿò ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silk-cotton tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silly, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgebe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "silly person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbùd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "similar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "similar to, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "simpleton",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pìŋe lé nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "simplicity",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "simplicity, showing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "simplify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtság",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwágte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "simply",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaʼ páʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "since",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtí nue",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàa fʉ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tyeente",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "singe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbábte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "singer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa zɔ̀b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀bɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "singes, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàba",
+                "examples": []
+            }
+        ]
+    }
+]

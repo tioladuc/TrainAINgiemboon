@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "lies",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mepab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "life",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letsẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "life plant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákʉmte púɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mákemte púɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "life, private",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melaʼá ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "life up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lift",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kyɛ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼ mmɔ̌g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light a fire, material that helps",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzeŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light coloured, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿéen páŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lighten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lighter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwà mmɔ̌g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnyɛ̀ mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lighting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lightly clean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lightly, tie",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lightness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jyâjyâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lightning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nně mbʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lightning flash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kyɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light several times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "light up less",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "like",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "páʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "like, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "like, look",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéte",
+                "examples": []
+            }
+        ]
+    }
+]

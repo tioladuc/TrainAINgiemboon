@@ -1,0 +1,388 @@
+[
+    {
+        "noun": "manzàb",
+        "pronounciation": "màndzȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánzàʼ",
+        "pronounciation": "mándzȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manzòŋ",
+        "pronounciation": "màndzõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promotion ; « clan d’âge »",
+                "definition_en": "promotion; class; age group",
+                "examples": []
+            },
+            {
+                "definition_fr": "groupe",
+                "definition_en": "group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánzsè",
+        "pronounciation": "mándzsȅ",
+        "synonym": [
+            "nzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chemin",
+                "definition_en": "path",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánzsèlʉŋ",
+        "pronounciation": "mándzsȅɭɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coléoptère des ignames",
+                "definition_en": "yam beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manzwě",
+        "pronounciation": "màndzɥě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "femme",
+                "definition_en": "woman; wife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máŋa",
+        "pronounciation": "mã́ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miracle ; miraculeux",
+                "definition_en": "miracle; miraculous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maŋáʼ",
+        "pronounciation": "màŋáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orgueil",
+                "definition_en": "pride",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n te màŋáʼ kwóŋ.",
+                        "fr": "Je n’aime pas l’orgueil.",
+                        "en": "I don't like pride."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "super ; orgueilleux",
+                "definition_en": "great; fantastic; prideful",
+                "examples": [
+                    {
+                        "dialect": "À ge júu màŋáʼ nzsǒ.",
+                        "fr": "Il va acheter un habit super.",
+                        "en": "He's going to buy a great outfit."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mǎŋŋwa",
+        "pronounciation": "mǎŋŋwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu indéterminé (moquerie)",
+                "definition_en": "unspecified place (mockery)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máŋwɛ",
+        "pronounciation": "máŋwɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propriétaire légitime",
+                "definition_en": "legitimate owner; legitimate landlord",
+                "examples": [
+                    {
+                        "dialect": "Gù máŋwɛ, ɔ̀ gɔ̌ɔn ngie kɔ́?",
+                        "fr": "Toi le propriétaire légitime, qu’as-tu dit ?",
+                        "en": "You, the rightful owner, what did you say?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "máŋwʉ́",
+        "pronounciation": "máŋwɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lune",
+                "definition_en": "moon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápfò",
+        "pronounciation": "mápfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère qui allaite",
+                "definition_en": "mother who’s breastfeeding her baby",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápǐd",
+        "pronounciation": "mápǐt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápitsɔ̀ʼ",
+        "pronounciation": "mápìtsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "histoire ; narration ; racontar",
+                "definition_en": "history; story; narrative; gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápóon tsetsáʼ",
+        "pronounciation": "mápṍː tsètsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guêpe-maçon",
+                "definition_en": "mason wasp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mapúɔ",
+        "pronounciation": "màpúɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabouret",
+                "definition_en": "stool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mapʉ́ʼte",
+        "pronounciation": "màpɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "glande",
+                "definition_en": "gland",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápwɔ́ʼ",
+        "pronounciation": "mápwɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rectum",
+                "definition_en": "rectum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mápye",
+        "pronounciation": "mápɸjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nage",
+                "definition_en": "swim",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mapyé ntse",
+        "pronounciation": "màpɸjé ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "libellule",
+                "definition_en": "dragonfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "masáŋ",
+        "pronounciation": "màsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nombre",
+                "definition_en": "number",
+                "examples": [
+                    {
+                        "dialect": "Shʉ́ate masáŋ páʼ legém mbwo pʉ́a mépʉ́a.",
+                        "fr": "Divise un nombre comme dix entre deux personnes.",
+                        "en": "Divide a number like ten between two people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "másem",
+        "pronounciation": "másə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. termite avec grande termitière",
+                "definition_en": "sp. termite with a large termite hill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "másèm nnú",
+        "pronounciation": "másə̏m ɳ̩̀ɳú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cigale (gén.)",
+                "definition_en": "cicada (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máshúa",
+        "pronounciation": "máʃúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máshúa",
+        "pronounciation": "máʃúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perte de sang",
+                "definition_en": "blood loss",
+                "examples": []
+            }
+        ]
+    }
+]

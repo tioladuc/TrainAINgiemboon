@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "emphatic progressive aspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "emphatic subject",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "employ",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "employee",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa pàmbè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "employer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀gɔ ngàŋa fàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "empty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "empty (liquid)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "empty plot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwòŋo tsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "enchant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "encircle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "encourage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "encouragement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesìŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔɔn ndɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lecʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mecʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzsoté",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "endemic disease",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "guɔ pàga láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end of a toe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó tekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end of a yam",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end of shoulder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end of the nose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndòŋ mezẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end, pointed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅíi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end, small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "end up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "enema pump",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "enemy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ mbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "energy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèlenjʉ̂ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàlasí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "engaged, fail at getting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésaŋ",
+                "examples": []
+            }
+        ]
+    }
+]

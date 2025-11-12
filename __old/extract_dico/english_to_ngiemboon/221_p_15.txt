@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "pollution",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lème",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pond",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ponytail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋá lÿoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poorer, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poorly held",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poorly maintained",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poor man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekʉ̌a ńkáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poor person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwó twó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbǎʼ nyìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "temmó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poor soul",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyà ngɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ngɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "porcupine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzàba mentÿǒ ngum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "portal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ̌ɔn kʉ̀ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "porter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "paa nkàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "porterhouse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿěpÿě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "portico",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezẅɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "position, take a",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "possess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgẅiin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "possible, something beyond",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùbo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "post",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "poster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jÿɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "postpone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ lyɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "potash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvemváŋ",
+                "examples": []
+            }
+        ]
+    }
+]

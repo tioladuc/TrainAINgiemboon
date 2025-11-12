@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "apart, move",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "aphid, black bean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apiary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kaba nŋwáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apostle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ntúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apparent, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appeal court",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉ̀a ŋàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwáʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appear at dawn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿeen njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appearing, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appear on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appear slowly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appellation by the in-laws",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appellation (children)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼ melǒŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appellations, honorary",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appellation, wife’s mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appendicitis",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "applaud",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼte mbwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbúʼ mbwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apply a paste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appointment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndeʼé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appraisal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "setɔ̂g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appraiser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnà ngɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appreciate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "appreciation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̀ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apprehend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apprentice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìʼi",
+                "examples": []
+            }
+        ]
+    }
+]

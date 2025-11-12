@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "kadi",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntʉ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Kako language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò pʉa shÿó Bɛgtùa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kaolin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kaysuma grass, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shùshwòŋo mêngwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "keep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyeen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "keep cola in basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfoo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "keep cola underground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éffo lepfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "keep, search",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "keeps his promises, person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gɔ̀ɔn ńgÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "key",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̀ʼɔ kí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ mémúɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ mvfó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kill by occult means",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kill by small fires",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "killer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbyàga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "killjoy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kill one another",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kills while laughing, one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀te ngwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kilometre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kílòmità",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kindness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mboŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "king",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kingdom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kingdom of heaven",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lepwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kingfisher",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tòŋ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tétúŋ nkʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "túŋ nkʉŋ",
+                "examples": []
+            }
+        ]
+    }
+]

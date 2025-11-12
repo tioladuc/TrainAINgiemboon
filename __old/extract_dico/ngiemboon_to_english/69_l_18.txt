@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "lezse",
+        "pronounciation": "lèzsè",
+        "synonym": [
+            "lezye"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verrue ; cor au pied",
+                "definition_en": "wart; corn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezsě legÿò",
+        "pronounciation": "lèzsě lèɣxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savoir-faire",
+                "definition_en": "know-how",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezsě lenéŋè",
+        "pronounciation": "lèzsě lènə̃́ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savoir-vivre",
+                "definition_en": "good manners",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezse mánzsè",
+        "pronounciation": "lèzsè mándzsȅ",
+        "synonym": [
+            "letse mánzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezẅé",
+        "pronounciation": "lèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nez ; angle",
+                "definition_en": "nose; corner; angle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezẅɛ̀te",
+        "pronounciation": "lèzɥɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pose ; repos",
+                "definition_en": "pose; rest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezẅíŋ",
+        "pronounciation": "lèzɥĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foi",
+                "definition_en": "faith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezye",
+        "pronounciation": "lèzsjè",
+        "synonym": [
+            "lezse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "verrue ; cor au pied",
+                "definition_en": "wart; corn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezyé",
+        "pronounciation": "lèzsjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accouchement",
+                "definition_en": "birth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezyé ntʉ̀",
+        "pronounciation": "lèzsjé ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dystocie ; accouchement pénible",
+                "definition_en": "dystocia; difficult birth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezyɛ̌",
+        "pronounciation": "lèzjɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nœud",
+                "definition_en": "knot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezyɛ́ʼ ndá",
+        "pronounciation": "lèzjɛ́ʔ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "devanture",
+                "definition_en": "display",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèʼe",
+        "pronounciation": "lə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "économie ; reste",
+                "definition_en": "economy; thrift; rest; remainder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèʼe",
+        "pronounciation": "lə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "promesse ; rendez-vous",
+                "definition_en": "promise; appointment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lɛ̀",
+        "pronounciation": "lɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "int",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la démonstration)",
+                "definition_en": "(shows a demonstration)",
+                "examples": [
+                    {
+                        "dialect": "Á yɛ̂ gie á tyé jʉʼɛ lɛ̀.",
+                        "fr": "C’est ça qui est placé là-bas.",
+                        "en": "That’s what’s placed there."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "li",
+        "pronounciation": "lì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "là (adj. dém. de lointain proximité, modifiant les noms de tous les classes.)",
+                "definition_en": "there (far distance dem. adj., modifying nouns from all classes)",
+                "examples": [
+                    {
+                        "dialect": "Á gi gie á nuŋe jʉʼʉ li.",
+                        "fr": "Voilà ça qui est posé là-bas.",
+                        "en": "That's what's sitting there."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lìe ńdaʼte",
+        "pronounciation": "lìȅ ń̩dàʔtè",
+        "synonym": [
+            "lìe shwóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "description",
+                "definition_en": "description",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lìe shwóŋ",
+        "pronounciation": "lìȅ ʃwṍŋ",
+        "synonym": [
+            "lìe ńdaʼte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "description",
+                "definition_en": "description",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "líɛ",
+        "pronounciation": "líɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "source d’information",
+                "definition_en": "information source",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńjúʼu nò, te shwóŋ té píi líɛ.",
+                        "fr": "Si tu entends quelque chose, ne dis pas sans t’informer à la source.",
+                        "en": "If you hear something, don't say it without asking the source."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lìi",
+        "pronounciation": "lìȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propolis",
+                "definition_en": "propolis",
+                "examples": []
+            },
+            {
+                "definition_fr": "sève de l’aiele",
+                "definition_en": "aiele sap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lìi",
+        "pronounciation": "lìȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qualité ; couleur ; marque",
+                "definition_en": "quality; colour; mark; brand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "línɔ̀ɔn",
+        "pronounciation": "línɔ̃̏ː",
+        "synonym": [
+            "sẅɛ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. cérémonie",
+                "definition_en": "k. ceremony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liŋé",
+        "pronounciation": "lĩ̀ŋé",
+        "synonym": [
+            "lyéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marque ; remarque ; note",
+                "definition_en": "mark; remark; note",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lìŋe",
+        "pronounciation": "lìŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qualité ; manière",
+                "definition_en": "quality; way; manner",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n te kwoŋo lìŋe nzsǒ yɔɔn wɔ́.",
+                        "fr": "Je n’aime pas cette qualité d’habit.",
+                        "en": "I don't like this quality of clothing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lísà",
+        "pronounciation": "lísȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lame de rasoir",
+                "definition_en": "razor blade",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,391 @@
+[
+    {
+        "noun": "shʉ́shʉm",
+        "pronounciation": "ʃɯ́ʃɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shʉ́m",
+        "pronounciation": "ʃɯ́ʃɯ́m",
+        "synonym": [
+            "shÿéshÿɔ́g ",
+            " shʉ́shÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émotion",
+                "definition_en": "emotion",
+                "examples": []
+            },
+            {
+                "definition_fr": "influence",
+                "definition_en": "influence; effect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉshʉ́ŋ",
+        "pronounciation": "ʃɯ̀ʃɯ̃́ŋ",
+        "synonym": [
+            "shʉshʉ́ŋe tsẅɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fougère à l’aigle",
+                "definition_en": "bracken",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉshʉ́ŋe kwɔb",
+        "pronounciation": "ʃɯ̀ʃɯ̃́ŋé kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "bracken, fern",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉshʉ́ŋe ntʉ́a nkáʼ",
+        "pronounciation": "ʃɯ̀ʃɯ̃́ŋé nʈɯ́á ŋkáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. fern",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉshʉ́ŋe tsẅɛ",
+        "pronounciation": "ʃɯ̀ʃɯ̃́ŋé tsɥɛ̀",
+        "synonym": [
+            "shʉshʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fougère à l’aigle",
+                "definition_en": "bracken",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shÿó",
+        "pronounciation": "ʃɯ́ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aubergine (gén.)",
+                "definition_en": "eggplant (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shÿólàʼ",
+        "pronounciation": "ʃɯ́ʃːɰólȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aubergine",
+                "definition_en": "sp. eggplant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shÿóndÿɔgɔ́",
+        "pronounciation": "ʃɯ́ʃːɰóɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [
+            "pùavolóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poivron",
+                "definition_en": "chili pepper; capsicum; red pepper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shÿónè",
+        "pronounciation": "ʃɯ́ʃːɰónȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "prickly solanum; turkey berry",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. aubergine sauvage",
+                "definition_en": "sp. wild eggplant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́shÿɔ́g",
+        "pronounciation": "ʃɯ́ʃɰɔ́q̚",
+        "synonym": [
+            "shÿéshÿɔ́g ",
+            " shʉ́shʉ́m"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émotion",
+                "definition_en": "emotion",
+                "examples": []
+            },
+            {
+                "definition_fr": "influence",
+                "definition_en": "influence; effect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉshÿɔ́ʼ",
+        "pronounciation": "ʃɯ̀ʃɰɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raclure ; sciure",
+                "definition_en": "waste; sawdust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉʉd",
+        "pronounciation": "ʃɯ̀ːt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(ordre de garder le silence)",
+                "definition_en": "(order to keep silent)",
+                "examples": [
+                    {
+                        "dialect": "Múɔ lʉa tà má we gɔɔn ngie shʉʉd, á gwóon ńzáʼa.",
+                        "fr": "L’enfant a pleuré jusqu’à ce que sa mère à dit « shʉʉd », du coup, il s’est tu.",
+                        "en": "The child cried until his mother said “shʉʉd”, so he was silent."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shʉ́ʼ",
+        "pronounciation": "ʃɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entraide ; groupe d’initiative commune",
+                "definition_en": "mutual aid; communal help group",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̌ʼ",
+        "pronounciation": "ʃɯ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souche de bambou",
+                "definition_en": "bamboo stump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shʉ̀ʼ ssé",
+        "pronounciation": "ʃɯ̏ʔ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwoŋ",
+        "pronounciation": "ʃwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enceinte",
+                "definition_en": "pregnant",
+                "examples": [
+                    {
+                        "dialect": "Manzwě shwoŋ aa těen ńkÿo mámbàŋa wɔ́.",
+                        "fr": "La femme enceinte ne fuit pas l’homme.",
+                        "en": "The pregnant woman does not run away from the man."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "shwǒŋ",
+        "pronounciation": "ʃwõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bavardage",
+                "definition_en": "gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwòŋ ntsɔ́ʼ",
+        "pronounciation": "ʃwõ̏ŋ ǹ̩tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracheur ; enleveur ; avorteur",
+                "definition_en": "uprooter; remover; abortionist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwòŋ nzyé",
+        "pronounciation": "ʃwõ̏ŋ ń̩dzsjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mammifère (gén.)",
+                "definition_en": "mammal (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋè",
+        "pronounciation": "ʃwṍŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue (parler)",
+                "definition_en": "language (speaking)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋè láʼ",
+        "pronounciation": "ʃwṍŋȅ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dialecte ; langue maternelle",
+                "definition_en": "dialect; mother tongue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò",
+        "pronounciation": "ʃwṍŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langage ; parole",
+                "definition_en": "language; speech",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwòŋo",
+        "pronounciation": "ʃwõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conducteur ; chauffeur",
+                "definition_en": "chauffer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shwóŋò mbulu",
+        "pronounciation": "ʃwṍŋȍ mbùlù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "langue bulu",
+                "definition_en": "Bulu language",
+                "examples": []
+            }
+        ]
+    }
+]

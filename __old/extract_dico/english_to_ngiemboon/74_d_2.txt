@@ -1,0 +1,477 @@
+[
+    {
+        "noun": "dancing, spear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa mefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dancing with little bell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dancing with small bell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekwoŋ ntswáʼa mefùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dandelion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dandy, Kunth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ́ʼ ŋuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dark",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "síŋesǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "darkness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mwòon nzém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "darkness, intense",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mwòon nzém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "darling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tângɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dasheen scraps",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "date",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "date, make",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdeʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "date palm, African wild",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "daughter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ngùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ manzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dawn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "melÿe njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fɔg njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melʉa njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lÿe njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ̀ʼ njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉa njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melém njÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mamelém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉa njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dawn, appear at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿeen njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dawn, go out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̌ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zsǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛʼɛ́ láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day after tomorrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day been good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɔ̀ zɔ́gte ntʉ́ʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day, next",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿó lʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day nursery",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leleʼé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "day of the week",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼcʉ̀ʼʉnzàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼnzème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngaŋá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mándunzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzèmenzème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metʉanzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔʼshʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀ʼʉnzàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njÿonzse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿàʼngaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "days, in a few",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "é cʉ̂ʼ lyɛ̌ʼ shÿɔ́ʼɔ tsɔ́ wɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "daze",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbége",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "mekú káŋa mekéle",
+        "pronounciation": "mèkú kã́ŋá mèkə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot tacheté",
+                "definition_en": "sp. speckled beans",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú koké",
+        "pronounciation": "mèkú kòké",
+        "synonym": [
+            "mekú gwág ",
+            " mekú múɔ láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graine de niébé",
+                "definition_en": "cowpea seed; black-eyed pea seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú léesè",
+        "pronounciation": "mèkú léːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "riz",
+                "definition_en": "rice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú mágmág",
+        "pronounciation": "mèkú máqmáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot",
+                "definition_en": "sp. bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú maki",
+        "pronounciation": "mèkú màkì",
+        "synonym": [
+            "màtítí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot rouge de petit graines",
+                "definition_en": "sp. red bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú mentsáʼa",
+        "pronounciation": "mèkú mèntsáʔá",
+        "synonym": [
+            "káŋa mekéle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot tacheté",
+                "definition_en": "sp. speckled beans",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú múɔ láʼ",
+        "pronounciation": "mèkú múɔ̀ láʔ",
+        "synonym": [
+            "mekú gwág ",
+            " mekú koké"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graine de niébé",
+                "definition_en": "cowpea seed; black-eyed pea seed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú ndÿɔgɔ́",
+        "pronounciation": "mèkú ɳ̩̀ɖɰɔ̀ʁɔ́",
+        "synonym": [
+            "sójà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soja",
+                "definition_en": "soya bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú pepàŋ",
+        "pronounciation": "mèkú pèpã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot rouge",
+                "definition_en": "sp. red bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú sséssé",
+        "pronounciation": "mèkú sːésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot noir",
+                "definition_en": "sp. black bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekùʼ",
+        "pronounciation": "mèkȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "honneur ; respect",
+                "definition_en": "honour; respect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekʉ",
+        "pronounciation": "mèkɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit (qualifie les noms des classes 4 et 6)",
+                "definition_en": "small; little (qualifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekʉ̀a",
+        "pronounciation": "mèkɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre à canon",
+                "definition_en": "gunpowder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekʉ̀ŋe",
+        "pronounciation": "mèkɯ̃̀ŋȅ",
+        "synonym": [
+            "kʉ̀ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déchets ; fumier",
+                "definition_en": "scraps; waste; dung; manure",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekʉ̀ʼʉ mekʉ̀ʼʉ",
+        "pronounciation": "mèkɯ̀ʔɯ̏ mèkɯ̀ʔɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diagonalement (sens de)",
+                "definition_en": "diagonally",
+                "examples": [
+                    {
+                        "dialect": "Á té poŋo lézyɛʼɛ lǎŋ mekʉ̀ʼʉ mekʉ̀ʼʉ wɔ́.",
+                        "fr": "Il n’est pas bon de traverser la route en diagonale.",
+                        "en": "It is not good to cross the road diagonally."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mekwoŋ",
+        "pronounciation": "mèkwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tribu",
+                "definition_en": "tribe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekẅǐ",
+        "pronounciation": "mèkɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "squelette ; os",
+                "definition_en": "skeleton; bone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekyè",
+        "pronounciation": "mèkxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "divorce",
+                "definition_en": "divorce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melabá",
+        "pronounciation": "mèlàβá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eau utilisée ; eau souillée",
+                "definition_en": "used water; dirty water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melàntɛ̂",
+        "pronounciation": "mèlȁntɛ̂",
+        "synonym": [
+            "malàntê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melaŋ",
+        "pronounciation": "mèlã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. rite",
+                "definition_en": "k. ritual",
+                "examples": [
+                    {
+                        "dialect": "Aguɔ nweʼé gú tà ɔ̀ ge gʉa mbʉ̀a mé záʼ melaŋ mú.",
+                        "fr": "La maladie t’a menacé si bien que tu iras au village pour un rite.",
+                        "en": "The illness has threatened you so much that you will go to the village for a rite."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mélàŋa",
+        "pronounciation": "mélã̀ŋã̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ardoise",
+                "definition_en": "slate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melàʼ",
+        "pronounciation": "mèlȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutte ; bagarre",
+                "definition_en": "struggle; wrestling; fight; brawl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mélàʼ",
+        "pronounciation": "mélȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à cause de",
+                "definition_en": "because",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn tʉʉ twó mélàʼ shǔ we wɛ̂.",
+                        "fr": "Cet enfant s’entête à cause de son ami-là.",
+                        "en": "This child is stubborn because of his friend."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mélàʼa kɔ́",
+        "pronounciation": "mélàʔȁ kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourquoi",
+                "definition_en": "why",
+                "examples": [
+                    {
+                        "dialect": "Mélàʼa kɔ́ ɔ̀ těen ḿpfɛ́ɛ mmó wɔ́?",
+                        "fr": "Pourquoi tu n’es pas en train de manger ?",
+                        "en": "Why aren't you eating?"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "noun": "spurge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́múɔ tsẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spurge (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spurge, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́múɔ kwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbʉpʉ́ tsẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spurt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "manáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "náŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spy upon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsaʼ jʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squander",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn soon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "square",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sekwɛ̂",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "square, public",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tetʉ́a kwóŋɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squash calabash, cultivated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé sésɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squash (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squash, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepwɔʼ kúnɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squeak",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squeal on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squeeze",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége nnɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgége",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squeezing, load by",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirrel, Beecroft’s flying",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅi lepàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirrel, Gambian sun",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàŋa tÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirrel (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirrel, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirrel, striped ground",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàŋa ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "squirt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stab",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "stable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsêm",
+                "examples": []
+            }
+        ]
+    }
+]

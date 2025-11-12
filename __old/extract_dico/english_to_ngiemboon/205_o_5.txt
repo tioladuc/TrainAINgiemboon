@@ -1,0 +1,732 @@
+[
+    {
+        "noun": "organize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "organizer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa táŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "organizer of a rite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántùʼ kěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "origin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesaʼá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "original",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantsɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ornament",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ornate monitor lizard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnú mekwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "orphan",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "orphan, depression",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "osier",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "osprey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pépÿé megwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yetsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "etsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "petsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "atsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "metsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pendyɛ̀ʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wetsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "setsɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "otherwise",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà á té púʼu wɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "otter, speckle-throated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwontse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "otter, spot-necked",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwontse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "our",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "yeg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀ge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ség",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "weg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ség",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "még",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "még",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "weg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yeg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀ge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "our excl.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "peg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "our incl.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ours",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "weg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "még",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "még",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ség",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wég",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yeg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀ge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ourselves, we",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ pege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ peg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ours incl.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pégè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ours, yours and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "our, your and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "outdoors",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "outfit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsǒ",
+                "examples": []
+            }
+        ]
+    }
+]

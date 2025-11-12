@@ -1,0 +1,468 @@
+[
+    {
+        "noun": "ndamvwɔʼ",
+        "pronounciation": "ǹ̩dàɱbvwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cave",
+                "definition_en": "cellar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndànzì",
+        "pronounciation": "ǹ̩dȁndzȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndànzse",
+        "pronounciation": "ǹ̩dȁndzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndáŋ",
+        "pronounciation": "ǹ̩dã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse à huile ; boîte",
+                "definition_en": "calabash for oil; box",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdaŋ",
+        "pronounciation": "ń̩dã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lécher",
+                "definition_en": "lick",
+                "examples": []
+            },
+            {
+                "definition_fr": "souffrir ; subir peine",
+                "definition_en": "suffer ; suffer pain",
+                "examples": []
+            },
+            {
+                "definition_fr": "jurer",
+                "definition_en": "swear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáŋ",
+        "pronounciation": "ń̩dã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se porter bien ; aller bien",
+                "definition_en": "be in good shape; be well",
+                "examples": [
+                    {
+                        "dialect": "Nkáŋ nnɛ́ wɔ́ɔn té ne ńdáŋa wɔ́.",
+                        "fr": "Mon corps ne se porte pas bien.",
+                        "en": "My body is not doing well."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être silencieux ; conformer",
+                "definition_en": "be silent; conform",
+                "examples": []
+            },
+            {
+                "definition_fr": "être sans parole ; être bouche-bée",
+                "definition_en": "to be speechless; to be speechless",
+                "examples": [
+                    {
+                        "dialect": "N zɛté yé nò, á láŋa le nkwáʼ.",
+                        "fr": "Je lui est demandé le problème, il était bouche-bée.",
+                        "en": "I asked him what the problem was, he was speechless."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "calmer ; consoler",
+                "definition_en": "calm down; console",
+                "examples": [
+                    {
+                        "dialect": "ńdáŋte múɔ.",
+                        "fr": "calmer l’enfant.",
+                        "en": "calm the child."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndàŋnditê",
+        "pronounciation": "ǹ̩dã̏ŋndìtê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "identité",
+                "definition_en": "identity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáŋte",
+        "pronounciation": "ń̩dã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être docile",
+                "definition_en": "be calm",
+                "examples": []
+            },
+            {
+                "definition_fr": "se taire",
+                "definition_en": "be quiet; quit talking",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáŋte",
+        "pronounciation": "ń̩dã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être costaud",
+                "definition_en": "be sturdy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en forme",
+                "definition_en": "be fit; be in shape",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn laŋté.",
+                        "fr": "Cet enfant est en forme.",
+                        "en": "This child is in good shape."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdáte",
+        "pronounciation": "ń̩dáté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retarder ; tarder",
+                "definition_en": "delay; be a long time coming",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndàʼ",
+        "pronounciation": "ǹ̩dȁʔ",
+        "synonym": [
+            "ńdàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seulement",
+                "definition_en": "only",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gẅiin ndàʼ ndólà tá.",
+                        "fr": "J’ai seulement quinze francs.",
+                        "en": "I only have fifteen francs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdaʼ",
+        "pronounciation": "ń̩dàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accuser ; critiquer",
+                "definition_en": "accuse; criticize",
+                "examples": []
+            },
+            {
+                "definition_fr": "gronder",
+                "definition_en": "scold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáʼ",
+        "pronounciation": "ń̩dáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer la nuit",
+                "definition_en": "spend the night",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdáʼ",
+        "pronounciation": "ń̩dáʔ",
+        "synonym": [
+            "láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déjà",
+                "definition_en": "already",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge gwaa tó, mbà à ně ńdáʼ ńgʉa.",
+                        "fr": "Avant que je n’arrive, il serait déjà parti.",
+                        "en": "Before I got there, he would already be gone."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "depuis",
+                "definition_en": "since",
+                "examples": [
+                    {
+                        "dialect": "À ně ńdáʼ ńgʉa.",
+                        "fr": "Il est parti depuis.",
+                        "en": "He has since left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdàʼ",
+        "pronounciation": "ń̩dȁʔ",
+        "synonym": [
+            "ndàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seulement",
+                "definition_en": "only",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdaʼ páʼ",
+        "pronounciation": "ń̩dàʔ páʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seulement que ; obligatoirement ; simplement",
+                "definition_en": "only that",
+                "examples": [
+                    {
+                        "dialect": "Ńdaʼ páʼ ɔ̀ ge ńná nkáb yɔ̀ɔn mie ɔ̀ ka fu.",
+                        "fr": "Obligatoirement, tu vas me donner l’argent que tu as emprunté.",
+                        "en": "You have to give me the money you borrowed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndàʼa",
+        "pronounciation": "ǹ̩dàʔȁ",
+        "synonym": [
+            "ndàʼndàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pour toujours",
+                "definition_en": "forever",
+                "examples": [
+                    {
+                        "dialect": "À pǐŋ lé láʼ ndàʼa.",
+                        "fr": "Il est rentré au village pour toujours.",
+                        "en": "He returned to the village forever."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndàʼndàʼ",
+        "pronounciation": "ǹ̩dȁʔǹ̩dȁʔ",
+        "synonym": [
+            "ndàʼa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.man.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pour toujours",
+                "definition_en": "forever",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdaʼte",
+        "pronounciation": "ń̩dàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "indiquer",
+                "definition_en": "point out; show",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nde",
+        "pronounciation": "ǹ̩dè",
+        "synonym": [
+            "le"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne (pouvoir) pas",
+                "definition_en": "(can) not",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndè",
+        "pronounciation": "ǹ̩dȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notable ; seigneur",
+                "definition_en": "prominent citizen; lord",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndè nkěm",
+        "pronounciation": "ǹ̩dȅ ŋ̩̀kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "médiateur entre chef et notables",
+                "definition_en": "mediator between chief and notables",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèbe",
+        "pronounciation": "ǹ̩də̀βȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baragouineur",
+                "definition_en": "jabberer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdebe",
+        "pronounciation": "ń̩də̀βè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fade",
+                "definition_en": "be tasteless; be drab; be dull",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdébe",
+        "pronounciation": "ń̩də́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bégayer",
+                "definition_en": "stutter",
+                "examples": []
+            },
+            {
+                "definition_fr": "baragouiner ; balbutier",
+                "definition_en": "jabber; stammer; stutter;",
+                "examples": []
+            }
+        ]
+    }
+]

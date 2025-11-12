@@ -1,0 +1,379 @@
+[
+    {
+        "noun": "ńgág",
+        "pronounciation": "ŋ̩́gáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insupporter ; indisposer ; résister",
+                "definition_en": "find intolerable; antagonize; resist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàg tepwó",
+        "pronounciation": "ŋ̩̀gȁq̚ tèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourche de la main",
+                "definition_en": "hand fork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngalávù",
+        "pronounciation": "ŋ̩̀gàlávȕ",
+        "synonym": [
+            "ngelávù ",
+            " ngeyávò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goyave",
+                "definition_en": "guava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngálè",
+        "pronounciation": "ŋ̩̀gálȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jardin",
+                "definition_en": "garden; yard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgámte",
+        "pronounciation": "ŋ̩́gámté",
+        "synonym": [
+            "ńgémte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "adorer ; louer",
+                "definition_en": "adore; praise",
+                "examples": [
+                    {
+                        "dialect": "Nyìŋ mesoŋ gẅiin légámte Ssé.",
+                        "fr": "L’être humain a droit d’adorer Dieu.",
+                        "en": "Human beings have the right to worship God."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "propriétaire ; possesseur",
+                "definition_en": "landlord; owner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngǎŋ",
+        "pronounciation": "ŋ̩̀gã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "non",
+                "definition_en": "no",
+                "examples": [
+                    {
+                        "dialect": "À gẅi ngǎŋ gwɔ́ pɔ́ ngǎŋ! À gẅi oon gwɔ́ pɔ́ oon!",
+                        "fr": "Que votre non soit non et votre oui soit oui !",
+                        "en": "May your no be no and your yes be yes!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "Ngǎŋ",
+        "pronounciation": "ŋ̩̀gã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bangang",
+                "definition_en": "Bangang",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgaŋ",
+        "pronounciation": "ŋ̩́gã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ligoter",
+                "definition_en": "tie up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgáŋ",
+        "pronounciation": "ŋ̩́gã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rétablir ; recouvrer la santé",
+                "definition_en": "recover; recover one’s health",
+                "examples": []
+            },
+            {
+                "definition_fr": "braver ; faire vite et bien ; être diligent",
+                "definition_en": "brave; do it quickly and well; be diligent",
+                "examples": []
+            },
+            {
+                "definition_fr": "être fier ; égayer",
+                "definition_en": "be proud; brighten up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ gÿáte",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɣɰáté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrebandier ; détourneur",
+                "definition_en": "smuggler; embezzler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ kègɔ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ kȅɣɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avare",
+                "definition_en": "miser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ legìŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ lèɣĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voyageur ; passager",
+                "definition_en": "traveller; passenger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ lekàŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ lèkã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sorcier ; magicien",
+                "definition_en": "sorcerer; witch; magician",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ lelɔ́g",
+        "pronounciation": "ŋ̩̀gã̏ŋ lèlɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dormeur",
+                "definition_en": "sleeper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ levfò",
+        "pronounciation": "ŋ̩̀gã̏ŋ lèvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "artiste ; artisan ; technicien",
+                "definition_en": "artist; artisan; technician",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ lóŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fâcheux",
+                "definition_en": "unfortunate (person)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ mbìŋe",
+        "pronounciation": "ŋ̩̀gã̏ŋ m̩̀bĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gauchisant ; gauchiste",
+                "definition_en": "with left-wing tendencies; leftist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ mbù",
+        "pronounciation": "ŋ̩̀gã̏ŋ m̩̀bȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ennemi",
+                "definition_en": "enemy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ mbùbte",
+        "pronounciation": "ŋ̩̀gã̏ŋ m̩̀bùptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bègue",
+                "definition_en": "stammerer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ mefʉa",
+        "pronounciation": "ŋ̩̀gã̏ŋ mèfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pécheur",
+                "definition_en": "sinner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ melàʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ mèlȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lutteur",
+                "definition_en": "wrestler; fighter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ melɔ̀ɔn",
+        "pronounciation": "ŋ̩̀gã̏ŋ mèlɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menteur",
+                "definition_en": "liar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ mpfwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀gã̏ŋ ɱ̩̀pfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prostitué",
+                "definition_en": "prostitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàŋ náŋ",
+        "pronounciation": "ŋ̩̀gã̏ŋ nã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terroriste",
+                "definition_en": "terrorist",
+                "examples": []
+            }
+        ]
+    }
+]

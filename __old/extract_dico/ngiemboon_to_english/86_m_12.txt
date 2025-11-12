@@ -1,0 +1,421 @@
+[
+    {
+        "noun": "mbàŋte",
+        "pronounciation": "m̩̀bã̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "friandise",
+                "definition_en": "sweet",
+                "examples": []
+            },
+            {
+                "definition_fr": "vitamine",
+                "definition_en": "vitamin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbaŋte",
+        "pronounciation": "ḿ̩bã̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contourner ; éviter en passant loin",
+                "definition_en": "skirt around; bypass by a lot",
+                "examples": []
+            },
+            {
+                "definition_fr": "flâner",
+                "definition_en": "stroll; saunter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàʼ",
+        "pronounciation": "m̩̀bȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouton",
+                "definition_en": "button",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàʼ",
+        "pronounciation": "m̩̀bȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brousse",
+                "definition_en": "bush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàʼ",
+        "pronounciation": "m̩̀bȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empêcheur",
+                "definition_en": "spoilsport; killjoy",
+                "examples": [
+                    {
+                        "dialect": "Mbʉ̀ŋ ne  ńkwɔ́ʼɔ, pi gʉa faʼa mbàʼa.",
+                        "fr": "La pluie s’annonce, allez chercher l’empêcheur.",
+                        "en": "The rain is coming, go get the rain guard."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbàʼ",
+        "pronounciation": "m̩̀bȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuilleton ; épisode",
+                "definition_en": "serial; episode",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǎʼ",
+        "pronounciation": "m̩̀bǎʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intrus",
+                "definition_en": "intruder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbaʼ",
+        "pronounciation": "ḿ̩bàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rembourser",
+                "definition_en": "repay",
+                "examples": []
+            },
+            {
+                "definition_fr": "rembourser plusieurs fois ; mettre en tas pour compter",
+                "definition_en": "repay several times; pile up to count",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbaʼ",
+        "pronounciation": "ḿ̩bàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "repousser ; écarter",
+                "definition_en": "repel; separate",
+                "examples": []
+            },
+            {
+                "definition_fr": "repousser la pluie de tomber",
+                "definition_en": "keep the rain from falling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáʼ",
+        "pronounciation": "ḿ̩báʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser les mains",
+                "definition_en": "fold one’s hands",
+                "examples": []
+            },
+            {
+                "definition_fr": "croiser les mains pour ne rien faire",
+                "definition_en": "crossing your hands to do nothing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáʼ",
+        "pronounciation": "ḿ̩báʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire la ruse",
+                "definition_en": "trick someone",
+                "examples": []
+            },
+            {
+                "definition_fr": "chercher de prétexte",
+                "definition_en": "search for a pretext",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire la ruse",
+                "definition_en": "do the trick",
+                "examples": []
+            },
+            {
+                "definition_fr": "chercher de prétexte",
+                "definition_en": "look for an excuse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbáʼ ntsɔɔn",
+        "pronounciation": "m̩̀báʔ ǹ̩tsɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǎʼ nyìŋ",
+        "pronounciation": "m̩̀bǎʔ ɲĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malheureux ; misérable ; pauvre",
+                "definition_en": "unfortunate creature; wretch; poor person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaʼá",
+        "pronounciation": "m̩̀bàʔá",
+        "synonym": [
+            "pàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbàʼa",
+        "pronounciation": "m̩̀bàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tisserand ; tisseur",
+                "definition_en": "weaver",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbaʼámbaʼ",
+        "pronounciation": "m̩̀bàʔámbàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "matin",
+                "definition_en": "morning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbaʼte",
+        "pronounciation": "ḿ̩bàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "analyser ; réfléchir",
+                "definition_en": "analyse; think; reflect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbáʼte",
+        "pronounciation": "ḿ̩báʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contourner",
+                "definition_en": "skirt around; bypass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbe-",
+        "pronounciation": "m̩̀bè-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n.pl",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "habitants de",
+                "definition_en": "inhabitants of",
+                "examples": [
+                    {
+                        "dialect": "Afùɔ tǒŋ mbembÿɛ̌ nɔʼ.",
+                        "fr": "Le chef a appelé les habitants de Bamboué.",
+                        "en": "The chief called the inhabitants of Bamboué."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbébe",
+        "pronounciation": "ḿ̩bə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gronder verbalement ; intimider",
+                "definition_en": "scold verbally; intimidate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbée",
+        "pronounciation": "ḿ̩béː",
+        "synonym": [
+            "mbéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être drôle ; être bizarre",
+                "definition_en": "be funny; be strange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbée",
+        "pronounciation": "ḿ̩béː",
+        "synonym": [
+            "mbéen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "payer",
+                "definition_en": "pay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèen",
+        "pronounciation": "m̩̀bẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "payeur",
+                "definition_en": "payer",
+                "examples": [
+                    {
+                        "dialect": "Peg papéen tágsè.",
+                        "fr": "Nous sommes les payeurs d’impôts.",
+                        "en": "We are the tax payers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbeen",
+        "pronounciation": "ḿ̩bẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresser",
+                "definition_en": "laze around",
+                "examples": []
+            },
+            {
+                "definition_fr": "esquiver les uns les autres",
+                "definition_en": "dodge each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbeen",
+        "pronounciation": "ḿ̩bẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sécher",
+                "definition_en": "dry",
+                "examples": []
+            }
+        ]
+    }
+]

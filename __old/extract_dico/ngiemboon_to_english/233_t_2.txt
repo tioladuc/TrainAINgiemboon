@@ -1,0 +1,379 @@
+[
+    {
+        "noun": "táa",
+        "pronounciation": "tá:",
+        "synonym": [
+            "gʉ́m ",
+            " gém"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froid fort en temps brumeux ; brume",
+                "definition_en": "strong cold during times of fog; mist; fog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táa",
+        "pronounciation": "tá:",
+        "synonym": [
+            "ge tó tá ",
+            " ge táa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur loin (F4)",
+                "definition_en": "distant future (F4)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàa",
+        "pronounciation": "tȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très",
+                "definition_en": "very",
+                "examples": [
+                    {
+                        "dialect": "À tyé tàa ngʉ̀a shʉ̀shʉ̂a.",
+                        "fr": "Il est placé très loin.",
+                        "en": "It is placed very far away."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàa fʉ̀ʼ",
+        "pronounciation": "tȁː fɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "depuis (que)",
+                "definition_en": "since",
+                "examples": [
+                    {
+                        "dialect": "Tàa fʉ̀ʼ gie pɔ́ ně ńgʉa pɔ́ nyé tè tó páʼɔɔn, á gwɔ́ pɔ́ lêkɔ́?",
+                        "fr": "Depuis qu’ils sont partis, qu’est-ce qui se passe pour qu’ils ne rentrent pas.",
+                        "en": "Since they left, what's happening that they don't come back?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàa ntúʼ lwóŋ",
+        "pronounciation": "tȁː ɳ̩̀ʈúʔ ɭwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magicien",
+                "definition_en": "magician",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàafɔ́gɔ",
+        "pronounciation": "tȁːfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "homme blanche",
+                "definition_en": "man, white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàagwánká",
+        "pronounciation": "tȁːɣwáŋká",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marchand",
+                "definition_en": "hawker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táagwèle",
+        "pronounciation": "táːɣwə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serviette",
+                "definition_en": "towel; napkin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàalɔ̀ɔn kékɔ́ʼ metÿǒ",
+        "pronounciation": "tȁːlɔ̃̏ː kékɔ́ʔ mèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pic à taches noires",
+                "definition_en": "fine-spotted woodpecker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táangɔ́ʼ",
+        "pronounciation": "táːŋɡɔ́ʔ",
+        "synonym": [
+            "tângɔ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chéri",
+                "definition_en": "beloved; darling; dearest; boyfriend",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàankém",
+        "pronounciation": "tȁːŋkə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pièce de charpente",
+                "definition_en": "piece of framing",
+                "examples": []
+            },
+            {
+                "definition_fr": "plafond",
+                "definition_en": "ceiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàapfó",
+        "pronounciation": "tȁːpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "infortuné ; malheureux ; fossoyeur",
+                "definition_en": "wretched; unfortunate; miserable; gravedigger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàb",
+        "pronounciation": "tȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte",
+                "definition_en": "drop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàb ntse",
+        "pronounciation": "tȁp̚ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte d’eau",
+                "definition_en": "drop of water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàba kwɔb",
+        "pronounciation": "tàβȁ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàba láʼ",
+        "pronounciation": "tàβȁ láʔ",
+        "synonym": [
+            "tsẅɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papier de verre arbre",
+                "definition_en": "sandpaper tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táfàʼ",
+        "pronounciation": "táfȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "patron",
+                "definition_en": "boss; manager",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tǎfelé",
+        "pronounciation": "tǎfə̀lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ardoise",
+                "definition_en": "slate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tafùɔ",
+        "pronounciation": "tàfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parrain du chef",
+                "definition_en": "chief’s godfather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tafùɔ móonpúʼ",
+        "pronounciation": "tàfùɔ̏ mṍːpúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nomination royale",
+                "definition_en": "royal nomination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "táfÿàtága",
+        "pronounciation": "táfɰȁtáʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "troubleur",
+                "definition_en": "troublemaker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tág",
+        "pronounciation": "táq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trouble",
+                "definition_en": "tumult; turmoil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tágsè",
+        "pronounciation": "táqsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taxe",
+                "definition_en": "tax",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tákaláʼ",
+        "pronounciation": "tákàláʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aîné direct des jumeaux",
+                "definition_en": "oldest sibling of twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tákwè tÿɔʼ",
+        "pronounciation": "tákxwȅ ʈɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourmi champignon",
+                "definition_en": "mushroom ant",
+                "examples": []
+            }
+        ]
+    }
+]

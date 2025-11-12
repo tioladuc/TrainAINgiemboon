@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "boa, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ nnú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbùmɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńguʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ési nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boast about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boaster",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋa ŋáʼtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnyɛ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boastfulness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋáʼtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesì nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lánzì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bobber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "body",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbùm nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "body, be upset",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "body’s constitution",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsǎʼ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "body, something pointed stuck into",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅîŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńniɛb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńniɛbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boisterous, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bolt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbaŋfɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bomb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyàg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekẅǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅǐ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bonebract, African",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòmamúɔ ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bone, spongy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kíkyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ gwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "booboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "njúmbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "book",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepuʼú ŋweʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbuʼú ŋwèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bootblack",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "booty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kíbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "boozer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "núnú melùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "border",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legÿɔʼ ndá",
+                "examples": []
+            }
+        ]
+    }
+]

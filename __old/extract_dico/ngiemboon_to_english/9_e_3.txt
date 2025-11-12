@@ -1,0 +1,436 @@
+[
+    {
+        "noun": "éfɔ́d",
+        "pronounciation": "éfɔ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rater ; fausser",
+                "definition_en": "fail; bend; distort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfɔ́g",
+        "pronounciation": "éfɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être blanc",
+                "definition_en": "be white",
+                "examples": []
+            },
+            {
+                "definition_fr": "blanchir",
+                "definition_en": "whiten",
+                "examples": [
+                    {
+                        "dialect": "Nèm fɔgé nzsǒ ye.",
+                        "fr": "Le soleil à blanchi son habit.",
+                        "en": "The sun has bleached his clothes."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "être blanc",
+                "definition_en": "be white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfɔ́ɔn",
+        "pronounciation": "éfɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "asperger ; pulvériser",
+                "definition_en": "spray; sprinkle; pulverise; grind; crush",
+                "examples": [
+                    {
+                        "dialect": "À ge fɔɔn legǐ lé ffo legǐ.",
+                        "fr": "Il va pulvériser l’herbe avec de l’herbicide.",
+                        "en": "He will spray the grass with herbicide."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfɔ́ɔn",
+        "pronounciation": "éfɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enfin ; finalement",
+                "definition_en": "at last; finally",
+                "examples": [
+                    {
+                        "dialect": "À tǒ, pɔ́ ge fɔ́ɔn gʉa.",
+                        "fr": "Il est venu, ils vont enfin partir.",
+                        "en": "He has come, they are finally going to leave."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfu",
+        "pronounciation": "éfù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prêter ; emprunter",
+                "definition_en": "lend; borrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfú",
+        "pronounciation": "éfú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être bête",
+                "definition_en": "be stupid; be foolish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfúa",
+        "pronounciation": "éfúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toucher légèrement ; frôler ; s’approcher",
+                "definition_en": "approach; touch lightly; brush against; approach",
+                "examples": [
+                    {
+                        "dialect": "Te fúa mmɔ̌g.",
+                        "fr": "Ne t’approche pas du feu.",
+                        "en": "Don't go near the fire."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "toucher légèrement ; frôler",
+                "definition_en": "touch lightly; brush",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ɔn légÿo pɛ́ʼɛ tà fúate wɔ́ɔn.",
+                        "fr": "Ne fait pas comme-ça jusqu’à me frôler.",
+                        "en": "Don't act like that until you brush against me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "éfúɔfuɔ",
+        "pronounciation": "éfúɔ́fùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frôler",
+                "definition_en": "brush against",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfuʼ",
+        "pronounciation": "éfùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être chanceux",
+                "definition_en": "be lucky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfuʼ",
+        "pronounciation": "éfùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mousser",
+                "definition_en": "foam; lather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfúʼ",
+        "pronounciation": "éfúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouillir",
+                "definition_en": "boil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfúʼ",
+        "pronounciation": "éfúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être touffu",
+                "definition_en": "be bushy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être touffu",
+                "definition_en": "be bushy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfúʼ",
+        "pronounciation": "éfúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "monter (fumée, poussière)",
+                "definition_en": "rise (smoke, dust)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfuʼe",
+        "pronounciation": "éfùʔè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être farineux",
+                "definition_en": "be starchy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ",
+        "pronounciation": "éfɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être aveugle ; devenir aveugle",
+                "definition_en": "be blind; become blind",
+                "examples": []
+            },
+            {
+                "definition_fr": "être aveugle ; devenir aveugle",
+                "definition_en": "be blind; go blind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉa",
+        "pronounciation": "éfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dégammer ; déraper",
+                "definition_en": "talk nonsense; slide; slip",
+                "examples": [
+                    {
+                        "dialect": "À zɔ̌b ntse tà fʉa.",
+                        "fr": "Il a chanté jusqu’à dégammer.",
+                        "en": "He sang until he burst out."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "dégammer ; déraper",
+                "definition_en": "dismantle; skid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉa",
+        "pronounciation": "éfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvrir grandement",
+                "definition_en": "open greatly",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir grandement",
+                "definition_en": "open wide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉa",
+        "pronounciation": "éfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se tromper ; pécher",
+                "definition_en": "make a mistake; sin; err",
+                "examples": [
+                    {
+                        "dialect": "À fʉ̌a mánzsè.",
+                        "fr": "Il s’est trompé de route.",
+                        "en": "He took the wrong route."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pécher",
+                "definition_en": "sin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́e",
+        "pronounciation": "éfɯ́é",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pointer (fesse) ; replier",
+                "definition_en": "point (buttock); fold over",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́le",
+        "pronounciation": "éfɯ́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rapatrier",
+                "definition_en": "repatriate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉŋe",
+        "pronounciation": "éfɯ̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrelacer",
+                "definition_en": "intertwine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́ŋe",
+        "pronounciation": "éfɯ̃́ŋé",
+        "synonym": [
+            "éféŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser ; se croiser",
+                "definition_en": "cross; fold; intersect; pass each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́ŋte",
+        "pronounciation": "éfɯ̃́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écarter",
+                "definition_en": "separate; move apart",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉte",
+        "pronounciation": "éfɯ̀tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromper",
+                "definition_en": "deceive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "éfʉ́te",
+        "pronounciation": "éfɯ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être exagérément gros",
+                "definition_en": "be excessively big",
+                "examples": []
+            }
+        ]
+    }
+]

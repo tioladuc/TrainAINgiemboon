@@ -1,0 +1,459 @@
+[
+    {
+        "noun": "tsétsɔʼ",
+        "pronounciation": "tsétsɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pardon ; prier de faire",
+                "definition_en": "excuse me; pardon me; sorry; forgiveness; please",
+                "examples": [
+                    {
+                        "dialect": "Tsétsɔʼ, tóo mé gʉa fʉ̀ʼɔɔn.",
+                        "fr": "Pardon, viens pour qu’on parte maintenant.",
+                        "en": "Sorry, come on so we can leave now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsétsɔ́ʼɔ kwɔb",
+        "pronounciation": "tsétsɔ́ʔɔ́ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grive musicienne",
+                "definition_en": "song thrush",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsétsyɛ̌",
+        "pronounciation": "tsétsjɛ̌",
+        "synonym": [
+            "tsétsɛ̌ ",
+            " sẅísẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛ",
+        "pronounciation": "tsɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intérieur ; dedans",
+                "definition_en": "interior; inside",
+                "examples": [
+                    {
+                        "dialect": "Tsɛ̀ɛ ndá tè mbòŋ wɔ́.",
+                        "fr": "L’intérieur de la maison n’est pas bien.",
+                        "en": "The inside of the house is not good."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "dans",
+                "definition_en": "in; into",
+                "examples": [
+                    {
+                        "dialect": "Kɔ̀ ńtÿɔ́gɔ tsɛ̀ɛ ndá.",
+                        "fr": "Prends, tu mets dans la maison.",
+                        "en": "Take, you put in the house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛ kÿò ngyaŋa",
+        "pronounciation": "tsɛ̏ː kxɰȍ ŋ̩̀gjã̀ŋà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malgré",
+                "definition_en": "despite",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gÿo pɔ́ tsɛ̀ɛ kÿò ngyaŋa.",
+                        "fr": "Je le fais malgré moi.",
+                        "en": "I do it in spite of myself."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛ tekwòŋ nkwoŋ",
+        "pronounciation": "tsɛ̏ː tèkwõ̏ŋ ŋ̩̀kwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "obligatoirement",
+                "definition_en": "necessarily",
+                "examples": [
+                    {
+                        "dialect": "À tsẅǐ le múɔ ngie à gʉa sɔg mekáŋ tsɛ̀ɛ tekwòŋ nkwoŋ.",
+                        "fr": "Il a demandé à l’enfant d’aller laver les assiettes obligatoirement.",
+                        "en": "He asked the child to go and wash the dishes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛ tsoló",
+        "pronounciation": "tsɛ̏ː tsòló",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "volume",
+                "definition_en": "volume",
+                "examples": [
+                    {
+                        "dialect": "Fʉʼʉ tsɛ̀ɛ tsoló!",
+                        "fr": "Mesure le volume !",
+                        "en": "Measure the volume!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛ wó",
+        "pronounciation": "tsɛ̏ː wó",
+        "synonym": [
+            "tsolò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à l’intérieur ; dedans",
+                "definition_en": "in the interior; inside",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ́ɛ zẅìge",
+        "pronounciation": "tsɛ́ː zɥìʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "asthme",
+                "definition_en": "asthma",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛtsẅɛ́ʼ",
+        "pronounciation": "tsɛ̏ːtsɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minuit",
+                "definition_en": "midnight",
+                "examples": [
+                    {
+                        "dialect": "Á té poŋo légiŋe pǐ tsɛ̀ɛtsẅɛ́ʼ wɔ́.",
+                        "fr": "Il n’est pas bon de marcher dehors à minuit.",
+                        "en": "It is not good to walk outside at midnight."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̀ɛzsǒ",
+        "pronounciation": "tsɛ̏ːzsǒ",
+        "synonym": [
+            "táŋazsǒ ",
+            " tẅɛ̂b ",
+            " tʉ̀zsǒ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "midi",
+                "definition_en": "noon",
+                "examples": [
+                    {
+                        "dialect": "Mé ée těen ńtúŋe mpfó tsɛ̀ɛzsǒ wɔ́.",
+                        "fr": "On n’enterre pas le mort à midi.",
+                        "en": "We don't bury the dead at noon."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsɛ̂n",
+        "pronounciation": "̀tsɛ̂n",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaînes",
+                "definition_en": "chains",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsì",
+        "pronounciation": "tsȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vessie",
+                "definition_en": "bladder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsígè nzẅìŋ",
+        "pronounciation": "tsíʁȅ ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calcul",
+                "definition_en": "arithmetic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìge nzẅìŋ",
+        "pronounciation": "ǹ̩tsȉq̚ ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calculatrice",
+                "definition_en": "calculator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋ",
+        "pronounciation": "tsĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sexe",
+                "definition_en": "sex",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋ kǔ",
+        "pronounciation": "tsìŋ kǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pied du lit",
+                "definition_en": "foot of the bed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe",
+        "pronounciation": "tsĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fond",
+                "definition_en": "bottom",
+                "examples": [
+                    {
+                        "dialect": "Sɔgɔ pfepfɔ́b tsìŋe káŋ mboŋó.",
+                        "fr": "Lave bien la poussière au fond de l’assiette.",
+                        "en": "Wash the dust from the bottom of the plate well."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "passoir",
+                "definition_en": "sieve; colander; strainer",
+                "examples": []
+            },
+            {
+                "definition_fr": "au-dessous de",
+                "definition_en": "below",
+                "examples": [
+                    {
+                        "dialect": "Kaa ńtÿɔ́gɔ tsìŋe kwɔ̀ʼɔ.",
+                        "fr": "Porte, tu mets au-dessous de la chaise.",
+                        "en": "Door, you put under the chair."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "sous",
+                "definition_en": "under",
+                "examples": [
+                    {
+                        "dialect": "Tÿɔ́gɔ káŋ yɔɔn tsìŋe lʉŋ.",
+                        "fr": "Poses l’assiette-ci sous la chaise.",
+                        "en": "Place this plate under the chair."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe lekʉŋ",
+        "pronounciation": "tsĩ̀ŋȅ lèkɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fond de la marmite",
+                "definition_en": "bottom of a pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe lekyé",
+        "pronounciation": "tsĩ̀ŋȅ lèkxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égouttoir ; filtre pour éther",
+                "definition_en": "draining board; draining rack; ether filter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe ndá",
+        "pronounciation": "tsĩ̀ŋȅ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "famille",
+                "definition_en": "family",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe nò",
+        "pronounciation": "tsĩ̀ŋȅ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fond de l’affaire",
+                "definition_en": "merits of the case",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋe ssé",
+        "pronounciation": "tsĩ̀ŋȅ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en dessous ; sous-sol",
+                "definition_en": "down below; subsoil; basement",
+                "examples": [
+                    {
+                        "dialect": "À tÿɔgɔ́ tétɔ́ʼ tsìŋe ssé.",
+                        "fr": "Il a mis la boîte en dessous.",
+                        "en": "He put the box underneath."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsìŋɔɔn",
+        "pronounciation": "tsĩ̏ŋɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en bas ; là-bas",
+                "definition_en": "down below; over there",
+                "examples": [
+                    {
+                        "dialect": "Gʉa tsìŋɔɔn ńtúʼ ntse ńdɔg ńtó.",
+                        "fr": "Pars en bas puiser de l’eau pour apporter.",
+                        "en": "Go downstairs to get some water to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsíte",
+        "pronounciation": "tsíté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "escroquerie",
+                "definition_en": "swindle",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "noun": "whisper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdemte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzémte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistle, cruciform wooden",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandèle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistle, modern",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistle, tube",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistle, vertical animal horn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "méncʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méshʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whistling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lemí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "peféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yeféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yeféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "seféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "weféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mefɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "seféfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "meféfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white bean, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "malákú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ mekú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mekú féfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàafɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whiten",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́ge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white of the eye",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ́gɔ̀ lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white pepper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ̀ sɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndegé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whitewash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwǒon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "white woman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâfɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "why",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíʼi kɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "á nue kɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mélàʼa kɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtí kɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wicker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekʉ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "widen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔgɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "widow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "widowbird, red-collared",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zàkwɔ̀ʼ metoŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sessò sẅǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "widower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɔ̌g",
+                "examples": []
+            }
+        ]
+    }
+]

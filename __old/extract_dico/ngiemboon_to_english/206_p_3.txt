@@ -1,0 +1,464 @@
+[
+    {
+        "noun": "pasetɛ́g",
+        "pronounciation": "pàsètɛ́q̚",
+        "synonym": [
+            "lepwɔʼ ntsentse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pastèque ; melon d’eau",
+                "definition_en": "water-melon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pásétò",
+        "pronounciation": "pásétȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pasteur",
+                "definition_en": "minister; pastor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Páskà",
+        "pronounciation": "páskȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Pâques",
+                "definition_en": "Easter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páʼ",
+        "pronounciation": "páʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comme",
+                "definition_en": "as; like",
+                "examples": [
+                    {
+                        "dialect": "Nyɛ́te jú páʼ yɔ́ɔn.",
+                        "fr": "Arrange ta part comme la mienne.",
+                        "en": "Arrange your part like mine."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pour; comme",
+                "definition_en": "for; as; like",
+                "examples": [
+                    {
+                        "dialect": "À tóŋo Mɔ́ɔnfùɔ páʼ peg yé ge gʉa.",
+                        "fr": "Il a appelé Moffo pour que je parte avec lui.",
+                        "en": "He called Moffo so I could go with him."
+                    },
+                    {
+                        "dialect": "Páʼ nkandi yɛ̂ lʉ̌́ la, mèŋ n cʉ́ʼʉ jÿo wɔ́.",
+                        "fr": "Comme cette banane est pourrie, je ne mange plus.",
+                        "en": "Since this banana is rotten, I won't eat it anymore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ",
+        "pronounciation": "pȁʔ",
+        "synonym": [
+            "shʉ̀shʉ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangouste svelte",
+                "definition_en": "slender mongoose",
+                "examples": []
+            },
+            {
+                "definition_fr": "imbécile",
+                "definition_en": "imbecile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ",
+        "pronounciation": "pȁʔ",
+        "synonym": [
+            "mbaʼá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe seche",
+                "definition_en": "sp. weed that is dried",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ",
+        "pronounciation": "pȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peluche qui sort du palmier",
+                "definition_en": "palm tree fluff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páʼ á zɛ́te",
+        "pronounciation": "páʔ á zɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comme il faut",
+                "definition_en": "as one must",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńtyé na fàʼ, ɔ̀ faʼ páʼ á zɛ́te.",
+                        "fr": "Si on te donne le travail, travaille le comme il faut.",
+                        "en": "If you are given the job, work it well."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ mbʉ̀ŋ",
+        "pronounciation": "pȁʔ m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe (utilisé pour traiter les blessures)",
+                "definition_en": "haemorrhage plant (used for treating wounds)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ nkwʉŋ",
+        "pronounciation": "pȁʔ ŋ̩̀kwɯ̃̀ŋ",
+        "synonym": [
+            "pàŋ nkwʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangouste à queue blanche",
+                "definition_en": "white-tailed mongoose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pàʼ nkwʉŋ",
+        "pronounciation": "pȁʔ ŋ̩̀kwɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imbécile ; stupide",
+                "definition_en": "imbecile; stupid person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páʼa",
+        "pronounciation": "páʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ainsi ; comme ça ; alors que",
+                "definition_en": "so; like that; so that",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn páʼa, mbà à gʉ̌a.",
+                        "fr": "Tu dis comme ça alors qu’il est parti.",
+                        "en": "You say like that when he's gone."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "páʼa",
+        "pronounciation": "páʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ?",
+                "definition_en": "how?",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn ngie mèŋ m pfó páʼa?",
+                        "fr": "Tu dis que j’aille comment ?",
+                        "en": "How do you say I'm doing?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pàʼa",
+        "pronounciation": "pàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "case",
+                "definition_en": "hut; cabin",
+                "examples": []
+            },
+            {
+                "definition_fr": "taudis",
+                "definition_en": "hovel; slum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "páʼɔɔn",
+        "pronounciation": "páʔɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.man",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comme ceci ; ainsi",
+                "definition_en": "like this; in this way",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dɔɔn ńgɔɔn páʼɔɔn ńdɔgɔ ńcÿɔɔnò pi cúa wɔ́ɔn.",
+                        "fr": "Si je dis comme ceci pour mentir, vous me tapez.",
+                        "en": "If I say like this to lie, you hit me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pe",
+        "pronounciation": "pè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.poss",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux de (pron.poss. qui renvoie aux noms de la classe 2)",
+                "definition_en": "those of (possessive pronoun referring back to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńdíe pe Mɔ́ɔnfùɔ ńdɔg ńtó.",
+                        "fr": "Pars regarder ceux de Manfo pour apporter.",
+                        "en": "Go look at those from Manfo to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pe-",
+        "pronounciation": "pȅ-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n.pl",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "des ; les",
+                "definition_en": "some; the",
+                "examples": [
+                    {
+                        "dialect": "Tóo ńtóŋ penkʉ́ pi lâ pɔ̌ gʉa.",
+                        "fr": "Viens appeler les enfants pour partir avec eux.",
+                        "en": "Come and call the children to go with them."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pé",
+        "pronounciation": "pé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les siens (pron. poss. de la 3e personne du singulier qui renvoie aux noms de la classe 2)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ses (adj. poss. de la 3e personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "his (third person singular possessive adjective modifying class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ses (adj. poss. emph. de la 3e personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pê",
+        "pronounciation": "pê",
+        "synonym": [
+            "pêen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salaire ; pension",
+                "definition_en": "salary; pay; pension",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pèen",
+        "pronounciation": "pẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresse",
+                "definition_en": "laziness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pêen",
+        "pronounciation": "pẽ̂ː",
+        "synonym": [
+            "pê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salaire ; pension",
+                "definition_en": "salary; pay; pension",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peféfɔ́gɔ",
+        "pronounciation": "pèféfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blancs (qualifie les noms de la classe 2)",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peg",
+        "pronounciation": "pə̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nous (pron. sujet, 1ère personne pluriel exclusive)",
+                "definition_en": "we (first person plural exclusive subject pronoun)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "peg",
+        "pronounciation": "pə̀q",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.poss.obj.prep",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "notre excl. ; nos excl. (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de toutes les classes après une préposition ou un verbe de mouvement)",
+                "definition_en": "our, exclusive (first person exclusive plural possessive adjective modifying any class noun after preposition or a movement verb)",
+                "examples": [
+                    {
+                        "dialect": "À ka kuu nkáʼ peg.",
+                        "fr": "Il est entré dans notre champ.",
+                        "en": "He entered our field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pég",
+        "pronounciation": "pə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les nôtres (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms de la classe 2)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tâm gwǎ jÿɔ́g mekúnɔ̀ɔn mbà pég kẅɛ̌.",
+                        "fr": "Au moment où Tam nourrissait les porcs, les nôtres étaient sortis.",
+                        "en": "By the time Tam was feeding the pigs, ours were out."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 2)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "nos (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms de la classe 2)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    }
+]

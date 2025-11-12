@@ -1,0 +1,398 @@
+[
+    {
+        "noun": "nkàa pʉ́a",
+        "pronounciation": "ŋ̩̀kȁː pɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marraine",
+                "definition_en": "godmother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkáb",
+        "pronounciation": "ŋ̩̀káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "argent",
+                "definition_en": "money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkáb",
+        "pronounciation": "ŋ̩́káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cueillir",
+                "definition_en": "pick; gather",
+                "examples": []
+            },
+            {
+                "definition_fr": "moissonner les fruits",
+                "definition_en": "harvest fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkáb",
+        "pronounciation": "ŋ̩́káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "labourer",
+                "definition_en": "plough",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaba",
+        "pronounciation": "ŋ̩́kàβà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diminuer ; baisser (fièvre) ; se calmer",
+                "definition_en": "diminish; diminish (fever); calm down",
+                "examples": []
+            },
+            {
+                "definition_fr": "cligner",
+                "definition_en": "blink",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkábte",
+        "pronounciation": "ŋ̩́kápté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer ; couvrir",
+                "definition_en": "close; cover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàg",
+        "pronounciation": "ŋ̩̀kȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. chapeau noir",
+                "definition_en": "k. black hat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkag",
+        "pronounciation": "ŋ̩́kàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défricher",
+                "definition_en": "clear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkág",
+        "pronounciation": "ŋ̩́káq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fier",
+                "definition_en": "be proud",
+                "examples": []
+            },
+            {
+                "definition_fr": "se réjouir",
+                "definition_en": "rejoice",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkág",
+        "pronounciation": "ŋ̩́káq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gratter ; griffer",
+                "definition_en": "scrape; scratch",
+                "examples": []
+            },
+            {
+                "definition_fr": "avertir",
+                "definition_en": "warn",
+                "examples": []
+            },
+            {
+                "definition_fr": "gratter",
+                "definition_en": "scratch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkag tʉ̀",
+        "pronounciation": "ŋ̩́kàq̚ ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’efforcer",
+                "definition_en": "try hard to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàga",
+        "pronounciation": "ŋ̩̀kàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. de melon (graines utilisées pour la sauce)",
+                "definition_en": "sp. melon (seeds used for making sauce)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkaga",
+        "pronounciation": "ŋ̩́kàʁà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blâmer",
+                "definition_en": "blame",
+                "examples": [
+                    {
+                        "dialect": "Múɔ lɔɔn ńgÿo nò tepòŋ, ɔ̀ kaga yé.",
+                        "fr": "Si l’enfant fait une mauvaise chose, il faut le blâmer.",
+                        "en": "If the child does a bad thing, he should be blamed."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "critiquer",
+                "definition_en": "criticize",
+                "examples": [
+                    {
+                        "dialect": "Lekaga nyìŋ tè lézoonte yé wɔ́.",
+                        "fr": "Critiquer quelqu’un, ce n’est pas l’insulter.",
+                        "en": "Criticizing someone is not insulting them."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkàmbwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀kȁmbwɔ̏ʔ",
+        "synonym": [
+            "nkèmbwɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandi",
+        "pronounciation": "ŋ̩̀kàndì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandi nkʉ̌a",
+        "pronounciation": "ŋ̩̀kàndì ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enset sauvage ; banane sauvage ; « banane de singe » (en français local)",
+                "definition_en": "wild enset; wild banana; \"monkey banana\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandi pʉ́a",
+        "pronounciation": "ŋ̩̀kàndì pɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. banane",
+                "definition_en": "sp. banana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandi tikú",
+        "pronounciation": "ŋ̩̀kàndì tìkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. banane",
+                "definition_en": "sp. banana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandòŋ",
+        "pronounciation": "ŋ̩̀kàndõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain",
+                "definition_en": "sp. plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkandòŋ lemvwɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀kàndõ̏ŋ lèmbvwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plantain costaud mais avec peu de doigts",
+                "definition_en": "sp. fat plantain with few fingers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàndɔ́ɔn",
+        "pronounciation": "ŋ̩̀kȁndɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceinture",
+                "definition_en": "belt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkàndɔ́ɔn peláŋ",
+        "pronounciation": "ŋ̩̀kȁndɔ̃́ː pèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dosse",
+                "definition_en": "slab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkànjùʼ",
+        "pronounciation": "ŋ̩̀kȁndʒȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkanɔ̀ɔn",
+        "pronounciation": "ŋ̩̀kànɔ̃̏ː",
+        "synonym": [
+            "púʼ kwɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gorille",
+                "definition_en": "gorilla",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkáŋ",
+        "pronounciation": "ŋ̩̀kã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "canari cérémonial ; cadre cérémonial",
+                "definition_en": "ceremonial canary bowl; ceremonial frame",
+                "examples": []
+            }
+        ]
+    }
+]

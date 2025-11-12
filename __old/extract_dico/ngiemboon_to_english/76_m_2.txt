@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "máangùle",
+        "pronounciation": "má:ŋgùlȅ",
+        "synonym": [
+            "máangwèle ",
+            " máangwʉ̀le"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangue",
+                "definition_en": "mango",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máangwèle",
+        "pronounciation": "má:ŋgwə̀lȅ",
+        "synonym": [
+            "máangwʉ̀le ",
+            " máangùle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangue",
+                "definition_en": "mango",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máangwèle láʼ",
+        "pronounciation": "má:ŋgwə̀lȅ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangue du village",
+                "definition_en": "village mango",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máangwèle ndÿɔgɔ́",
+        "pronounciation": "má:ŋgwə̀lȅ ǹ̩ɖɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. mangue",
+                "definition_en": "sp. mango",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máangwʉ̀le",
+        "pronounciation": "má:ŋgwɯ̀lȅ",
+        "synonym": [
+            "máangwèle ",
+            " máangùle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mangue",
+                "definition_en": "mango",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máapàʼa",
+        "pronounciation": "má:pàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "panne sablière",
+                "definition_en": "sand quarry breakdown",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "maapfó",
+        "pronounciation": "màːpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "femme infortunée ; femme malheureuse",
+                "definition_en": "wretched woman; unfortunate woman",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gǐŋ tà ḿbumte tsɔ̌ màapfó, á faʼa lékẅé lepuʼú sɔ́ɔn.",
+                        "fr": "J’ai croisé une femme infortunée, elle a menacé de prendre mon paquet.",
+                        "en": "I met an unfortunate woman, she threatened to take my package."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "máatàŋa",
+        "pronounciation": "má:tã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrait",
+                "definition_en": "tie-beam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfàʼ",
+        "pronounciation": "máfȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "matrone",
+                "definition_en": "matron",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfɛ̌ metyé",
+        "pronounciation": "máfɛ̌ mètθjé",
+        "synonym": [
+            "máfɔ̌b metyé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte qui mousse la salive (plantes)",
+                "definition_en": "sp. insect that foams with saliva (plants)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfɛ̌ metyé",
+        "pronounciation": "máfɛ̌ mètθjé",
+        "synonym": [
+            "máfɔ̌b metyé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais type ; celui qui gâte",
+                "definition_en": "evil person; person who spoils things",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfǒmantʉ́m",
+        "pronounciation": "máfǒmàɳʈɯ́m",
+        "synonym": [
+            "máfǒsɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gousse d’arachide à trois grains",
+                "definition_en": "groundnut shell with three grains",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfómo lii",
+        "pronounciation": "máfɤ́mó lìː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouffon",
+                "definition_en": "jester",
+                "examples": []
+            },
+            {
+                "definition_fr": "personne sale",
+                "definition_en": "dirty person",
+                "examples": []
+            },
+            {
+                "definition_fr": "grassouillet ; personne grasse",
+                "definition_en": "podgy person; plump person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfǒŋ nzɛ́",
+        "pronounciation": "máfõ̌ŋ ǹ̩dzɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bousier",
+                "definition_en": "dung-beetle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfǒsɔb",
+        "pronounciation": "máfǒsɔ̀p̚",
+        "synonym": [
+            "máfǒmantʉ́m"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gousse d’arachide à trois grains",
+                "definition_en": "groundnut shell with three grains",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfɔ̌b metyé",
+        "pronounciation": "máfɔ̌p̚ mètθjé",
+        "synonym": [
+            "máfɛ̌ metyé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte qui mousse la salive (plantes)",
+                "definition_en": "sp. insect that foams with saliva (plants)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfɔ̌b metyé",
+        "pronounciation": "máfɔ̌p̚ mètθjé",
+        "synonym": [
+            "máfɛ̌ metyé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais type ; celui qui gâte",
+                "definition_en": "evil person; person who spoils things",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mâfɔ́gɔ",
+        "pronounciation": "mâfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "femme blanche ; mulâtre ; femme ou fille albinos",
+                "definition_en": "white woman; mulato; albino woman or girl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mafúfuʼú",
+        "pronounciation": "màfúfùʔú",
+        "synonym": [
+            "mafúʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tulipier du Gabon",
+                "definition_en": "African tulip tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfùɔ",
+        "pronounciation": "máfùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marraine du chef",
+                "definition_en": "chief’s godmother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfùɔ metoŋó",
+        "pronounciation": "máfùɔ̏ mètõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autour minulle",
+                "definition_en": "West African little sparrow-hawk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "máfùɔ tÿǒ",
+        "pronounciation": "máfùɔ̏ ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mafúʼ",
+        "pronounciation": "màfúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. fusil",
+                "definition_en": "k. gun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mafúʼ",
+        "pronounciation": "màfúʔ",
+        "synonym": [
+            "mafúfuʼú"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tulipier du Gabon",
+                "definition_en": "African tulip tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mâg",
+        "pronounciation": "mâq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "note ; indice",
+                "definition_en": "note; indication; sign",
+                "examples": []
+            }
+        ]
+    }
+]

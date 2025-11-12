@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "a",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "a-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mên-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "le-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "n-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "m-",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abandon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́e",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyiŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abandoned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzǎg ngě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abandoning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tém nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "able, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abortion, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíɛ múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abortionist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋ ntsɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abortion, one who causes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ púɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgyɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "above",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "above, up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ wɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abrasion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔɔnté",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abscess",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mwòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abscess with puss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zezsó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zʉzsó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "absent without leave",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abundance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gyɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "abyss",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿé telǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acacia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "manúa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accelerate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbímte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accept",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "acceptable",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accept a false alarm",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "toŋó ncÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "accept one’s limits, don’t",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋʉ́ʼʉ nò",
+                "examples": []
+            }
+        ]
+    }
+]

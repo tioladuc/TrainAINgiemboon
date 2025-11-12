@@ -1,0 +1,473 @@
+[
+    {
+        "noun": "n",
+        "pronounciation": "ǹ",
+        "synonym": [
+            "m ",
+            " e"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "je (pron. sujet, première personne singulier)",
+                "definition_en": "I",
+                "examples": [
+                    {
+                        "dialect": "N tǒ ḿpfɛ́ mekèlè.",
+                        "fr": "Je suis venu manger les beignets.",
+                        "en": "I came to eat the donuts."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "n-",
+        "pronounciation": "ǹ-",
+        "synonym": [
+            "m- ",
+            " e-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "un (pour noms des classes 3 et 9)",
+                "definition_en": "a",
+                "examples": []
+            },
+            {
+                "definition_fr": "des (pour noms de la classe 10)",
+                "definition_en": "some",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ń-",
+        "pronounciation": "ń-",
+        "synonym": [
+            "ḿ- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "à (+verbe) ; de (+verbe)",
+                "definition_en": "to (+verb)",
+                "examples": [
+                    {
+                        "dialect": "ńtó,",
+                        "fr": "venir.",
+                        "en": "come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ń-",
+        "pronounciation": "ń-",
+        "synonym": [
+            "ḿ- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.suj",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "il ; ils (même sujet que la proposition précédente)",
+                "definition_en": "he; they (same subject as the preceding clause)",
+                "examples": [
+                    {
+                        "dialect": "Tane, gʉa faʼ ngesáŋ, ńná né gubé.",
+                        "fr": "Tane, va chercher le maïs et  donne-le aux enfants.",
+                        "en": "Tane, go get the corn and give it to the children."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ń-",
+        "pronounciation": "ń-",
+        "synonym": [
+            "ḿ- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.asp",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "(mode réalis, aspect imperfectif) ; vraiment",
+                "definition_en": "(realis mood, imperfective aspect); really",
+                "examples": [
+                    {
+                        "dialect": "À ka ne ńkɔ́ʼɔ mbab.",
+                        "fr": "Il était (vraiment) en train de couper la viande.",
+                        "en": "He was (really) cutting the meat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ń-",
+        "pronounciation": "ń-",
+        "synonym": [
+            "ḿ- ",
+            " é-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.v.t",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui (P2)",
+                "definition_en": "today past;",
+                "examples": [
+                    {
+                        "dialect": "À ně ńzɛ́te.",
+                        "fr": "Il a demandé (plus tôt aujourd’hui).",
+                        "en": "He asked (earlier today)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "na",
+        "pronounciation": "nà",
+        "synonym": [
+            "nê"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sur",
+                "definition_en": "on",
+                "examples": [
+                    {
+                        "dialect": "Jÿɔ́gɔ kɔ̌ʼ na kúnɔ̀ɔn.",
+                        "fr": "Mets le joug sur le porc.",
+                        "en": "Put the yoke on the pig."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nàa",
+        "pronounciation": "nȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "donateur ; donneur",
+                "definition_en": "donor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nâb",
+        "pronounciation": "nâp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "excessivement",
+                "definition_en": "excessively",
+                "examples": [
+                    {
+                        "dialect": "Ésí lê nâb!",
+                        "fr": "Briller excessivement !",
+                        "en": "Shine excessively!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nága",
+        "pronounciation": "náʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nombreux",
+                "definition_en": "numerous",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nàganága",
+        "pronounciation": "nàʁȁnáʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compacteur",
+                "definition_en": "compactor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nàkwɔ̀ʼ",
+        "pronounciation": "nȁkwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nàmeshǔ",
+        "pronounciation": "nȁmèʃǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "náŋ",
+        "pronounciation": "nã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sûreté",
+                "definition_en": "safety",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "náŋ",
+        "pronounciation": "nã́ŋ",
+        "synonym": [
+            "manáŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espion",
+                "definition_en": "spy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "náŋ ncù",
+        "pronounciation": "nã́ŋ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sentinelle",
+                "definition_en": "sentry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nàʼnàʼ ńgwɔ́ nkʉŋkʉŋ",
+        "pronounciation": "nȁʔnȁʔ ŋ̩́gwɔ́ ŋ̩̀kɯ̀ŋkɯ̃̀ŋ",
+        "synonym": [
+            "nẅɛ̀ʼnẅɛ̀ʼ ńgwɔ́ nkʉŋkʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traître",
+                "definition_en": "traitor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncú",
+        "pronounciation": "ǹ̩tʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entrée du marché",
+                "definition_en": "market entrance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncù",
+        "pronounciation": "ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "guerre",
+                "definition_en": "war",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcú",
+        "pronounciation": "ń̩tʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marcher dans l’eau pour traverser",
+                "definition_en": "walk in water to cross over",
+                "examples": []
+            },
+            {
+                "definition_fr": "attacher légèrement",
+                "definition_en": "attach lightly",
+                "examples": []
+            },
+            {
+                "definition_fr": "finir",
+                "definition_en": "finish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùa",
+        "pronounciation": "ǹ̩tʃùȁ",
+        "synonym": [
+            "ncùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tas ; grappe",
+                "definition_en": "pile; cluster; bunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńcúa",
+        "pronounciation": "ń̩tʃúá",
+        "synonym": [
+            "ńcúɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frapper ; taper",
+                "definition_en": "hit",
+                "examples": []
+            },
+            {
+                "definition_fr": "purifier (femme) ; donner une claque au dos",
+                "definition_en": "purify (woman); give a slap on the back",
+                "examples": []
+            },
+            {
+                "definition_fr": "lutter ; bagarrer",
+                "definition_en": "to struggle against ; fight",
+                "examples": []
+            },
+            {
+                "definition_fr": "agiter ; se démener",
+                "definition_en": "shake; to struggle",
+                "examples": []
+            },
+            {
+                "definition_fr": "assommer à coup de bâton",
+                "definition_en": "knock out with a stick",
+                "examples": []
+            },
+            {
+                "definition_fr": "tapoter",
+                "definition_en": "tap",
+                "examples": []
+            },
+            {
+                "definition_fr": "épousseter",
+                "definition_en": "dust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùashùm",
+        "pronounciation": "ǹ̩tʃùȁʃȕm",
+        "synonym": [
+            "kasálà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manioc (gén.)",
+                "definition_en": "cassava (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùashùm féfɔ́gɔ",
+        "pronounciation": "ǹ̩tʃùȁʃȕm féfɔ́ʁɔ́",
+        "synonym": [
+            "kasálà féfɔ́gɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. manioc blanc",
+                "definition_en": "sp. white cassava",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ncùashùm pepàŋ",
+        "pronounciation": "ǹ̩tʃùȁʃȕm pèpã̏ŋ",
+        "synonym": [
+            "kasálà pepàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. manioc rouge",
+                "definition_en": "sp. red cassava",
+                "examples": []
+            }
+        ]
+    }
+]

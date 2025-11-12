@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "measurer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "measuring system",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼʉ mmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meat, cow skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kubocʉ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meat, piece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kìm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meat, piece of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekɔʼɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meat tendon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàŋa mbab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mechanic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "makánè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga tákʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medial dorsal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "median",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwoŋo ffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mediation",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mediator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngìŋ kěm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mamèkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mediator, chief and notables",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndè nkěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medicine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medicine, essential ingredient",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medium",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ ngɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "medlar, common",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ mandâm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Medumba language",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋò ngáŋtʉɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbumte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúɔte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meeting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndeʼé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "píge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepigé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cúʼtè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lelèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meeting room",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá lemù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meet with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbumte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "me, for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "melody",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngyè zɔ̀b",
+                "examples": []
+            }
+        ]
+    }
+]

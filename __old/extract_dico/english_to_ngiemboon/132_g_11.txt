@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "groundnuts, shell some",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkʉ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut, three grains",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfǒmantʉ́m",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máfǒsɔb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "groundnut waste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìtsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, ripe fruit falling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyâg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, roll on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkite",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkele ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, sacred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, sacrificial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ffo ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ground, tremble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnóŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "group",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùmbàaně",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "manzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nùa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "group, age",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "manzòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwò nkàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "group, communal help",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "group together",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋáŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésáʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgaʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grower, wine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋ nkʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ŋ melùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèŋ nkʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "growing, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "growl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo ngyè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grown, is",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgúʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grow old",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "growth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "growth, lose",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtuʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "growth of the stomach",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grudge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɛ̀te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grudge against, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grudge, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ nkwɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "grudge, keep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa kwɛ̀te",
+                "examples": []
+            }
+        ]
+    }
+]

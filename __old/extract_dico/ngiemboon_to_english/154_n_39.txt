@@ -1,0 +1,391 @@
+[
+    {
+        "noun": "nkenkʉ́ŋe",
+        "pronounciation": "ŋ̩̀kə̀ŋkɯ̃́ŋé",
+        "synonym": [
+            "nkʉnkʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pente",
+                "definition_en": "slope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkenkÿo",
+        "pronounciation": "ŋ̩̀kə̀ŋkxɰò",
+        "synonym": [
+            "nkʉnkÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ficelle ; courroie",
+                "definition_en": "string; strap; belt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkentàʼntʉŋé",
+        "pronounciation": "ŋ̩̀kə̀ntȁʔɳ̩̀ʈɯ̃̀ŋé",
+        "synonym": [
+            "tsẅìte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ver de terre",
+                "definition_en": "earthworm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkentsyɛ̀ʼ mbwó",
+        "pronounciation": "ŋ̩̀kèntsjɛ̏ʔ m̩̀bɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hand-ball ; volley-ball ; basket-ball",
+                "definition_en": "handball; volleyball; basketball",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkentsyɛ̀ʼ mekwò",
+        "pronounciation": "ŋ̩̀kèntsjɛ̏ʔ mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "football",
+                "definition_en": "football; soccer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkènyìŋe",
+        "pronounciation": "ŋ̩̀kȅɲĩ̀ŋȅ",
+        "synonym": [
+            "tetà ",
+            " ntsànyìŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crampe",
+                "definition_en": "cramp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkeʼé",
+        "pronounciation": "ŋ̩́kɔ̀ʔɔ́",
+        "synonym": [
+            "ńkɔʼɔ́ ",
+            " ńkɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "falloir ; vouloir ; avoir envie de",
+                "definition_en": "must; have to; want",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ ńkeʼé gʉa metʉ̌a.",
+                        "fr": "Il faut que j’aille au marché.",
+                        "en": "I have to go to the market."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkǐ",
+        "pronounciation": "ŋ̩̀kǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croix",
+                "definition_en": "cross",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńki",
+        "pronounciation": "ŋ̩́kì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer hermétiquement",
+                "definition_en": "hermetically seal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkí",
+        "pronounciation": "ŋ̩́kí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être acide",
+                "definition_en": "be acidic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkí",
+        "pronounciation": "ŋ̩́kí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’aggraver",
+                "definition_en": "get worse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkí",
+        "pronounciation": "ŋ̩́kí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sentir mal",
+                "definition_en": "smell bad",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkì twó",
+        "pronounciation": "ŋ̩̀kȉ ʈθwó",
+        "synonym": [
+            "nkìi twó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mémoire ; cerveau",
+                "definition_en": "memory; brain",
+                "examples": [
+                    {
+                        "dialect": "Nkìi twó tè tyé ka?",
+                        "fr": "Ta mémoire ne tient pas ?",
+                        "en": "Your memory doesn't hold up?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkía",
+        "pronounciation": "ŋ̩̀kíá",
+        "synonym": [
+            "gelegÿàʼ ",
+            " nzab kéyàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. légume",
+                "definition_en": "sp. vegetable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǐb",
+        "pronounciation": "ŋ̩̀kǐp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ongle ; griffe",
+                "definition_en": "nail; claw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkib",
+        "pronounciation": "ŋ̩́kìp",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laver soigneusement",
+                "definition_en": "carefully wash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǐb púusè",
+        "pronounciation": "ŋ̩̀kǐp̚ púːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sensitive géante",
+                "definition_en": "giant sensitive plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíbe",
+        "pronounciation": "ŋ̩́kíβé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toucher ; tenir",
+                "definition_en": "touch; hold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkìbɛ",
+        "pronounciation": "ŋ̩̀kìβɛ̏",
+        "synonym": [
+            "nkyɛ̀bɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gaucher",
+                "definition_en": "left-handed; lefty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǐbngẅi",
+        "pronounciation": "ŋ̩̀kǐbŋɡɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "falsethistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkibte",
+        "pronounciation": "ŋ̩́kìptè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taquiner ; provoquer",
+                "definition_en": "tease; provoke",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíg",
+        "pronounciation": "ŋ̩́kíq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démarrer (moto, voiture) sur une pente",
+                "definition_en": "start (car) on a hill",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkíg",
+        "pronounciation": "ŋ̩́kíq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être éméché ; être névrosé",
+                "definition_en": "be merry or tipsy; be neurotic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkìi twó",
+        "pronounciation": "ŋ̩̀kȉː ʈθwó",
+        "synonym": [
+            "nkì twó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mémoire ; cerveau",
+                "definition_en": "memory; brain",
+                "examples": [
+                    {
+                        "dialect": "Nkìi twó tè tyé ka?",
+                        "fr": "Ta mémoire ne tient pas ?",
+                        "en": "Your memory doesn't hold up?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkile",
+        "pronounciation": "ŋ̩́kìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être suspendu",
+                "definition_en": "be hanging; be suspended",
+                "examples": []
+            }
+        ]
+    }
+]

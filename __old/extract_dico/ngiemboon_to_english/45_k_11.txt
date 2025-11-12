@@ -1,0 +1,395 @@
+[
+    {
+        "noun": "kùngwʉ́ŋ",
+        "pronounciation": "kũ̏ŋgwɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. champignon",
+                "definition_en": "sp. mushroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúnɔ̀ɔn",
+        "pronounciation": "kúnɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cochon ; porc",
+                "definition_en": "pig; hog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kúnɔ̀ɔn tsẅɛ",
+        "pronounciation": "kúnɔ̃̏ː tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "phacochère",
+                "definition_en": "warthog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùntâg",
+        "pronounciation": "kȕntâq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goudron",
+                "definition_en": "asphalt; tarmac",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùsáa",
+        "pronounciation": "kȕsáː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éponge métallique",
+                "definition_en": "metallic sponge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùu",
+        "pronounciation": "kȕː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contenant",
+                "definition_en": "container",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǔʼ",
+        "pronounciation": "kǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourriture",
+                "definition_en": "food",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǔʼ",
+        "pronounciation": "kǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taro (gén.)",
+                "definition_en": "cocoyam (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kùʼngàŋ",
+        "pronounciation": "kȕʔŋ̩̀gã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle ; s. association secrète",
+                "definition_en": "k. cultural dance; k. secret society",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kuʼú láʼ",
+        "pronounciation": "kùʔú láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. taro",
+                "definition_en": "sp. cocoyam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kuʼú lekàŋ",
+        "pronounciation": "kùʔú lèkã̏ŋ",
+        "synonym": [
+            "mákàba"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "macabo (gén.)",
+                "definition_en": "new cocoyam (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kuʼú nkèsàŋ",
+        "pronounciation": "kùʔú ŋ̩̀kȅsã̏ŋ",
+        "synonym": [
+            "kuʼú tsẅɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souchet rond ; souchet officinal",
+                "definition_en": "purple nutsedge; nutgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kuʼú ntse",
+        "pronounciation": "kùʔú ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "ducksalad",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kuʼú tsẅɛ",
+        "pronounciation": "kùʔú tsɥɛ̀",
+        "synonym": [
+            "kuʼú nkèsàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souchet rond ; souchet officinal",
+                "definition_en": "purple nutsedge; nutgrass",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́",
+        "pronounciation": "kɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit (qualifie les noms pour tous les classes)",
+                "definition_en": "small; little (modifies nouns from any class)",
+                "examples": [
+                    {
+                        "dialect": "pɔ̀ɔn kʉ́,",
+                        "fr": "petit sac.",
+                        "en": "small bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́",
+        "pronounciation": "kɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.bén",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étrange",
+                "definition_en": "strange",
+                "examples": [
+                    {
+                        "dialect": "N juʼú kʉ́ panò.",
+                        "fr": "J’ai compris une affaire étrange.",
+                        "en": "I understood a strange thing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀a",
+        "pronounciation": "kɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alliance ; pacte ; contrat ; testament",
+                "definition_en": "alliance; pact; contract; testament",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉankàŋ",
+        "pronounciation": "kɯ̀àŋkã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "règle",
+                "definition_en": "rule; ruler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̌b",
+        "pronounciation": "kɯ̌p̚",
+        "synonym": [
+            "kùb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coffre ; valise ; cantine ; box",
+                "definition_en": "chest; trunk; suitcase; footlocker; cubicle",
+                "examples": []
+            },
+            {
+                "definition_fr": "cercueil",
+                "definition_en": "coffin; casket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́be zǐ",
+        "pronounciation": "kɯ́βè zǐ",
+        "synonym": [
+            "sòŋo zǐ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui a un front ressorti",
+                "definition_en": "someone with a jutting forehead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀e",
+        "pronounciation": "kɯ̀ȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détonation ; éclatement",
+                "definition_en": "detonation; explosion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀kʉ̀",
+        "pronounciation": "kɯ̏kɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "statue",
+                "definition_en": "statue",
+                "examples": []
+            },
+            {
+                "definition_fr": "dessin",
+                "definition_en": "drawing",
+                "examples": []
+            },
+            {
+                "definition_fr": "idiot",
+                "definition_en": "idiot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ́kʉ́b",
+        "pronounciation": "kɯ́kɯ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poitrine",
+                "definition_en": "chest; breast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉkʉ́ŋ",
+        "pronounciation": "kɯ̀kɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chassie",
+                "definition_en": "sticky matter (in eye)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kʉ̀kʉ̀ŋ",
+        "pronounciation": "kɯ̀kɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "menstrues",
+                "definition_en": "menstruation",
+                "examples": [
+                    {
+                        "dialect": "Múɔ manzwě gwaa zsé ngie ńgwɔ́ á shwoŋ, ńzye légyá kʉ̀kʉ̀ŋ yé.",
+                        "fr": "Dès qu’une fille commence à voir ses menstrues, qu’elle sache qu’on peut l’engrosser.",
+                        "en": "As soon as a girl begins to menstruate, let her know that she can become pregnant."
+                    }
+                ]
+            }
+        ]
+    }
+]

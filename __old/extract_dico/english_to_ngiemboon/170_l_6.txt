@@ -1,0 +1,487 @@
+[
+    {
+        "noun": "length, unit of measure",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔ́ɔn pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leopard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leopard moth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gégÿɛ́ ndʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leprosy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lessen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesser",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mémmó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "let go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwèʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letter, capital",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwɔ̀ʼɔ menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letter, lower case",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nénɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kékɔ́gɔ menÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "level",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndêg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "level out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbab",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lever",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúlú pâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋo tè gyá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ melɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ melɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liberate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfÿɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ nkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "liberator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Liberator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Nzàʼnkÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "librarian",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndèʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lick",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉ́ŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lick with a finger",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lid, pot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀ lekʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lie",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́a fʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̌nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔ pu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋ melɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sóon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fèbe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́g ngu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lie fallow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛ",
+                "examples": []
+            }
+        ]
+    }
+]

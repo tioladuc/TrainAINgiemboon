@@ -1,0 +1,470 @@
+[
+    {
+        "noun": "pìʼ",
+        "pronounciation": "pȉʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fardeau",
+                "definition_en": "burden",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pìʼi",
+        "pronounciation": "pìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "charrette ; chariot",
+                "definition_en": "cart; wagon",
+                "examples": [
+                    {
+                        "dialect": "À něŋ shúm tsɛ̀ɛ pìʼi ńcʉŋe nzèm kwáŋ we.",
+                        "fr": "Il a mis les choses dans la charrette et a attaché derrière son vélo.",
+                        "en": "He put the things in the cart and tied it behind his bike."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pòlopólo",
+        "pronounciation": "pòlȍpóló",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terre pétrie",
+                "definition_en": "kneaded ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pòlosetâŋ",
+        "pronounciation": "pòlȍsètã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "protestant",
+                "definition_en": "Protestant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pôm",
+        "pronounciation": "pɤ̂m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pompe",
+                "definition_en": "pump",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pónésè",
+        "pronounciation": "pónésȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punition ; châtiment",
+                "definition_en": "punishment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "póŋ",
+        "pronounciation": "pṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pauvreté",
+                "definition_en": "poverty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "póŋ",
+        "pronounciation": "pṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. argent ; monnaie anglaise",
+                "definition_en": "k. money; British money",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pǒŋ ménò",
+        "pronounciation": "põ̌ŋ ménȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insolite ; amusement",
+                "definition_en": "strange; unusual; amusement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pòŋo lé mbʉ̀ŋ",
+        "pronounciation": "põ̀ŋȍ lé m̩̀bɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. tabac",
+                "definition_en": "sp. tobacco",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pòŋo ntʉ́m",
+        "pronounciation": "põ̏ŋò ɳ̩̀ʈɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grâce ; volonté",
+                "definition_en": "grace; will",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́",
+        "pronounciation": "pɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ils ; elles (pron. sujet, 3e personne pluriel)",
+                "definition_en": "they (third person plural subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ tǒ ḿbiŋ ńgʉa.",
+                        "fr": "Ils sont venus et repartis.",
+                        "en": "They came and went."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́",
+        "pronounciation": "pɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toujours",
+                "definition_en": "always",
+                "examples": [
+                    {
+                        "dialect": "À tyě pɔ́ jʉʼó.",
+                        "fr": "Il est toujours là.",
+                        "en": "He's still there."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "que ; seulement",
+                "definition_en": "only",
+                "examples": [
+                    {
+                        "dialect": "Ná pɔ́ yɔɔn né mèŋ.",
+                        "fr": "Donne-moi que ceci.",
+                        "en": "Just give me this."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̌",
+        "pronounciation": "pɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eux (comme deuxième pronoun dans un pronom complex)",
+                "definition_en": "them (as a second pronoun in a complex pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gɔɔn ngie pɔ́ lâ pɔ̌ e tó.",
+                        "fr": "J’ai dit qu’ils viennent avec eux.",
+                        "en": "I said they are coming with them."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔb",
+        "pronounciation": "pɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.poss.obj.prep",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de toutes les classes après une préposition ou un verbe de mouvement)",
+                "definition_en": "their (third person plural possessive adjective modifying any class noun after preposition or a movement verb)",
+                "examples": [
+                    {
+                        "dialect": "À ka kuu nkáʼ pɔb.",
+                        "fr": "Il est entré dans leur champ.",
+                        "en": "He entered their field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́b",
+        "pronounciation": "pɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les leurs (pron. poss. de la troisième personne du pluriel qui renvoie aux noms de la classe 2)",
+                "definition_en": "theirs (3rd person plural possessive pronoun referring back to class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leurs (adj. poss. de la troisième personne du pluriel qui modifie les noms de la classe 2)",
+                "definition_en": "theirs (3rd person plural possessive adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a pɔ́b gÿɔ́ɔn.",
+                        "fr": "Leurs gens sont beaucoup.",
+                        "en": "Their people are a lot."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "leurs (adj. poss.  emph. de la troisième personne du pluriel qui modifie les noms de la classe 2)",
+                "definition_en": "theirs (3rd person plural emphatic possessive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀g",
+        "pronounciation": "pɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouffées de fumée",
+                "definition_en": "puffs of smoke",
+                "examples": [
+                    {
+                        "dialect": "Ndyé ne ńkẅɛɛ na káb lê pɔ́g páʼ fʉ̀ʼ gie kẅɛɛ tsɛ̀ɛ tàŋ matûa la.",
+                        "fr": "La fumée sort de la pipe comme si elle sortait de l’échappement de la voiture.",
+                        "en": "The smoke comes out of the pipe as if it were coming out of the car exhaust."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̂g",
+        "pronounciation": "pɔ̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bal ; soirée dansante",
+                "definition_en": "ball; dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́gɔ̀",
+        "pronounciation": "pɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les tiens et les miens (pron. poss. de la 1ère et 2e personne du singulier ensemble du singulier ensemble qui renvoie aux noms de la classe 2)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mekúnɔ̀ɔn pi. Gʉa ńgwoon pɔ́gɔ̀.",
+                        "fr": "Voilà les porcs. Va arrêter les tiens et les miens.",
+                        "en": "Here are the pigs. Go stop yours and mine."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "tes et mes (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 2)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "tes et mes (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 2)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀gɔ",
+        "pronounciation": "pɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "immature",
+                "definition_en": "immature",
+                "examples": [
+                    {
+                        "dialect": "À kabá pɔ̀gɔ pîɛ, à ge gÿo jÿó, à lẅe.",
+                        "fr": "Il a cueilli un avocat immature, elle sera amère quand il le mangera.",
+                        "en": "He picked an immature avocado, it will be bitter when he eats it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀gɔ",
+        "pronounciation": "pɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toi et moi ; nous deux (pron. sujet, 1ère et 2e personne singulier inclusive)",
+                "definition_en": "you and I; us two (first and second person singular inclusive subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Tóo pɔ̀gɔ gʉa ńtsɛ́ɛ yé.",
+                        "fr": "Viens, toi et moi allons le rejoindre.",
+                        "en": "Come, you and I will join him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔɔn",
+        "pronounciation": "pɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux ; ceux-ci (pron. dém. de proche proximité qui modifie les noms de la classe 2)",
+                "definition_en": "these; these here (close demonstrative pronoun referring to class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "N jǔʼ ngie ɔ̀ táŋa menɔ̀ɔn; shúshu tóo ńdíe pɔɔn.",
+                        "fr": "J’ai appris que tu vends les animaux ; pardon, viens regarder ceux-ci.",
+                        "en": "I learned that you sell animals; sorry, come look at these."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ces ; ces ... -ci (adj. dém. de proche proximité qui modifie les noms de la classe 2)",
+                "definition_en": "these; these ... here (close demonstrative adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Náa mmó pʉ̀a pɔɔn pfɛ́.",
+                        "fr": "Donne à manger à ces gens-ci.",
+                        "en": "Give these people something to eat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pɔ́ɔn",
+        "pronounciation": "pɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les miens (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 2)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mes (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "my (first person singular possessive adjective modifying class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mes (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 2)",
+                "definition_en": "my (first person singular emphatic possessive adjective modifying class 2 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̀ɔn",
+        "pronounciation": "pɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sac",
+                "definition_en": "sack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pɔ̌ɔn kʉ̀ŋe",
+        "pronounciation": "pɔ̃̌ː kɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "portail",
+                "definition_en": "gate; portal",
+                "examples": []
+            }
+        ]
+    }
+]

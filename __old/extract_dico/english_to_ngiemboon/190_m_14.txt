@@ -1,0 +1,367 @@
+[
+    {
+        "noun": "mortar, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mortar, k. small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tólómí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mortar, k. very deep",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm ndùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mosquito",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyínyíŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mosquito, black or brown sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ́cÿɔ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mosquito, brown sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùʼ ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mosquito fern",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋngwò leloŋó ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùngwò leloŋó ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mosquito net",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tándì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moss (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mantsàʼ nkendʉ́ŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánǎŋntsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "most",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mameŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "má",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother, future",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ́ɔn liŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother, girl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼ nkwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother, husband’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother-in-law",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákẅìʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother of the chief",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ̌ɔn fùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother of the deceased",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "má mpfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother of the deceased, ritual",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother of twins",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother tongue",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwóŋè láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mother who’s breastfeeding her baby",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mápfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moth (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepagá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "moth, leopard",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gégÿɛ́ ndʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "motionless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsêm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "motivate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbímte",
+                "examples": []
+            }
+        ]
+    }
+]

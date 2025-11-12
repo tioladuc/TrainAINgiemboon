@@ -1,0 +1,404 @@
+[
+    {
+        "noun": "lɔ̀ɔnte",
+        "pronounciation": "lɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chose vaine",
+                "definition_en": "vain thing",
+                "examples": [
+                    {
+                        "dialect": "Yɛ̂ áa lɔ̀ɔnte, tè gíŋe ńzẅíʼte.",
+                        "fr": "Là, c’est les choses vaines, n’écoute plus.",
+                        "en": "These are vain things, don't listen anymore."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "retardataire",
+                "definition_en": "latecomer",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n tumó lɔ̀ɔnte ya, tà ńkú fʉ̀ʼɔɔn à kaa tóo.",
+                        "fr": "J’ai commissionné le retardataiare-là, jusqu’à présent, il n’est pas venu.",
+                        "en": "I ordered the latecomer there, so far he hasn't come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lɔ̌ʼ",
+        "pronounciation": "lɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "défaut",
+                "definition_en": "flaw",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lu",
+        "pronounciation": "ɭù",
+        "synonym": [
+            "ńdu ",
+            " ge lu ",
+            " gÿo ",
+            " ge gÿo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur de demain (F3)",
+                "definition_en": "tomorrow future (F3)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùa",
+        "pronounciation": "lùȁ",
+        "synonym": [
+            "lùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qualité",
+                "definition_en": "quality",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lub",
+        "pronounciation": "ɭùp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. souris",
+                "definition_en": "sp. mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùbo lengwɔʼɔ́",
+        "pronounciation": "ɭùβȍ lèŋgwɔ̀ʔɔ́",
+        "synonym": [
+            "lelùb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùm",
+        "pronounciation": "ɭȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saison sèche",
+                "definition_en": "dry season",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lûm ndá",
+        "pronounciation": "ɭûm ǹ̩dá",
+        "synonym": [
+            "múɔ ndá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chambre ; salle",
+                "definition_en": "room",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùm nkɔ́ɔn",
+        "pronounciation": "ɭȕm ŋ̩̀kɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "endurci ; insensible ; invétéré",
+                "definition_en": "harden; toughen up; insensitive; ingrained; inveterate",
+                "examples": [
+                    {
+                        "dialect": "Mbàŋa wɔɔn aa kwàʼ lùm nkɔ́ɔn.",
+                        "fr": "C’est vraiment un homme endurci.",
+                        "en": "He is truly a hardened man."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lùmo tʉ̂atʉ̂a",
+        "pronounciation": "ɭùmȍ ʈɯ́àʈɯ́à",
+        "synonym": [
+            "pepàŋ ntsẅɛ̀ʼ ",
+            " pàŋ ntsẅɛ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éristale",
+                "definition_en": "hoverfly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lúŋ",
+        "pronounciation": "ɭṹŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entada",
+                "definition_en": "entada",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lǔŋ",
+        "pronounciation": "ɭũ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "association ; club",
+                "definition_en": "association; club",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋ ncwò",
+        "pronounciation": "ɭũ̏ŋ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "micro",
+                "definition_en": "mike; microphone; micro",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋ ncwò",
+        "pronounciation": "ɭũ̏ŋ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parlement ; député",
+                "definition_en": "parliament; deputy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋ ndʉŋ",
+        "pronounciation": "ɭũ̏ŋ ɳ̩̀ɖɯ̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échasse",
+                "definition_en": "stilt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋ ngyè",
+        "pronounciation": "ɭũ̏ŋ ŋ̩̀gxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amplificateur",
+                "definition_en": "amplifier",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋ nÿɔ́g",
+        "pronounciation": "ɭũ̏ŋ ɳɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lunette ; longue vue",
+                "definition_en": "telescope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋngɔ́ɔn",
+        "pronounciation": "lõ̏ŋŋ̩̀gɔ̃́ː",
+        "synonym": [
+            "lòŋngáa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "seau",
+                "definition_en": "bucket; pail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋo",
+        "pronounciation": "ɭũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cartouche",
+                "definition_en": "cartridge",
+                "examples": []
+            },
+            {
+                "definition_fr": "cartouche ; balle",
+                "definition_en": "cartridge; ball",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋo",
+        "pronounciation": "ɭũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pierre à écraser ; meule",
+                "definition_en": "grindstone; millstone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùŋo",
+        "pronounciation": "ɭũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lùɔ",
+        "pronounciation": "lùɔ̏",
+        "synonym": [
+            "lùa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "qualité",
+                "definition_en": "quality",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lúu nzǐŋ nzǐŋ",
+        "pronounciation": "lúː ǹ̩dzĩ̌ŋ ǹ̩dzĩ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pluie sectorielle",
+                "definition_en": "local rain shower",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lúʼ",
+        "pronounciation": "ɭúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche",
+                "definition_en": "sleeve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lʉ̌",
+        "pronounciation": "ɭɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourri",
+                "definition_en": "rotten",
+                "examples": [
+                    {
+                        "dialect": "À jÿǒ nkandi lʉ̌.",
+                        "fr": "Il a mangé la banane pourrie.",
+                        "en": "He ate the rotten banana."
+                    }
+                ]
+            }
+        ]
+    }
+]

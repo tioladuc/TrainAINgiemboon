@@ -1,0 +1,429 @@
+[
+    {
+        "noun": "táŋazsǒ",
+        "pronounciation": "tã́ŋázsǒ",
+        "synonym": [
+            "tsɛ̀ɛzsǒ ",
+            " tʉ̀zsǒ ",
+            " tẅɛ̂b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "midi",
+                "definition_en": "noon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tápèle",
+        "pronounciation": "tápə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "table",
+                "definition_en": "table",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tâshÿɔ́ʼ ndɔɔn",
+        "pronounciation": "tâʃɰɔ́ʔ ǹ̩dɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "court et mince ; nain",
+                "definition_en": "short and skinny; bantam",
+                "examples": [
+                    {
+                        "dialect": "Tsɔ̌ tâshÿɔ́ʼ ndɔɔn gẅie pege yé ńgwɔ́, à pyě tsetsɛ̀ɛ láʼ.",
+                        "fr": "Un homme court et mince qui était avec moi, s’est égaré dans la foule.",
+                        "en": "A short, thin man who was with me got lost in the crowd."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàtsab",
+        "pronounciation": "tȁtsàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tuteur",
+                "definition_en": "guardian",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tâtúʼ",
+        "pronounciation": "tâʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pygmée ; homme de petite taille",
+                "definition_en": "pygmy; short man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tatÿɔ́ʼ",
+        "pronounciation": "tàʈɰɔ́ʔ",
+        "synonym": [
+            "kìm ntse ntsẅɛ̀ʼɛ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bulbul des jardins",
+                "definition_en": "common bulbul",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ",
+        "pronounciation": "tȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un",
+                "definition_en": "one",
+                "examples": [
+                    {
+                        "dialect": "Tàʼ nyìŋ zɔ tǒo jʉʼɔɔn.",
+                        "fr": "C’est une seule personne qui est venue ici.",
+                        "en": "Only one person came here."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ feláŋ",
+        "pronounciation": "tȁʔ fèlã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un franc",
+                "definition_en": "one franc",
+                "examples": [
+                    {
+                        "dialect": "Ngwɔ́ mé le lwo ńgyá mmó tàʼ feláŋ á metʉ̌a wɔ́.",
+                        "fr": "Au marché, on ne peut facilement voir une marchandise à un franc.",
+                        "en": "At the market, you cannot easily see goods for one franc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ lefág",
+        "pronounciation": "tȁʔ lèfáq̚",
+        "synonym": [
+            "lefág ",
+            " málefág ",
+            " mélefág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un des jumeaux",
+                "definition_en": "twin; one of the twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ lesoŋ ńkɔ nnáʼ",
+        "pronounciation": "tȁʔ lèsõ̀ŋ ŋ̩́kɔ̀ ǹ̩náʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parasite ; paresseux ; flemmard",
+                "definition_en": "parasite; sloth; lazybones",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ ncwò",
+        "pronounciation": "tȁʔ ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "union ; unanime ; unité",
+                "definition_en": "union; unanimous; unity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ ndeŋ",
+        "pronounciation": "tàʔ ǹ̩də̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bambou (gén.)",
+                "definition_en": "bamboo (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ ntí",
+        "pronounciation": "tȁʔ ǹ̩tí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "uniforme",
+                "definition_en": "uniform",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ ntse",
+        "pronounciation": "tȁʔ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rivière ; affluent",
+                "definition_en": "river; tributary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ sàga",
+        "pronounciation": "tȁʔ sàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "long",
+                "definition_en": "long",
+                "examples": [
+                    {
+                        "dialect": "Tà mé pfó tàʼ sàga nzsè.",
+                        "fr": "Ne passons pas par le long chemin.",
+                        "en": "Let's not take the long way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ shúm",
+        "pronounciation": "tȁʔ ʃúm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collier",
+                "definition_en": "necklace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼ téngwǎ",
+        "pronounciation": "tȁʔ téŋgwǎ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limace (esp. escargot sans coquille qui se trouve dans les palmiers de raphia)",
+                "definition_en": "slug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼa mmó",
+        "pronounciation": "tàʔȁ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "même chose",
+                "definition_en": "same thing",
+                "examples": [
+                    {
+                        "dialect": "Pi yé mépʉ́a fóo légɔɔn tàʼa mmó.",
+                        "fr": "Vous deux venez de dire la même chose.",
+                        "en": "You two just said the same thing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tàʼngwǎ ngwoon",
+        "pronounciation": "tȁʔŋ̩̀gwǎ ŋ̩̀gwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "planorbe",
+                "definition_en": "planorbis snail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tàʼngwɛ̌",
+        "pronounciation": "tȁʔŋ̩̀gwɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "escargot (gén.)",
+                "definition_en": "snail (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "te",
+        "pronounciation": "tè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Te gɔɔn nò né mèŋ!",
+                        "fr": "Ne me parle pas !",
+                        "en": "Don't talk to me!"
+                    }
+                ]
+            },
+            {
+                "definition_fr": "sans (adv. négative qui modifie les noms des classes 1 et 9)",
+                "definition_en": "without (negative adverb that modifies class 1 and 9 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "te-",
+        "pronounciation": "tȅ-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.nég",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "in- ; im-",
+                "definition_en": "in-; im-",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńgwɔ́ tekùʼ te gɔɔn ngie ɔ̀ kuʼ.",
+                        "fr": "Si tu es incapable, ne dis pas que tu suffis.",
+                        "en": "If you're incapable, don't say you're enough."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "-te",
+        "pronounciation": "̤-te",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "suf.itératif",
+        "sharedgrammaticalinfo_morphtypes": "sfx",
+        "sensecontents": [
+            {
+                "definition_fr": "fréquemment ; répétitivement ; itérativement",
+                "definition_en": "frequently; repetitively; iteratively",
+                "examples": [
+                    {
+                        "dialect": "À ne ńkɔ́ʼte tÿǒ.",
+                        "fr": "Il découpe l’arbre.",
+                        "en": "He cuts the tree."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "té",
+        "pronounciation": "té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sans",
+                "definition_en": "without",
+                "examples": [
+                    {
+                        "dialect": "Pi tǒ té gẅiin nkáb.",
+                        "fr": "Vous êtes venus sans argent.",
+                        "en": "You came without money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tě",
+        "pronounciation": "těː",
+        "synonym": [
+            "těen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ; ne ... pas (avec future proche ou future de demain)",
+                "definition_en": "not (with close future or tomorrow future)",
+                "examples": [
+                    {
+                        "dialect": "Múɔ kaa fàʼ faʼa, à těen nge ńjÿó mmó wɔ́.",
+                        "fr": "L’enfant n’a pas travaillé, il ne mangera pas.",
+                        "en": "The child has not worked, he will not eat."
+                    }
+                ]
+            }
+        ]
+    }
+]

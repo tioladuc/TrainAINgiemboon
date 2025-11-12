@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "way, in this",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "páʼɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "way, mystical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzèm ndyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "way out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "W.C.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "we",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "peg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weak",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nyɛ̀ʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weak, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfege",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weakness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wealth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyɛ́ndèlè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tÿɔ́gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wealth, search for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wealthy person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ nkáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔʼ lépʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ lépʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wear pants",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wear (trousers, clothes)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshÿɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weave a mat, hook",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ̀bɔ mbyɛ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weaver",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsẅàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntswàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weaverbird (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ŋ ncwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shùshù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weaver’s shuttle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùa pɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weave (spider)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weave the bottom of a basket",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weaving a mat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mòon mbì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "weaving, unique strip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "web",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsẅàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tswàŋ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "noun": "mbÿɛ̀ njÿó",
+        "pronounciation": "m̩̀bɰɛ̏ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "après-midi",
+                "definition_en": "afternoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɔb",
+        "pronounciation": "ḿ̩bɰɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distordre la bouche",
+                "definition_en": "screw up one’s mouth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbÿɔg",
+        "pronounciation": "mbɰɔ̀q̚",
+        "synonym": [
+            "mbÿag"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru",
+                "definition_en": "raw; uncooked",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɔ́g",
+        "pronounciation": "ḿ̩bɰɔ́q̚",
+        "synonym": [
+            "ḿbÿág"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gâter",
+                "definition_en": "spoil",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire triste figure ; faire triste mine ; attrister ; fâcher",
+                "definition_en": "make a sad face; look sad; sadden; annoy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbÿɔ́gte",
+        "pronounciation": "ḿ̩bɰɔ́qté",
+        "synonym": [
+            "ḿbÿágte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "froisser",
+                "definition_en": "crease",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "me",
+        "pronounciation": "mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.poss",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux de (pron.poss. qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "those of (possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mepɔ̀ɔn mɔ́ɔn pɔ́ me ncʉ̀ʼ nzèm wɔɔn mɔɔn.",
+                        "fr": "Voici mes sacs et ceux de mon cadet.",
+                        "en": "Here are my bags and those of my younger brother."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "me-",
+        "pronounciation": "mè-",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "des (pour les classes 2, 4 et 6)",
+                "definition_en": "some",
+                "examples": [
+                    {
+                        "dialect": "mekwɔ̀ʼɔ,",
+                        "fr": "des tabourets.",
+                        "en": "stools."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mé",
+        "pronounciation": "mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "particule",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(loin dans le passé)",
+                "definition_en": "(far in the past)",
+                "examples": [
+                    {
+                        "dialect": "A la mé ńgwɔ́ tsɔ̌ fʉ̀ʼ, ...",
+                        "fr": "A un certain moment (loin dans le passé), ...",
+                        "en": "At some point (far in the past),..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mé",
+        "pronounciation": "mé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les siens (pron. poss. de la 3e personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "his (third person singular possessive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mekwɔ̀ʼɔ mɔɔn, ée mé.",
+                        "fr": "Ces chaises-ci, elles sont les siennes.",
+                        "en": "These chairs are his."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ses (adj. poss. de la 3e personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "his (third person singular possessive adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mencwò ndá mé tyé tyě.",
+                        "fr": "Ses portes sont ouvertes.",
+                        "en": "Its doors are open."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ses (adj. poss. emph. de la 3e personne du singulier qui modifie les noms des classes 4 et 6)",
+                "definition_en": "his (third person singular emphatic possessive adjective modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n kaa mɔ́ɔn mekwɔ̀ʼɔ kaa, n kǎa pɔ́ mé mekwɔ̀ʼɔ.",
+                        "fr": "Je n’ai pas porté mes chaises, j’ai porté plutôt ses chaises.",
+                        "en": "I didn't carry my chairs, I carried his chairs instead."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "pour lui (pron. poss. objet de la 3e personne du singulier qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "for him (third person singular possessive object pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa na melÿɔʼ mɔɔn, ḿbí mé.",
+                        "fr": "Parmi ces ignames-ci, prends-en pour lui.",
+                        "en": "Take some of these yams for him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mé",
+        "pronounciation": "mé",
+        "synonym": [
+            "mè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "on",
+                "definition_en": "one; you",
+                "examples": [
+                    {
+                        "dialect": "Mé tyě jʉʼʉ ńgÿo kɔ́?",
+                        "fr": "On s’est arrêté là-bas pour faire quoi ?",
+                        "en": "What did we stop there to do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mé-",
+        "pronounciation": "mé-",
+        "synonym": [
+            "mên-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.n",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "petit ; (préfixe diminutif)",
+                "definition_en": "small; little (diminutive prefix)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mè",
+        "pronounciation": "mȅ",
+        "synonym": [
+            "mé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "pron.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "on",
+                "definition_en": "one; you",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn fʉ̀ʼɔɔn ngie mè gÿo lêkɔ́?",
+                        "fr": "Tu dis maintenant qu’on fasse comment ?",
+                        "en": "Now you say what do we do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mé gÿo ńzyé Yěsô",
+        "pronounciation": "mé  ɣxɰò ń̩zsjé jěsô",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "après Jésus-Christ ; Ap. J.-C.",
+                "definition_en": "After Death (of Christ); A.D.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mé zyé Yěsô",
+        "pronounciation": "mé zsjé jěsô",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avant Jésus-Christ ; Av. J.-C.",
+                "definition_en": "Before Christ; B.C.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mecʉ́ŋ",
+        "pronounciation": "mètʃɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rebord de la toiture ; extrémité ; versant",
+                "definition_en": "edge of the roof",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mecwoŋó",
+        "pronounciation": "mètʃwõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bas ; base",
+                "definition_en": "bottom; base",
+                "examples": [
+                    {
+                        "dialect": "Sẅɛʼte pɔ̀ɔn, ńtÿɔ́gɔ gwǒŋo mecwoŋó.",
+                        "fr": "Déplace le sac et pose le du côté d’en bas.",
+                        "en": "Move the bag and place it on the bottom side."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mée",
+        "pronounciation": "méː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "int",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’émotion)",
+                "definition_en": "(shows emotion)",
+                "examples": [
+                    {
+                        "dialect": "Yée míŋ wɔ̀ɔn mée! ɔ̀ lʉ̌a tà nÿɔ́g mú kwɔ́ʼte.",
+                        "fr": "Ô mon fils ! Tu as pleuré si bien que tes yeux se sont gonflés.",
+                        "en": "O my son! You cried so hard that your eyes bulged."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "meen",
+        "pronounciation": "mẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malgré ; en dépit de",
+                "definition_en": "despite; in spite of",
+                "examples": [
+                    {
+                        "dialect": "À ka tè wɔ́ɔn gú, táʼ, mèŋ n ge meen gʉa.",
+                        "fr": "Il ne m’a pas invité, mais, je vais partir malgré cela.",
+                        "en": "He didn't invite me, but I'm going to leave anyway."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "passable ; assez bien",
+                "definition_en": "passable; acceptable; good enough",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn náʼa meen na gi.",
+                        "fr": "Ceci est passable par rapport à cela.",
+                        "en": "This is passable compared to that."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "meen ngẅiin",
+        "pronounciation": "mẽ̀ː ŋ̩̀gɥĩ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maintien ; provisoire",
+                "definition_en": "maintenance; temporary; provisional",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mefág",
+        "pronounciation": "mèfáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jumeaux",
+                "definition_en": "twins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mefagá",
+        "pronounciation": "mèfàʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jointure ; fourche",
+                "definition_en": "joint; fork; pitchfork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meféfɔ́gɔ",
+        "pronounciation": "mèféfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc (qualifie les noms des classes 4 et 6)",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "meffo tÿó",
+        "pronounciation": "mèfːò ʈθɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuillage",
+                "definition_en": "foliage; leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mefóon twó",
+        "pronounciation": "mèfṍː ʈθwó",
+        "synonym": [
+            "mefwóon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cerveau",
+                "definition_en": "brain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mefɔ́gɔ",
+        "pronounciation": "mèfɔ́ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc ; blanchâtre (qualifie les noms de tous les classes)",
+                "definition_en": "white; off-white",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ jǔ mefɔ́gɔ ngáb.",
+                        "fr": "Ils ont acheté les poules blanches.",
+                        "en": "They bought the white chickens."
+                    }
+                ]
+            }
+        ]
+    }
+]

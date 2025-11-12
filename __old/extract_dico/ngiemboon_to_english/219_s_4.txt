@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "selîb",
+        "pronounciation": "sèlîp̚",
+        "synonym": [
+            "kàlasôŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caleçon ; slip",
+                "definition_en": "boxer shorts; bathing slip; bathing suit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "selʉ̌",
+        "pronounciation": "sèɭɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourri (qualifie les noms des classes 5 et 8)",
+                "definition_en": "rotten (qualifying class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À pfɛ̌ lelÿɔʼ selʉ̌.",
+                        "fr": "Il a mangé l’igname pourri.",
+                        "en": "He ate the rotten yam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "selÿò",
+        "pronounciation": "sèɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand (qualifie les noms des classes 5 et 8)",
+                "definition_en": "great (modifies class 5 and 8 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sém",
+        "pronounciation": "sə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essaim d’abeilles",
+                "definition_en": "swarm of bees",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sém",
+        "pronounciation": "sə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pousses jumeaux de raphia ; pousse bifurquée de raphia",
+                "definition_en": "twin raffia shoots; bifurcated raffia shoot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sém",
+        "pronounciation": "sə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frontière",
+                "definition_en": "frontier",
+                "examples": []
+            },
+            {
+                "definition_fr": "tranchée",
+                "definition_en": "trench",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sèm",
+        "pronounciation": "sə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tambour (gén.)",
+                "definition_en": "drum (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sêm",
+        "pronounciation": "sə̂m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un arbre qui tombe",
+                "definition_en": "sound of a tree falling",
+                "examples": [
+                    {
+                        "dialect": "Mé kɔʼɔ́ máa tӱǒ, á gwe lê sêm.",
+                        "fr": "On a coupé un gros arbre et il est tombé en faisant que « sêm ».",
+                        "en": "We cut down a big tree and it fell with a “sêm” noise."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sèm ncwò",
+        "pronounciation": "sə̏m ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée royale",
+                "definition_en": "royal army",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "semâg",
+        "pronounciation": "sèmâq̚",
+        "synonym": [
+            "semíd"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ciment",
+                "definition_en": "cement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sembǐ",
+        "pronounciation": "sèmbǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prenable (qualifie les noms des classes 5 et 8)",
+                "definition_en": "available (qualifies class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Lelÿɔʼ sembǐ sɔɔn.",
+                        "fr": "Voici l’igname prenable.",
+                        "en": "Here is the takeable yam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sembòŋo",
+        "pronounciation": "sèmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meilleurs (modifiant les noms des classes 5 et 8)",
+                "definition_en": "better (modifying nouns from classes 5 and 8)",
+                "examples": [
+                    {
+                        "dialect": "Kaa lelÿɔʼ sembòŋo, ńdeʼe.",
+                        "fr": "Porte les meilleurs ignames pour garder.",
+                        "en": "Carries the best yams to keep."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sembÿag",
+        "pronounciation": "sèmbɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru (qualifie les noms des classes 5 et 8)",
+                "definition_en": "raw; uncooked (qualifying nouns from classes 5 and 8)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge nkẅì, ɔ̀ náa lelÿɔʼ mbÿag ngie ngáa?",
+                        "fr": "Je suis célibataire et tu me donnes l’igname crue, que je fasse comment ?",
+                        "en": "I'm single and you give me the raw yam, what should I do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "semíd",
+        "pronounciation": "sèmít̚",
+        "synonym": [
+            "semâg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ciment",
+                "definition_en": "cement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sendyɛ̀ʼɛ",
+        "pronounciation": "sèndjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 5 et 8)",
+                "definition_en": "certain; other (modifying class 5 and 8 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Lesoŋ sɔ́ɔn ka ne ńgyáŋa, mé nyé sɛ̌, ńtsɔ́ʼ sendyɛ̀ʼɛ.",
+                        "fr": "Quand ma dent me faisait mal, on a laissé celle-là pour enlever l’autre.",
+                        "en": "When my tooth hurt, we left this one to remove the other."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sépʉ́a",
+        "pronounciation": "sépɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (modifiant les noms de la classe 8)",
+                "definition_en": "two (modifying nouns from class 8)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésá",
+        "pronounciation": "sésá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sécateurs ; très gros ciseaux",
+                "definition_en": "secateurs; very large scissors",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "séság",
+        "pronounciation": "sésáq̚",
+        "synonym": [
+            "légʉ́a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trop",
+                "definition_en": "too much",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńkÿo séság, mbà  ngwɔ́ ɔ̀ gwe.",
+                        "fr": "Si tu cours trop, tu peux tomber.",
+                        "en": "If you run too much, you can fall."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sèsàga",
+        "pronounciation": "sȅsàʁȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "long ; géant",
+                "definition_en": "long; gigantic",
+                "examples": [
+                    {
+                        "dialect": "À pfǒ sèsàga nzsè.",
+                        "fr": "Il est passé par un long chemin.",
+                        "en": "He has come a long way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "sesáŋ",
+        "pronounciation": "sèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balai",
+                "definition_en": "broom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésáŋ ndùm ngwóŋ",
+        "pronounciation": "sésã́ŋ ɳ̩̀ɖȕm ŋ̩̀gwṍŋ",
+        "synonym": [
+            "sésáŋ ngwóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mésange",
+                "definition_en": "wagtail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésáŋ ngwóŋ",
+        "pronounciation": "sésã́ŋ ŋ̩̀gwṍŋ",
+        "synonym": [
+            "sésáŋ ndùm ngwóŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mésange",
+                "definition_en": "wagtail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sésáŋ nku",
+        "pronounciation": "sésã́ŋ ŋ̩̀kù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sèsàʼ",
+        "pronounciation": "sȅsȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étincelle",
+                "definition_en": "spark",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "cock’s comb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sèsàʼ kwɔb",
+        "pronounciation": "sȅsȁʔ kwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "rusty sedge; fingerrush",
+                "examples": []
+            }
+        ]
+    }
+]

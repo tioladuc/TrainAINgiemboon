@@ -1,0 +1,436 @@
+[
+    {
+        "noun": "mémá",
+        "pronounciation": "mémá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadet",
+                "definition_en": "younger sibling",
+                "examples": []
+            },
+            {
+                "definition_fr": "petit frère",
+                "definition_en": "younger brother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "memaʼá",
+        "pronounciation": "mèmàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "remise ; prolongation ; surplus",
+                "definition_en": "delivery; prolongation; extension; surplus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mémbàʼ",
+        "pronounciation": "mémbàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soulagement",
+                "definition_en": "relief",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ka guɔ táʼ, mémbàʼ naʼá ńgÿo.",
+                        "fr": "J’étais malade mais, j’ai un léger soulagement.",
+                        "en": "I was sick but I have a slight relief."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "membǐ",
+        "pronounciation": "mèmbǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prenable (qualifie les noms des classes 4 et 6)",
+                "definition_en": "available (qualifies class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mekú mɔɔn, ée membǐ.",
+                        "fr": "Le haricot-ci a été pris (soutiré).",
+                        "en": "This bean has been taken."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "membòŋo",
+        "pronounciation": "mèmbõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "meilleurs (qualifie les noms des classes 4 et 6)",
+                "definition_en": "better (modifying nouns from classes 4 and 6)",
+                "examples": [
+                    {
+                        "dialect": "Jú mepɔ̀ɔn membòŋo, ńná né yé.",
+                        "fr": "Achète les meilleurs sacs pour lui donner.",
+                        "en": "Buy the best bags to give to him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mémbʉ́a",
+        "pronounciation": "mémbɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (modifiant les noms des classes 4 et 6)",
+                "definition_en": "two (modifying nouns from classes 4 and 6)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mêmbwɔ́b",
+        "pronounciation": "mêmbwɔ́p̚",
+        "synonym": [
+            "pwɔ́b ",
+            " mêmbwɔ́b"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouc ; mâle du chèvre",
+                "definition_en": "billygoat; male goat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "membÿag",
+        "pronounciation": "mèmbɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru (qualifie les noms des classes 4 et 6)",
+                "definition_en": "raw; uncooked (qualifying nouns of classes 4 and 6)",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge nkẅì, ɔ̀ náa melÿɔʼ membÿag ngie ngáa?",
+                        "fr": "Je suis célibataire et tu me donnes les ignames crues, que je fasse comment ?",
+                        "en": "I'm single and you give me the raw yams, what should I do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mémmó",
+        "pronounciation": "mémmó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.c.indéf",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelque chose ; moindre",
+                "definition_en": "something; lesser",
+                "examples": [
+                    {
+                        "dialect": "Náa mémmó lé mèŋ.",
+                        "fr": "Donne-moi quelque chose.",
+                        "en": "Give me something."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mêmvfó",
+        "pronounciation": "mêɱbvfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chèvre (gén.)",
+                "definition_en": "goat (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mên-",
+        "pronounciation": "mên-",
+        "synonym": [
+            "mé-"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "préf.n.dim",
+        "sharedgrammaticalinfo_morphtypes": "pfx",
+        "sensecontents": [
+            {
+                "definition_fr": "un (pour certains mots de la classe 1)",
+                "definition_en": "a",
+                "examples": [
+                    {
+                        "dialect": "mênkɔ̀ʼ,",
+                        "fr": "un coq.",
+                        "en": "a rooster."
+                    },
+                    {
+                        "dialect": "mêngáb,",
+                        "fr": "une poule.",
+                        "en": "a hen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "menaŋ",
+        "pronounciation": "mènã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "huile de palmiste",
+                "definition_en": "palm-kernel oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menàʼ",
+        "pronounciation": "mènȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "palmier-dattier sauvage",
+                "definition_en": "African wild date palm",
+                "examples": []
+            },
+            {
+                "definition_fr": "nattes",
+                "definition_en": "mats",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mencʉ̀a",
+        "pronounciation": "mèntʃɯ̀ȁ",
+        "synonym": [
+            "meshʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit espace de temps",
+                "definition_en": "small space of time",
+                "examples": [
+                    {
+                        "dialect": "N ge gẅiin meshʉ̀a é tó.",
+                        "fr": "Je vais venir quand j’aurai un petit espace de temps.",
+                        "en": "I will come when I have a little space of time."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mencʉ̀a",
+        "pronounciation": "mèntʃɯ̀ȁ",
+        "synonym": [
+            "meshʉ̀a"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit trou",
+                "definition_en": "small hole",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méncʉ̌a",
+        "pronounciation": "méntʃɯ̀á",
+        "synonym": [
+            "méshʉa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflet verticale en corne d’animale",
+                "definition_en": "vertical animal horn whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méndá",
+        "pronounciation": "méndá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maisonnette",
+                "definition_en": "small house; cottage",
+                "examples": []
+            },
+            {
+                "definition_fr": "ruche",
+                "definition_en": "hive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mendyɛ̀ʼɛ",
+        "pronounciation": "mèndjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certains ; autres (modifiant les noms des classes 4 et 6)",
+                "definition_en": "certain; other (modifying class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mevɛ pfɛté, gʉa ńjú mendyɛ̀ʼɛ.",
+                        "fr": "L’huile s’est versée, pars acheter d’autre.",
+                        "en": "The oil has poured out, go buy more."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ménêg",
+        "pronounciation": "ménə̂q̚",
+        "synonym": [
+            "mélêg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lait",
+                "definition_en": "milk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méneŋ nzáŋ",
+        "pronounciation": "ménə̃̀ŋ ǹ̩dzã́ŋ",
+        "synonym": [
+            "menyě ntsɔ́ɔn ",
+            " púusè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chat domestique",
+                "definition_en": "domestic cat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mêngáb",
+        "pronounciation": "mêŋgáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poule",
+                "definition_en": "chicken",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mengǎŋ",
+        "pronounciation": "mèŋgã̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "habitants de Bangang",
+                "definition_en": "Bangang inhabitants",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mengùb",
+        "pronounciation": "mèŋgȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaussures",
+                "definition_en": "shoes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "menguʼu",
+        "pronounciation": "mèŋgùʔù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mêngwé",
+        "pronounciation": "mêŋgxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chien",
+                "definition_en": "dog",
+                "examples": []
+            }
+        ]
+    }
+]

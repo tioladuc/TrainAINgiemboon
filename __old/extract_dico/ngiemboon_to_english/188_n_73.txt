@@ -1,0 +1,454 @@
+[
+    {
+        "noun": "ntẅè mmó",
+        "pronounciation": "n̩tθɥè m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écrivain",
+                "definition_en": "writer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅéte",
+        "pronounciation": "ń̩tθɥété",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être parsemé de taches",
+                "definition_en": "have scattered tasks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅɛ",
+        "pronounciation": "ń̩tɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être propre",
+                "definition_en": "be clean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅɛ́te",
+        "pronounciation": "ń̩tɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "incarner ; brancher ; initier une révolte",
+                "definition_en": "embody; incarnate; connect; start a revolt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅi",
+        "pronounciation": "ń̩tɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sécher à moitié ; chauffer pour sécher",
+                "definition_en": "dry out halfway; heat up to dry out",
+                "examples": []
+            },
+            {
+                "definition_fr": "rôtir",
+                "definition_en": "roast",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅí",
+        "pronounciation": "ń̩tɥí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "serrer la vis ; tourner ; tordre",
+                "definition_en": "tighten the screw; turn; wring; twist",
+                "examples": []
+            },
+            {
+                "definition_fr": "gesticuler ; se tordre",
+                "definition_en": "gesticulate; twist",
+                "examples": []
+            },
+            {
+                "definition_fr": "serpenter ; tordre (corde)",
+                "definition_en": "meander; twist (rope)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntẅi ntẅɛ",
+        "pronounciation": "ǹ̩tɥì ǹ̩tɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "asticot",
+                "definition_en": "maggot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅid",
+        "pronounciation": "ń̩tɥìt̚",
+        "synonym": [
+            "ńtẅile"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’écorcher",
+                "definition_en": "graze oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "se blesser à plusieurs endroits",
+                "definition_en": "hurt oneself in several places",
+                "examples": []
+            },
+            {
+                "definition_fr": "déshydrater",
+                "definition_en": "dehydrate",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’écorcher",
+                "definition_en": "to skin oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "se blesser à plusieurs endroits",
+                "definition_en": "hurt yourself in multiple places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅile",
+        "pronounciation": "ń̩tɥìlè",
+        "synonym": [
+            "ńtẅid"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’écorcher",
+                "definition_en": "graze oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "se blesser à plusieurs endroits",
+                "definition_en": "hurt oneself in several places",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅile",
+        "pronounciation": "ń̩tɥìlè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépulper ; peler",
+                "definition_en": "remove the pulp; peel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtẅiʼ",
+        "pronounciation": "ń̩tɥìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marcher avec un bâton ; se soutenir",
+                "definition_en": "walk with a stick; support each other",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyè",
+        "pronounciation": "ǹ̩tθjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrêt ; place",
+                "definition_en": "stop; place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyě",
+        "pronounciation": "ǹ̩tθjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taille",
+                "definition_en": "height",
+                "examples": []
+            },
+            {
+                "definition_fr": "durée",
+                "definition_en": "duration",
+                "examples": []
+            },
+            {
+                "definition_fr": "distance",
+                "definition_en": "distance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtyé",
+        "pronounciation": "ń̩tθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrêter",
+                "definition_en": "stop",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’arrêter",
+                "definition_en": "stop",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ tyeté ncwò ndá.",
+                        "fr": "Ils se sont arrentés devant la porte.",
+                        "en": "They stood in front of the door."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtyé",
+        "pronounciation": "ń̩tθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être debout ; stationner",
+                "definition_en": "stand; park",
+                "examples": []
+            },
+            {
+                "definition_fr": "se tenir ; se placer",
+                "definition_en": "to stand; place oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyě lepfòm",
+        "pronounciation": "ǹ̩tθjě lèpfɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dimension ; étendu ; grandeur",
+                "definition_en": "dimension; extensive; size",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyè mvfò",
+        "pronounciation": "ǹ̩tθjȅ ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dirigeant",
+                "definition_en": "manager; leader",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyèen",
+        "pronounciation": "ǹ̩tjẽ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de construction d’une case secrète",
+                "definition_en": "k. construction implement for a secret compartment",
+                "examples": [
+                    {
+                        "dialect": "Mé kwɛ̌ ndá láʼ tà ḿbéŋe ncwò lê ntyèen.",
+                        "fr": "On a construit la maison traditionnelle jusqu’à croiser l’entrée avec la moelle de bambou.",
+                        "en": "We built the traditional house until crossing the entrance with the bamboo pith."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtyɛ́",
+        "pronounciation": "ń̩tjɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écurer",
+                "definition_en": "remove all stains",
+                "examples": [
+                    {
+                        "dialect": "À sɔ̌g menzsǒ mé tà ńtyɛ́.",
+                        "fr": "Il a lavé ses habits jusqu’à les écurer.",
+                        "en": "He washed his clothes until they were scoured."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtyɛ́b",
+        "pronounciation": "ń̩tjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insulter",
+                "definition_en": "insult",
+                "examples": []
+            },
+            {
+                "definition_fr": "insulter",
+                "definition_en": "insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtyɛ́b",
+        "pronounciation": "ń̩tjɛ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pétrir",
+                "definition_en": "knead",
+                "examples": []
+            },
+            {
+                "definition_fr": "pétrir ; mélanger",
+                "definition_en": "knead; mix",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtyɛ́te",
+        "pronounciation": "ń̩tjɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trier ; sélectionner",
+                "definition_en": "screen; sort; select",
+                "examples": []
+            },
+            {
+                "definition_fr": "trier ; sélectionner",
+                "definition_en": "sort ; select",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyɛʼɛ́",
+        "pronounciation": "ǹ̩tjɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "branchage",
+                "definition_en": "branches",
+                "examples": []
+            },
+            {
+                "definition_fr": "intersection",
+                "definition_en": "intersection",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntyɛ̀ʼte",
+        "pronounciation": "ǹ̩tjɛ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éclaireur ; déterminant ; guide",
+                "definition_en": "boy scout; determiner; guide",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtyɛʼte",
+        "pronounciation": "ń̩tjɛ̀ʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "indiquer ; guider ; expliquer",
+                "definition_en": "point out; guide; explain",
+                "examples": []
+            }
+        ]
+    }
+]

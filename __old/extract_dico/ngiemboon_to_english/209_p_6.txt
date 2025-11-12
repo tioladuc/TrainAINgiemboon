@@ -1,0 +1,440 @@
+[
+    {
+        "noun": "pfâd",
+        "pronounciation": "pfât̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très tendre (viande) ; très rapide (couper)",
+                "definition_en": "very tender (meat); very fast (cut)",
+                "examples": [
+                    {
+                        "dialect": "À ka lɔ́ɔn mbab e tè vfó, e taŋa lê pfâd.",
+                        "fr": "Il a mal cuit la viande et ce n’est pas très tendre.",
+                        "en": "He cooked the meat poorly and it’s not very tender."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pfǎd",
+        "pronounciation": "pfǎt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passer avec rapidité",
+                "definition_en": "pass rapidly",
+                "examples": [
+                    {
+                        "dialect": "À kÿǒ tà ńzyɛ́ʼɛ mvfò mèŋ lê pfǎd.",
+                        "fr": "Il est passé devant moi à la hâte.",
+                        "en": "He walked past me in a hurry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pfǎd",
+        "pronounciation": "pfǎt̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coupure brusque",
+                "definition_en": "quick break",
+                "examples": [
+                    {
+                        "dialect": "Nkÿo zaʼá lê pfǎd.",
+                        "fr": "La corde s’est coupée que « pfad ».",
+                        "en": "The rope was cut only “pfad”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pfepfɔ́b",
+        "pronounciation": "pfèpfɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poussière",
+                "definition_en": "dust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfɛ́",
+        "pronounciation": "pfɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aliment",
+                "definition_en": "food",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfɛ́ kẅi",
+        "pronounciation": "pfɛ́ kɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rhumatisme",
+                "definition_en": "rheumatism",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfó",
+        "pronounciation": "pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cadavre",
+                "definition_en": "corpse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfó",
+        "pronounciation": "pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cendre",
+                "definition_en": "ash",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfóm",
+        "pronounciation": "pfɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfómànkwɔ̀ʼ",
+        "pronounciation": "pfómàŋkwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tortue de terre",
+                "definition_en": "tortoise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfómànkwɔ̀ʼntse",
+        "pronounciation": "pfómàŋkwɔ̏ʔntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tortue d’eau",
+                "definition_en": "Nile soft-shelled turtle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfòŋ",
+        "pronounciation": "pfõ̏ŋ",
+        "synonym": [
+            "gẅílíd"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hibou",
+                "definition_en": "long-eared owl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfɔ́b",
+        "pronounciation": "pfɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poudre ; farine",
+                "definition_en": "powder; flour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfɔ̌g",
+        "pronounciation": "pfɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veuvage",
+                "definition_en": "widowhood",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse du rite culturel",
+                "definition_en": "k. cultural rite dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfùb",
+        "pronounciation": "pfȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit de la houe enfoncé au sol",
+                "definition_en": "sound of a hoe digging the ground",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n dɔgɔ́ shú, ńjʉ́ʼʉ nɔ̀ɔn lê pfùb pfùb tà ḿmag.",
+                        "fr": "Avec la houe, j’ai cultivé « pfùb pfùb » jusqu’à finir.",
+                        "en": "With the hoe, I cultivated “pfùb pfùb” until I finished."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pfwɔ̀ʼ",
+        "pronounciation": "pfwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "reste",
+                "definition_en": "rest",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pfwɔʼɔ́",
+        "pronounciation": "pfwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moelle de bambou",
+                "definition_en": "bamboo pith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pi",
+        "pronounciation": "pì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceux ; ceux-là (adj. dém. de loin qui modifie les noms de la classe 2)",
+                "definition_en": "those; those there (distant demonstrative pronoun referring to class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ces ; ces ... -là (adj. dém. de loin qui modifie les noms de la classe 2)",
+                "definition_en": "those; those ... there (distant demonstrative adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Líe pi pʉ̀a tá ńgyá.",
+                        "fr": "Regarde ces gens-là avant de voir.",
+                        "en": "Look at these people before you see."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pi",
+        "pronounciation": "pì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.suj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vous (pron. sujet ; 2e personne pluriel)",
+                "definition_en": "you (second person plural subject pronoun)",
+                "examples": [
+                    {
+                        "dialect": "Pi gʉ̌a tà ńkúu nzɔ̌?",
+                        "fr": "Vous êtes partis jusqu’à quel niveau ?",
+                        "en": "What level did you go to?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pi",
+        "pronounciation": "pì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.poss.obj.prep",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "votre ; vos (adj. poss. de la 3e personne du pluriel qui modifie les noms de toutes les classes après une préposition ou un verbe de mouvement)",
+                "definition_en": "your (third person plural possessive adjective modifying any class noun after preposition or a movement verb)",
+                "examples": [
+                    {
+                        "dialect": "À ka kuu nkáʼ pi.",
+                        "fr": "Il est entré dans votre champ.",
+                        "en": "He has entered your field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pí",
+        "pronounciation": "pí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les vôtres (pron. poss. de la 2e personne du pluriel qui renvoie aux noms de la classe 2)",
+                "definition_en": "yours (second person plural possessive pronoun referring back to class 2 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "vos (adj. poss. de la 2e personne du pluriel qui modifie les noms de la classe 2)",
+                "definition_en": "your (second person plural possessive adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a pí gÿɔ́ɔn.",
+                        "fr": "Vos gens sont beaucoup.",
+                        "en": "Your people are a lot."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vos (adj. poss. emph. de la 2e personne du pluriel qui modifie les noms de la classe 2)",
+                "definition_en": "your (second person plural emphatic possessive adjective modifying class 2 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pí pʉ̀a gÿɔ́ɔn.",
+                        "fr": "C’est vos gens qui sont beaucoup.",
+                        "en": "It’s your people who are many."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "pì",
+        "pronounciation": "pȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bénéfice",
+                "definition_en": "benefit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pǐ",
+        "pronounciation": "pǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "extérieur ; dehors",
+                "definition_en": "exterior; outside; outdoors",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "pi né pi",
+        "pronounciation": "pì né pì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.loc",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les uns les autres",
+                "definition_en": "one another",
+                "examples": [
+                    {
+                        "dialect": "Pi kwoŋo pi né pi.",
+                        "fr": "Aimez-vous les uns les autres.",
+                        "en": "Love one another."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "píd",
+        "pronounciation": "pít̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conséquence",
+                "definition_en": "consequence",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ fʉ̌ʼ nò tà ɔ̀ ge laŋa píd ɔ̀ fʉ̀ʼɔɔn.",
+                        "fr": "Tu as commis des bêtises, maintenant, tu vas voir la conséquence.",
+                        "en": "You made stupid mistakes, now you will see the consequences."
+                    }
+                ]
+            }
+        ]
+    }
+]

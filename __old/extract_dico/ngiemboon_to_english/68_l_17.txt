@@ -1,0 +1,380 @@
+[
+    {
+        "noun": "letúʼ métsẅè",
+        "pronounciation": "lèʈúʔ métsːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname aérienne (trop amère pour manger)",
+                "definition_en": "sp. aerial yam (too bitter to eat)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letʉ́m",
+        "pronounciation": "lèʈɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foi",
+                "definition_en": "faith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letʉŋ",
+        "pronounciation": "lèʈɯ̃̀ŋ",
+        "synonym": [
+            "leteŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lac ; eau profonde",
+                "definition_en": "lake; deep water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letʉ̌ʉ",
+        "pronounciation": "lèʈɰõ̌ː",
+        "synonym": [
+            "letÿǒon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix de palme",
+                "definition_en": "palmnut",
+                "examples": []
+            },
+            {
+                "definition_fr": "palmier à huile",
+                "definition_en": "oil palm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letwó",
+        "pronounciation": "lèʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bout ; extrémité",
+                "definition_en": "end; extremity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letẅì",
+        "pronounciation": "lètɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fond du foyer",
+                "definition_en": "centre of the house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letyé",
+        "pronounciation": "lètθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salive",
+                "definition_en": "saliva",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letyě",
+        "pronounciation": "lètθjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrêt ; emplacement",
+                "definition_en": "stop; site",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letyɛʼɛ́",
+        "pronounciation": "lètjɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "branchage",
+                "definition_en": "branches",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letyɛ̀ʼte",
+        "pronounciation": "lètjɛ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "explication ; explicitation",
+                "definition_en": "explanation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letÿǒ",
+        "pronounciation": "lèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bâtonnet",
+                "definition_en": "short rod",
+                "examples": []
+            },
+            {
+                "definition_fr": "pointe",
+                "definition_en": "point; tip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letÿǒ",
+        "pronounciation": "lèʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dermite ; dermatite",
+                "definition_en": "dermatitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letÿǒon",
+        "pronounciation": "lèʈɰõ̌ː",
+        "synonym": [
+            "letʉ̌ʉ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noix de palme",
+                "definition_en": "palmnut",
+                "examples": []
+            },
+            {
+                "definition_fr": "palmier à huile",
+                "definition_en": "oil palm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "levàtsàʼ",
+        "pronounciation": "lèvȁtsȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tremblote ; vibration",
+                "definition_en": "shiver; jitter; vibration",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "levfò",
+        "pronounciation": "lèvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "art ; technique",
+                "definition_en": "technique",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "levɔ́g",
+        "pronounciation": "lèvɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "court ; largeur",
+                "definition_en": "short; width",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "levwɔʼté",
+        "pronounciation": "lèvwɔ̀ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "planque ; cachette",
+                "definition_en": "hideout; hiding place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lewaŋ",
+        "pronounciation": "lèwã̀ŋ",
+        "synonym": [
+            "legwaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coin du marché ; rayon de marché",
+                "definition_en": "market corner; market shelf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezab ntʉ́m",
+        "pronounciation": "lèzàp̚ ɳ̩̀ʈɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croyance",
+                "definition_en": "belief",
+                "examples": []
+            },
+            {
+                "definition_fr": "confiance",
+                "definition_en": "confidence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezǐ",
+        "pronounciation": "lèzǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "destin ; sort",
+                "definition_en": "destiny; fate; lot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezím",
+        "pronounciation": "lèzím",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "résurrection ; ressuscité",
+                "definition_en": "resurrection; risen from the dead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezíŋ",
+        "pronounciation": "lèzĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nom",
+                "definition_en": "name",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezìŋ",
+        "pronounciation": "lèzĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épididyme",
+                "definition_en": "epididymis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezɔ́b",
+        "pronounciation": "lèzɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hameçon",
+                "definition_en": "hook",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lezɔ́g",
+        "pronounciation": "lèzɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épine",
+                "definition_en": "thorn",
+                "examples": []
+            }
+        ]
+    }
+]

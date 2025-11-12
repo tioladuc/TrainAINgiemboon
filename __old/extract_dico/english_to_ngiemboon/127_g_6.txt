@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "go down, make something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "God’s servant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkem ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "God, temple",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "going",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "going astray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ pfòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gold",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̂",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngɔ̂l",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gong with slit, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gong with slit, k. vertical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼ kànɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼ metútú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gong with slit, k. very large",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelemé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gonorrhoea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mboŋó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿboŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goodbye",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mboo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goodbye, game",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "làʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good day",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɔ́gɔ ntʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good enough",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good-for-nothing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàmpfɛ̌yaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tyɛ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tefÿàg nzẅɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tekʉ̌a ńkáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "good-heartedness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mboŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goodness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mboŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goods",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mmó metʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go on and on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go one better",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gooseberry, Cape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀jÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gooseberry, slender wild cape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ̀jÿó ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goosegrass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ metʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legǐ tetʉ̌a",
+                "examples": []
+            }
+        ]
+    }
+]

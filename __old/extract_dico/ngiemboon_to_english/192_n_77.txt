@@ -1,0 +1,414 @@
+[
+    {
+        "noun": "nzàʼ ntsaŋ",
+        "pronounciation": "ǹ̩dzȁʔ ǹ̩tsã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "procureur ; président de tribunal",
+                "definition_en": "public prosecutor; presiding judge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼa kwɛ̀te",
+        "pronounciation": "ǹ̩dzàʔȁ kwɛ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conspirateur ; comploteur",
+                "definition_en": "conspirer; plotter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼa lóŋ",
+        "pronounciation": "ǹ̩dzàʔȁ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égorgeur",
+                "definition_en": "cut-throat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼa tsaŋá legǐ",
+        "pronounciation": "ǹ̩dzàʔȁ tsã̀ŋá lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herboriste",
+                "definition_en": "herbalist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼjʉʼ",
+        "pronounciation": "ǹ̩dzȁʔʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écornifleur",
+                "definition_en": "scrounger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzàʼnkÿo",
+        "pronounciation": "ǹ̩dzȁʔŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui coupe la corde ; sauveur",
+                "definition_en": "one who cuts a cord; saviour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Nzàʼnkÿo",
+        "pronounciation": "ǹ̩dzȁʔŋ̩̀kxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Sauveur ; Libérateur",
+                "definition_en": "Saviour; Liberator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzáʼte",
+        "pronounciation": "ń̩dzáʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "embusquer ; fouiller pour attraper ou pour retenir",
+                "definition_en": "prepare an ambush; search to catch or keep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzébe",
+        "pronounciation": "ń̩dzə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "superposer",
+                "definition_en": "superimpose; stack",
+                "examples": []
+            },
+            {
+                "definition_fr": "percher ; être sur ; poser sur",
+                "definition_en": "perch on; be on; put on",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzeennzse",
+        "pronounciation": "ǹ̩dzẽ̀ːndzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouche",
+                "definition_en": "fly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèle ngẅi",
+        "pronounciation": "ǹ̩dzə̀lȅ ŋ̩̀gɥì",
+        "synonym": [
+            "ndá sɔ̀ɔn ",
+            " fʉ̀ŋe sɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "termitière",
+                "definition_en": "termite mound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzem",
+        "pronounciation": "ǹ̩dzə̀m",
+        "synonym": [
+            "nzeme"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’autre côté",
+                "definition_en": "other side",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm",
+        "pronounciation": "ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "derrière",
+                "definition_en": "behind",
+                "examples": [
+                    {
+                        "dialect": "Akwò ye nzèm té sag.",
+                        "fr": "Le pied de derrière n’est pas long.",
+                        "en": "The hind foot is not long."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "derrière",
+                "definition_en": "behind",
+                "examples": [
+                    {
+                        "dialect": "Tyé nzèm mèŋ.",
+                        "fr": "Place-toi derrière moi.",
+                        "en": "Stand behind me."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "derrière",
+                "definition_en": "behind",
+                "examples": [
+                    {
+                        "dialect": "A néŋe nzèm.",
+                        "fr": "Il est assis derrière.",
+                        "en": "He sits behind."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzěm",
+        "pronounciation": "ǹ̩dzə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ténèbres ; obscurité",
+                "definition_en": "darkness; obscurity",
+                "examples": []
+            },
+            {
+                "definition_fr": "cornes d’animal",
+                "definition_en": "animal horns",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzém",
+        "pronounciation": "ń̩dzə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entonner",
+                "definition_en": "strike up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzém",
+        "pronounciation": "ń̩dzə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "produire",
+                "definition_en": "produce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm lóŋ",
+        "pronounciation": "ǹ̩dzə̀m lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuque",
+                "definition_en": "nape of the neck",
+                "examples": []
+            },
+            {
+                "definition_fr": "dos du cou",
+                "definition_en": "back of the neck",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm mbàʼ",
+        "pronounciation": "ǹ̩dzə̏m m̩̀bȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lieu impure ; sens impropre",
+                "definition_en": "unclean place;",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm mesà",
+        "pronounciation": "ǹ̩dzə̏m mèsȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm ncù",
+        "pronounciation": "ǹ̩dzə̏m ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée de défense",
+                "definition_en": "defensive army",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm ndyɛ̀ʼɛ",
+        "pronounciation": "ǹ̩dzə̏m ǹ̩djɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voie mystique",
+                "definition_en": "mystical way",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm nkàʼ",
+        "pronounciation": "ǹ̩dzə̏m ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dos",
+                "definition_en": "back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzèm ntsèm",
+        "pronounciation": "ǹ̩dzə̏m ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réciproque ; vice versa ; recto verso",
+                "definition_en": "reciprocal; vice-versa; both sides",
+                "examples": [
+                    {
+                        "dialect": "Nkwòŋe gwɔ́ pɔ́ nzèm ntsèm.",
+                        "fr": "L’amour est réciproque.",
+                        "en": "Love is mutual."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzèm patɔ̌ɔn",
+        "pronounciation": "ǹ̩dzə̏m pàtɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "côté paternel",
+                "definition_en": "father’s side",
+                "examples": [
+                    {
+                        "dialect": "Andÿò gẅie ɔ̀ tsyɛʼte yé lɛ̀, à fóo na nzèm patɔ̌ɔn.",
+                        "fr": "Le monsieur que tu salues là, il est de mon côté paternel.",
+                        "en": "The gentleman you are greeting there is on my paternal side."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzeme",
+        "pronounciation": "ǹ̩dzə̀mè",
+        "synonym": [
+            "nzem"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’autre côté",
+                "definition_en": "other side",
+                "examples": []
+            }
+        ]
+    }
+]

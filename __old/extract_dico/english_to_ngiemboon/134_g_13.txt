@@ -1,0 +1,78 @@
+[
+    {
+        "noun": "gut",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guts",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metʉ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gutter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀a tsitsyɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿòon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "guy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbǐ",
+                "examples": []
+            }
+        ]
+    }
+]

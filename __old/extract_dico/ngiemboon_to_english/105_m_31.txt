@@ -1,0 +1,378 @@
+[
+    {
+        "noun": "metsɔ̌ɔn pyé",
+        "pronounciation": "mètsɔ̃̌ː pɸjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consolation",
+                "definition_en": "consolation; comfort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métsẅè",
+        "pronounciation": "métsːɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "céphalophe à front noire",
+                "definition_en": "black-faced duiker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metsẅé ndá",
+        "pronounciation": "mètsːɥé ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "alentours de la maison",
+                "definition_en": "environs of a house",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métsyɛ",
+        "pronounciation": "métsjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "insoumis ; insurgés",
+                "definition_en": "rebellious; unsubdued; rebel",
+                "examples": [
+                    {
+                        "dialect": "Ndá má púɔ métsyɛ la láʼ te vwɔ̀ʼ.",
+                        "fr": "La maison des insoumis avait passé la nuit sans fermer.",
+                        "en": "The house of rebels had passed the night without closing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "métsyɛ",
+        "pronounciation": "métsjɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souris",
+                "definition_en": "common house mouse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metsyɛmbʉ̀ŋ",
+        "pronounciation": "mètsjɛ̀mbɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "candidose affectant les orteils",
+                "definition_en": "candidiasis of the toes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metuŋ",
+        "pronounciation": "mèʈũ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discrimination ; indifférence",
+                "definition_en": "discrimination; indifference",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metuŋó vɔ̀g",
+        "pronounciation": "mèʈũ̀ŋó vɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oreilles de l’oreillard",
+                "definition_en": "bat’s ears",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. injure",
+                "definition_en": "k. insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metʉ̀",
+        "pronounciation": "mèʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "courage",
+                "definition_en": "courage; bravery; guts",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metʉ̌a",
+        "pronounciation": "mèʈɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majesté",
+                "definition_en": "majesty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metʉ̌a",
+        "pronounciation": "mèʈɯ̀á",
+        "synonym": [
+            "sɔ̌ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marché",
+                "definition_en": "market",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métʉ̂a",
+        "pronounciation": "métɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (modifiant les noms de la classe 2)",
+                "definition_en": "five (modifies nouns from class 2)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metʉanzse",
+        "pronounciation": "mèʈɯ̀àndzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "l’un des huit jours de la semaine traditionnelle",
+                "definition_en": "one of eight days of the traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metwò",
+        "pronounciation": "mèʈθwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais sort ; malédiction ; poison",
+                "definition_en": "bad fate; bad lot; curse; poison",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "métwó",
+        "pronounciation": "méʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "petit bout",
+                "definition_en": "small end",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "metyé",
+        "pronounciation": "mètθjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salive",
+                "definition_en": "saliva",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mevɛ́",
+        "pronounciation": "mèvɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "huile",
+                "definition_en": "oil",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mevfǒ",
+        "pronounciation": "mèvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit (qualifie les noms des classes 4 et 6)",
+                "definition_en": "cooked (qualifying nouns from classes 4 and 6)",
+                "examples": [
+                    {
+                        "dialect": "A pfɛ̌ melÿɔʼ mevfǒ.",
+                        "fr": "Il a mangé les ignames cuites.",
+                        "en": "He ate the cooked yams."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mûr (qualifie les noms des classes 4 et 6)",
+                "definition_en": "ripe (qualifying nouns from classes 4 and 6)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méwàcùʼ",
+        "pronounciation": "méwȁtʃȕʔ",
+        "synonym": [
+            "máwàcùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezabá",
+        "pronounciation": "mèzàβá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plus ; prolongation ; surplus",
+                "definition_en": "plus; prolongation; surplus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezèŋe",
+        "pronounciation": "mèzə̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "triste ; tristesse ; pitié",
+                "definition_en": "sad; sadness; pity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezɔ̀g",
+        "pronounciation": "mèzɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gale ; démangeaison",
+                "definition_en": "scabies; mange; itching",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezɔgɔ́",
+        "pronounciation": "mèzɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séjour",
+                "definition_en": "stay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezẅé",
+        "pronounciation": "mèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nez ; narines",
+                "definition_en": "nose; nostrils",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mezẅìge",
+        "pronounciation": "mèzɥìʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esprit",
+                "definition_en": "spirit",
+                "examples": []
+            }
+        ]
+    }
+]

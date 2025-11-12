@@ -1,0 +1,424 @@
+[
+    {
+        "noun": "ḿbéen",
+        "pronounciation": "ḿ̩bẽ́ː",
+        "synonym": [
+            "mbée"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être drôle ; être bizarre",
+                "definition_en": "be funny; be strange",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbéen",
+        "pronounciation": "ḿ̩bẽ́ː",
+        "synonym": [
+            "mbée"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "payer",
+                "definition_en": "pay",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbège",
+        "pronounciation": "m̩̀bə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dérangeur",
+                "definition_en": "disturber",
+                "examples": [
+                    {
+                        "dialect": "Wɔɔn gwɔ́ pɔ́ mbège jʉʼ.",
+                        "fr": "Ici, ce n’est qu’un dérangeur.",
+                        "en": "Here, he's just a nuisance."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbége",
+        "pronounciation": "ḿ̩bə́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déranger ; troubler ; ennuyer ; embêter",
+                "definition_en": "mess up; trouble; bore; bother",
+                "examples": []
+            },
+            {
+                "definition_fr": "assourdir ; abasourdir",
+                "definition_en": "deafen; stun; daze",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’agiter",
+                "definition_en": "to agitate",
+                "examples": []
+            },
+            {
+                "definition_fr": "se déranger",
+                "definition_en": "bother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbéláŋ",
+        "pronounciation": "m̩̀bélã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exagérément",
+                "definition_en": "excessively",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gyá múɔ wɛ̂ pɛ́ʼɛ̀, à tʉʉ twó tà mbéláŋ.",
+                        "fr": "Tu vois cet enfant-là, il est exagérément têtu.",
+                        "en": "You see this child, he is extremely stubborn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbèlàŋ",
+        "pronounciation": "m̩̀bȅlã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couverture",
+                "definition_en": "blanket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbele",
+        "pronounciation": "ḿ̩bə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blaguer",
+                "definition_en": "joke",
+                "examples": []
+            },
+            {
+                "definition_fr": "jouer",
+                "definition_en": "play",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbéle",
+        "pronounciation": "ḿ̩bə́lé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coller ; ajuster",
+                "definition_en": "collect; adjust",
+                "examples": []
+            },
+            {
+                "definition_fr": "embrasser",
+                "definition_en": "to kiss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbelég",
+        "pronounciation": "m̩̀bə̀lə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brique",
+                "definition_en": "brick",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbelég",
+        "pronounciation": "m̩̀bə̀lə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pain",
+                "definition_en": "bread",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèlengàlôŋ",
+        "pronounciation": "m̩̀bə̀lȅŋgȁlõ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cimetière",
+                "definition_en": "cemetery; graveyard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèlenjʉ̂ŋ",
+        "pronounciation": "m̩̀bə̀lȅndʒɯ̃̂ŋ",
+        "synonym": [
+            "mbàlasí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "énergie ; essence",
+                "definition_en": "energy; petrol; gas",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèlèntâ",
+        "pronounciation": "m̩̀bȅlȅntâ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accrobatie",
+                "definition_en": "acrobatics",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèlevê",
+        "pronounciation": "m̩̀bə̏lèvê",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brevet",
+                "definition_en": "certificate; diploma",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbélòŋ",
+        "pronounciation": "m̩̀bélõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj.honor",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "majesté (appellation honorifique)",
+                "definition_en": "majesty (honorary greeting)",
+                "examples": [
+                    {
+                        "dialect": "Afùɔ lɔɔn ńtóŋo gú, ɔ̀ gɔɔn ngie Mbélòŋ.",
+                        "fr": "Si le roi t’appelle, tu dis « Majesté ».",
+                        "en": "If the king calls you, you say “Majesty”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbèlûm",
+        "pronounciation": "m̩̀bȅɭûm",
+        "synonym": [
+            "mbìlûm"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "peinture ; teinture ; couleur",
+                "definition_en": "paint; dye; colour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbéŋ",
+        "pronounciation": "m̩̀bə̃́ŋ",
+        "synonym": [
+            "mbʉ́ŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traverse du lit",
+                "definition_en": "bed strut; bed crosspiece",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbeŋ lezẅé",
+        "pronounciation": "m̩̀bə̃̀ŋ lèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narine",
+                "definition_en": "nostril",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbeŋe",
+        "pronounciation": "ḿ̩bə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répliquer",
+                "definition_en": "reply; retaliate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbéŋe",
+        "pronounciation": "ḿ̩bə̃́ŋé",
+        "synonym": [
+            "ḿbʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross; fold",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ne ńkwɛ́ɛ nkáʼ, ɔ̀ péŋe ndʉŋ.",
+                        "fr": "Si tu attaches une clôture, tu croises les bambous.",
+                        "en": "If you attach a fence, you cross the bamboos."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbéŋe",
+        "pronounciation": "ḿ̩bə̃́ŋé",
+        "synonym": [
+            "ḿbʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égaliser",
+                "definition_en": "equalize",
+                "examples": []
+            },
+            {
+                "definition_fr": "répliquer",
+                "definition_en": "retort",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèpà",
+        "pronounciation": "m̩̀bȅpȁ",
+        "synonym": [
+            "mbìpí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cafard",
+                "definition_en": "cockroach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèpà pǐŋ",
+        "pronounciation": "m̩̀bȅpȁ pĩ̌ŋ",
+        "synonym": [
+            "ndèpàʼ pǐŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "scinque",
+                "definition_en": "skink",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbèpòŋ",
+        "pronounciation": "m̩̀bȅpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "albinos",
+                "definition_en": "albino",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbepwó",
+        "pronounciation": "m̩̀bèpɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbuste",
+                "definition_en": "sp. shrub",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "noun": "ńnÿɔg",
+        "pronounciation": "ɳ̩́ɳɰɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toucher",
+                "definition_en": "touch",
+                "examples": [
+                    {
+                        "dialect": "Te gÿo pɛ́ʼɛ̀ tà ńnÿɔgɔ míŋ wɔ̀ɔn.",
+                        "fr": "Ne fais pas comme-ça jusqu’à toucher mon fils.",
+                        "en": "Don't do that until you touch my son."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋá",
+        "pronounciation": "ŋ̩́ŋá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner",
+                "definition_en": "embezzle",
+                "examples": []
+            },
+            {
+                "definition_fr": "détourner",
+                "definition_en": "divert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋag",
+        "pronounciation": "ŋ̩́ŋàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "juger",
+                "definition_en": "judge",
+                "examples": []
+            },
+            {
+                "definition_fr": "discuter",
+                "definition_en": "dispute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋaŋ",
+        "pronounciation": "ŋ̩̀ŋã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racine",
+                "definition_en": "root",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋaŋ",
+        "pronounciation": "ŋ̩̀ŋã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "antenne",
+                "definition_en": "antenna",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋaŋ",
+        "pronounciation": "ŋ̩́ŋã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigrir",
+                "definition_en": "lose weight",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋaŋ mángém ntɔɔn",
+        "pronounciation": "ŋ̩̀ŋã̀ŋ máŋgə́m ǹ̩tɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nŋaŋ nnɛ́",
+        "pronounciation": "ŋ̩̀ŋã̀ŋ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veine ; nerf",
+                "definition_en": "vein; nerve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋáŋte",
+        "pronounciation": "ŋ̩́ŋã́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se regrouper pour s’efforcer de faire qqch.",
+                "definition_en": "group together to try to do something",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋáte",
+        "pronounciation": "ŋ̩́ŋáté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distordre",
+                "definition_en": "twist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋaʼ",
+        "pronounciation": "ŋ̩́ŋàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être élancé; être haut",
+                "definition_en": "be slender; be tall",
+                "examples": [
+                    {
+                        "dialect": "Nɔ̀ɔn wɔɔn mɛ́ ŋaʼ tɛʼ.",
+                        "fr": "L’animal-ci est élancé.",
+                        "en": "This animal is slender."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋáʼ",
+        "pronounciation": "ŋ̩́ŋáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvrir la bouche",
+                "definition_en": "open one’s mouth",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir la bouche",
+                "definition_en": "open your mouth",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir légèrement ou à moitié",
+                "definition_en": "open slightly or halfway",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋáʼte",
+        "pronounciation": "ŋ̩́ŋáʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se vanter",
+                "definition_en": "boast; brag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋéen",
+        "pronounciation": "ŋ̩́ŋẽ́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entasser",
+                "definition_en": "pile up",
+                "examples": [
+                    {
+                        "dialect": "Pi ŋeen jʉʼɛ ńgÿo kɔ́?",
+                        "fr": "Que faite-vous entasser là-bas ?",
+                        "en": "What are you piling up there?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋege",
+        "pronounciation": "ŋ̩́ŋə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’efforcer",
+                "definition_en": "try hard to",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋele",
+        "pronounciation": "ŋ̩́ŋə̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouger",
+                "definition_en": "move",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋéʼe",
+        "pronounciation": "ŋ̩́ŋéʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écarter",
+                "definition_en": "separate; move apart",
+                "examples": []
+            },
+            {
+                "definition_fr": "hausser",
+                "definition_en": "raise",
+                "examples": []
+            },
+            {
+                "definition_fr": "snober ; ambitionner",
+                "definition_en": "snub; ambition",
+                "examples": [
+                    {
+                        "dialect": "Múɔ tě ńŋéʼe nò páʼa wɔ́.",
+                        "fr": "L’enfant n’est pas snob de la sorte.",
+                        "en": "The child is not such a snob."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńŋɔ́ɔn",
+        "pronounciation": "ŋ̩́ŋɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entasser",
+                "definition_en": "pile up",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋúʼte",
+        "pronounciation": "ŋ̩́ŋúʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contracter ; se recroqueviller",
+                "definition_en": "contract; tense; shrivel; curl up",
+                "examples": []
+            },
+            {
+                "definition_fr": "être triste",
+                "definition_en": "be sad",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋʉ́ʼte",
+        "pronounciation": "ŋ̩́ŋɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercher à porter ; pousser",
+                "definition_en": "want to carry; push",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋʉ́ʼʉ nò",
+        "pronounciation": "ŋ̩́ŋɯ́ʔɯ́ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ambitionner ; ne pas accepté ses limites",
+                "definition_en": "aspire to; don’t accept one’s limits",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwa",
+        "pronounciation": "ŋ̩́ŋwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ramasser",
+                "definition_en": "collect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwaŋ",
+        "pronounciation": "ŋ̩́ŋwã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disparaître",
+                "definition_en": "disappear",
+                "examples": []
+            },
+            {
+                "definition_fr": "jeter les éclairs",
+                "definition_en": "throw lightning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwáŋ",
+        "pronounciation": "ŋ̩́ŋwã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cogner fortement",
+                "definition_en": "bump strongly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńŋwaŋa",
+        "pronounciation": "ŋ̩́ŋwã̀ŋà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "disparaître",
+                "definition_en": "disappear",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,401 @@
+[
+    {
+        "noun": "tsɔɔn pwɔʼ",
+        "pronounciation": "tsɔ̃̀ː pwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ʼ",
+        "pronounciation": "tsɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "épi",
+                "definition_en": "ear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼ mbím",
+        "pronounciation": "tsɔ́ʔ m̩̀bím",
+        "synonym": [
+            "tsɔ́ʼɔ kwɔb"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caille ; esp. oiseau",
+                "definition_en": "common quail; Latham’s forest franolin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼ mémbàba",
+        "pronounciation": "tsɔ́ʔ mémbàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. habit démembré",
+                "definition_en": "k. ill-matched outfit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼ ngesáŋ",
+        "pronounciation": "tsɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. oiseau",
+                "definition_en": "sp. bird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼ nzèm",
+        "pronounciation": "tsɔ́ʔ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "camionnette",
+                "definition_en": "van",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼnzìŋe",
+        "pronounciation": "tsɔ́ʔndzĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ouvre-bouteille ; ouvre-boîte",
+                "definition_en": "can opener; bottle opener",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔʼɔ́",
+        "pronounciation": "tsɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. aneilema",
+                "definition_en": "sp. aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ʼɔ kí",
+        "pronounciation": "tsɔ̀ʔɔ̏ kí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clé ; clef",
+                "definition_en": "key",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ʼɔ kwɔb",
+        "pronounciation": "tsɔ̀ʔɔ̏ kwɔ̀p̚",
+        "synonym": [
+            "tsɔ́ʼ mbím"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caille",
+                "definition_en": "common quail; Latham’s forest franolin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ʼɔ mémbaŋ",
+        "pronounciation": "tsɔ̀ʔɔ̏ mémbã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrache-clou",
+                "definition_en": "nail puller",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ̀ʼɔ ngyè",
+        "pronounciation": "tsɔ̀ʔɔ̏ ŋ̩̀gxjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détonation ; éclatement",
+                "definition_en": "detonation; explosion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsɔ́ʼtè",
+        "pronounciation": "tsɔ́ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trot",
+                "definition_en": "trot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsùb",
+        "pronounciation": "tsȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit des mains frappées en signe de respect",
+                "definition_en": "sound of hands clapping as a sign of respect",
+                "examples": [
+                    {
+                        "dialect": "Mé tyé mvfò fùɔ, ńcúa mbwó lê tsùb tsùb.",
+                        "fr": "Devant le roi on tape les mains que « tsùb tsùb ».",
+                        "en": "In front of the king we clap our hands “tsùb tsùb”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tswàŋ",
+        "pronounciation": "̀tswã̏ŋ",
+        "synonym": [
+            "tsẅàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toile",
+                "definition_en": "cloth; web",
+                "examples": [
+                    {
+                        "dialect": "Atswàŋa gégaŋá.",
+                        "fr": "Toile d’araignée.",
+                        "en": "Spider web."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tswaʼá",
+        "pronounciation": "tswàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "touffe",
+                "definition_en": "tuft",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ne ńkɔ́ʼɔ tswaʼá legǐ.",
+                        "fr": "Ils coupent la touffe d’herbe.",
+                        "en": "They cut the tuft of grass."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsẅàŋ",
+        "pronounciation": "̀tsɥã̏ŋ",
+        "synonym": [
+            "tswàŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toile",
+                "definition_en": "cloth; web",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅé",
+        "pronounciation": "tsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comportement",
+                "definition_en": "behaviour",
+                "examples": []
+            },
+            {
+                "definition_fr": "habitude",
+                "definition_en": "habit",
+                "examples": []
+            },
+            {
+                "definition_fr": "coutume",
+                "definition_en": "custom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅé láʼ",
+        "pronounciation": "tsːɥé láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coutume",
+                "definition_en": "custom",
+                "examples": []
+            },
+            {
+                "definition_fr": "civilisation",
+                "definition_en": "civilization",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅé nɔ̀ɔn",
+        "pronounciation": "tsːɥé nɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "céphalophe ; « biche » (en français local)",
+                "definition_en": "common duiker; \"hind\" (in local English)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅé nɔ̀ɔn ndóŋ",
+        "pronounciation": "tsːɥé nɔ̃̏ː ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herbe tricorne",
+                "definition_en": "starbur",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅɛ",
+        "pronounciation": "tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "champ",
+                "definition_en": "field",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅɛ́",
+        "pronounciation": "tsɥɛ́",
+        "synonym": [
+            "tàba láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "papier de verre arbre",
+                "definition_en": "sandpaper tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tsẅɛ̂d",
+        "pronounciation": "tsɥɛ̂t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très humide (objet mouillé)",
+                "definition_en": "very humid (wet object)",
+                "examples": [
+                    {
+                        "dialect": "Mbʉ̀ŋ lɔɔn ńdúu jʉʼɔɔn sésag, ejʉʼ sẅé lê tsẅêd.",
+                        "fr": "S’il pleut trop ici, le lieu sera très humide.",
+                        "en": "If it rains too much here, the place will be very humid."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "tsẅɛ́ʼ",
+        "pronounciation": "tsɥɛ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. grenouille",
+                "definition_en": "sp. frog",
+                "examples": []
+            }
+        ]
+    }
+]

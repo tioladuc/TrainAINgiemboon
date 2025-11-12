@@ -1,0 +1,125 @@
+[
+    {
+        "noun": "avocado tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ pîɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "avoid",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdÿɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́ɔnte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "awareness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lÿɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "awful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntantú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "awkwardness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekyɛ̀bɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "swáŋlekyɛ̀bɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "awl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesète pàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "axe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔɔn",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "noun": "terrace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mángyɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntantú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mancʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrible thing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsá pu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrific",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mancʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg mbyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrorist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ náŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "terrorist organization",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀a gúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "test",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lʉ̀ŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwaʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lèŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "testament",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòmpfó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "testicles",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "testify",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅé ntáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thank",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼɔ fàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thanks",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lesǐe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ́ʼ pɛ́ʼɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "thank you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndǎg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "si",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "keen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "se",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "we",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "si",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sésɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yéyɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wéwɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pépɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that one there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "si",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that, so",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "légwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "that ... there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "si",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ya",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "the",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pe-",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "theatre",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pyɛ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "theft (magical, mystical)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "their",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "theirs",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́b",
+                "examples": []
+            }
+        ]
+    }
+]

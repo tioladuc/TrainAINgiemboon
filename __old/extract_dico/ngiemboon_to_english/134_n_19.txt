@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "nê",
+        "pronounciation": "nê",
+        "synonym": [
+            "na"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sur",
+                "definition_en": "on",
+                "examples": [
+                    {
+                        "dialect": "Jÿɔ́gɔ kɔ̌ʼ na kúnɔ̀ɔn.",
+                        "fr": "Mets le joug sur le porc.",
+                        "en": "Put the yoke on the pig."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ně",
+        "pronounciation": "ně",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’aujourd’hui (P2)",
+                "definition_en": "today past (P2)",
+                "examples": [
+                    {
+                        "dialect": "Peg ně ḿbí mbaʼámbaʼ.",
+                        "fr": "Nous avons pris le matin.",
+                        "en": "We took the morning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "né ngie",
+        "pronounciation": "né ŋ̩̀gìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": [
+                    {
+                        "dialect": "Né ngie ɔ̀ tǒ pɔ́ fʉ̀ʼɔɔn.",
+                        "fr": "N’est-ce pas tu n’es venu que maintenant.",
+                        "en": "You only came now?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nèm",
+        "pronounciation": "nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soleil",
+                "definition_en": "sun",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nèm meshʉa",
+        "pronounciation": "nə̏m mèʃɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rayon solaire (à travers une fente)",
+                "definition_en": "sunbeam (through a slit)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nenème",
+        "pronounciation": "nènə̀mȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cérumen",
+                "definition_en": "earwax; cerumen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nénɔgɔ́",
+        "pronounciation": "nénɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "minuscule",
+                "definition_en": "lower case letter",
+                "examples": [
+                    {
+                        "dialect": "À tyɛté tà é cʉ́ʼ menénɔgɔ́, á nyé.",
+                        "fr": "Il a trié jusqu’à ce qu’il est resté les minuscules, il a laissé.",
+                        "en": "He sorted until the tiny ones remained, he left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nénʉ́",
+        "pronounciation": "néɳɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vrai",
+                "definition_en": "true",
+                "examples": [
+                    {
+                        "dialect": "Anò gie ɔ̀ gɔɔn, áa nénʉ́.",
+                        "fr": "Ce que tu dis est vrai.",
+                        "en": "What you say is true."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nèŋe",
+        "pronounciation": "nə̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cossyphe d’Isabelle",
+                "definition_en": "mountain robin-chat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nèŋe tsébe",
+        "pronounciation": "nə̃̀ŋȅ tsə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "danseur d’une sorte de danse culturelle",
+                "definition_en": "dancer of a kind of cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "netsẅɛ́ʼ",
+        "pronounciation": "nètsɥɛ́ʔ",
+        "synonym": [
+            "letsẅɛ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuit",
+                "definition_en": "night",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngá",
+        "pronounciation": "ŋ̩̀gá",
+        "synonym": [
+            "ngǔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fusil (gén.)",
+                "definition_en": "gun (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgaa",
+        "pronounciation": "ŋ̩́gàː",
+        "synonym": [
+            "tà ńgaa"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "comment ça va",
+                "definition_en": "how do you do",
+                "examples": [
+                    {
+                        "dialect": "Ńgaa míŋ wɔ̀ɔn?",
+                        "fr": "Comment va mon enfant ?",
+                        "en": "How is my child?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngáb",
+        "pronounciation": "ŋ̩̀gáp̚",
+        "synonym": [
+            "lelaŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ananas",
+                "definition_en": "pineapple",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngáb",
+        "pronounciation": "ŋ̩̀gáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. antilope",
+                "definition_en": "sp. antelope",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàb",
+        "pronounciation": "ŋ̩̀gȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semaine",
+                "definition_en": "week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgab",
+        "pronounciation": "ŋ̩́gàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partager",
+                "definition_en": "divide; share out",
+                "examples": []
+            },
+            {
+                "definition_fr": "distribuer",
+                "definition_en": "distribute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgáb",
+        "pronounciation": "ŋ̩́gáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être à moitié cuit ; être mal cuit",
+                "definition_en": "be half cooked; be poorly cooked",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàb mánzsè",
+        "pronounciation": "ŋ̩̀gȁp̚ mándzsȅ",
+        "synonym": [
+            "ngàb nzse"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourtelette (gén.)",
+                "definition_en": "dove (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàb ngẅɛ̀",
+        "pronounciation": "ŋ̩̀gȁp̚ ŋ̩̀gɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ancêtre ; fondateur de la généalogie",
+                "definition_en": "ancestor; founder of a genealogy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàb ntʉ̀",
+        "pronounciation": "ŋ̩̀gȁp̚ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "agave americana",
+                "definition_en": "century-plant; American aloe; maguey; pita",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàb nzse",
+        "pronounciation": "ŋ̩̀gȁp̚ ǹ̩dzsè",
+        "synonym": [
+            "ngàb mánzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tourtelette (gén.)",
+                "definition_en": "dove (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàba",
+        "pronounciation": "ŋ̩̀gàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "distributeur",
+                "definition_en": "distributor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàba láʼ",
+        "pronounciation": "ŋ̩̀gàβȁ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "semaine traditionnelle de huit jours",
+                "definition_en": "eight-day traditional week",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngàg",
+        "pronounciation": "ŋ̩̀gȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourche",
+                "definition_en": "pitchfork",
+                "examples": []
+            },
+            {
+                "definition_fr": "manche de la fronde",
+                "definition_en": "handle of a sling",
+                "examples": []
+            }
+        ]
+    }
+]

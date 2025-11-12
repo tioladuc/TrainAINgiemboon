@@ -1,0 +1,394 @@
+[
+    {
+        "noun": "ndìte ngwòŋ",
+        "pronounciation": "ǹ̩dìtȅ ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui crie au secours",
+                "definition_en": "person who cries for help",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíte ngwòŋ",
+        "pronounciation": "ń̩díté ŋ̩̀gwõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crier au secours",
+                "definition_en": "cry for help",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdiʼ",
+        "pronounciation": "ń̩dìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crier",
+                "definition_en": "cry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíʼ",
+        "pronounciation": "ń̩díʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parler de grande chose",
+                "definition_en": "talk of big things",
+                "examples": []
+            },
+            {
+                "definition_fr": "hurler",
+                "definition_en": "yell; howl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdíʼte",
+        "pronounciation": "ń̩díʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "éviter",
+                "definition_en": "avoid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdo",
+        "pronounciation": "ń̩dò",
+        "synonym": [
+            "lò ",
+            " lɔ̀"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.irrég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vas ; parts (toujours à l’impératif présent)",
+                "definition_en": "go; leave",
+                "examples": [
+                    {
+                        "dialect": "Pi lo, ńdíe yé, tà aa mbʉ̀a wɔ́!",
+                        "fr": "Allez le regarder, s’il est à la maison !",
+                        "en": "Go watch him, if he’s home!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndólà",
+        "pronounciation": "ǹ̩dólȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pièce de monnaie",
+                "definition_en": "coin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndolé",
+        "pronounciation": "ǹ̩dòlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuilles de vernonie ; sauce fait de feuilles de vernonie",
+                "definition_en": "ironweed leaves",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndólólo",
+        "pronounciation": "ǹ̩dólólò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndóŋ",
+        "pronounciation": "ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "corne",
+                "definition_en": "horn; antler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndóŋ",
+        "pronounciation": "ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doigt de banane",
+                "definition_en": "banana finger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndóŋ",
+        "pronounciation": "ǹ̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflet",
+                "definition_en": "whistle",
+                "examples": []
+            },
+            {
+                "definition_fr": "sifflet moderne",
+                "definition_en": "modern whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndǒŋ",
+        "pronounciation": "ǹ̩dõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "paresseux",
+                "definition_en": "lazy person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdóŋ",
+        "pronounciation": "ń̩dṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gluer",
+                "definition_en": "stick",
+                "examples": []
+            },
+            {
+                "definition_fr": "être gluante",
+                "definition_en": "be sticky",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndòŋ mezẅé",
+        "pronounciation": "ǹ̩dõ̏ŋ mèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bout du nez",
+                "definition_en": "end of the nose",
+                "examples": [
+                    {
+                        "dialect": "Nŋwáʼ tsɔ̌g ndòŋ mezẅé ye.",
+                        "fr": "L’abeille a piqué le bout de son nez.",
+                        "en": "The bee stung the tip of its nose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndòŋ nkʉ̌a",
+        "pronounciation": "ǹ̩dõ̏ŋ ŋ̩̀kɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égouttoir",
+                "definition_en": "draining board; draining rack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdóŋe",
+        "pronounciation": "ń̩dṍŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être paresseux",
+                "definition_en": "be lazy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdoŋo",
+        "pronounciation": "ń̩dõ̀ŋò",
+        "synonym": [
+            "ńkẅáŋte ",
+            " ńgẅáŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se rabougrir ; s’étioler",
+                "definition_en": "shrivel up; become stunted; wilt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdóŋte",
+        "pronounciation": "ń̩dṍŋté",
+        "synonym": [
+            "ńdʉ́me ",
+            " ńkyáŋ ",
+            " ńtela ",
+            " ńtala ",
+            " ńtra ",
+            " ńteŋe ",
+            " ńtyɛ́ʼte ",
+            " ńtate"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se débrouiller",
+                "definition_en": "manage; make do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdóŋte",
+        "pronounciation": "ń̩dṍŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maigrir ; disparaître progressivement",
+                "definition_en": "lose weight; disappear; vanish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndoŋtóŋ",
+        "pronounciation": "ǹ̩dõ̀ŋtṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "burweed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndòon",
+        "pronounciation": "ǹ̩dõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malédiction ; malheur",
+                "definition_en": "curse; misfortune",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndǒon",
+        "pronounciation": "ǹ̩dõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écorce de bananier",
+                "definition_en": "banana tree bark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdoonte",
+        "pronounciation": "ń̩dõ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "salir ; se salir",
+                "definition_en": "dirty; get dirty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdɔb",
+        "pronounciation": "ń̩dɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "droguer",
+                "definition_en": "dose up",
+                "examples": []
+            }
+        ]
+    }
+]

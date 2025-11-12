@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "dish, taste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dishwasher",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disinfect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disinterested",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwa lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàga káŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disk, spinning",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandʉ̂avûm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mandelevûm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dislocation, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dislodge",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dismember",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disobey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtuŋ metuŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disorder",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disorderly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwà ntság",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwà ntsyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disorder, moral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtubte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disown",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼʉ mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dispatch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dispenser, sauce",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mpfɛ̀te mennáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disperse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyeente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dispersion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fàgte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "display",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezyɛ́ʼ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńta",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "displayed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sǎsaa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mesǎ mésaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "displeasing event",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ɛ̂ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ɛ̌ ɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dispute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disputes",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mesẅɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dissolve",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyě",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a",
+                "examples": []
+            }
+        ]
+    }
+]

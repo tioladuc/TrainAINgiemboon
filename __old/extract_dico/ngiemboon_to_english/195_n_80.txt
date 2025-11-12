@@ -1,0 +1,416 @@
+[
+    {
+        "noun": "ńzoŋ",
+        "pronounciation": "ń̩dzõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "discuter",
+                "definition_en": "discuss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzoŋ",
+        "pronounciation": "ń̩dzõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soigner ; traiter",
+                "definition_en": "nurse; look after; treat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzóŋe",
+        "pronounciation": "ń̩dzṍŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se secouer",
+                "definition_en": "shake oneself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzóŋo",
+        "pronounciation": "ń̩dzṍŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balancer ; dodeliner",
+                "definition_en": "balance; rock",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzòŋonzòŋo",
+        "pronounciation": "ǹ̩dzõ̀ŋȍndzõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chandelle",
+                "definition_en": "candle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzòon",
+        "pronounciation": "ǹ̩dzõ̏ː",
+        "synonym": [
+            "zòonte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "injure ; insulte",
+                "definition_en": "insult",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzoon",
+        "pronounciation": "ń̩dzõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "maudire",
+                "definition_en": "curse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzoon mákẅìʼ",
+        "pronounciation": "ǹ̩dzõ̀ː mákɥȉʔ",
+        "synonym": [
+            "ngùngwò leloŋó ",
+            " ndùŋngwò leloŋó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "clinging aneilema",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzoonte",
+        "pronounciation": "ń̩dzõ̀ːtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se moquer ; insulter ; gueuler",
+                "definition_en": "make fun of; insult; bawl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̌",
+        "pronounciation": "ǹ̩dzɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "où ?",
+                "definition_en": "where?",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a nzɔ̌?",
+                        "fr": "Où est-il parti ?",
+                        "en": "Where did he go?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔb",
+        "pronounciation": "ń̩dzɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanter",
+                "definition_en": "sing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀bɔ",
+        "pronounciation": "ǹ̩dzɔ̀βɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chanteur",
+                "definition_en": "singer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́bte",
+        "pronounciation": "ń̩dzɔ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prendre précautions ; prendre beaucoup de soins ; ne pas déranger",
+                "definition_en": "take precautions; take a lot of care; do not disturb",
+                "examples": []
+            },
+            {
+                "definition_fr": "dorloter",
+                "definition_en": "pamper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔg",
+        "pronounciation": "ń̩dzɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démanger ; gratter",
+                "definition_en": "itch; scratch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́g",
+        "pronounciation": "ń̩dzɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "séjourner",
+                "definition_en": "stay; sojourn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́g",
+        "pronounciation": "ń̩dzɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se réchauffer",
+                "definition_en": "warm up; warm someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀g mbʉ̀a",
+        "pronounciation": "ǹ̩dzɔ̏q̚ m̩̀bɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ménagère",
+                "definition_en": "housewife",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔɔn",
+        "pronounciation": "ǹ̩dzɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hache",
+                "definition_en": "axe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔɔn",
+        "pronounciation": "ń̩dzɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "d’abord",
+                "definition_en": "first; at first",
+                "examples": [
+                    {
+                        "dialect": "Zɔɔn ńtsɔ́ʼɔ cÿɔ̀ʼ ɔ́ tá ńgɔɔn nò né mèŋ.",
+                        "fr": "Enlève d’abord ton chapeau avant de me parler.",
+                        "en": "First take off your hat before you talk to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔɔn",
+        "pronounciation": "ń̩dzɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si",
+                "definition_en": "if",
+                "examples": [
+                    {
+                        "dialect": "N zɔɔn ńgẅiin gẅiin ńde ná.",
+                        "fr": "Si j’en ai même, je ne peux pas donner.",
+                        "en": "If I even have any, I can’t give."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔɔn ńgwaa gwɔ́",
+        "pronounciation": "ń̩dzɔ̃̀ː ŋ̩́gwàː ɣwɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en effet ; en vu de cela",
+                "definition_en": "indeed; in view of that",
+                "examples": [
+                    {
+                        "dialect": "N kaa tóo. Ńzɔɔn ńgwaa gwɔ́, ńne ńguɔ.",
+                        "fr": "Je ne suis pas venu. En effet, je suis malade.",
+                        "en": "I didn't come. Indeed, I am sick."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́ʼ",
+        "pronounciation": "ń̩dzɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dribbler",
+                "definition_en": "dribble",
+                "examples": []
+            },
+            {
+                "definition_fr": "dribbler",
+                "definition_en": "dribble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́ʼ",
+        "pronounciation": "ń̩dzɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oindre",
+                "definition_en": "oil",
+                "examples": []
+            },
+            {
+                "definition_fr": "peindre",
+                "definition_en": "paint",
+                "examples": []
+            },
+            {
+                "definition_fr": "oindre",
+                "definition_en": "anoint",
+                "examples": []
+            },
+            {
+                "definition_fr": "enduire",
+                "definition_en": "coat",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzɔ́ʼ",
+        "pronounciation": "ń̩dzɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se marier",
+                "definition_en": "get married",
+                "examples": []
+            },
+            {
+                "definition_fr": "nager",
+                "definition_en": "swim",
+                "examples": []
+            },
+            {
+                "definition_fr": "se marier",
+                "definition_en": "get married",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀ʼ kěm",
+        "pronounciation": "ǹ̩dzɔ̏ʔ kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "initiateur d’un chef traditionnel",
+                "definition_en": "traditional chief’s initiator",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "noun": "beloved",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tângɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máangɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ́ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "below",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "below, down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋe ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "below, go",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "belt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉnkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkenkÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàndɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bench",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbâŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́d",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leŋwɔʼɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅíe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "benefactor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ɔn mboŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "benefit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bereavement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bereavement song",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse legwé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "berry, turkey",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́shÿónè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beside",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lejʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be stingy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkube",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lekwɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼ nkwèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be tender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "betray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyag nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔ́ʼ nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "betrayal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "better",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sembòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pembòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wembòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "membòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yembòŋo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "between",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "be used to",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bewilderment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pége",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bewitch",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "beyond possible, something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùbo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bib",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿěpÿě",
+                "examples": []
+            }
+        ]
+    }
+]

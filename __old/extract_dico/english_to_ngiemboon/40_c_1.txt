@@ -1,0 +1,382 @@
+[
+    {
+        "noun": "cabalist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cabbage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shû",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cabin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caddisfly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cÿɔ̀gɔ mentÿo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash, bowl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ ntse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash, cultivated squash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gígyé sésɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabashes, musical instrument",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefomó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash for oil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ mevɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash for wine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ nkʉ́a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash, k. bowl from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàtùʼu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash plate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàpàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash, sound water exiting",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ̌ŋ pʉ̌ŋ pʉ̌ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntúʼù kẅìŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash tumbler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàpàg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calabash used for drinking",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ tÿóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calculate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calculator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìge nzẅìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calendar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ʼ njÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calf",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ fòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzème kwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "calf rattle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "call",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "call by hand signal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛbɛ pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "call of bird",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tùutǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "call on by hand signal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛbɛ pwó",
+                "examples": []
+            }
+        ]
+    }
+]

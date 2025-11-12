@@ -1,0 +1,386 @@
+[
+    {
+        "noun": "lesì nnɛ́",
+        "pronounciation": "lèsȉ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vantardise",
+                "definition_en": "boastfulness",
+                "examples": [
+                    {
+                        "dialect": "Lesì nnɛ́ aa kwàʼ máa máa lɔ̌ʼ.",
+                        "fr": "La vantardise est un vilain défaut.",
+                        "en": "Bragging is a bad thing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lesìe",
+        "pronounciation": "lèsìȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lueur",
+                "definition_en": "glow; glimmer",
+                "examples": [
+                    {
+                        "dialect": "Lesìe nèm aa pɛ́ʼɛ̀ ńcʉ́ʼ ńgwɔ́ pɔ́ tsɔ̌ ntí.",
+                        "fr": "La lueur du soleil est devenue autrement.",
+                        "en": "The glow of the sun has become different."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lesǐe",
+        "pronounciation": "lèsìé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "félicitation ; remerciement",
+                "definition_en": "congratulations; thanks",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesìŋte",
+        "pronounciation": "lèsĩ̀ŋtȅ",
+        "synonym": [
+            "sìŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "encouragement ; félicitation",
+                "definition_en": "encouragement; congratulations",
+                "examples": []
+            },
+            {
+                "definition_fr": "correction ; redressement",
+                "definition_en": "marking; correction; recovery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesoŋ",
+        "pronounciation": "lèsõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dent",
+                "definition_en": "tooth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesoŋ shÿóo",
+        "pronounciation": "lèsõ̀ŋ ʃːɰóː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ivoire",
+                "definition_en": "ivory",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔb",
+        "pronounciation": "lèsɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aiguille de cordonnier",
+                "definition_en": "shoemaker’s needle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔ̀b mentyɛ́ʼɛ",
+        "pronounciation": "lèsɔ̏p̚ mèntjɛ́ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trident",
+                "definition_en": "trident",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔg",
+        "pronounciation": "lèsɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soufflet",
+                "definition_en": "bellows",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔgɔ́",
+        "pronounciation": "lèsɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laverie ; baignoire ; toilette",
+                "definition_en": "launderette; laundromat; bathtub; toilet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔgɔ́ menzsǒ",
+        "pronounciation": "lèsɔ̀ʁɔ́ mèndzsǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "buanderie",
+                "definition_en": "laundry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔgɔ́ nnɛ́",
+        "pronounciation": "lèsɔ̀ʁɔ́ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lavabo ; douche ; toilette ; baignoire",
+                "definition_en": "washbasin; shower; toilet; bathtub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesɔ̀ɔn",
+        "pronounciation": "lèsɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pépin",
+                "definition_en": "pip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅagá",
+        "pronounciation": "lèsɥàʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désintoxication",
+                "definition_en": "detoxification",
+                "examples": []
+            },
+            {
+                "definition_fr": "purification",
+                "definition_en": "purification",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅɛ̀",
+        "pronounciation": "lèsɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. rite traditionnel sur la mère du défunt",
+                "definition_en": "k. ritual for the mother of the deceased",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅɛ̀ ŋwáʼ",
+        "pronounciation": "lèsɥɛ̏ ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "apiculture",
+                "definition_en": "beekeeping",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅɛʼɛ́",
+        "pronounciation": "lèsɥɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "descente",
+                "definition_en": "descent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅì",
+        "pronounciation": "lèsɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tombe",
+                "definition_en": "grave; tomb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesẅíbè",
+        "pronounciation": "lèsɥíβȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punaise",
+                "definition_en": "bed bug",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesyè",
+        "pronounciation": "lèsːjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tombeau",
+                "definition_en": "tomb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lesyɛʼɛ́",
+        "pronounciation": "lèsjɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aiguille",
+                "definition_en": "needle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letàb",
+        "pronounciation": "lètȁp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gouttelette",
+                "definition_en": "droplet",
+                "examples": [
+                    {
+                        "dialect": "Letàb mbʉŋ cʉmé ssé.",
+                        "fr": "La gouttelette de pluie est tombée au sol.",
+                        "en": "The rain droplet fell to the ground."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "letagá",
+        "pronounciation": "lètàʁá",
+        "synonym": [
+            "màndèle"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sifflet cruciforme en bois",
+                "definition_en": "cruciform wooden whistle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letèkǔʼ",
+        "pronounciation": "lètȅkǔʔ",
+        "synonym": [
+            "letòkǔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille de taro ; feuille de macabo",
+                "definition_en": "taro leaf; cocoyam leaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letemé ntse",
+        "pronounciation": "lètə̀mé ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "confluent",
+                "definition_en": "confluence; mingling",
+                "examples": []
+            }
+        ]
+    }
+]

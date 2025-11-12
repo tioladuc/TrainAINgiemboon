@@ -1,0 +1,406 @@
+[
+    {
+        "noun": "zsǒ",
+        "pronounciation": "zsǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jour",
+                "definition_en": "day",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zʉzsó",
+        "pronounciation": "zɯ̀zsó",
+        "synonym": [
+            "zezsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abcès contenant du pus",
+                "definition_en": "abscess with pus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zwàʼ",
+        "pronounciation": "zwȁʔ",
+        "synonym": [
+            "jwàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un fagot de bambou tombé au sol",
+                "definition_en": "sound of a bundle of bamboo falling on the ground",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅɛ̌",
+        "pronounciation": "zɥɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vapeur",
+                "definition_en": "steam; vapour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅɛ́te",
+        "pronounciation": "zɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mouchardage ; murmures",
+                "definition_en": "informing; murmuring",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅɛ̌ʼ",
+        "pronounciation": "zɥɛ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hanche ; tour de taille",
+                "definition_en": "hip; waist size",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅɛ̀ʼɛ",
+        "pronounciation": "zɥɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "percée",
+                "definition_en": "breakthrough",
+                "examples": []
+            },
+            {
+                "definition_fr": "profit ; substance",
+                "definition_en": "profit; substance",
+                "examples": [
+                    {
+                        "dialect": "Azẅɛ̀ʼɛ gie áa na fàʼ yɛ̂ aa kɔ́?",
+                        "fr": "Quel est le profit qui existe sur ce travail.",
+                        "en": "What is the profit that exists on this work."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zẅì",
+        "pronounciation": "zɥȉ",
+        "synonym": [
+            "sẅì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profondeur ; fond",
+                "definition_en": "depth; bottom",
+                "examples": [
+                    {
+                        "dialect": "Azẅì tɔ́ɔn kaa kuʼu.",
+                        "fr": "La profondeur de la fosse n’est pas suffisant.",
+                        "en": "The depth of the pit is not sufficient."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zẅìge",
+        "pronounciation": "zɥìʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "respiration ; esprit",
+                "definition_en": "breathing; mind; spirit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅìge ndʉalʉ̌a",
+        "pronounciation": "zɥìʁȅ ɳ̩̀ɖɯ̀àɭɯ̀á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Saint-Esprit ; esprit saint",
+                "definition_en": "Holy Spirit; holy spirit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅìŋ",
+        "pronounciation": "zɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieil ; vieux (modifie les noms dans tous les classes)",
+                "definition_en": "old (qualifies nouns from all noun classes)",
+                "examples": [
+                    {
+                        "dialect": "À kǎa kwɔ̀ʼɔ zẅìŋ, á té yesẅé wɔ́.",
+                        "fr": "Il a porté un vieux tabouret, ce n’est pas neuf.",
+                        "en": "He carried an old stool, it's not new."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zẅíŋ zẅiŋ",
+        "pronounciation": "zɥĩ́ŋ zɥĩ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "obéissant ; béni-oui-oui",
+                "definition_en": "obedient; yes-men; collaborators",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn aa kwàʼ zẅíŋ zẅiŋ. Mé té gɔɔn nò á lʉʼ wɔ́.",
+                        "fr": "Cet enfant est très obéissant. Il ne refuse pas ce qu’on lui dit.",
+                        "en": "This child is very obedient. He does not refuse what is said to him."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zẅíŋe mefʉa",
+        "pronounciation": "zɥĩ̀ŋè mèfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "confession",
+                "definition_en": "confession",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅíŋe ntʉm",
+        "pronounciation": "zɥĩ́ŋé ɳ̩̀ʈɯ̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "foi",
+                "definition_en": "faith",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zẅízẅɛʼɛ́",
+        "pronounciation": "zɥízɥɛ̀ʔɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drosophile ; mouche de vinaigre",
+                "definition_en": "fruit fly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyaga múɔ",
+        "pronounciation": "zjàʁà múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeune",
+                "definition_en": "young person",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gyǎ tsɔ́ zyaga múɔ lê máa pɔ̀ɔn twó yé.",
+                        "fr": "J’ai vu un jeune enfant avec un gros sac sur la tête.",
+                        "en": "I saw a young child with a big bag on his head."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "zyé",
+        "pronounciation": "zsjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "totem",
+                "definition_en": "totem",
+                "examples": []
+            },
+            {
+                "definition_fr": "génie",
+                "definition_en": "genius",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyè",
+        "pronounciation": "zsjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avance",
+                "definition_en": "advance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyè kú",
+        "pronounciation": "zsjȅ kú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvre-lit",
+                "definition_en": "bedcover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyé melẅè",
+        "pronounciation": "zsjé mèlɬɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "fleabane",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyé nkenkáb",
+        "pronounciation": "zsjé ŋkèŋkáp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fruit",
+                "definition_en": "sycamore fig; fig-mulberry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyé pàŋ nzèm mɔ́ʼɔ",
+        "pronounciation": "zsjé pã̏ŋ ǹ̩dzəm mɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyè ssé",
+        "pronounciation": "zsjȅ sːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fondation",
+                "definition_en": "foundation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyéen",
+        "pronounciation": "zjẽ́ː",
+        "synonym": [
+            "zí"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "développement",
+                "definition_en": "development",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "zyɛ̀d",
+        "pronounciation": "zjɛ̏t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puberté",
+                "definition_en": "puberty",
+                "examples": [
+                    {
+                        "dialect": "Azyɛ̀d twó gù ka?",
+                        "fr": "As-tu la puberté dans la tête ?",
+                        "en": "Do you have puberty on your mind?"
+                    }
+                ]
+            }
+        ]
+    }
+]

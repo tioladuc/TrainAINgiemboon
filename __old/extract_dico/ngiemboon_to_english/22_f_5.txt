@@ -1,0 +1,393 @@
+[
+    {
+        "noun": "fúʼtè",
+        "pronounciation": "fúʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "touffu",
+                "definition_en": "bushy; complex",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ́",
+        "pronounciation": "fɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche",
+                "definition_en": "sleeve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀",
+        "pronounciation": "fɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aveugle",
+                "definition_en": "blind person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀",
+        "pronounciation": "fɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "constipation",
+                "definition_en": "constipation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̌",
+        "pronounciation": "fɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tibia",
+                "definition_en": "shinbone; tibia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ́a",
+        "pronounciation": "fɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche d’une lance",
+                "definition_en": "spear handle",
+                "examples": [
+                    {
+                        "dialect": "Tè nyé lekwoŋ, ḿbwɔ́ʼ fʉ́a.",
+                        "fr": "Ne laisse pas la lance pour casser le manche.",
+                        "en": "Don't let the spear break the handle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀a",
+        "pronounciation": "fɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coliou barré",
+                "definition_en": "bar-breasted mousebird; speckled mousebird",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̌a",
+        "pronounciation": "fɯ̀á",
+        "synonym": [
+            "mù"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "« singleton » (lamelle unique pour que le tissage d’un panier soit alterné)",
+                "definition_en": "\"bachelor\" (a unique vertical strip that results in an alternating weave when weaving a basket)",
+                "examples": [
+                    {
+                        "dialect": "Mé těen ḿbáʼa túŋ té néŋe fʉ̌a wɔ́.",
+                        "fr": "On ne tisse pas un panier sans introduire un singleton.",
+                        "en": "You don't weave a basket without introducing a singleton."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀a mbʉ̌",
+        "pronounciation": "fɯ̀ȁ m̩̀bɯ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrevenant",
+                "definition_en": "offender",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀a pwó",
+        "pronounciation": "fɯ̀ȁ pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "erreur",
+                "definition_en": "mistake; error",
+                "examples": [
+                    {
+                        "dialect": "Á gwɔ́ pɔ́ fʉ̀a pwó, ń kɔʼɔ́ te ne ńzsé wɔ́.",
+                        "fr": "C’est une erreur, je ne savais pas.",
+                        "en": "It's a mistake, I didn't know."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ate nò",
+        "pronounciation": "fɯ̀àtȅ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pécheur",
+                "definition_en": "sinner",
+                "examples": [
+                    {
+                        "dialect": "Pʉ̀a mesoŋ ntsèm pú ńgwɔ́ pɔ́ pafʉ̀ate menò.",
+                        "fr": "Les hommes sont tous des pécheurs.",
+                        "en": "Men are all sinners."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉfʉ̌ŋ",
+        "pronounciation": "fɯ̀fɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ulcère",
+                "definition_en": "ulcer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ŋ",
+        "pronounciation": "fɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interdit",
+                "definition_en": "prohibition",
+                "examples": [
+                    {
+                        "dialect": "Ankěme fʉ̀ŋ kwě láʼ tà nzse zye.",
+                        "fr": "Le notable d’interdits est mort si bien que le tabou a commencé.",
+                        "en": "The notable of prohibitions died so that the taboo began."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ŋ",
+        "pronounciation": "fɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frontière ; tranchée",
+                "definition_en": "frontier; trench",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̌ŋ",
+        "pronounciation": "fɯ̃̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blessure",
+                "definition_en": "wound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ́ŋe",
+        "pronounciation": "fɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. mouche qui pique",
+                "definition_en": "sp. fly that bites",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ŋe",
+        "pronounciation": "fɯ̃̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frontière",
+                "definition_en": "frontier",
+                "examples": [
+                    {
+                        "dialect": "À gʉ̌a tà ńkúu fʉ̀ŋe láʼ.",
+                        "fr": "Il est parti jusqu’à la frontière du village.",
+                        "en": "He went to the edge of the village."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ŋe sɔ̀ɔn",
+        "pronounciation": "fɯ̃̀ŋȅ sɔ̃̏ː",
+        "synonym": [
+            "nzèle ngẅi ",
+            " ndá sɔ̀ɔn"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourmilière ; termitière",
+                "definition_en": "anthill; termite mound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ́ŋeméntoŋ ngesáŋ",
+        "pronounciation": "fɯ̃́ŋèméntõ̀ŋ ŋ̩̀gèsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "taon",
+                "definition_en": "horsefly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀te",
+        "pronounciation": "fɯ̀tȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tromperie ; duperie",
+                "definition_en": "trickery; deception",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ",
+        "pronounciation": "fɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mesure",
+                "definition_en": "measure; measurement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ",
+        "pronounciation": "fɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moment ; temps",
+                "definition_en": "moment; time",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ ncʉ̀e",
+        "pronounciation": "fɯ̏ʔ ǹ̩tʃɯ̀ȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balance",
+                "definition_en": "scales",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ nèm",
+        "pronounciation": "fɯ̏ʔ nə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "heure",
+                "definition_en": "hour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fʉ̀ʼ njÿó",
+        "pronounciation": "fɯ̏ʔ ǹ̩dʒʃɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calendrier",
+                "definition_en": "calendar",
+                "examples": []
+            }
+        ]
+    }
+]

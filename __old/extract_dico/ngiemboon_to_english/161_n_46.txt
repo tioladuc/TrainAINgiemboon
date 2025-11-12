@@ -1,0 +1,455 @@
+[
+    {
+        "noun": "ńkwo",
+        "pronounciation": "ŋ̩́kxwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arracher",
+                "definition_en": "uproot",
+                "examples": []
+            },
+            {
+                "definition_fr": "égrener",
+                "definition_en": "shell",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’arracher (feuilles, fruits)",
+                "definition_en": "tear off (leaves, fruit)",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’effriter ; s’arracher",
+                "definition_en": "crumble; tear away",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwo",
+        "pronounciation": "ŋ̩́kxwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire la diarrhée",
+                "definition_en": "have diarrhoea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwo",
+        "pronounciation": "ŋ̩́kxwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ronfler",
+                "definition_en": "snore",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwo ngu",
+        "pronounciation": "ŋ̩́kxwò ŋ̩̀gù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cancaner",
+                "definition_en": "gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwoŋ",
+        "pronounciation": "ŋ̩̀kwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pilon",
+                "definition_en": "pestle",
+                "examples": []
+            },
+            {
+                "definition_fr": "tuyau (pipe)",
+                "definition_en": "pipe stem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwoŋ",
+        "pronounciation": "ŋ̩́kwõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vouloir",
+                "definition_en": "want",
+                "examples": []
+            },
+            {
+                "definition_fr": "aimer",
+                "definition_en": "like; love",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’aimer",
+                "definition_en": "love each other",
+                "examples": []
+            },
+            {
+                "definition_fr": "désirer ; avoir envie",
+                "definition_en": "desire; to want",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwóŋ",
+        "pronounciation": "ŋ̩́kwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ramper",
+                "definition_en": "crawl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòŋ menÿɔ́g",
+        "pronounciation": "ŋ̩̀kwõ̏ŋ mèɳɰɔ́q̚",
+        "synonym": [
+            "nkwòŋe menÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hypocrisie ; hypocrite ; sournois",
+                "definition_en": "hypocrisy; hypocrite; sly; deceitful",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɔ́gɔ ngie à kwoŋo wɔ́ɔn páʼa é gwɔ́ pɔ́ kwòŋ menÿɔ́g.",
+                        "fr": "Je croyais qu’il m’aimait alors que c’était de l’hypocrisie.",
+                        "en": "I thought he loved me when it was hypocrisy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwoŋ mezẅé",
+        "pronounciation": "ŋ̩̀kwõ̀ŋ mèzsɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "partie externe du nez",
+                "definition_en": "outer part of nose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwoŋ nnù ngém",
+        "pronounciation": "ŋ̩̀kwõ̀ŋ ɳ̩̀ɳȕ ŋ̩̀gə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arc-en-ciel",
+                "definition_en": "rainbow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwoŋ ŋwèʼe",
+        "pronounciation": "ŋ̩̀kwõ̀ŋ ŋwə̀ʔȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crayon ; pointe pour écrire",
+                "definition_en": "pencil; pen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòŋe",
+        "pronounciation": "ŋ̩̀kwõ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amour",
+                "definition_en": "love",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòŋe menÿɔ́g",
+        "pronounciation": "ŋ̩̀kwõ̀ŋȅ mèɳɰɔ́q̚",
+        "synonym": [
+            "nkwòŋ menÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hypocrisie ; hypocrite ; sournois",
+                "definition_en": "hypocrisy; hypocrite; sly; deceitful",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n zɔ́gɔ ngie à kwoŋo wɔ́ɔn páʼa á gwɔ́ pɔ́ kwòŋ menÿɔ́g.",
+                        "fr": "Je croyais qu’il m’aimait alors que c’était de l’hypocrisie.",
+                        "en": "I thought he loved me when it was hypocrisy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwoŋo ffo",
+        "pronounciation": "ŋ̩̀kwõ̀ŋò fːò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "milieu ; moyenne",
+                "definition_en": "middle; average; median",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòŋo tsẅɛ",
+        "pronounciation": "ŋ̩̀kwõ̀ŋȍ tsɥɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terrain vide",
+                "definition_en": "empty plot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwóŋte",
+        "pronounciation": "ŋ̩́kwṍŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nettoyer ; racler",
+                "definition_en": "clean; scrape",
+                "examples": []
+            },
+            {
+                "definition_fr": "désherber",
+                "definition_en": "weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwóon",
+        "pronounciation": "ŋ̩̀kwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rail",
+                "definition_en": "rail",
+                "examples": [
+                    {
+                        "dialect": "Mashʉ́ŋ vɔg tà ńgwáʼ menkwóon, á gwɔ́ máa lɔ̌ʼ.",
+                        "fr": "Quand le train abandonne les rails, c’est très mauvais.",
+                        "en": "When the train leaves the tracks, it's very bad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nkwòon",
+        "pronounciation": "ŋ̩̀kwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sculpteur",
+                "definition_en": "sculptor",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn tÿǒ gie á gwě nkáʼ nkwòon.",
+                        "fr": "Ça c’est un arbre qui est tombé dans le champ du sculpteur.",
+                        "en": "This is a tree that fell in the sculptor's field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkwóon",
+        "pronounciation": "ŋ̩́kwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sculpter",
+                "definition_en": "sculpt; carve",
+                "examples": []
+            },
+            {
+                "definition_fr": "peler",
+                "definition_en": "peel",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’engueuler",
+                "definition_en": "argue",
+                "examples": []
+            },
+            {
+                "definition_fr": "se gratter",
+                "definition_en": "scratch",
+                "examples": []
+            },
+            {
+                "definition_fr": "nettoyer (croûte)",
+                "definition_en": "clean (crust)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòon metwó",
+        "pronounciation": "ŋ̩̀kwõ̏ː mèʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coiffeur",
+                "definition_en": "hairdresser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwòon tÿǒ",
+        "pronounciation": "ŋ̩̀kwõ̏ː ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bûcheron",
+                "definition_en": "forestry worker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔ́b",
+        "pronounciation": "ŋ̩̀kwɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entassement d’herbes défrichés",
+                "definition_en": "pile of cleared weeds",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔ́b",
+        "pronounciation": "ŋ̩́kwɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saisir au vol ; happer",
+                "definition_en": "seize the moment; snatch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkwɔbɔ́",
+        "pronounciation": "ŋ̩̀kwɔ̀βɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Excellence ; éloge ou respect (donné aux personnes chères)",
+                "definition_en": "Your Excellency; praise or respect (given to special people)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkwɔg",
+        "pronounciation": "ŋ̩́kwɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abaisser ; lâcher",
+                "definition_en": "lower; let go",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’écrouler ; lâcher",
+                "definition_en": "collapse; let go",
+                "examples": []
+            },
+            {
+                "definition_fr": "abaisser ; lâcher",
+                "definition_en": "lower; let go",
+                "examples": []
+            },
+            {
+                "definition_fr": "se dégrader ; perdre de la force",
+                "definition_en": "deteriorate; lose strength",
+                "examples": []
+            }
+        ]
+    }
+]

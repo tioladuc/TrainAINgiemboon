@@ -1,0 +1,377 @@
+[
+    {
+        "noun": "kẅè ncù",
+        "pronounciation": "kxɥé ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée d’attaque",
+                "definition_en": "offensive army",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅé ntaŋ",
+        "pronounciation": "kxɥé ǹ̩tã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attestation ; diplôme",
+                "definition_en": "attestation; diploma",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅé ntaŋ",
+        "pronounciation": "kxɥé ǹ̩tã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "témoin",
+                "definition_en": "witness",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅe ntse",
+        "pronounciation": "kxɥè ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baptême",
+                "definition_en": "baptism",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅèen",
+        "pronounciation": "kɥẽ̏ː",
+        "synonym": [
+            "nkẅèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caoutchouc pour nettoyer",
+                "definition_en": "rubber for cleaning",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅétè",
+        "pronounciation": "kxɥétȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aide",
+                "definition_en": "aid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅɛ́ɛ pwòon",
+        "pronounciation": "kɥɛ́ː pwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiche",
+                "definition_en": "stingy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅɛ̀ʼ kẅɛ̀ʼ",
+        "pronounciation": "kɥɛ̏ʔ kɥɛ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant une démarche impropre)",
+                "definition_en": "(shows an improper approach)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ jÿɔ̌g melɔ̌ɔn ŋàʼ ntsíŋ tà ńcʉ́ʼʉ ńgiŋe pɔ́ kẅɛ̀ʼ kẅɛ̀ʼ.",
+                        "fr": "Tu as porté les chaussures haut talon jusqu’à ce que tu as une démarche impropre.",
+                        "en": "You wore high heels until you had an improper gait."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kẅɛ̀ʼ ntsíŋ",
+        "pronounciation": "kɥɛ̏ʔ ǹ̩tsĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haut talon",
+                "definition_en": "high heel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅì",
+        "pronounciation": "kɥȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "célibat",
+                "definition_en": "celibacy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅǐ",
+        "pronounciation": "kɥǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "os",
+                "definition_en": "bone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅǐ nnɛ́",
+        "pronounciation": "kɥǐ ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vertèbre ; squelette",
+                "definition_en": "vertebra; skeleton",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅìge mmɔ́g",
+        "pronounciation": "kɥìʁȅ m̩̀mɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combustible",
+                "definition_en": "combustible",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅìi twó",
+        "pronounciation": "kɥȉː ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "emmerdeur",
+                "definition_en": "nuisance",
+                "examples": [
+                    {
+                        "dialect": "Ambàŋa wɔɔn aa kẅìi twó.",
+                        "fr": "Cet homme est un emmerdeur.",
+                        "en": "This man is a pain in the ass."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kẅíkẅíle",
+        "pronounciation": "kɥíkɥílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "téléphone ; cellulaire",
+                "definition_en": "telephone; mobile phone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅíkẅíle mekwò",
+        "pronounciation": "kɥíkɥílé mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échassiers",
+                "definition_en": "waders",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅìŋ",
+        "pronounciation": "kɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de musique",
+                "definition_en": "k. musical instrument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅîŋ",
+        "pronounciation": "kɥĩ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "geste qu’effectue qqch de pointue qui s’enfonce dans un corps",
+                "definition_en": "action of something pointed being stuck into a body",
+                "examples": [
+                    {
+                        "dialect": "Nyínyíŋe tsɔgɔ́ pwó yé lê kẅîŋ.",
+                        "fr": "Le moustique l’a piqué que « kẅîŋ ».",
+                        "en": "The mosquito bit him that “kẅîŋ”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kẅíŋe",
+        "pronounciation": "kɥĩ́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "échappatoire ; issue de secours",
+                "definition_en": "way out; emergency exit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅiŋe gyé",
+        "pronounciation": "kɥĩ̀ŋè ɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "k. condiment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅìŋe twó",
+        "pronounciation": "kɥĩ̀ŋȅ ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coiffure",
+                "definition_en": "hairdresser",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅíʼ",
+        "pronounciation": "kɥíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "homonyme",
+                "definition_en": "homonym",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅíʼ fùɔ",
+        "pronounciation": "kɥȉʔ fùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cloche double en fer sans battant ; orchestre sacrée de la chefferie",
+                "definition_en": "double iron clapperless bell; chiefdom’s sacred orchestra",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅìʼi",
+        "pronounciation": "kɥwìʔȉ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "complément ; ajout",
+                "definition_en": "complement; rest; remainder; addition",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kẅiʼté",
+        "pronounciation": "kɥìʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "genou",
+                "definition_en": "knee",
+                "examples": []
+            }
+        ]
+    }
+]

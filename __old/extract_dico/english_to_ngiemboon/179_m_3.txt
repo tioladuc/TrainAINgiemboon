@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "malimbe, red",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàŋ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mallet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mama’s girl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mammal (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋ nzyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mammal’s breast",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mámbàŋa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtseen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́me",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdóŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyáŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńteŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manager",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntyè mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngẅìin",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mênkʉ́ metʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táfàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man, armless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkème pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kème pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man, black",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandarin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandàlîn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandarin tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ màndalîn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mezɔ̀g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mango",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máangwʉ̀le",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máangwèle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máangùle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mango, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máangwèle ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mango tree (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ máangwèle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mango, village",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máangwèle láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manioc leaves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzab meffo kasálà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manipulate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔgte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manipulate untidily",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkubte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkubte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manna",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lìŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manners, good",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezsě lenéŋè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man, one-armed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkème pwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kème pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "man, poor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tekʉ̌a ńkáŋ",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "noun": "ńgʉ́ŋe",
+        "pronounciation": "ŋ̩́gɯ̃́ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pencher ; déformer",
+                "definition_en": "tilt; lean; deform",
+                "examples": [
+                    {
+                        "dialect": "Nkàŋ gʉŋé.",
+                        "fr": "Le rang est pencher.",
+                        "en": "The rank is leaning."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ŋe pwó",
+        "pronounciation": "ŋ̩̀gɯ̃̀ŋȅ pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "angle de la main ; bord de la main",
+                "definition_en": "angle of a hand; border of a hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́ŋte",
+        "pronounciation": "ŋ̩́gɯ̃́ŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tordre ; être tordue à plusieurs niveaux",
+                "definition_en": "twist; wring; twist at several levels",
+                "examples": []
+            },
+            {
+                "definition_fr": "tituber",
+                "definition_en": "stagger; reel",
+                "examples": []
+            },
+            {
+                "definition_fr": "éviter",
+                "definition_en": "avoid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́te",
+        "pronounciation": "ŋ̩́gɯ́té",
+        "synonym": [
+            "ńgwʉ́te"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter à l’épaule",
+                "definition_en": "carry on shoulder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́te",
+        "pronounciation": "ŋ̩́gɯ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être gros sans forme",
+                "definition_en": "be big but shapeless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngʉ̀ʼ",
+        "pronounciation": "ŋ̩̀gɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force",
+                "definition_en": "strength; force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́ʼte",
+        "pronounciation": "ŋ̩́gɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arrêter avec force",
+                "definition_en": "forcefully stop",
+                "examples": []
+            },
+            {
+                "definition_fr": "saisir avec force",
+                "definition_en": "forcefully seize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgʉ́ʼte",
+        "pronounciation": "ŋ̩́gɯ́ʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "avoir de bosses",
+                "definition_en": "have humps; have bumps",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwà",
+        "pronounciation": "ŋ̩̀gwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche",
+                "definition_en": "haft; handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwà",
+        "pronounciation": "ŋ̩̀gwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rabot",
+                "definition_en": "plane",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwa",
+        "pronounciation": "ŋ̩́gwà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opérer",
+                "definition_en": "operate",
+                "examples": []
+            },
+            {
+                "definition_fr": "avant de",
+                "definition_en": "before",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ lɔɔn ńgwaa gʉa, ḿbí nkẅíŋ.",
+                        "fr": "Avant de partir, prends le bois.",
+                        "en": "Before you leave, grab the wood."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "crever",
+                "definition_en": "die",
+                "examples": [
+                    {
+                        "dialect": "Á něŋ fÿág tsɛ̀ɛ kwò kwáŋ tà á gwǎ.",
+                        "fr": "Il a mis de l’air dans la chambre à air du vélo si bien qu’elle a crevé.",
+                        "en": "He put air in the inner tube of the bike so that it punctured."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "déchiqueter ; atténuer",
+                "definition_en": "shred; mitigate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwá",
+        "pronounciation": "ŋ̩́gwá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "d’habitude ; de temps en temps",
+                "definition_en": "habitually; from time to time",
+                "examples": [
+                    {
+                        "dialect": "A gwǎ ńtó púʼu, peg ye pfɛ́ mmó.",
+                        "fr": "Il vient d’habitude manger avec moi.",
+                        "en": "He usually comes to eat with me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwà mmɔ̌g",
+        "pronounciation": "ŋ̩̀gwȁ m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "briquet",
+                "definition_en": "lighter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwà nně",
+        "pronounciation": "ŋ̩̀gwȁ ǹ̩ně",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche d’une machette",
+                "definition_en": "machete handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwà pùʼ",
+        "pronounciation": "ŋ̩̀gwà pȕʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manche d’un couteau",
+                "definition_en": "knife handle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwà shùm",
+        "pronounciation": "ŋ̩̀gwȁ ʃȕm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle ; jeunes",
+                "definition_en": "k. cultural dance; young people",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwàa",
+        "pronounciation": "ŋ̩̀gwȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "opérateur ; chirurgien",
+                "definition_en": "operator; surgeon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwàa",
+        "pronounciation": "ŋ̩̀gwȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voleur",
+                "definition_en": "thief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwág",
+        "pronounciation": "ŋ̩̀gwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "simplicité",
+                "definition_en": "simplicity",
+                "examples": []
+            },
+            {
+                "definition_fr": "mépris",
+                "definition_en": "contempt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwág",
+        "pronounciation": "ŋ̩́gwáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "simplifier",
+                "definition_en": "simplify",
+                "examples": []
+            },
+            {
+                "definition_fr": "négliger ; simplifier",
+                "definition_en": "neglect ; simplify",
+                "examples": []
+            },
+            {
+                "definition_fr": "mépriser",
+                "definition_en": "despise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwàlàʼ",
+        "pronounciation": "ŋ̩̀gwȁlȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante utilisée pour la sauce gluante",
+                "definition_en": "sp. plant used to make a sticky sauce",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwáŋ",
+        "pronounciation": "ŋ̩̀gwã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sel",
+                "definition_en": "salt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwasí",
+        "pronounciation": "ŋ̩̀gwàsí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cache-sexe",
+                "definition_en": "mini bikini; g-string",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwate",
+        "pronounciation": "ŋ̩́gwàtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélanger",
+                "definition_en": "mix",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwáʼ",
+        "pronounciation": "ŋ̩́gwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeter",
+                "definition_en": "throw",
+                "examples": []
+            },
+            {
+                "definition_fr": "perdre l’attention",
+                "definition_en": "lose attention",
+                "examples": []
+            },
+            {
+                "definition_fr": "jeter çà et là",
+                "definition_en": "throw here and there",
+                "examples": []
+            },
+            {
+                "definition_fr": "solder",
+                "definition_en": "sell",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "noun": "well, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "well-being",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepòŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "we ourselves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ pege",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ peg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "West",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbyě nèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "West African yam, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu féfɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu kwéʼe tÿǒ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɛ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu sẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu ngwá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "júʼu zigé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Western reef egret",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "féfɔ́gɔ ncùm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wet from dew, get",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wet-nurse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántsab",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "what",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ù wéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kɛ̂",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kee",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "oon wéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wheat (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ ntsíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wheel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "wheelbarrow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kélêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "when",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "síŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "where",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ù gu gu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "which one?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "which ones?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "while",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà mbà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyɛʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyeente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvib",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfom",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyɛ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋẅiŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whip, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vûb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whirl",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whirling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whirlpool",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "whirlwind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅî",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pepáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅèen",
+                "examples": []
+            }
+        ]
+    }
+]

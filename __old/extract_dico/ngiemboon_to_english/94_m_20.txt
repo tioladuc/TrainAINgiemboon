@@ -1,0 +1,443 @@
+[
+    {
+        "noun": "ḿbʉ́ŋe",
+        "pronounciation": "ḿ̩bɯ̃́ŋé",
+        "synonym": [
+            "ḿbéŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croiser",
+                "definition_en": "cross; fold",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ŋe",
+        "pronounciation": "ḿ̩bɯ̃́ŋé",
+        "synonym": [
+            "ḿbéŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "égaliser",
+                "definition_en": "equalize",
+                "examples": []
+            },
+            {
+                "definition_fr": "répliquer",
+                "definition_en": "retort",
+                "examples": [
+                    {
+                        "dialect": "N gɔ̌ɔn nò, á pʉ́ŋe.",
+                        "fr": "J’ai parlé, il a répliquer.",
+                        "en": "I spoke, he replied."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀ŋte",
+        "pronounciation": "m̩̀bɯ̃̀ŋtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ironie ; importune ; tourment",
+                "definition_en": "irony; importune; agony; suffering",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉŋte",
+        "pronounciation": "ḿ̩bɯ̃̀ŋtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ironiser ; tourmenter",
+                "definition_en": "be ironic; afflict; tease; torment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉpʉ́",
+        "pronounciation": "m̩̀bɯ̀pɯ́",
+        "synonym": [
+            "mbepÿɛ́"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉpʉ",
+        "pronounciation": "ḿ̩bɯ̀pɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gravir ; aller verticalement",
+                "definition_en": "climb; go upwards",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉpʉ́ tsẅɛ́",
+        "pronounciation": "m̩̀bɯ̀pɯ́ tsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. euphorbe",
+                "definition_en": "sp. spurge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀ʉ",
+        "pronounciation": "m̩̀bɯ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grimpeur",
+                "definition_en": "climber",
+                "examples": [
+                    {
+                        "dialect": "Pacwóŋ lekwɔʼɔ́ pɔɔn, ambʉ̀ʉ gwɔ́ wɔɔn.",
+                        "fr": "Voici les descendeurs de la colline, le grimpeur est celui-ci.",
+                        "en": "Here are the descenders of the hill, the climber is this one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbʉ̀ʼ",
+        "pronounciation": "m̩̀bɯ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force",
+                "definition_en": "strength; force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ʼ",
+        "pronounciation": "ḿ̩bɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "exciter ; déranger ; activer ; convulser",
+                "definition_en": "excite; disturb; activate",
+                "examples": [
+                    {
+                        "dialect": "Ḿbʉ́ʼte mmɔ̌g.",
+                        "fr": "Activer le feu.",
+                        "en": "Activate the fire."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "exciter ; déranger ; activer",
+                "definition_en": "excite; to disturb ; enable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ʼ",
+        "pronounciation": "ḿ̩bɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mobiliser",
+                "definition_en": "mobilize",
+                "examples": [
+                    {
+                        "dialect": "Ḿbʉ́ʼʉ láʼ.",
+                        "fr": "Mobiliser les gens.",
+                        "en": "Mobilize people."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mobiliser",
+                "definition_en": "mobilize",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉ́ʼ",
+        "pronounciation": "ḿ̩bɯ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se plaindre",
+                "definition_en": "moan; complain",
+                "examples": []
+            },
+            {
+                "definition_fr": "se plaindre",
+                "definition_en": "complain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbʉʼʉ",
+        "pronounciation": "ḿ̩bɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soulever ; redresser",
+                "definition_en": "set up again",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwó",
+        "pronounciation": "m̩̀bɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chez ; à",
+                "definition_en": "at",
+                "examples": [
+                    {
+                        "dialect": "Gʉa ńkẅé nkáb ya mbwó yé ńdɔg ńtó.",
+                        "fr": "Pars chez lui prendre l’argent-là pour apporter.",
+                        "en": "Go to his house and get the money to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwó",
+        "pronounciation": "ḿ̩bɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "renfermer",
+                "definition_en": "contain",
+                "examples": []
+            },
+            {
+                "definition_fr": "contourner ; juger mal",
+                "definition_en": "bypass; go around; judge badly",
+                "examples": []
+            },
+            {
+                "definition_fr": "renfermer",
+                "definition_en": "enclose",
+                "examples": []
+            },
+            {
+                "definition_fr": "contourner ; juger mal",
+                "definition_en": "circumvent; judge badly",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire avec les moyens de bord ; composer",
+                "definition_en": "do with the means on board; compose",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwó twó",
+        "pronounciation": "m̩̀bɸwó ʈθwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miserable ; pauvre",
+                "definition_en": "wretch; poor person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwontse",
+        "pronounciation": "m̩̀bɸwòntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "loutre",
+                "definition_en": "speckle-throated otter; spot-necked otter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwòon",
+        "pronounciation": "m̩̀bwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "constructeur",
+                "definition_en": "builder; constructor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwǒon",
+        "pronounciation": "m̩̀bwõ̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chaux ; kaolin",
+                "definition_en": "lime; whitewash; kaolin",
+                "examples": []
+            },
+            {
+                "definition_fr": "craie",
+                "definition_en": "chalk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Mbwóon",
+        "pronounciation": "m̩̀bwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Dieu créateur",
+                "definition_en": "Creator God",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwoon",
+        "pronounciation": "ḿ̩bwõ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "couvrir ; recouvrir",
+                "definition_en": "cover; re-cover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwóon",
+        "pronounciation": "ḿ̩bwṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "construire",
+                "definition_en": "build",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire des boules",
+                "definition_en": "make balls",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwòte",
+        "pronounciation": "m̩̀bɸwòtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "compositeur ; arrangeur",
+                "definition_en": "composer; arranger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbwɔ́b",
+        "pronounciation": "ḿ̩bwɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se renverser ; s’affaisser",
+                "definition_en": "fall over; slump; collapse",
+                "examples": []
+            },
+            {
+                "definition_fr": "se renverser en occupant une grande surface ; s’affaisser en occupant une grande surface",
+                "definition_en": "tip over while occupying a large surface area; sag, occupying a large surface area",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbwɔ̀b nzɛ́",
+        "pronounciation": "m̩̀bwɔ̏p̚ ǹ̩dzɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poubelle",
+                "definition_en": "dustbin",
+                "examples": []
+            }
+        ]
+    }
+]

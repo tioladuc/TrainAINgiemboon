@@ -1,0 +1,442 @@
+[
+    {
+        "noun": "set off",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔ́ʼ mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "set oneself up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "settle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńjwéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyéte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "set up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuŋe cÿó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "set up again",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seven",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sɔɔn mbʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seventeen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀b sɔɔn mbʉ́a lé legém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "seventy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "móm sɔɔn mbʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "several, cook",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "several qualities",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "menti mentí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "several times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀a ngʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sew",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sewn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntěm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sex",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sexual relations, have",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shade",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉʼʉ sẅisẅé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shade, in the",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅisẅê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shady",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ́g lelúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shake",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcuʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúa nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcúɔ nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcuʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shake dry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shake (hip)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmiʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shake (hips)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmiʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shake oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzóŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "shame, escape",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅag shʉ",
+                "examples": []
+            }
+        ]
+    }
+]

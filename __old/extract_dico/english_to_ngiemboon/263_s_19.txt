@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "skin disease, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼa ncÿɔ̀b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin drumhead, nailed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máa sèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa nkà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin (fruit)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin head, nailed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ sèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skink",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèpàʼ pǐŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbèpà pǐŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin meat, cow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kubocʉ́d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skinner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skinny",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lòŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kékɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skinny, short and",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tâshÿɔ́ʼ ndɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin, remove",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzib",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skip",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skip about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skirt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skirt around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbaŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzéme",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skirt during walking, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skirt, fibre dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zèzàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skull",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skull, back",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzème twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skull, middle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sòŋ ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sky",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tÿǒ lepwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lepwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sky, rumble",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿpfo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slab",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "léŋ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàndɔ́ɔn peláŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndêg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slander",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáŋ ngú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slanderer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ngú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "slap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbèshʉ̌a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pwó légɔʼ",
+                "examples": []
+            }
+        ]
+    }
+]

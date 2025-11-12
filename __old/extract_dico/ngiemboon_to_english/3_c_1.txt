@@ -1,0 +1,420 @@
+[
+    {
+        "noun": "cú",
+        "pronounciation": "tʃú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "profondeur",
+                "definition_en": "depth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cǔ",
+        "pronounciation": "tʃǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trompette cylindrique en bambou, plastique ou fer, utilisée pour les associations de danse",
+                "definition_en": "tube whistle (cylindrical whistle of bamboo, plastic or metal used by dance groups)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cú ntóŋ",
+        "pronounciation": "tʃú ǹ̩tṍŋ",
+        "synonym": [
+            "ffo ndèpàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cravatte",
+                "definition_en": "tie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cúa",
+        "pronounciation": "tʃúá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname",
+                "definition_en": "sp. West African yam",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cùa nzẅé",
+        "pronounciation": "tʃùȁ ǹ̩dzsɥé",
+        "synonym": [
+            "cùɔ nzẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assommeur",
+                "definition_en": "knocker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cúa páb",
+        "pronounciation": "tʃúá páp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sandalette ; samara ; babouche",
+                "definition_en": "sandal; samara; slipper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cúa páb",
+        "pronounciation": "tʃúá páp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. piège",
+                "definition_en": "k. trap",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cùb",
+        "pronounciation": "tʃȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mélange ; composant ; assemblage ; recueil",
+                "definition_en": "mixture; collection; component; assembly",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n nǔ mecùbo melùʼ.",
+                        "fr": "J’ai bu un mélange de vins.",
+                        "en": "I drank a mixture of wines."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cùbo",
+        "pronounciation": "tʃùβȍ",
+        "synonym": [
+            "cùbte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "composé ; collection",
+                "definition_en": "collection; compound",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn cùbte mekwɔ̀ʼɔ.",
+                        "fr": "Ça, c’est une collection de tabourets.",
+                        "en": "This is a collection of stools."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cùbte",
+        "pronounciation": "tʃùptȅ",
+        "synonym": [
+            "cùbo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "composé ; collection",
+                "definition_en": "collection; compound",
+                "examples": [
+                    {
+                        "dialect": "Yɔɔn cùbte mekwɔ̀ʼɔ.",
+                        "fr": "Ça, c’est une collection de tabourets.",
+                        "en": "This is a collection of stools."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cúcum",
+        "pronounciation": "tʃútʃùm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. poisson",
+                "definition_en": "sp. fish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cukúlù",
+        "pronounciation": "tʃùkúɭȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pyjama",
+                "definition_en": "pyjamas",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cúkwɛ",
+        "pronounciation": "tʃúkwɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moineau",
+                "definition_en": "sparrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cǔm",
+        "pronounciation": "tʃǔm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit que produit un gros objet qui tombe dans l’eau",
+                "definition_en": "sound of a big object falling into water",
+                "examples": [
+                    {
+                        "dialect": "À cʉmé ntse lê cǔm.",
+                        "fr": "Il s’est jeté dans l’eau que « cǔm ».",
+                        "en": "He threw himself into the water that “cǔm”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cùɔ nzẅé",
+        "pronounciation": "tʃùɔ̏ ǹ̩dzsɥé",
+        "synonym": [
+            "cùa nzẅé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "assommeur",
+                "definition_en": "knocker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cûu",
+        "pronounciation": "tʃûː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très mou",
+                "definition_en": "very soft",
+                "examples": [
+                    {
+                        "dialect": "Apʉ́a pÿɛ́ɛ lê cûu.",
+                        "fr": "Le taro est très mou.",
+                        "en": "The taro is very soft."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cúʼtè",
+        "pronounciation": "tʃúʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réunion",
+                "definition_en": "meeting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cùʼupfɔ́g",
+        "pronounciation": "tʃȕʔùpfɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chèvre et autre nécessaire pour le rite de veuvage",
+                "definition_en": "goat and other things for the widow’s ceremony",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀",
+        "pronounciation": "tʃɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "stress",
+                "definition_en": "stress",
+                "examples": []
+            },
+            {
+                "definition_fr": "regard fixe",
+                "definition_en": "stare",
+                "examples": []
+            },
+            {
+                "definition_fr": "banalité",
+                "definition_en": "banality",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀a",
+        "pronounciation": "tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "collier",
+                "definition_en": "necklace",
+                "examples": [
+                    {
+                        "dialect": "À jÿɔʼɔ cʉ̀a sẅé lóŋ yé.",
+                        "fr": "Il porte un collier neuf sur son cou.",
+                        "en": "He wears a new necklace on his neck."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "cʉa nò",
+        "pronounciation": "tʃɯ̀à nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "problème délicat",
+                "definition_en": "delicate problem",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀a nzsó",
+        "pronounciation": "tʃɯ̀ȁ ǹ̩dzsó",
+        "synonym": [
+            "tsɔ̀ɔn nzsó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "red-leaved fig",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Cʉ̀apʉ̀a",
+        "pronounciation": "tʃɯ̀ȁpɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Dieu",
+                "definition_en": "God",
+                "examples": []
+            },
+            {
+                "definition_fr": "dieu",
+                "definition_en": "god",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cʉ̀a",
+        "pronounciation": "tʃɯ̏tʃɯ̀ȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "souris (gén.)",
+                "definition_en": "rat (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cʉ̀cʉ̀ŋ",
+        "pronounciation": "tʃɯ̏tʃɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gamin ; tout petit enfant",
+                "definition_en": "kid; very small child",
+                "examples": []
+            },
+            {
+                "definition_fr": "enfantillage",
+                "definition_en": "childish behaviour",
+                "examples": []
+            }
+        ]
+    }
+]

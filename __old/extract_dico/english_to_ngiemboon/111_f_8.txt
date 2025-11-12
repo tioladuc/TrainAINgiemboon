@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "fires, kill by small",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnẅéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fire, sound of corn popping",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔ̀g tɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fire, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fire, stir",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fire, take",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwoon mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fire, withdraw from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "firmament",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lefàŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "first",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvɔ̀g mvfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùŋ mvfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "first, at",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "firstborn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ letwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "first, come in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "first fruits, taste",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "firstly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndwó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntwo ntwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "first name",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "péle lezíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼ sso",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish bean",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fishbone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fisherman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "màʼ ssó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish shop",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá messó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncʉ̀ncʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malóló",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mankànjùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwè ńdíe jʉʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kága",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nàkwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cúcum",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkànjùʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndólólo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fish-trap",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "laʼá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fist, menacing sign",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉʼ mbwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbum",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fit, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáŋte",
+                "examples": []
+            }
+        ]
+    }
+]

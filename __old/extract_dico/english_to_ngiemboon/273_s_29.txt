@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "spermatozoon",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntse nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spice",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sàb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spider (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gégaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spider web",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ̀a gégaŋá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfwɔʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésaa pepáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spin bizarrely",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdéŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́ŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spin-dry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyéen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spinning disk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandʉ̂avûm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mandelevûm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spinning top",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spin (thread)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spiny amaranth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzab sẅísẅé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fólóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spirit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mezẅìge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Spirit, Holy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅìge ndʉalʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spirit seller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spite of, in",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "meen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "splash",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyágte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spleen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "spleen sickness",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "split",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "split on",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshwóŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "splits, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "splitter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "splitting, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkaʼ",
+                "examples": []
+            }
+        ]
+    }
+]

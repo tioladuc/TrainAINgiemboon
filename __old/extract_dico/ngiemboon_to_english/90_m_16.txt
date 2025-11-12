@@ -1,0 +1,433 @@
+[
+    {
+        "noun": "ḿbíte",
+        "pronounciation": "ḿ̩bíté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "répéter",
+                "definition_en": "repeat",
+                "examples": [
+                    {
+                        "dialect": "Gíŋe ḿbíte nò gie ɔ̀ fóo légɔɔn.",
+                        "fr": "Répète ce que tu viens de dire.",
+                        "en": "Repeat what you just said."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "voler",
+                "definition_en": "fly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìte jʉʼ",
+        "pronounciation": "m̩̀bìtȅ ʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "voleur",
+                "definition_en": "thief",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbìte ncwò",
+        "pronounciation": "m̩̀bìtè ǹ̩tʃːwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "orateur ; narrateur",
+                "definition_en": "speaker; narrator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbiʼ",
+        "pronounciation": "ḿ̩bìʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter ; surcharger",
+                "definition_en": "carry; wear; overload",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíʼ",
+        "pronounciation": "ḿ̩bíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouger",
+                "definition_en": "move",
+                "examples": [
+                    {
+                        "dialect": "Tá we tumó yé, á zɔɔn tè píʼ.",
+                        "fr": "Son père l’a commissionné, il n’a même pas bougé.",
+                        "en": "His father commissioned him, he didn't even move."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíʼ",
+        "pronounciation": "ḿ̩bíʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déranger",
+                "definition_en": "bother",
+                "examples": [
+                    {
+                        "dialect": "À lɔɔn ńgɔɔn nò, ɔ̀ pɔ́ɔn lépíʼ.",
+                        "fr": "S’il parle, ne te dérange pas.",
+                        "en": "If he speaks, don't bother."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíʼi kɔ́",
+        "pronounciation": "ḿ̩bíʔí kɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pourquoi",
+                "definition_en": "why",
+                "examples": [
+                    {
+                        "dialect": "Ḿbíʼi kɔ́ à gɔ̌ɔn ngie à tè tó gwɔ́?",
+                        "fr": "Pourquoi dit-il qu’il ne vient pas ?",
+                        "en": "Why does he say he's not coming?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíʼte",
+        "pronounciation": "ḿ̩bíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jouer en chandelle",
+                "definition_en": "play by candlelight",
+                "examples": [
+                    {
+                        "dialect": "À piʼté mbàlóŋ.",
+                        "fr": "Il a joué en chandelle le ballon.",
+                        "en": "He played the ball with a candle."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "s’activer",
+                "definition_en": "be busy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbíʼte",
+        "pronounciation": "ḿ̩bíʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "retirer sans emballer",
+                "definition_en": "withdraw without wrapping",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbolé",
+        "pronounciation": "m̩̀bòlé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soutien-gorge",
+                "definition_en": "bra",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbòm",
+        "pronounciation": "m̩̀bɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pompeur",
+                "definition_en": "pumper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbóm",
+        "pronounciation": "ḿ̩bɤ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pomper",
+                "definition_en": "pump",
+                "examples": []
+            },
+            {
+                "definition_fr": "agrandir",
+                "definition_en": "enlarge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbónése",
+        "pronounciation": "ḿ̩bónésè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "punir",
+                "definition_en": "punish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbóntáʼ",
+        "pronounciation": "m̩̀bóntáʔ",
+        "synonym": [
+            "mbɔ́ntáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quelques",
+                "definition_en": "some",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbóŋ",
+        "pronounciation": "m̩̀bṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démuni ; personne pauvre",
+                "definition_en": "impoverished; poor person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbòŋ",
+        "pronounciation": "m̩̀bõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bien ; bon ; jolie ; chic",
+                "definition_en": "well; good; pretty; stylish",
+                "examples": [
+                    {
+                        "dialect": "Múɔ lɔɔn ńtɔ́gɔ sekúd, á gwɔ́ mbòŋ.",
+                        "fr": "Ça sera bien, si l’enfant réussit à l’école.",
+                        "en": "It will be good if the child succeeds in school."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿboŋ",
+        "pronounciation": "ḿ̩bõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être bon ; être bien ; être jolie ; être chic",
+                "definition_en": "be good; be pretty; be classy",
+                "examples": []
+            },
+            {
+                "definition_fr": "être en bon terme ; être en bonne relation",
+                "definition_en": "be on good terms; be in good relationship",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbóŋ",
+        "pronounciation": "ḿ̩bṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "commander ; diriger",
+                "definition_en": "command; lead",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿbóŋ",
+        "pronounciation": "ḿ̩bṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manquer",
+                "definition_en": "be missing",
+                "examples": []
+            },
+            {
+                "definition_fr": "adapter ; économiser",
+                "definition_en": "adapt ; save",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbǒŋ lóŋ",
+        "pronounciation": "m̩̀bõ̌ŋ lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clémence ; générosité ; sainteté",
+                "definition_en": "clemency; generosity; saintliness; holiness",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ ngyǎ tsɔ̌ nyìŋ mbǒŋ lóŋ á kẅéte wɔ́ɔn na pɔ̀ɔn yɔ́ɔn.",
+                        "fr": "J’ai vu un homme clément qui m’a aidé à porter mon sac.",
+                        "en": "I saw a merciful man who helped me carry my bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbòŋmbôŋ",
+        "pronounciation": "m̩̀bõ̏ŋmbõ̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bonbon",
+                "definition_en": "sweet",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mboŋó",
+        "pronounciation": "m̩̀bõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bonté ; bonhomie ; bien ; bon",
+                "definition_en": "kindness; goodness; good-heartedness; well; good",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mbòŋo",
+        "pronounciation": "m̩̀bõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parfait ; bon ; bien",
+                "definition_en": "perfect; good",
+                "examples": [
+                    {
+                        "dialect": "Nyìŋ mbòŋo tè wó wɔ́ ; ńdàʼ Ssé.",
+                        "fr": "Nul n’est parfait ; sauf Dieu.",
+                        "en": "No one is perfect; except God."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mbòŋo mmó",
+        "pronounciation": "m̩̀bõ̀ŋȍ m̩̀mó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand-chose",
+                "definition_en": "much",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n gʉ̌a nkáʼ ńdag nkẅíŋ, n tè gyá mbòŋo mmó.",
+                        "fr": "Je suis allé au champ pour ramasser du bois et je n’ai pas vu grand-chose.",
+                        "en": "I went to the field to collect wood and I didn't see much."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mboo",
+        "pronounciation": "m̩̀bòː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "au revoir",
+                "definition_en": "goodbye",
+                "examples": []
+            }
+        ]
+    }
+]

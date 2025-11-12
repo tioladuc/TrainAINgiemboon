@@ -1,0 +1,432 @@
+[
+    {
+        "noun": "Bible",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ŋwàʼne Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bicker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtwóe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bicycle",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbáasékù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bifurcated raffia shoot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "big",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "memǎ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kèkwɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máamáa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "melÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbíg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "big, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "big, be excessively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "big but shapeless, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bike",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bikini, mini",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mántÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngwasí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bile",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lẅè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "billion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "miliyâ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "billow, stir",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnuʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "billsticker",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndyɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "billygoat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mêmbwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bind",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswéʼe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird, announcer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pʉ́pÿé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird droppings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird, fly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "méshʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birdhouse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lepiʼí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birdseye chili",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sésɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "métsàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ʼ ngesáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wèwa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "bird tail feather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "birth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lezyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzyě múɔ",
+                "examples": []
+            }
+        ]
+    }
+]

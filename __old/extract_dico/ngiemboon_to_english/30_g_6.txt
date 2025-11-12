@@ -1,0 +1,298 @@
+[
+    {
+        "noun": "gẅílíd",
+        "pronounciation": "̂ɣɥílít̚",
+        "synonym": [
+            "pfòŋ ",
+            " kɔ́ɔn méshʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hibou",
+                "definition_en": "long-eared owl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gẅílílíd",
+        "pronounciation": "ɣɥílílít̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hululement (chouette)",
+                "definition_en": "hooting (owl)",
+                "examples": [
+                    {
+                        "dialect": "Andʉ̀m tǒŋ lê gẅílílíd.",
+                        "fr": "La chouette hulule « gẅílílíd ».",
+                        "en": "The owl hoots “gẅílílíd”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gyà ngɔ́ʼ",
+        "pronounciation": "ɣjȁ ŋ̩̀gɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "malheureux",
+                "definition_en": "poor soul; unfortunate creature",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyà njÿo",
+        "pronounciation": "ɣjȁ ǹ̩dʒʃɰò",
+        "synonym": [
+            "wáasè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "montre",
+                "definition_en": "watch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyà ńkyag",
+        "pronounciation": "ɣjȁ ŋ̩́kjàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dénonciateur",
+                "definition_en": "denouncer; informer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyà shwóŋ",
+        "pronounciation": "ɣjȁ ʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "narrateur",
+                "definition_en": "narrator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyà shÿó",
+        "pronounciation": "ɣjȁ ʃːɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miroir",
+                "definition_en": "mirror",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyáŋa lóŋ",
+        "pronounciation": "ɣjã́ŋá lṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colère ; fâcherie",
+                "definition_en": "anger; quarrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyě",
+        "pronounciation": "ɣxjě",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goût ; odeur ; saveur",
+                "definition_en": "taste; smell; flavour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyɛ̌",
+        "pronounciation": "ɣjɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esplanade de la chefferie ; lieu public",
+                "definition_en": "esplanade of the chief’s compound; public place",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gyɔ́ɔn",
+        "pronounciation": "ɣjɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abondance",
+                "definition_en": "abundance",
+                "examples": [
+                    {
+                        "dialect": "Agyɔ́ɔn sẅɛ́ nzẅíŋ.",
+                        "fr": "L’abondance fait périr l’herbe.",
+                        "en": "Abundance kills the grass."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gyɔ́ɔn",
+        "pronounciation": "ɣjɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beaucoup ; en quantité",
+                "definition_en": "much; lot of",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin nkáb tà é gyɔ́ɔn.",
+                        "fr": "Il a beaucoup d’argent.",
+                        "en": "He has a lot of money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "gÿàŋa",
+        "pronounciation": "ɣɰã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourmilière ; termitière",
+                "definition_en": "anthill; termite mound",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿàŋa",
+        "pronounciation": "ɣɰã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gisement ; mine",
+                "definition_en": "deposit; mine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿáte",
+        "pronounciation": "ɣɰáté",
+        "synonym": [
+            "gáte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détournement ; trucage",
+                "definition_en": "diversion; trickery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿɛ́",
+        "pronounciation": "ɣɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "concubinage",
+                "definition_en": "concubinage; cohabitation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿo",
+        "pronounciation": "ɣxɰò",
+        "synonym": [
+            "ge gÿo ",
+            " ńdu ",
+            " lu ",
+            " ge lu"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "futur de demain (F3)",
+                "definition_en": "tomorrow future (F3)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿo nzsé",
+        "pronounciation": "ɣxɰò ǹ̩dzsé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "conscient",
+                "definition_en": "conscious",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "gÿòon kèm",
+        "pronounciation": "ɣɰõ̏ː kə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prison",
+                "definition_en": "prison",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "noun": "legẅè",
+        "pronounciation": "lèɣxɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sourire ; moquerie",
+                "definition_en": "smile; mockery; taunt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legẅi",
+        "pronounciation": "lèɣɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grêlon",
+                "definition_en": "hailstone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legẅi mmɔ̌g",
+        "pronounciation": "lèɣɥì m̩̀mɔ̌q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "silex",
+                "definition_en": "flint",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legẅi ncù",
+        "pronounciation": "lèɣɥì ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouclier",
+                "definition_en": "shield",
+                "examples": []
+            },
+            {
+                "definition_fr": "point chaud de la guerre ; front",
+                "definition_en": "hot spot of the war; front",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legye",
+        "pronounciation": "lèɣxjè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intelligence",
+                "definition_en": "intelligence",
+                "examples": []
+            },
+            {
+                "definition_fr": "sagesse",
+                "definition_en": "wisdom",
+                "examples": []
+            },
+            {
+                "definition_fr": "cerveau",
+                "definition_en": "brain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legyé",
+        "pronounciation": "lèɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amusement",
+                "definition_en": "amusement",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legyé",
+        "pronounciation": "lèɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit",
+                "definition_en": "noise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legyé",
+        "pronounciation": "lèɣxjé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ornement",
+                "definition_en": "ornament",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legÿò",
+        "pronounciation": "lèɣxɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "acte ; action",
+                "definition_en": "act; action",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legÿɔ́bɔ ntse",
+        "pronounciation": "lèɣɰɔ́βɔ́ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réservoir d’une source",
+                "definition_en": "spring reservoir",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legÿɔʼ",
+        "pronounciation": "lèɣɰɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joue",
+                "definition_en": "cheek",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legÿɔ̀ʼ mmɔ́g",
+        "pronounciation": "lèɣɰɔ̀ʔ  m̩̀mɔ́q̚",
+        "synonym": [
+            "lejʉ̀ŋ mmɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "braise",
+                "definition_en": "embers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "legÿɔʼ ndá",
+        "pronounciation": "lèɣɰɔ̀ʔ ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dormant",
+                "definition_en": "frame",
+                "examples": []
+            },
+            {
+                "definition_fr": "rebord ; bordure",
+                "definition_en": "edge; border",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejúʼ",
+        "pronounciation": "lèʒúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "herbes qui sert à traiter le mal d’oreille et les maux de têtes",
+                "definition_en": "weeds used for healing earaches and headaches",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejǔʼ shwóŋ",
+        "pronounciation": "lèʒǔʔ ʃwṍŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "communication",
+                "definition_en": "communication",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejúʼu ngẅi",
+        "pronounciation": "lèʒúʔ ŋ̩̀gɥì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe qui sert à traiter le mal d’oreille",
+                "definition_en": "sp. weed used for treating earaches",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejʉ́ŋ",
+        "pronounciation": "lèʒɯ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "prép",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à côté de ; près de",
+                "definition_en": "beside; close to",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ tyé lejʉ́ŋ mèŋ ńgÿo kɔ́?",
+                        "fr": "Tu fais quoi à côté de moi ?",
+                        "en": "What are you doing next to me?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lejʉ̀ŋ",
+        "pronounciation": "lèʒɯ̃̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "horizontale",
+                "definition_en": "horizontal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejʉ̀ŋ mmɔ́g",
+        "pronounciation": "lèʒɯ̃̏ŋ m̩̀mɔ́q̚",
+        "synonym": [
+            "legÿɔ̀ʼ mmɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "braise",
+                "definition_en": "embers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejʉʼʉ́",
+        "pronounciation": "lèʒɯ̀ʔɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fait de s’adosser",
+                "definition_en": "leaning against",
+                "examples": []
+            },
+            {
+                "definition_fr": "dossier d’une chaise",
+                "definition_en": "chair back",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejwoŋó",
+        "pronounciation": "lèʒwõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jointure du doigt",
+                "definition_en": "finger joint",
+                "examples": []
+            },
+            {
+                "definition_fr": "nœud",
+                "definition_en": "knot",
+                "examples": []
+            },
+            {
+                "definition_fr": "génération",
+                "definition_en": "generation",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejÿɔ́g",
+        "pronounciation": "lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lettre",
+                "definition_en": "letter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejÿɔ́g",
+        "pronounciation": "lèʒɰɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "œil",
+                "definition_en": "eye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejÿɔgɔ́",
+        "pronounciation": "lèʒɰɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nœud",
+                "definition_en": "knot",
+                "examples": []
+            },
+            {
+                "definition_fr": "articulation",
+                "definition_en": "articulation; joint",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lejÿɔgɔ́ pwó",
+        "pronounciation": "lèʒɰɔ̀ʁɔ́ pɸwó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "carpe ; articulation du poignet",
+                "definition_en": "carp; wrist joint",
+                "examples": []
+            }
+        ]
+    }
+]

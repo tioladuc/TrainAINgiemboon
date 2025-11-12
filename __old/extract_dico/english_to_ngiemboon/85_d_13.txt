@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "distant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉa shʉ̀shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distant future",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "táa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distant future, very",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distant past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndéen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "léen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "la",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distaste, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "woo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distinction",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fègte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tùbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distort",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfɔ́d",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúu pyé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distort the mouth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmÿɔb ncwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distract from one’s work",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdʉ́me",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distribute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgabte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distribution",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legàbte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distributor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàba",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distrust, showing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "heen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "distrust, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kákaa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturb",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtágte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvómo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtágte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvóŋo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturb, do not",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzɔ́bte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturber",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbège",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturbing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsápàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturb (matter)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturb water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "disturb water several times",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿvoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dive",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyé kɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyɛ́ letóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diverse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pùmo ngɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nò té tsẅe pàa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "diversion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sèle nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ŋátè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gÿáte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leselé nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "divert",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́le",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgéle",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésyé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésaŋ",
+                "examples": []
+            }
+        ]
+    }
+]

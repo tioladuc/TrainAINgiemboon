@@ -1,0 +1,417 @@
+[
+    {
+        "noun": "singing, start",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sink",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sinner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ate nò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sins",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sin, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉ̀alʉ̌a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sirloin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pÿěpÿě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sisal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mvfòluʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sit down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńnéŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sit down cheerfully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅie",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtáʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "site",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sit enthroned",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅɛʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "site, sacred",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "foffó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sitting cheerfully",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅɛʼɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sitting room",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndalÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fala nda",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "situate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "six",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sixteen",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀b ntɔgɔ́ lé legém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "sixty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "móm ntɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "size",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndʉʼʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntyě lepfòm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legúʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lefáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "size up",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skeleton",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekẅǐ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅǐ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skilful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "màʼa te shwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skim past",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjúa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éfiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyeen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅiŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "skin disease",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔgɔ́ lefaŋ",
+                "examples": []
+            }
+        ]
+    }
+]

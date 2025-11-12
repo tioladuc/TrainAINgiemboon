@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "mefʉa",
+        "pronounciation": "mèfɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fautes ; torts ; péchés",
+                "definition_en": "mistakes; faults; torts; sins",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mefwóon",
+        "pronounciation": "mèfwṍː",
+        "synonym": [
+            "mefóon twó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cerveau",
+                "definition_en": "brain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "még",
+        "pronounciation": "mə́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les nôtres (pron. poss. de la 1ère personne du pluriel exclusif qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "ours (first person plural exclusive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Mentoŋ mendá Ngwàna gʉa tÿǒ ńcʉa még.",
+                        "fr": "Les toitures de maisons de Ngwana sont plus hautes que les nôtres.",
+                        "en": "The roofs of Ngwana houses are higher than ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nos (adj. poss. de la 1ère personne du pluriel exclusif qui modifie les noms des classes 4 et 6)",
+                "definition_en": "our (first person plural exclusive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "nos (adj. poss. emph. de la 1ère personne du pluriel exclusif qui modifie les noms des classes 4 et 6)",
+                "definition_en": "our (first person plural exclusive emphatic adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "les nôtres (pron. poss. objet de la 1ère personne du pluriel exclusif qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "ours (first person plural exclusive object pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "megaʼá",
+        "pronounciation": "mèɣàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un peu de",
+                "definition_en": "a bit of",
+                "examples": [
+                    {
+                        "dialect": "Náa megaʼá ntse né mèŋ n nú.",
+                        "fr": "Donne-moi un peu d’eau, je bois.",
+                        "en": "Give me some water, I'll drink."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mégè",
+        "pronounciation": "mə́ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "les nôtres (pron. poss. de la 1ère personne du pluriel inclusif qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "ours (first person plural inclusive pronoun referring back to class 4 and 6 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À sɔ̌g mekwɔ̀ʼɔ, à tè mégè sɔg.",
+                        "fr": "Il a lavé les chaises, (mais) il n’a pas lavé les nôtres.",
+                        "en": "He washed the chairs, (but) he didn’t wash ours."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "nos (adj. poss. de la 1ère personne du pluriel inclusif qui modifie les noms des classes 4 et 6)",
+                "definition_en": "our (first person plural inclusive adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "nos (adj. poss. emph. de la 1ère personne du pluriel inclusif qui modifie les noms des classes 4 et 6)",
+                "definition_en": "our (first person plural inclusive emphatic adjective modifying class 4 and 6 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pour nous (pron. poss. objet de la 1ère personne du pluriel inclusif qui renvoie aux noms des classes 4 et 6)",
+                "definition_en": "for us (first person plural inclusive object pronoun referring back to class 4 and 6 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "megiŋé",
+        "pronounciation": "mèɣĩ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démarche",
+                "definition_en": "gait; step",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "megùb nzáŋ",
+        "pronounciation": "mèɣȕp̚ ǹ̩dzã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "megùmo",
+        "pronounciation": "mèɣùmȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pièce d’une ferme de charpente",
+                "definition_en": "piece of a framing truss",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "megʉa",
+        "pronounciation": "mèɣɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jeux ; amusements",
+                "definition_en": "games; amusements",
+                "examples": []
+            },
+            {
+                "definition_fr": "théâtre",
+                "definition_en": "theatre",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Megwǒŋ",
+        "pronounciation": "mèɣwõ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Bamougong",
+                "definition_en": "Bamougong",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "méjʉʼ",
+        "pronounciation": "méʒɯ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.quant",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un peu de",
+                "definition_en": "a bit of",
+                "examples": [
+                    {
+                        "dialect": "Nguɔ jÿǒ mesaŋá méjʉʼ.",
+                        "fr": "Le malade a mangé un peu de couscous.",
+                        "en": "The patient ate a little couscous."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mekéle",
+        "pronounciation": "mèkə́lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "blanc",
+                "definition_en": "white",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekèle",
+        "pronounciation": "mèkə̀lȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "beignet",
+                "definition_en": "fritter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekěm",
+        "pronounciation": "mèkə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "négociateurs ; notables",
+                "definition_en": "negotiators; prominent citizens",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekɛ́d",
+        "pronounciation": "mèkɛ́t̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "albinos",
+                "definition_en": "albino",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekɔ̌ɔn",
+        "pronounciation": "mèkɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mékɔ́ɔn",
+        "pronounciation": "mèkɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "force de l’ordre",
+                "definition_en": "police force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mékɔ́ɔn ntse",
+        "pronounciation": "mékɔ̃́ː ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée marine",
+                "definition_en": "navy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mékɔ́ɔn pàŋa cÿɔ̀ʼ",
+        "pronounciation": "mékɔ̃́ː pã̀ŋȁ tʃɰɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gendarme",
+                "definition_en": "gendarme; policeman",
+                "examples": [
+                    {
+                        "dialect": "Mékɔ́ɔn pàŋa cÿɔ̀ʼ gwǒon metsǒŋ.",
+                        "fr": "Le gendarme a arrêté les bandits.",
+                        "en": "The gendarme arrested the bandits."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mékɔ́ɔn ssé cÿɔ̀ʼ",
+        "pronounciation": "mékɔ̃́ː sːé tʃɰɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "policier",
+                "definition_en": "police officer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mékɔ́ɔn tÿǒ",
+        "pronounciation": "mékɔ̃́ː ʈθɰǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "armée aérien",
+                "definition_en": "air force",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú",
+        "pronounciation": "mèkú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haricot (gén.)",
+                "definition_en": "bean (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekǔ",
+        "pronounciation": "mèkǔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frais d’adhésion",
+                "definition_en": "membership fee",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú féfɔ́gɔ",
+        "pronounciation": "mèkú féfɔ́ɡɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. haricot blanc",
+                "definition_en": "sp. white bean",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mekú gwág",
+        "pronounciation": "mèkú ɣwáq̚",
+        "synonym": [
+            "mekú koké ",
+            " mekú múɔ láʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "graine de niébé",
+                "definition_en": "cowpea seed; black-eyed pea seed",
+                "examples": []
+            }
+        ]
+    }
+]

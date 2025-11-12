@@ -1,0 +1,457 @@
+[
+    {
+        "noun": "ngwɔ̀",
+        "pronounciation": "ŋ̩̀gwɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. jeu de femme",
+                "definition_en": "k. woman’s game",
+                "examples": [
+                    {
+                        "dialect": "Púɔ panzwě kwoŋo lémaʼ ngwɔ̀.",
+                        "fr": "Les jeunes filles aiment jouer au « ngwɔ̀ ».",
+                        "en": "Young girls like to play “ngwɔ̀”."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ",
+        "pronounciation": "ŋ̩́gwɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "en ; avant de",
+                "definition_en": "in; to; before",
+                "examples": [
+                    {
+                        "dialect": "N kwǎŋ ngie pi gẅɔ̌ gʉa mbà à tǒ.",
+                        "fr": "Je pense qu’au moment où vous partiez, il était (déjà) vénu.",
+                        "en": "I think by the time you left, he was (already) here."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "si au préalable ; avant ce moment",
+                "definition_en": "if beforehand; before this moment",
+                "examples": [
+                    {
+                        "dialect": "Pege lɔɔn ńgwɔ páʼɔɔn ńdʉʼʉ léfaʼ, mbà pege tè pfɛ́ɛ mmó wɔ́.",
+                        "fr": "Si au préalable nous refusons de travailler, nous n’aurons pas à manger.",
+                        "en": "If we refuse to work beforehand, we will not have to eat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́",
+        "pronounciation": "ŋ̩́gwɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être ; pouvoir",
+                "definition_en": "be; be able to",
+                "examples": []
+            },
+            {
+                "definition_fr": "être intendant ; être libre",
+                "definition_en": "to be a steward; be free",
+                "examples": []
+            },
+            {
+                "definition_fr": "exister ; vivre ; être",
+                "definition_en": "exist ; live ; be",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́ gie",
+        "pronounciation": "ŋ̩́gwɔ́ ɣìè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "donc ; en conséquence ; á cause de cela ; si jamais",
+                "definition_en": "so; consequently; because of that; if ever",
+                "examples": [
+                    {
+                        "dialect": "Mbʉ̀ŋ kwɔ́ʼɔ páʼɔɔn, ńgwɔ́ gie n dɔɔn ńgʉa tà ńkúu mbʉ̀a tá é lú, anò poŋo wɔ́ɔn.",
+                        "fr": "Il menasse de pleuvoir comme ceci, si je pars jusqu’à la maison avant qu’il ne pleuve, ça va me plaire.",
+                        "en": "It's threatening to rain like this, if I get home before it rains I'll like it."
+                    },
+                    {
+                        "dialect": "Ɔ̀ late pɛ́ʼɛ̀, ńgwɔ́ gie à lɔɔn ńgʉa, ɔ̀ gÿo lêkɔ́?",
+                        "fr": "Que feras-tu, si en retardant comme cà, il s’en va ?",
+                        "en": "What will you do if, by delaying like this, he leaves?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀b",
+        "pronounciation": "ŋ̩̀gwɔ̏p̚",
+        "synonym": [
+            "gwɔ̀bɔ ",
+            " ngwɔ̀bɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourche ; crochet",
+                "definition_en": "hook; pitchfork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔb",
+        "pronounciation": "ŋ̩́gwɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crocheter ; fourcher",
+                "definition_en": "pick a lock; fork; split",
+                "examples": []
+            },
+            {
+                "definition_fr": "nouer",
+                "definition_en": "tie; knot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́b",
+        "pronounciation": "ŋ̩́gwɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "détourner",
+                "definition_en": "embezzle",
+                "examples": []
+            },
+            {
+                "definition_fr": "détourner",
+                "definition_en": "divert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀bɔ",
+        "pronounciation": "ŋ̩̀gwɔ̀βɔ̏",
+        "synonym": [
+            "ngwɔ̀b ",
+            " ngwɔ̀bɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fourche ; crochet",
+                "definition_en": "hook; pitchfork",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́bte",
+        "pronounciation": "ŋ̩́gwɔ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "attacher légèrement",
+                "definition_en": "tie lightly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔg",
+        "pronounciation": "ŋ̩́gwɔ̀q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aboyer (chien)",
+                "definition_en": "bark (dog)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́g",
+        "pronounciation": "ŋ̩́gwɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "travailler",
+                "definition_en": "work",
+                "examples": []
+            },
+            {
+                "definition_fr": "agiter",
+                "definition_en": "shake",
+                "examples": []
+            },
+            {
+                "definition_fr": "mentir ; faire le commérage",
+                "definition_en": "lie; gossip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔgɔ́",
+        "pronounciation": "ŋ̩̀gwɔ̀ʁɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trace",
+                "definition_en": "mark",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀gɔ",
+        "pronounciation": "ŋ̩̀gwɔ̀ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frotteur",
+                "definition_en": "scrubber",
+                "examples": []
+            },
+            {
+                "definition_fr": "travailleur",
+                "definition_en": "worker",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔgɔ́ lefaŋ",
+        "pronounciation": "ŋ̩̀gwɔ̀ʁɔ́ lèfã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie de peau causée par le tonnerre",
+                "definition_en": "k. skin disease caused by thunder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔ́gte",
+        "pronounciation": "ŋ̩́gwɔ́qté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "frotter",
+                "definition_en": "rub",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀ɔ",
+        "pronounciation": "ŋ̩̀gwɔ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "existant ; habitant",
+                "definition_en": "existing person; inhabitant; occupant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀ɔn",
+        "pronounciation": "ŋ̩̀gwɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fouet",
+                "definition_en": "whip",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀ʼ",
+        "pronounciation": "ŋ̩̀gwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ampli",
+                "definition_en": "amp; amplification",
+                "examples": [
+                    {
+                        "dialect": "Te cʉ́ʼʉ légɔɔn nò ńnéŋ ngwɔ̀ʼ mǒ.",
+                        "fr": "Il ne faut pas dire en amplifiant.",
+                        "en": "This should not be said by amplifying."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̌ʼ",
+        "pronounciation": "ŋ̩̀gwɔ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. termite rouge",
+                "definition_en": "sp. red termite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwɔʼ",
+        "pronounciation": "ŋ̩́gwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écraser ; moudre ; râper",
+                "definition_en": "crush; grind; grate; scrape",
+                "examples": []
+            },
+            {
+                "definition_fr": "écraser ; moudre ; râper ; dégonfler",
+                "definition_en": "crush ; grind ; grate; deflate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̌ʼ lelɔ̌ɔn",
+        "pronounciation": "ŋ̩̀gwɔ̌ʔ lèlɔ̃̌ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. termite, petit et noir",
+                "definition_en": "sp. small black termite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀ʼ mbÿɛ́",
+        "pronounciation": "ŋ̩̀gwɔ̏ʔ m̩̀bɰɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "temps de récolte",
+                "definition_en": "harvest time",
+                "examples": []
+            },
+            {
+                "definition_fr": "mois de septembre",
+                "definition_en": "month of September",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀gwɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écraseur; petite pierre à écraser (celle qu’on tient par les mains)",
+                "definition_en": "crusher; grinding stone (one that is held in the hands)",
+                "examples": []
+            },
+            {
+                "definition_fr": "pile ; batterie",
+                "definition_en": "battery",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńgwʉ́",
+        "pronounciation": "ŋ̩́gwɯ́",
+        "synonym": [
+            "ńgʉ́te"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porter",
+                "definition_en": "carry",
+                "examples": []
+            },
+            {
+                "definition_fr": "porter sur l’épaule",
+                "definition_en": "carry on the shoulder",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ngwʉ̀ngwà nÿɔ́g",
+        "pronounciation": "ŋ̩̀gwɯ̏ŋgwȁ ɳɰɔ́q̚",
+        "synonym": [
+            "ngwèngwà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cil",
+                "definition_en": "eyelash",
+                "examples": []
+            }
+        ]
+    }
+]

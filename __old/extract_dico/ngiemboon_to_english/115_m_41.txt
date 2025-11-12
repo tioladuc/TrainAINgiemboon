@@ -1,0 +1,245 @@
+[
+    {
+        "noun": "ḿvɔ́g",
+        "pronounciation": "ɱ̩́bvɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être court",
+                "definition_en": "be short",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvɔ̀g mvfò",
+        "pronounciation": "ɱ̩̀bvɔ̏q̚ ɱ̩̀bvfȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.num.ord",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "premier",
+                "definition_en": "first",
+                "examples": [
+                    {
+                        "dialect": "Mvɔ̀g mvfò nyìŋ vɔ̌g tà ńtó páʼɔɔn á zɛ́te mbɔ́ɔntè yépʉ́a.",
+                        "fr": "Comme la première personne est venue, il faut une deuxième.",
+                        "en": "As the first person came, a second is needed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ḿvɔɔn",
+        "pronounciation": "ɱ̩́bvɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se mouiller de la rosée ; tapoter la rosée",
+                "definition_en": "get wet from dew; pat the dew",
+                "examples": []
+            },
+            {
+                "definition_fr": "basculer (rosée)",
+                "definition_en": "rock (dew)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvʉʼʉ",
+        "pronounciation": "ɱ̩́bvɯ̀ʔɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "réserver ; garder",
+                "definition_en": "reserve; keep",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvwɔ̀ʼ",
+        "pronounciation": "ɱ̩̀bvwɔ̏ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "creux",
+                "definition_en": "hollow; hole",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvwɔʼ",
+        "pronounciation": "ɱ̩́bvwɔ̀ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer",
+                "definition_en": "close",
+                "examples": []
+            },
+            {
+                "definition_fr": "ouvrir",
+                "definition_en": "open",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ḿvwɔʼɔ",
+        "pronounciation": "ɱ̩́bvwɔ̀ʔɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rester",
+                "definition_en": "stay; remain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mvwɔ̀ʼte",
+        "pronounciation": "ɱ̩̀bvwɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "caveau",
+                "definition_en": "vault; tomb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mwòon",
+        "pronounciation": "mwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "abcès",
+                "definition_en": "abscess",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mwòon",
+        "pronounciation": "mwõ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui fouille (maison, sac, affaire de femme)",
+                "definition_en": "one who searches (house, sack, woman’s affair)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mwòon nzém",
+        "pronounciation": "mwõ̏ː ǹ̩dzə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "obscurité intense",
+                "definition_en": "intense darkness; intense obscurity",
+                "examples": [
+                    {
+                        "dialect": "À fǒ tsẅɛ ńkwɔ́ʼ tsɛ̀ɛ mwòon nzém.",
+                        "fr": "Il est rentré du champ dans l’obscurité intense.",
+                        "en": "He returned from the field in intense darkness."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "obscurité",
+                "definition_en": "darkness; obscurity",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mwóonne mbúʼu",
+        "pronounciation": "mwṍːné m̩̀búʔú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. criquet",
+                "definition_en": "sp. cricket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mwɔ̀bɔ",
+        "pronounciation": "mwɔ̀βɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étiré",
+                "definition_en": "stretch out",
+                "examples": [
+                    {
+                        "dialect": "Aa mwɔ̀bɔ ncwò.",
+                        "fr": "Il a la bouche étirée.",
+                        "en": "His mouth is stretched."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mÿɔ̀g",
+        "pronounciation": "mɰɔ̏q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tristesse ; chagrin",
+                "definition_en": "sadness; grief; sorrow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mÿɔ̀gte",
+        "pronounciation": "mɰɔ̏qte",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "regret",
+                "definition_en": "regret",
+                "examples": []
+            }
+        ]
+    }
+]

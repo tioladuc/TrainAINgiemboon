@@ -1,0 +1,392 @@
+[
+    {
+        "noun": "until (goal)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "unusual",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pǒŋ ménò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "unveil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "up and down, look",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńŋwɔ́ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "up, get",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upper, shoe",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndùmo kwò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndùm melɔ̌ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upright, set",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésiŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔgɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "uproot",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "uprooter",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsɔ̀ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shwòŋ ntsɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upset, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upside down, turn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzwaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upstream",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "upstream water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwóŋ wɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "up-to-date, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉʼʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "urinate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "urinating, difficulty",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letsì ntʉ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "urine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsìntsì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "us",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wég",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "used to, get someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "useful",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndyèen",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "usefulness, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèkǔ na nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "useless",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tendyèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tèkǔ na nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "useless delivery man",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsège mezàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "use to console oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńguʼu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "us, for",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mégè",
+                "examples": []
+            }
+        ]
+    }
+]

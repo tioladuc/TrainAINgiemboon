@@ -1,0 +1,406 @@
+[
+    {
+        "noun": "nzɔ̀ʼ nkàʼ",
+        "pronounciation": "ǹ̩dzɔ̏ʔ ŋ̩̀kȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fillette qui accompagne la jeune mariée dans son foyer",
+                "definition_en": "little girl who accompanies a young married woman to her home",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀ʼɔ",
+        "pronounciation": "ǹ̩dzɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cireur",
+                "definition_en": "bootblack; floor polisher",
+                "examples": []
+            },
+            {
+                "definition_fr": "peintre",
+                "definition_en": "painter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀ʼɔ",
+        "pronounciation": "ǹ̩dzɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marié",
+                "definition_en": "bridegroom",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzɔ̀ʼte",
+        "pronounciation": "ǹ̩dzɔ̀ʔtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dribbleur",
+                "definition_en": "dribbler",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzse",
+        "pronounciation": "ǹ̩dzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tabou ; sacré ; interdiction",
+                "definition_en": "taboo; sacred; ban",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsè",
+        "pronounciation": "ǹ̩dzsȅ",
+        "synonym": [
+            "mánzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chemin",
+                "definition_en": "path",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsè",
+        "pronounciation": "ǹ̩dzsȅ",
+        "synonym": [
+            "pùʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tranche ; partie ; tas ; part",
+                "definition_en": "slice; part; pile; heap",
+                "examples": [
+                    {
+                        "dialect": "À pǐ nzsè tá.",
+                        "fr": "Il a pris trois tranches.",
+                        "en": "He took three slices."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńzse",
+        "pronounciation": "ń̩dzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "interdire",
+                "definition_en": "forbid",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzse",
+        "pronounciation": "ń̩dzsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "suivre",
+                "definition_en": "follow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzsé",
+        "pronounciation": "ń̩dzsé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "savoir ; connaître",
+                "definition_en": "know",
+                "examples": []
+            },
+            {
+                "definition_fr": "se connaître",
+                "definition_en": "know yourself",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsè nò",
+        "pronounciation": "ǹ̩dzsȅ nȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intelligent ; connaisseur",
+                "definition_en": "intelligent; connoisseur",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsǒ",
+        "pronounciation": "ǹ̩dzsǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tissu ; habit",
+                "definition_en": "cloth; outfit; clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzso",
+        "pronounciation": "ń̩dzsò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "demeurer ; caler",
+                "definition_en": "live somewhere; wedge; chock",
+                "examples": []
+            },
+            {
+                "definition_fr": "terminer ; s’achever",
+                "definition_en": "to end ; come to an end",
+                "examples": []
+            },
+            {
+                "definition_fr": "finalement ; en définitive",
+                "definition_en": "Ultimately ; ultimately",
+                "examples": [
+                    {
+                        "dialect": "À cʉ̌ʼ ńzsozso, ńgÿo lêkɔ́?",
+                        "fr": "Finalement, qu’est-ce qu’il a fait ?",
+                        "en": "Finally, what did he do?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nzsǒ fÿág",
+        "pronounciation": "ǹ̩dzsǒ fɰáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pull-over ; pull",
+                "definition_en": "sweater; pullover",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsǒ lekÿo",
+        "pronounciation": "ǹ̩dzsǒ lèkxɰò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pagne traditionel",
+                "definition_en": "traditional cloth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsòliŋé",
+        "pronounciation": "ǹ̩dzsȍlĩ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "drapeau",
+                "definition_en": "flag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsòntse",
+        "pronounciation": "ǹ̩dzsȍntsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "crocodile",
+                "definition_en": "crocodile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsònzèm",
+        "pronounciation": "ǹ̩dzsȍndzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dernier",
+                "definition_en": "last",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsoté",
+        "pronounciation": "ǹ̩dzsòté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "final ; fin ; terminus",
+                "definition_en": "final one; end; terminus",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsòte",
+        "pronounciation": "ǹ̩dzsòtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dernier ; destination ; terminus",
+                "definition_en": "last; destination; terminal",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsòte nzèm",
+        "pronounciation": "ǹ̩dzsòtȅ ǹ̩dzə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dernier",
+                "definition_en": "last",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nzsozíŋ",
+        "pronounciation": "ǹ̩dzsòzĩ́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenue de danse",
+                "definition_en": "dance costume",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzwaʼ",
+        "pronounciation": "ń̩dzwàʔ",
+        "synonym": [
+            "ńjẅaʼ ",
+            " ńzẅaʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "broyer ; casser",
+                "definition_en": "grind; break",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzwaʼ",
+        "pronounciation": "ń̩dzwàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croquer",
+                "definition_en": "crunch",
+                "examples": []
+            },
+            {
+                "definition_fr": "concasser",
+                "definition_en": "crush; grind",
+                "examples": []
+            },
+            {
+                "definition_fr": "dévorer",
+                "definition_en": "devour",
+                "examples": []
+            },
+            {
+                "definition_fr": "broyer",
+                "definition_en": "grind",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńzwaʼ",
+        "pronounciation": "ń̩dzwàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bouleverser (en jetant en l’air) ; chambouler",
+                "definition_en": "turn upside down",
+                "examples": []
+            }
+        ]
+    }
+]

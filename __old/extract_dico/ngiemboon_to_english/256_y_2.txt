@@ -1,0 +1,521 @@
+[
+    {
+        "noun": "yembÿag",
+        "pronounciation": "jèmbɰàq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.part.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cru (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "raw; uncooked (qualifying nouns from classes 7, 9 and 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yémɔʼɔ́",
+        "pronounciation": "jémɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "un (modifiant les noms des classes 7 et 9)",
+                "definition_en": "one",
+                "examples": [
+                    {
+                        "dialect": "N kǎa pɔ̀ɔn yémɔʼɔ́.",
+                        "fr": "J’ai porté un sac.",
+                        "en": "I carried a bag."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yendyɛ̀ʼɛ",
+        "pronounciation": "jèndjɛ̀ʔɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 7, 9 et 10)",
+                "definition_en": "certain; other (modifying class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Akwɔ̀ʼɔ yɔɔn, gʉa ńkaa yendyɛ̀ʼɛ ńdɔg ńtó.",
+                        "fr": "Voici la chaise, va porter l’autre pour apporter.",
+                        "en": "Here is the chair, go carry the other one to bring."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yépʉ́a",
+        "pronounciation": "jépɯ́á",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "deux (modifiant les noms de la classe 10)",
+                "definition_en": "two (modifying nouns from class 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yeséssé",
+        "pronounciation": "jèsésːé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "noir (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "black (modifies class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À gẅiin ngáb yeséssé.",
+                        "fr": "Il a les poules noires.",
+                        "en": "He has black chickens."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yéshÿɔ́ʼɔ",
+        "pronounciation": "jéʃɰɔ́ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "combien de ... ? (demandant pour les noms de la classe 10)",
+                "definition_en": "how many ...? (question for nouns from class 10)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gyǎ ngáb yéshÿɔ́ʼɔ?",
+                        "fr": "Tu as vu combien de poules ?",
+                        "en": "How many chickens did you see?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yesẅé",
+        "pronounciation": "jèsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "neuf ; nouveau ; nouveaux (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "new (qualifies class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À ka kaa nzẅìŋe lʉŋ, ńtÿɔ́gɔ na yesẅé.",
+                        "fr": "Il a porté une vieille chaise pour mettre sur la neuve.",
+                        "en": "He carried an old chair to put on the new one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yétá",
+        "pronounciation": "jétá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "trois (modifiant les noms de la classe 10)",
+                "definition_en": "three (modifying class 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "À gwǒon ngáb yétá.",
+                        "fr": "Il a arrêté trois poules.",
+                        "en": "He stopped three chickens."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yetepòŋ",
+        "pronounciation": "jètèpõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mauvais (modifiant les noms des classes 7, 9 et 10)",
+                "definition_en": "bad; evil (modifying nouns from classes 7, 9 and 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yetsɔ́",
+        "pronounciation": "jètsɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain(s) ; autre(s) (modifiant les noms des classes 7 et 10)",
+                "definition_en": "certain; other (modifying class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Yetsɔ́ pʉ́a kaa vfó.",
+                        "fr": "Certains taros ne sont pas cuits.",
+                        "en": "Some taros are not cooked."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yetsɔ̌",
+        "pronounciation": "jètsɔ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.dém",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "certain ; autre (modifiant les noms de la classe 9)",
+                "definition_en": "certain; other (modifying class 9 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Yetsɔ̌ ngesáŋ gwě ssé.",
+                        "fr": "Certaines tiges de maïs sont tombées.",
+                        "en": "Some corn stalks have fallen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yétʉ̂a",
+        "pronounciation": "jétɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (modifiant les noms de la classe 10)",
+                "definition_en": "five (modifies nouns from class 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yevfǒ",
+        "pronounciation": "jèvfǒ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cuit (qualifie les noms des classes 7, 9 and 10)",
+                "definition_en": "cooked (qualifying nouns from classes 7, 9 and 10)",
+                "examples": [
+                    {
+                        "dialect": "A pfɛ̌ ngáb yevfǒ.",
+                        "fr": "Il a mangé les poulets cuits.",
+                        "en": "He ate the cooked chickens."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mûr (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "ripe (qualifying nouns from classes 7, 9 and 10)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yéyɛ̌",
+        "pronounciation": "yéyɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.dém.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui-là ; cela",
+                "definition_en": "that one (distant demonstrative pronoun that refers to class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Pi lɔɔn ńtó, pi júu yéyɛ̌ ńná né mèŋ.",
+                        "fr": "Si vous arrivez, achetez celui-là pour me donner.",
+                        "en": "If you arrive, buy this one to give to me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yezẅìŋ",
+        "pronounciation": "jèzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieil (qualifie les noms des classes 7, 9 et 10)",
+                "definition_en": "old (qualifies class 7, 9 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa na mepɔ̀ɔn mɛ̂, ńnáa yezẅìŋ né mèŋ.",
+                        "fr": "Parmi les sacs-là, donne-moi ce qui est vieux.",
+                        "en": "Among those bags, give me the old one."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yɛ̀",
+        "pronounciation": "jɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cela ; celui ; ceux ; celui-là ; ceux-là (pron. dém. de moyen proximité désignant les noms des classes 7, 9 et 10)",
+                "definition_en": "that; that one; those; that one there; those there (middle distant demonstrative pronoun that refers to class 7, 9 or 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ntúʼ yɔɔn, kaa yɛ̀ ńgʉa ńtÿɔ́gɔ ngʉ̀ŋe wó.",
+                        "fr": "Voici une calebasse, porte celle-là pour mettre à côté.",
+                        "en": "Here is a calabash, carry this one to put aside."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -là (adj. dém. de moyen proximité qui modifie les noms des classes 7 et 9) ; ces ; ces ... -là (adj. dém. de moyen proximité qui modifie les noms de la classe 10)",
+                "definition_en": "that; that ... there (middle demonstrative adjective modifying class 7 and 9 nouns); those; those ... there (middle demonstrative adjective modifying class 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɛ̌",
+        "pronounciation": "jɛ̌",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lequel ? ; lesquels ? (demandant pour les noms des classes 7, 9 et 10)",
+                "definition_en": "which one?; which ones? (asking for classes 7, 9 and 10)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ gɔɔn ngie mèŋ n kaa yɛ̌ pɔ̀ɔn?",
+                        "fr": "Tu dis que je porte lequel des sacs ?",
+                        "en": "Which bag are you saying I'm carrying?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yíyɛʼ",
+        "pronounciation": "jíjɛ̀ʔ",
+        "synonym": [
+            "gíyɛʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ami (appel)",
+                "definition_en": "friend (call)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɔb",
+        "pronounciation": "jɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "leur (pro. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 9)",
+                "definition_en": "theirs (third person plural possessive pronoun referring back to class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 9)",
+                "definition_en": "their (third person plural possessive adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 9)",
+                "definition_en": "their (third person plural emphatic possessive adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɔ́b",
+        "pronounciation": "jɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "pron.obj.add",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aussi ; également (pronom objet de la 3e personne du pluriel qui a une fonction additive quand il répète le sujet.)",
+                "definition_en": "also; equally",
+                "examples": [
+                    {
+                        "dialect": "Á zɛ́te ngie pɔ́ zẅíʼte wɔ́b yɔ́b.",
+                        "fr": "Il faut qu’il les attendent eux aussi.",
+                        "en": "They have to wait for them too."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yɔ́b",
+        "pronounciation": "jɔ́p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le leur (pron. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 7); les leurs (pron. poss. de la 3e personne du pluriel qui renvoie aux noms de la classe 10)",
+                "definition_en": "his; theirs (third person plural possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 7) ; leurs (adj. poss. de la 3e personne du pluriel qui modifie les noms de la classe 10)",
+                "definition_en": "his; their (third person plural possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "leur (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 7) ; leurs (adj. poss. emph. de la 3e personne du pluriel qui modifie les noms de la classe 10)",
+                "definition_en": "his; their (third person plural emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɔ́gɔ̀",
+        "pronounciation": "jɔ́ʁɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien et le mien (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 7) ; les tiens et les miens (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 10)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 7) ; tes et mes (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe10)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 7) ; tes et mes (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 10)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɔ̀gɔ",
+        "pronounciation": "jɔ̀ʁɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le tien et le mien (pron. poss. de la 1ère et 2e personne du singulier ensemble qui renvoie aux noms de la classe 9)",
+                "definition_en": "yours and mine (first and second person singular pronoun referring back to class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 9)",
+                "definition_en": "your and my (first and second person singular adjective modifying class 9 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "ton et mon (adj. poss. emph. de la 1ère et 2e personne du singulier ensemble qui modifie les noms de la classe 9)",
+                "definition_en": "your and my (first and second person emphatic singular adjective modifying class 9 nouns)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yɔɔn",
+        "pronounciation": "jɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ceci ; celui ; celui-ci (pron. dém. de proche proximité qui modifie les noms des classes 7 et 9) ; ceux ; ceux-ci (pron. dém. de proche proximité qui modifie les noms de la classe 10)",
+                "definition_en": "this; this one; this one here (close demonstrative pronoun modifying class 7 and 9 nouns); these; these here (close demonstrative pronoun modifying class 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Gʉa na mekwɔ̀ʼɔ mɔɔn, ńkaa yɔɔn.",
+                        "fr": "Parmi ces tabourets-ci, porte celui-ci.",
+                        "en": "Among these stools, carries this one."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "ce ; ce ... -ci (adj. dém. de proche proximité qui modifie les noms des classes 7 et 9) ; ces ; ces ... -ci (adj. dém. de proche proximité qui modifie les noms de la classe 10)",
+                "definition_en": "this; this ... here (close demonstrative adjective modifying class 7 and 9 nouns); these; these ... here (close demonstrative adjective modifying class 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Tóo, ńkaa kwɔ̀ʼɔ yɔɔn.",
+                        "fr": "Viens porter ce tabouret-ci.",
+                        "en": "Come carry this stool."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "yɔ́ɔn",
+        "pronounciation": "jɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "le mien (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 7) ; les miens (pron. poss. de la 1ère personne du singulier qui renvoie aux noms de la classe 10)",
+                "definition_en": "mine (first person singular possessive pronoun referring back to class 7 and 10 nouns)",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ nyě pɔ̀ɔn jú, ńkaa yɔ́ɔn.",
+                        "fr": "Tu as laissé ton sac pour porter le mien.",
+                        "en": "You left your bag to carry mine."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "mon (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 7) ; mes (adj. poss. de la 1ère personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "my (first person singular possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            },
+            {
+                "definition_fr": "mon (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 7) ; mes (adj. poss. emph. de la 1ère personne du singulier qui modifie les noms de la classe 10)",
+                "definition_en": "my (first person singular emphatic possessive adjective modifying class 7 and 10 nouns)",
+                "examples": []
+            }
+        ]
+    }
+]

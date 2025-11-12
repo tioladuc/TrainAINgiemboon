@@ -1,0 +1,133 @@
+[
+    {
+        "noun": "hà",
+        "pronounciation": "hȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vin fort",
+                "definition_en": "strong wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "háb",
+        "pronounciation": "háp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "moitié",
+                "definition_en": "half",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hàhàhà",
+        "pronounciation": "hȁhȁhȁ",
+        "synonym": [
+            "kyǎg kyǎg"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bruit d’un éclat de rire",
+                "definition_en": "sound of laughing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "hányàŋ",
+        "pronounciation": "háɲã̏ŋ",
+        "synonym": [
+            "tÿè ",
+            " tÿèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fer à repasser",
+                "definition_en": "iron (clothes)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "háyaʼ",
+        "pronounciation": "hájàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant l’étonnement)",
+                "definition_en": "(showing surprise)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "heen",
+        "pronounciation": "hẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la méfiance)",
+                "definition_en": "(showing distrust)",
+                "examples": [
+                    {
+                        "dialect": "Heen! Etsǒŋ té poŋ.",
+                        "fr": "Hein ! Le vol n’est pas bon.",
+                        "en": "Eh ! Theft is not good."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "heen éen een",
+        "pronounciation": "hẽ̀ː ẽ́ː ẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "(marquant la menace)",
+                "definition_en": "(issuing a threat)",
+                "examples": [
+                    {
+                        "dialect": "Hèen éen een! N dɔɔn ńzáb mbwó na gù, ɔ̀ lʉa mmó gie á la gÿo mé zyé ɔ́.",
+                        "fr": "« Hèen éen een » ! Si je mets ma main sur toi, tu regretteras le jour de ta naissance.",
+                        "en": "“Hèen een een”! If I lay my hand on you, you will regret the day you were born."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "hége",
+        "pronounciation": "hə́ʁé",
+        "synonym": [
+            "sàʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. maladie",
+                "definition_en": "k. disease",
+                "examples": []
+            }
+        ]
+    }
+]

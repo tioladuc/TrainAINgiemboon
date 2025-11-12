@@ -1,0 +1,312 @@
+[
+    {
+        "noun": "your and our",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Your Excellency",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkwɔbɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yours",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gú",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "jù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mí",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yours and mine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̀gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pɔ́gɔ̀",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sɔ́gɔ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yours and ours",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́gè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ségè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "yégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wégè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ́gè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yourself, you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ gù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "yourselves, you",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ pi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "youth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "leshùm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkàŋ nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you yourself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gù",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ gù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "you yourselves",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàʼ pi",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "corn, remove the husk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn sheller",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn silk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lelÿò ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn stalk",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngesáŋ ffòffò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corn wine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàtà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corpse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corpse, bury",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtúŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corpulence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbwɔ̀ʼ nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "correct",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔgɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "correction",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sìŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lesìŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corridor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mesẅɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "corrupt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛ́ɛ pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cossid miller moth",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gégÿɛ́ ndʉ̀m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cost how much?",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "costume, dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsozíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cottage",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "méndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cotton",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkùnkùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kotôŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cotton gin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coucal, Senegal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mandÿoonmacǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "couch grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔn ngùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cough",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅàga",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "coughing, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́hɔ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counsel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́gte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "counsellor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nnà ntÿɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀gte láʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀gte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ntÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "count",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésáŋ",
+                "examples": []
+            }
+        ]
+    }
+]

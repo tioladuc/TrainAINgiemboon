@@ -1,0 +1,397 @@
+[
+    {
+        "noun": "flint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legẅi mmɔ̌g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flit about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńziete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "float",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtele",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńziete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flood",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ́ɔn menʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "floor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "floor of a house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "floor polisher",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "falîne",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pfɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvɔbɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flow away",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésɔɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmaʼa tôtǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flower, banana flower",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "málúʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flower, corn",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntoŋ ngesáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flower (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tôontǒon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tôtǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flower, macabo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flowing, prevent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flu",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fáʼtè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fluff, palm tree",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flume",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flute",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndèndoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flutter about",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńziete",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fly",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzeennzse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fly away",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fly (bird)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "flycatcher, African blue crested",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tétóŋ mbàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tétɔ́g mbàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fly, fruit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zẅízẅɛʼɛ́",
+                "examples": []
+            }
+        ]
+    }
+]

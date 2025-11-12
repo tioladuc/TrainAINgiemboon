@@ -1,0 +1,376 @@
+[
+    {
+        "noun": "malʉ́ŋ",
+        "pronounciation": "màɭɯ̃́ŋ",
+        "synonym": [
+            "léŋ ",
+            " lʉ́ŋ ",
+            " máleŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "balançoire",
+                "definition_en": "swing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "malʉ́ŋ",
+        "pronounciation": "màɭɯ̃́ŋ",
+        "synonym": [
+            "mbèyà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambǎ saŋ",
+        "pronounciation": "màmbǎ sã̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille poilue",
+                "definition_en": "sp. furry caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mámbàŋa",
+        "pronounciation": "mámbã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "homme",
+                "definition_en": "man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mámbàŋa tẅɛ́",
+        "pronounciation": "mámbã̀ŋȁ tɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. chenille poilue",
+                "definition_en": "sp. furry caterpillar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambáŋambíle",
+        "pronounciation": "màmbã́ŋâmbílé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miraculeux",
+                "definition_en": "miraculous",
+                "examples": [
+                    {
+                        "dialect": "Wɛ̂ kwàʼ mambáŋambíle pa nò.",
+                        "fr": "Là-bas, c’est une chose miraculeuse.",
+                        "en": "It's a miraculous thing there."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "mámbiʼí",
+        "pronounciation": "mámbìʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "directrice ; responsable féminin",
+                "definition_en": "woman director; woman in charge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambóŋ métò kǔʼ",
+        "pronounciation": "màmbṍŋ métȍ kǔʔ",
+        "synonym": [
+            "mambʉ́ŋ métò kǔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambú mbÿàg pÿág",
+        "pronounciation": "màmbú m̩̀bɰȁq̚ pɰáq̚",
+        "synonym": [
+            "laale"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grenadine ; fruit de la passion",
+                "definition_en": "grenadine; passion fruit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambʉ́múɔ",
+        "pronounciation": "màmbɯ́múɔ́",
+        "synonym": [
+            "lepʉ́múɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambʉ́ŋ métò kǔʼ",
+        "pronounciation": "màmbɯ̃́ŋ métȍ kǔʔ",
+        "synonym": [
+            "mambóŋ métò kǔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte",
+                "definition_en": "sp. insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mambye",
+        "pronounciation": "màmbɸjȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contre-fiche ; pièce de charpente",
+                "definition_en": "buttress; piece of framing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mamèkěm",
+        "pronounciation": "màmȅkə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "démarcheur ; acteur ; médiateur ; négociateur ; ambassadeur",
+                "definition_en": "door-to-door salesman; actor; mediator; negotiator; ambassador",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mamelém",
+        "pronounciation": "màmȅlə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube",
+                "definition_en": "dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mameŋ",
+        "pronounciation": "màmə̃̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mère",
+                "definition_en": "mother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánà",
+        "pronounciation": "mánȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "manne",
+                "definition_en": "manna",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "manáŋ",
+        "pronounciation": "mànã́ŋ",
+        "synonym": [
+            "náŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "espion",
+                "definition_en": "spy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánáŋ",
+        "pronounciation": "mánã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flotteur",
+                "definition_en": "float; bobber",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánáŋ",
+        "pronounciation": "mánã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "toupie",
+                "definition_en": "spinning top",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mánǎŋntsàʼ",
+        "pronounciation": "mánã̌ŋntsȁʔ",
+        "synonym": [
+            "màntsàʼ nkendʉ́ŋe"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mousse (gén.)",
+                "definition_en": "moss (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mancʉ́ŋ",
+        "pronounciation": "màntʃʉ̃́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "terrible",
+                "definition_en": "terrible; terrific",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandá",
+        "pronounciation": "màndá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "présidente",
+                "definition_en": "president (woman)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mándàg",
+        "pronounciation": "mándȁq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. plante comestible",
+                "definition_en": "sp. edible plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mándagá",
+        "pronounciation": "mándàʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "histoire",
+                "definition_en": "history; story",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "mandàlîn",
+        "pronounciation": "màndȁlîn",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mandarine",
+                "definition_en": "mandarin",
+                "examples": []
+            }
+        ]
+    }
+]

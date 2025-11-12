@@ -1,0 +1,412 @@
+[
+    {
+        "noun": "deception",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsáʼ pfòŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "decide",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "decide to hurt someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa kwɛ̀te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "decoction, purification",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "decorate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅiŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dedicate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɔ́ʼɔ gyɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deep, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmeʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésag ngʉa ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deep-freeze",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nẅèen nkẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deep water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letʉŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leteŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defecate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defecate here and there",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnʉte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lɔ̀g ntʉte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defence lawyer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàg nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sàʼ ntsaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtág nzèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defender",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàg nzèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè ntáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "definitively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzsozso",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deflate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbyagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzẅɛʼɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deflection",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sèle nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leselé nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̀ŋe nzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defoliate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésyag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deform",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtéŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgʉ́ŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "defy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgáŋa pwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "dehydrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtẅidte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "delay",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdáte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "delay, without",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyíme nyime",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "deliberate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésáŋ",
+                "examples": []
+            }
+        ]
+    }
+]

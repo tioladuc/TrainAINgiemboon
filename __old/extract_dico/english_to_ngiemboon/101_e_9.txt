@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "examine",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáase",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "examiner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exam, take",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtɔ́ɔnte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Excellency, Your",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zɔɔn múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "except",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíndaʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "excessively",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éséen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nâb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mbéláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exchange",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "excite",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbímte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exclaim",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exclude",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "excrement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fòme",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́ʼɔ zɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fème",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "excuse",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndilétáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tà ɔ̀ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "excuse me",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "shúshu",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsétsɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "executioner",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "foffò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fèffò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kùmnzsè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exhibitor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nùŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exiled person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kÿò láʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ wó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "existence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "existing person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngwɔ̀ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exit",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekẅɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exit, emergency",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tɔgɔ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíŋe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exoteric circle, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exotropia",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "exotropia, person with",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngě nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "expel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbeʼte",
+                "examples": []
+            }
+        ]
+    }
+]

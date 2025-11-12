@@ -1,0 +1,415 @@
+[
+    {
+        "noun": "ka",
+        "pronounciation": "kà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé d’hier (P3)",
+                "definition_en": "yesterday past (P3)",
+                "examples": [
+                    {
+                        "dialect": "À kaa tó lyɛʼɔɔn wɔ́ ; à ka tó jǔɔ.",
+                        "fr": "Il n’est pas venu aujourd’hui, il est venu hier.",
+                        "en": "He didn't come today, he came yesterday."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ka",
+        "pronounciation": "kà",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marque d’interrogation",
+                "definition_en": "question mark",
+                "examples": [
+                    {
+                        "dialect": "A ne ńtóo ka?",
+                        "fr": "Est-il en train de venir ?",
+                        "en": "Is he coming?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ká",
+        "pronounciation": "ká",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cercle ; sonde",
+                "definition_en": "circle; probe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kà",
+        "pronounciation": "kȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "conj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "si ; peut-être ; ou",
+                "definition_en": "if; maybe; perhaps; or",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n te ne ńzsé kà à ge tó wó wɔ́.",
+                        "fr": "Je ne sais pas s’il va venir.",
+                        "en": "I don't know if he's going to come."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kaa",
+        "pronounciation": "kàː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "m.nég",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "À kaa jÿó ńtí guɔ.",
+                        "fr": "Il n’a pas mangé à cause de la maladie.",
+                        "en": "He did not eat because of the illness."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "káa",
+        "pronounciation": "káː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "interr",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "n’est ce pas ?",
+                "definition_en": "isn’t it?",
+                "examples": [
+                    {
+                        "dialect": "Pi pfɛ̌ mmó ńdʉʼʉ lénú ntse káa?",
+                        "fr": "Vous avez mangé et refusé de boire de l’eau, n’est-ce-pas ?",
+                        "en": "You ate and refused to drink water, right?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kaa ... wɔ́",
+        "pronounciation": "kàː ... wɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.nég.disj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne ... pas",
+                "definition_en": "not",
+                "examples": [
+                    {
+                        "dialect": "Múɔ kaa pfɛ́ɛ tsɔ́ mmó wɔ́.",
+                        "fr": "L’enfant n’a pas mangé quelque chose.",
+                        "en": "The child did not eat anything."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "káa pàʼa",
+        "pronounciation": "káː pàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plafond",
+                "definition_en": "ceiling",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káa tàŋa",
+        "pronounciation": "káː tã̀ŋȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument de construction de la case en paille",
+                "definition_en": "k. construction implement for a straw hut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káa tÿó",
+        "pronounciation": "káː ʈθɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prostitué",
+                "definition_en": "prostitute",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàafée",
+        "pronounciation": "kȁːféː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "café (gén.)",
+                "definition_en": "coffee (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàaká",
+        "pronounciation": "kȁːká",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cacao",
+                "definition_en": "cocoa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káasè",
+        "pronounciation": "káːsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fût ; tonneau",
+                "definition_en": "barrel",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kab",
+        "pronounciation": "kàp̚",
+        "synonym": [
+            "kì"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "porcherie",
+                "definition_en": "pigsty",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "káb",
+        "pronounciation": "káp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "pipe",
+                "definition_en": "pipe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kâb",
+        "pronounciation": "kâp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très propre",
+                "definition_en": "very clean",
+                "examples": [
+                    {
+                        "dialect": "Affo nkáb yɔɔn síi lê kâb.",
+                        "fr": "Ce billet d’argent est très propre.",
+                        "en": "This silver note is very clean."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kâb ndá",
+        "pronounciation": "kâp ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "étourdi ; badaud ; sous informé",
+                "definition_en": "scatterbrain; uninformed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàba",
+        "pronounciation": "kàβȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tenue pour une femme enceinte ; tenue pour des danses féminines",
+                "definition_en": "maternity clothes; women’s dance clothes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàba lejÿɔ́g",
+        "pronounciation": "kàβȁ lèʒɥɔ́q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clin d’œil",
+                "definition_en": "wink",
+                "examples": [
+                    {
+                        "dialect": "Kàba lejÿɔ́ʼ gẅie ɔ̀ maʼa ngʉ̀a ngʉa aa we kɔ́?",
+                        "fr": "Ce clin d’œil que tu fais tout le temps c’est pourquoi ?",
+                        "en": "That wink you give all the time, why is that?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "kaba nŋwáʼ",
+        "pronounciation": "kàβà ŋ̩̀ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rucher",
+                "definition_en": "apiary",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kábte",
+        "pronounciation": "kápté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tribune",
+                "definition_en": "gallery; grandstand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàbte",
+        "pronounciation": "kàptȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "parapluie",
+                "definition_en": "umbrella",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kacÿò",
+        "pronounciation": "kàtʃːɰȍ",
+        "synonym": [
+            "kashÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "croustade ; croûte",
+                "definition_en": "croustade; crust",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kàcÿò",
+        "pronounciation": "kȁtʃːɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. mets de pomme de terre malaxée aux légumes ; reste de coucous de maïs grillé au fond de la marmite",
+                "definition_en": "k. potatoes mixed with vegetables dish; leftover corn couscous grilled to bottom of pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "kǎd",
+        "pronounciation": "kǎt̚",
+        "synonym": [
+            "vǎd ",
+            " gǎd ",
+            " vàg ",
+            " fím"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "id",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "très vite",
+                "definition_en": "very fast",
+                "examples": [
+                    {
+                        "dialect": "Cʉ̀cʉ̀a zyɛʼɛ́ ssé ndá lê kǎd.",
+                        "fr": "La souri est passé très vite (rapidement) dans la maison.",
+                        "en": "The mouse passed very quickly (quickly) in the house."
+                    }
+                ]
+            }
+        ]
+    }
+]

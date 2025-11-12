@@ -1,0 +1,462 @@
+[
+    {
+        "noun": "ńkɔɔn",
+        "pronounciation": "ŋ̩́kɔ̃̀ː",
+        "synonym": [
+            "ńkoon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dévorer à belles dents",
+                "definition_en": "devour with one’s teeth",
+                "examples": []
+            },
+            {
+                "definition_fr": "croquer",
+                "definition_en": "munch; crunch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔɔn nŋwáʼ",
+        "pronounciation": "ŋ̩̀kɔ̃̀ː ŋ̩̀ŋwáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ruche",
+                "definition_en": "hive",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ̀ɔnte",
+        "pronounciation": "ŋ̩̀kɔ̃̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "idiot",
+                "definition_en": "idiot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔ́ɔnte",
+        "pronounciation": "ŋ̩́kɔ̃́ːté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "empaumer",
+                "definition_en": "catch in palm of hand",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ́ɔntè pwó",
+        "pronounciation": "ŋ̩̀kɔ̃́ːtȅ pɸwó",
+        "synonym": [
+            "kɔ́ɔntè pwó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "poignet",
+                "definition_en": "wrist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ́ʼ",
+        "pronounciation": "ŋ̩̀kɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bol",
+                "definition_en": "bowl",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ̀ʼ",
+        "pronounciation": "ŋ̩̀kɔ̏ʔ",
+        "synonym": [
+            "kɔ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "galerie ; portique",
+                "definition_en": "gallery; portico",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔ́ʼ",
+        "pronounciation": "ŋ̩́kɔ́ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coup",
+                "definition_en": "blow; hit",
+                "examples": []
+            },
+            {
+                "definition_fr": "rire aux éclats",
+                "definition_en": "laugh out loud",
+                "examples": []
+            },
+            {
+                "definition_fr": "allumer ; déclencher",
+                "definition_en": "to light up ; to release",
+                "examples": []
+            },
+            {
+                "definition_fr": "démarrer",
+                "definition_en": "to start up",
+                "examples": []
+            },
+            {
+                "definition_fr": "découper",
+                "definition_en": "cut out",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ̀ʼ mbab",
+        "pronounciation": "ŋ̩̀kɔ̏ʔ m̩̀bàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boucher (coupeur de viande)",
+                "definition_en": "butcher (meat-cutter)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkɔ̀ʼɔ",
+        "pronounciation": "ŋ̩̀kɔ̀ʔɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coupeur",
+                "definition_en": "cutter",
+                "examples": []
+            },
+            {
+                "definition_fr": "boiteux",
+                "definition_en": "limper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔʼɔ",
+        "pronounciation": "ŋ̩́kɔ̀ʔɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "boiter",
+                "definition_en": "limp",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔʼɔ́",
+        "pronounciation": "ŋ̩́kɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être",
+                "definition_en": "be",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ kɔʼɔ́ nzɔ̌? Mèŋ ńkɔʼɔ́ mbʉ̀a.",
+                        "fr": "Où-étais tu ? J’étais à la maison.",
+                        "en": "Where were you? I was at home."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńkɔʼɔ́",
+        "pronounciation": "ŋ̩́kɔ̀ʔɔ́",
+        "synonym": [
+            "ńkeʼé ",
+            " ńkɔ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "falloir ; devoir ; vouloir ; avoir envie de",
+                "definition_en": "must; have to; owe; want",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ ńkɔʼɔ́ gʉa metʉ̌a.",
+                        "fr": "Il faut que j’aille au marché.",
+                        "en": "I have to go to the market."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "nku",
+        "pronounciation": "ŋ̩̀kù",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "queue",
+                "definition_en": "tail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkú",
+        "pronounciation": "ŋ̩́kú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arriver",
+                "definition_en": "arrive",
+                "examples": []
+            },
+            {
+                "definition_fr": "entrer",
+                "definition_en": "enter",
+                "examples": []
+            },
+            {
+                "definition_fr": "pénétrer",
+                "definition_en": "enter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkú",
+        "pronounciation": "ŋ̩́kú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "écoper",
+                "definition_en": "bail out",
+                "examples": []
+            },
+            {
+                "definition_fr": "subir",
+                "definition_en": "suffer",
+                "examples": []
+            },
+            {
+                "definition_fr": "sentir la douleur",
+                "definition_en": "feel the pain",
+                "examples": []
+            },
+            {
+                "definition_fr": "pervertir ; être irrécouvrable",
+                "definition_en": "pervert; to be irrecoverable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkú",
+        "pronounciation": "ŋ̩́kú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puiser",
+                "definition_en": "draw water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùa",
+        "pronounciation": "ŋ̩̀kùȁ",
+        "synonym": [
+            "nkùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plantoir local en bambou",
+                "definition_en": "local bamboo dibble",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùa",
+        "pronounciation": "ŋ̟̀kùȁ",
+        "synonym": [
+            "nkùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racleur",
+                "definition_en": "scraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkǔa",
+        "pronounciation": "ŋ̩̀kùá",
+        "synonym": [
+            "nkǔɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cagoule",
+                "definition_en": "hood",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkua",
+        "pronounciation": "ŋ̩́kùà",
+        "synonym": [
+            "ńkuɔ",
+            " ńkuɔ mbù",
+            " ńkuɔte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "racler",
+                "definition_en": "scrape",
+                "examples": []
+            },
+            {
+                "definition_fr": "glousser",
+                "definition_en": "chuckle; cluck",
+                "examples": []
+            },
+            {
+                "definition_fr": "discorder ; entretenir un sentiment de haine",
+                "definition_en": "discord; maintain a feeling of hatred",
+                "examples": []
+            },
+            {
+                "definition_fr": "racler ; gratter",
+                "definition_en": "scrape; scratch",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùa mekwaʼá",
+        "pronounciation": "ŋ̩̀kùȁ mèkwàʔá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "désert",
+                "definition_en": "desert",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńkub",
+        "pronounciation": "ŋ̩́kùp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "danser (veuvage) ; voir la souffrance",
+                "definition_en": "dance (widows); see suffering",
+                "examples": []
+            },
+            {
+                "definition_fr": "manipuler en désordre",
+                "definition_en": "handle messy",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùbe",
+        "pronounciation": "ŋ̩̀kùβȅ",
+        "synonym": [
+            "nkùbo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "changeur",
+                "definition_en": "changer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "nkùbe",
+        "pronounciation": "ŋ̩̀kùβȅ",
+        "synonym": [
+            "nkùbo"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chiche ; avare",
+                "definition_en": "niggardly; stingy; miserly; tight-fisted",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,384 @@
+[
+    {
+        "noun": "leteŋ",
+        "pronounciation": "lètə̃̀ŋ",
+        "synonym": [
+            "letʉŋ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lac ; eau profonde",
+                "definition_en": "lake; deep water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letiʼí ntse",
+        "pronounciation": "lètìʔí ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "barrage ; lieu où on puise de l’eau",
+                "definition_en": "dam; water point",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letòkǔʼ",
+        "pronounciation": "lètȍkǔʔ",
+        "synonym": [
+            "letèkǔʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "feuille de taro ; feuille de macabo",
+                "definition_en": "taro leaf; cocoyam leaf",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letoŋ",
+        "pronounciation": "lètõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nombril ; cordon ombilical",
+                "definition_en": "navel; umbilical cord",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letoŋ",
+        "pronounciation": "lètõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plume représentant la queue chez les oiseaux",
+                "definition_en": "bird tail feather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letoŋó",
+        "pronounciation": "lètõ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plume",
+                "definition_en": "feather",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letòŋo",
+        "pronounciation": "lètõ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "lecteur",
+                "definition_en": "reader",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letɔ́ɔn",
+        "pronounciation": "lètɔ̃́ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "filet",
+                "definition_en": "net",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsab",
+        "pronounciation": "lȅtsàp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "case sacrée chez les voyants",
+                "definition_en": "sacred hut of seers",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letse",
+        "pronounciation": "lètsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "clonie ; clonus",
+                "definition_en": "clonism; clonus",
+                "examples": [
+                    {
+                        "dialect": "Letse lɔɔn ńcʉʼʉ ɔ́ lɔ̌ɔn pwó gù, ɔ̀ zsé ngie mé ge náa mmó lé gù.",
+                        "fr": "Si tu as une clonie sur la paume de main, sache qu’on vas te donner quelque chose.",
+                        "en": "If you have a clonie on the palm of your hand, know that we will give you something."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "sixième-sens",
+                "definition_en": "sixth sense",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letse lejÿɔ́g",
+        "pronounciation": "lètsè lèʒɰɔ́q̚",
+        "synonym": [
+            "ntse nÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "larme",
+                "definition_en": "tear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letse mánzsè",
+        "pronounciation": "lètsè mándzsȅ",
+        "synonym": [
+            "lezse mánzsè"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. herbe",
+                "definition_en": "sp. weed",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsì ntʉ̀",
+        "pronounciation": "lètsȉ ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dysurie ; difficulté d’uriner",
+                "definition_en": "dysuria; difficulty urinating",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsìŋ",
+        "pronounciation": "lètsĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "base ; début",
+                "definition_en": "base; start",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsiŋé",
+        "pronounciation": "lètsĩ̀ŋé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sol au tour d’une plante",
+                "definition_en": "ground around a plant",
+                "examples": []
+            },
+            {
+                "definition_fr": "pied d’une plante",
+                "definition_en": "foot of a plante",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsẅé",
+        "pronounciation": "lètsːɥé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vie",
+                "definition_en": "life",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsẅɛ́",
+        "pronounciation": "lètsɥɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. pierre du foyer",
+                "definition_en": "k. cooking stone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsẅɛ́te",
+        "pronounciation": "lètsɥɛ́té",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "soustraction",
+                "definition_en": "subtraction",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsẅɛ́ʼ",
+        "pronounciation": "lètsɥɛ́ʔ",
+        "synonym": [
+            "netsẅɛ́ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nuit",
+                "definition_en": "night",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letsyagté",
+        "pronounciation": "lètsjàqté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "déversoir",
+                "definition_en": "overflow",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letú",
+        "pronounciation": "lèʈú",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "intestin ; boyau",
+                "definition_en": "intestine; gut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letú ndá",
+        "pronounciation": "lèʈú ǹ̩dá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "familiale",
+                "definition_en": "family affair",
+                "examples": [
+                    {
+                        "dialect": "Anò gie ɔ̀ zyɛ́ʼɛ ńkúu mǒ lɛ, áa nò letú ndá.",
+                        "fr": "L’affaire dans laquelle tu t’introduis là, elle est une affaire familiale.",
+                        "en": "The business you are getting into here is a family affair."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "letuŋó",
+        "pronounciation": "lèʈũ̀ŋó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oreille",
+                "definition_en": "ear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letuŋó mpfó",
+        "pronounciation": "lèʈũ̀ŋó ɱ̩̀pfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enterrement",
+                "definition_en": "burial",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "letúʼ",
+        "pronounciation": "lèʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. igname aérienne",
+                "definition_en": "sp. aerial yam",
+                "examples": []
+            }
+        ]
+    }
+]

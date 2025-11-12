@@ -1,0 +1,419 @@
+[
+    {
+        "noun": "ntsáŋ",
+        "pronounciation": "ǹ̩tsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "doigt surnuméraire",
+                "definition_en": "extra finger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsáŋ",
+        "pronounciation": "ń̩tsã́ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être vraiment fatigué",
+                "definition_en": "be really tired",
+                "examples": []
+            },
+            {
+                "definition_fr": "souffrir trop (maladie)",
+                "definition_en": "suffer too much (illness)",
+                "examples": [
+                    {
+                        "dialect": "Múɔ wɔɔn tsaŋté na guɔ yɔɔn tɛʼ.",
+                        "fr": "Cet enfant a beaucoup souffert sur cette maladie.",
+                        "en": "This child suffered a lot from this illness."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsáte",
+        "pronounciation": "ń̩tsáté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "renforcer ; renfermer",
+                "definition_en": "reinforce; contain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàwà",
+        "pronounciation": "ǹ̩tsȁwȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "hirondelle (gén.)",
+                "definition_en": "swallow (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsáʼ",
+        "pronounciation": "ǹ̩tsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mille",
+                "definition_en": "thousand",
+                "examples": [
+                    {
+                        "dialect": "À jǔ kúnɔ̀ɔn ntsáʼ lefɔ̌ɔn.",
+                        "fr": "Il a acheté le porc à huit mille.",
+                        "en": "He bought the pork for eight thousand."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsáʼ",
+        "pronounciation": "ǹ̩tsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "baguette pour battre les instruments de musique",
+                "definition_en": "stick for hitting musical instruments",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsáʼ",
+        "pronounciation": "ǹ̩tsáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. instrument pour la voyance",
+                "definition_en": "k. divination tool",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsaʼ",
+        "pronounciation": "ń̩tsàʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chercher ; fouiller ; examiner",
+                "definition_en": "look for; dig up; investigate",
+                "examples": []
+            },
+            {
+                "definition_fr": "espionner ; être curieux",
+                "definition_en": "spy; be curious",
+                "examples": []
+            },
+            {
+                "definition_fr": "admirer ; guetter",
+                "definition_en": "admire ; to watch",
+                "examples": []
+            },
+            {
+                "definition_fr": "regarder çà et là",
+                "definition_en": "look here and there",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàʼ lɔ̀ɔn",
+        "pronounciation": "ǹ̩tsȁʔ lɔ̃̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gui",
+                "definition_en": "mistletoe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàʼ mbǔʼ",
+        "pronounciation": "ǹ̩tsȁʔ m̩̀bǔʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "muet",
+                "definition_en": "dumb; speechless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsàʼ múɔ",
+        "pronounciation": "ǹ̩tsȁʔ múɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.interj",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "à vos souhait",
+                "definition_en": "according to your wishes",
+                "examples": [
+                    {
+                        "dialect": "Múɔ tsigé, á gɔɔn ngie ntsàʼ múɔ.",
+                        "fr": "L’enfant a éternué, il a dit à vos souhait.",
+                        "en": "The child sneezed, he said your wishes."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsàʼa",
+        "pronounciation": "ǹ̩tsàʔȁ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "contrôleur ; inspecteur ; vérificateur",
+                "definition_en": "controller; inspector; verifier",
+                "examples": []
+            },
+            {
+                "definition_fr": "consultant ; examinateur",
+                "definition_en": "consultant; examiner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsaʼte",
+        "pronounciation": "ń̩tsàʔtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colorier ; intervertir les couleurs",
+                "definition_en": "colour; reverse the colours",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse",
+        "pronounciation": "ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "appellation du père de la femme par la famille du mari",
+                "definition_en": "appellation of the wife’s father by the husband’s family",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse",
+        "pronounciation": "ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "eau",
+                "definition_en": "water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtse",
+        "pronounciation": "ń̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coller",
+                "definition_en": "glue",
+                "examples": []
+            },
+            {
+                "definition_fr": "coller un peu partout",
+                "definition_en": "stick everywhere",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtse",
+        "pronounciation": "ń̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "essuyer",
+                "definition_en": "dry",
+                "examples": []
+            },
+            {
+                "definition_fr": "toucher avec le doigt pour attaquer",
+                "definition_en": "attack by poking with a finger",
+                "examples": []
+            },
+            {
+                "definition_fr": "appliquer par endroit (pâte)",
+                "definition_en": "apply in places (paste)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse legwé",
+        "pronounciation": "ǹ̩tsè lèɣxwé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chant funèbre ; chant de deuil ; lamentation",
+                "definition_en": "dirge; funeral song; bereavement song; lamentation; wailing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse mekwò",
+        "pronounciation": "ǹ̩tsè mèkxwȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "goutte",
+                "definition_en": "drop",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse nnɛ́",
+        "pronounciation": "ǹ̩tsè ǹ̩nɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sperme ; spermatozoïde",
+                "definition_en": "sperm; spermatozoon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse ntǔŋ",
+        "pronounciation": "ǹ̩tsè ɳʈũ̌ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puits",
+                "definition_en": "well",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntse nÿɔ́g",
+        "pronounciation": "ǹ̩tsè nɰɔ́q̚",
+        "synonym": [
+            "letse jÿɔ́g"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "larme",
+                "definition_en": "tear",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsèbe",
+        "pronounciation": "ǹ̩tsə̀βȅ",
+        "synonym": [
+            "kwàkwà"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsébe",
+        "pronounciation": "ń̩tsə́βé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire un rite avant de déguster les prémices",
+                "definition_en": "do a ritual before tasting the first fruits",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsee",
+        "pronounciation": "ń̩tsèː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traîner",
+                "definition_en": "pull; drag",
+                "examples": []
+            },
+            {
+                "definition_fr": "faire l’imbécile",
+                "definition_en": "make a fool",
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "noun": "lwò nŋwáʼ",
+        "pronounciation": "ɭɬwȍ ŋ̩̀ŋwáʔ",
+        "synonym": [
+            "lelwò nŋwáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "miel",
+                "definition_en": "honey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lẅè",
+        "pronounciation": "lɬɥȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bile",
+                "definition_en": "bile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lẅɛ̀",
+        "pronounciation": "lɥɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "rainette",
+                "definition_en": "tree-frog",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyág",
+        "pronounciation": "ljáq̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "immature ; déchet",
+                "definition_en": "immature; waste",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyagá",
+        "pronounciation": "ljàʁá",
+        "synonym": [
+            "lepab"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aile ; nageoire",
+                "definition_en": "wing; fin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyága nkandi",
+        "pronounciation": "ljáʁá ŋ̩̀kàndì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "banane immature",
+                "definition_en": "green banana",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyága nkàndòŋ",
+        "pronounciation": "ljáʁá ŋ̩̀kȁndõ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "plantain immature",
+                "definition_en": "green plantain",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyě gʉ̀",
+        "pronounciation": "lɬjě ɣɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nourriture pour les invités",
+                "definition_en": "food for invited ones",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyéen",
+        "pronounciation": "ljẽ́ː",
+        "synonym": [
+            "liŋé"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "marque ; remarque ; note",
+                "definition_en": "mark; remark; note",
+                "examples": [
+                    {
+                        "dialect": "M bǐ lyéen na mmó gie ɔ̀ gÿǒ lɛ.",
+                        "fr": "J’ai pris une remarque sur ce que tu as fait.",
+                        "en": "I made a comment about what you did."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lyěen nzsè",
+        "pronounciation": "ljẽ̌ː ǹ̩dzsȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "piste",
+                "definition_en": "track; trail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyèente",
+        "pronounciation": "ljẽ̀ːtȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "liaison ; guide ; transition",
+                "definition_en": "contact; guide; transition",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̀",
+        "pronounciation": "ljɛ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colle",
+                "definition_en": "glue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ́bte",
+        "pronounciation": "ljɛ́pté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "magnétisme ; charme ; appas",
+                "definition_en": "magnetism; charm; charms",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̀bte ncù",
+        "pronounciation": "ljɛ̀ptȅ ǹ̩tʃȕ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "belliciste ; provocateur",
+                "definition_en": "warmonger; instigator",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̀nÿɔ́g",
+        "pronounciation": "ljɛ̏ɳɰɔ́q̚",
+        "synonym": [
+            "lélyɛ̌"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "bident",
+                "definition_en": "blackjack",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̌ʼ",
+        "pronounciation": "ljɛ̌ʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jour",
+                "definition_en": "day",
+                "examples": []
+            },
+            {
+                "definition_fr": "date",
+                "definition_en": "date",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̌ʼ ntsèm",
+        "pronounciation": "ljɛ̌ʔ ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quotidiennement",
+                "definition_en": "daily",
+                "examples": [
+                    {
+                        "dialect": "À jÿo mesaŋá lyɛ̌ʼ ntsèm.",
+                        "fr": "Il mange quotidiennement le couscous.",
+                        "en": "He eats couscous daily."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lyɛʼɛ́ láʼ",
+        "pronounciation": "ljɛ̀ʔɛ́ láʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "jour",
+                "definition_en": "day",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛʼɛ́ sẅíŋtè",
+        "pronounciation": "ljɛ̀ʔɛ́ sɥĩ́ŋtȅ",
+        "synonym": [
+            "sóndi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dimanche",
+                "definition_en": "Sunday",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lyɛ̌ʼɔɔn",
+        "pronounciation": "ljɛ̌ʔɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adv.t.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aujourd’hui",
+                "definition_en": "today",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ge gʉa pɔ́ lyɛ̌ʼɔɔn; n tè gʉa jǔɔ wɔ́.",
+                        "fr": "Je pars aujourd’hui ; je ne pars pas demain.",
+                        "en": "I'm leaving today; I'm not leaving tomorrow."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "lÿe njÿó",
+        "pronounciation": "ɭɬɰè ǹ̩dʒʃɰó",
+        "synonym": [
+            "lʉa njÿó ",
+            " ndʉa njÿó"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aube",
+                "definition_en": "dawn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿó",
+        "pronounciation": "ɭɬɰó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. fourmi",
+                "definition_en": "sp. ant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿò",
+        "pronounciation": "ɭɬɰȍ",
+        "synonym": [
+            "ndÿò"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gastrite",
+                "definition_en": "gastritis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿò",
+        "pronounciation": "ɭɬɰȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "vieillesse",
+                "definition_en": "old age",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lÿóon",
+        "pronounciation": "ɭɰṍː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cheval",
+                "definition_en": "horse",
+                "examples": []
+            }
+        ]
+    }
+]

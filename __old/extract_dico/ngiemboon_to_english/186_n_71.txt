@@ -1,0 +1,451 @@
+[
+    {
+        "noun": "ntùŋo",
+        "pronounciation": "ɳ̩̀ʈũ̀ŋȍ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui creuse",
+                "definition_en": "digger",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtúŋte",
+        "pronounciation": "ɳ̩́ʈṹŋté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "veiller ; s’occuper",
+                "definition_en": "watch over; occupy oneself; keep busy",
+                "examples": [
+                    {
+                        "dialect": "À te túŋte penkʉ́ pé wɔ́.",
+                        "fr": "Il ne veille pas sur ses enfant.",
+                        "en": "He doesn't watch over his children."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtúŋte",
+        "pronounciation": "ɳ̩́ʈṹŋté",
+        "synonym": [
+            "ńtáŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "arranger ; ordonner",
+                "definition_en": "arrange; order",
+                "examples": []
+            },
+            {
+                "definition_fr": "organiser",
+                "definition_en": "organize",
+                "examples": []
+            },
+            {
+                "definition_fr": "ranger",
+                "definition_en": "order",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntuɔ",
+        "pronounciation": "ɳ̩̀ʈùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brûlé ; rôti",
+                "definition_en": "burned; roasted",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ ne ḿpfɛ́ɛ nkandòŋo ntuɔ.",
+                        "fr": "Ils sont en train de manger le plantain rôti.",
+                        "en": "They are eating the roasted plantain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntùɔ",
+        "pronounciation": "ɳ̩̀ʈùɔ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui brûle ; brûleur",
+                "definition_en": "someone who burns; burner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtuɔ",
+        "pronounciation": "ɳ̩́ʈùɔ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "brûler",
+                "definition_en": "burn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntúʼ",
+        "pronounciation": "ɳ̩̀ʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "calebasse à vin",
+                "definition_en": "calabash for wine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtuʼ",
+        "pronounciation": "ɳ̩́ʈùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "perdre la croissance ; être nain ; rabougrir",
+                "definition_en": "lose one’s growth; be a dwarf; stunt",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtuʼ",
+        "pronounciation": "ɳ̩́ʈùʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se réjouir en dansant",
+                "definition_en": "rejoice by dancing",
+                "examples": [
+                    {
+                        "dialect": "À zǐŋ tà ńtuʼ.",
+                        "fr": "Il a dansé jusqu’à se réjouir.",
+                        "en": "He danced until he was happy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtúʼ",
+        "pronounciation": "ɳ̩́ʈúʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "puiser",
+                "definition_en": "draw",
+                "examples": []
+            },
+            {
+                "definition_fr": "amasser",
+                "definition_en": "amass",
+                "examples": []
+            },
+            {
+                "definition_fr": "piller",
+                "definition_en": "pillage",
+                "examples": [
+                    {
+                        "dialect": "Tsǒŋ tǔʼ ndá nyìŋ.",
+                        "fr": "Le voleur a pillé la maison de quelqu’un.",
+                        "en": "The thief robbed someone's house."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntùʼ kěm",
+        "pronounciation": "ɳ̩̀ʈȕʔ kə̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "membre des rites d’initiation",
+                "definition_en": "initiation rite member",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùʼ lekàŋ",
+        "pronounciation": "ɳ̩̀ʈȕʔ lèkã̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "knock-out ; k.-o. (dans les jeux anglais)",
+                "definition_en": "knock-out; k.o. (for English games)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùʼ ngùb",
+        "pronounciation": "ɳ̩̀ʈȕʔ ŋ̩̀gȕp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "outre",
+                "definition_en": "goatskin",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntùʼ ntse",
+        "pronounciation": "ɳ̩̀ʈȕʔ ǹ̩tsè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne qui puise",
+                "definition_en": "person who draws water",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtúʼte",
+        "pronounciation": "ɳ̩́ʈúʔté",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être court ; écourter",
+                "definition_en": "be short; shorten",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntúʼù kẅìŋe",
+        "pronounciation": "ɳ̩̀ʈúʔȕ kɥĩ̀ŋȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. calebasse (longue, cornée et droite)",
+                "definition_en": "sp. calabash (long, straight, with horny surface)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀",
+        "pronounciation": "ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "précieux ; résistant",
+                "definition_en": "precious; resilient; tough; strong",
+                "examples": []
+            },
+            {
+                "definition_fr": "sérieux",
+                "definition_en": "serious",
+                "examples": [
+                    {
+                        "dialect": "Anò gie ɔ̀ gɔɔn lɛ̀, aa ntʉ̀ nò.",
+                        "fr": "Ce que tu dis là est sérieux.",
+                        "en": "What you are saying here is serious."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀",
+        "pronounciation": "ɳ̩̀ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "saucissonnier",
+                "definition_en": "sausage tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ",
+        "pronounciation": "ɳ̩́ʈɯ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "être fort",
+                "definition_en": "be strong",
+                "examples": []
+            },
+            {
+                "definition_fr": "avoir la maturité",
+                "definition_en": "be mature",
+                "examples": []
+            },
+            {
+                "definition_fr": "être solide",
+                "definition_en": "be solid",
+                "examples": []
+            },
+            {
+                "definition_fr": "se donner",
+                "definition_en": "give oneself",
+                "examples": []
+            },
+            {
+                "definition_fr": "s’entêter",
+                "definition_en": "to persist",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉ́",
+        "pronounciation": "ɳ̩́ʈɯ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "citer",
+                "definition_en": "cite; quote",
+                "examples": []
+            },
+            {
+                "definition_fr": "dénombrer",
+                "definition_en": "count",
+                "examples": []
+            },
+            {
+                "definition_fr": "prévoir",
+                "definition_en": "to expect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀ nzẅìŋ",
+        "pronounciation": "ɳ̩̀ʈɯ̏ ǹ̩dzɥĩ̏ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cher ; honorable",
+                "definition_en": "dear; expensive; honourable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̀ tʉ̀",
+        "pronounciation": "ɳ̩̀ʈɯ̏ ʈɯ̏",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adj.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "solide ; difficile",
+                "definition_en": "solid; difficult",
+                "examples": [
+                    {
+                        "dialect": "Ammó ntʉ̀ tʉ̀ gie áa lefaŋ ge laʼ gwete ntsèm.",
+                        "fr": "Du ciel tombera tout ce qui est solide.",
+                        "en": "From the sky everything that is solid will fall."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntʉa",
+        "pronounciation": "ɳ̩̀ʈɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. insecte comestible",
+                "definition_en": "sp. edible insect",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntʉ̂a",
+        "pronounciation": "ɳ̩̀ʈɯ́à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "cinq (seulement pour compter)",
+                "definition_en": "five (only for counting)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtʉa",
+        "pronounciation": "ɳ̩́ʈɯ̀à",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "endurcir ; être brûlé par le soleil (igname)",
+                "definition_en": "harden; toughen up; be burnt by the sun (yam)",
+                "examples": [
+                    {
+                        "dialect": "Néŋe tsetsáʼ na lelÿɔʼ mbà, é ge tʉa.",
+                        "fr": "Mets la terre sur l’igname si non elle va s’endurcir.",
+                        "en": "Put the earth on the yam otherwise it will harden."
+                    }
+                ]
+            }
+        ]
+    }
+]

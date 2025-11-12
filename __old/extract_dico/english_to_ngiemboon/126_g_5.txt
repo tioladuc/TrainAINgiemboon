@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "goal",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅɛ̌ ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táleŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goalkeeper",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lekÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go along horizontally",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go around",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbume",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go at a turtle’s pace",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnyéente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat, billy-",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mêmbwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat, bleat",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mɛ̌ɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat, castrated",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fÿɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat for widow’s ceremony",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cùʼupfɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mêmvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goatherd",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ mvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat, male",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mêmbwɔ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pÿɔ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goatskin",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntùʼ ngùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goatweed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncwòmamúɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goat, young",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ mvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go below",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éshú",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "goblet",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌ ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gʉ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tétɔ́ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "god",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Nděm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "Cʉ̀apʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "God",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Ssé",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "Nděm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "Cʉ̀apʉ̀a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "God, Creator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "Mbwóon",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "godfather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tafùɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "táleluŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "God, house",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndá Ssé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "godmother",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkàa pʉ́a",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "godmother, chief’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "máfùɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "go down",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛ́ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíʼi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcwóŋ",
+                "examples": []
+            }
+        ]
+    }
+]

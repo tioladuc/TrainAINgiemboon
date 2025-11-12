@@ -1,0 +1,427 @@
+[
+    {
+        "noun": "fragment",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbyě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "frame",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó ndá",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gùmopàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtÿɔ́ʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "legÿɔʼ ndá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "frame, ceremonial",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkáŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "framer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntÿɔ̀ʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "framing, piece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàankém",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mambye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "framing truss, piece",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "megùmo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "franc, one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàʼ feláŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "franolin, Latham’s forest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ̀ʼɔ kwɔb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɔ́ʼ mbím",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fraud",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsyéente",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fray",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅaŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtswaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "free",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndù nnɛ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅɛ̀ɛ sẅɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "free, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwɔ́ ndù nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "freedom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù nnɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "free of ignorance, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfele",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "free oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éfaga",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "free, something",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndɔ̀ʼɔ fùʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "freeway",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò nzsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kúmò lǎŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "freeze",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "freezer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nẅèen nkẅíʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "French",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "felaŋsée",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "felaŋsíi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "frequently",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "-te",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "frequently, most",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉʉ lelÿò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fresh",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅisẅê",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Friday",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "faládê",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvfò màga lyɛ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "friend",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shǔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kwò zɔ́gɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sǒ",
+                "examples": []
+            }
+        ]
+    }
+]

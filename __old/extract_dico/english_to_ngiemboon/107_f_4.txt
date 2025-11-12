@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "fault",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "fɔ̂d",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "faults",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mefʉa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "favour",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsíŋte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿó gʉ́m",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "cÿɔ̀ʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fearful person",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ncÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fear someone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbɔ́gɔ nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feather",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leffo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feather, bird tail",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "letoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feather, red bird",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngǔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "February",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋ kàg ngwóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feeble, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feeble, become",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ́te",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbÿɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feeble (elastic), be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíbe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feeble (person)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pepÿɛ́ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feed",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńdye",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feeding",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njÿǒ shúm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feel",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésíg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíge",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éssó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿmwoonte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feel like doing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feel pain",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkúte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fee, membership",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mekǔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feet, separate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgɔgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńgɔg",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feet striking the ground, sound",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lêŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "feint",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅete",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsẅe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "female",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzwě",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "fence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkáʼ",
+                "examples": []
+            }
+        ]
+    }
+]

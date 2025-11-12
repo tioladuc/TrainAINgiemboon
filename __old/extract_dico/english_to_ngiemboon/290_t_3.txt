@@ -1,0 +1,467 @@
+[
+    {
+        "noun": "taste the first fruits",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsébe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tattoo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mága",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "taunt",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legẅè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfégè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tax",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tágsè",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ncùb",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésáʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tax collector",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkẅè ncùb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tea",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tea bush, wild",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "túʼtoŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "teacher",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzìʼi nyìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ ntÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "teacher, primary school",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzìʼi nyìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntsyèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsítsà",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tea, Japenese",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼa ncÿɔ̀b letuŋó shÿoo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tear",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsyàgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésiɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ntse nÿɔ́g",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsàgte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkyag",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "letse lejÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tearer",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shʉ̀ate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tear out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tear, smallest",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "zyɛ́ʼ kʉŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tear themselves out",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwote",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwoe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tear to pieces",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgwate",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éshʉate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tease",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkibte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "éssóte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbʉŋte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tea, senna",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "láʼa ncÿɔ̀b letuŋó shÿoo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "technician",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngàŋ levfò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "technique",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "levfò",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ngÿǒ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "teeth, devour with one’s",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkoon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńkɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "telephone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅíkẅíle",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "telescope",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lùŋ nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "television",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jùʼu ngyá",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "tell",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdɔʼte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ḿbíte",
+                "examples": []
+            }
+        ]
+    }
+]

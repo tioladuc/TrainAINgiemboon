@@ -1,0 +1,443 @@
+[
+    {
+        "noun": "ndee",
+        "pronounciation": "ǹ̩dèː",
+        "synonym": [
+            "ndeen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dès ; tout de suite ; immédiatement",
+                "definition_en": "since; from; straight away; right away; immediately",
+                "examples": [
+                    {
+                        "dialect": "À tǒ, n dee ńgʉa.",
+                        "fr": "Dès qu’il est venu, je suis parti.",
+                        "en": "As soon as he came, I left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndeen",
+        "pronounciation": "ǹ̩dẽ̀ː",
+        "synonym": [
+            "ndee"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dès ; tout de suite ; immédiatement",
+                "definition_en": "since; from; straight away; right away; immediately",
+                "examples": [
+                    {
+                        "dialect": "À tǒ, n dee ńgʉa.",
+                        "fr": "Dès qu’il est venu, je suis parti.",
+                        "en": "As soon as he came, I left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndéen",
+        "pronounciation": "ǹ̩dẽ́ː",
+        "synonym": [
+            "léen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "m.t.asp.emph",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "passé loin, perfectif emphatique contre-attente",
+                "definition_en": "emphatic perfective counter-expectation distant past",
+                "examples": [
+                    {
+                        "dialect": "Gubé yé léen ńgwáʼa yé ńgʉa lé túm metsèm.",
+                        "fr": "Ses enfants l’ont tous abandonné pour aller à l’étranger.",
+                        "en": "His children all abandoned him to go abroad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdeen",
+        "pronounciation": "ń̩dẽ̀ː",
+        "synonym": [
+            "leen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "subitement ; immédiatement ; du coup ; tout de suite",
+                "definition_en": "suddenly; immediately; quickly",
+                "examples": [
+                    {
+                        "dialect": "Pɔ́ tǒ, ńdeen ńgʉa pɔ́ fʉ̀ʼó.",
+                        "fr": "Ils sont venus, immédiatement, ils sont repartis.",
+                        "en": "They came, immediately, they left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńdeen",
+        "pronounciation": "ń̩dẽ̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "traîner",
+                "definition_en": "pull; drag",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndeen nké",
+        "pronounciation": "ǹ̩dẽ̀ː ŋ̩̀ké",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "subitement",
+                "definition_en": "suddenly",
+                "examples": [
+                    {
+                        "dialect": "À gÿǒ megʉa tà mé náa fàʼ né yé, á leen ńké ńgʉa.",
+                        "fr": "Il s’est amusé jusqu’à ce qu’on lui a donné le travail, subitement il est parti.",
+                        "en": "He had fun until he was given the job, suddenly he left."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "vraiment",
+                "definition_en": "Really",
+                "examples": [
+                    {
+                        "dialect": "Ɔ̀ toŋó yé tà à lěen ńké ńtó.",
+                        "fr": "Tu l’as appelé si bien qu’il est vraiment venu.",
+                        "en": "You called him so well that he actually came."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ndêg",
+        "pronounciation": "ǹ̩də̂q̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "niveau ; dalle ; étage",
+                "definition_en": "level; slab; storey",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndegé",
+        "pronounciation": "ǹ̩də̀ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "autorité",
+                "definition_en": "authority",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndegé",
+        "pronounciation": "ǹ̩də̀ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "personne blanche",
+                "definition_en": "white person",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndège",
+        "pronounciation": "ǹ̩də̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limite",
+                "definition_en": "boundary; limit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdege",
+        "pronounciation": "ń̩də̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t./v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "oublier",
+                "definition_en": "forget",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdége",
+        "pronounciation": "ń̩də́ʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "périr",
+                "definition_en": "perish",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdele",
+        "pronounciation": "ń̩də̀lè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "joindre ; unir",
+                "definition_en": "join; unite",
+                "examples": []
+            },
+            {
+                "definition_fr": "coller ; doubler",
+                "definition_en": "glue; double",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndem",
+        "pronounciation": "ǹ̩də̀m",
+        "synonym": [
+            "ntsẅɛ̀ʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fesse et partie génitale ensemble",
+                "definition_en": "buttock and genitals together",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèm",
+        "pronounciation": "ǹ̩də̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "palabre",
+                "definition_en": "argument",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Nděm",
+        "pronounciation": "ǹ̩də̌m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "Dieu",
+                "definition_en": "God",
+                "examples": []
+            },
+            {
+                "definition_fr": "dieu",
+                "definition_en": "god",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdem",
+        "pronounciation": "ń̩də̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "sentir mauvais",
+                "definition_en": "smell bad",
+                "examples": []
+            },
+            {
+                "definition_fr": "flairer ; renifler",
+                "definition_en": "sniff; sniff",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdém",
+        "pronounciation": "ń̩də́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s’envoler ; voler (oiseau)",
+                "definition_en": "fly away; fly (bird)",
+                "examples": []
+            },
+            {
+                "definition_fr": "filer",
+                "definition_en": "spin; run",
+                "examples": []
+            },
+            {
+                "definition_fr": "vaporiser ; évaporer",
+                "definition_en": "spray; evaporate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèmóon púʼ",
+        "pronounciation": "ǹ̩dȅmṍː púʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "gardien de la forêt",
+                "definition_en": "forest guard",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńdemte",
+        "pronounciation": "ń̩də̀mtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chuchoter ; murmurer",
+                "definition_en": "whisper; murmur",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèndàʼ",
+        "pronounciation": "ǹ̩dȅndȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "raison",
+                "definition_en": "reason",
+                "examples": []
+            },
+            {
+                "definition_fr": "détail",
+                "definition_en": "detail",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèndoŋ",
+        "pronounciation": "ǹ̩dȅndõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "esp. arbre",
+                "definition_en": "sp. tree",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèndoŋ",
+        "pronounciation": "ǹ̩dȅndõ̀ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "flûte",
+                "definition_en": "flute",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèndʉ́m",
+        "pronounciation": "ǹ̩dȅɳɖɯ́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "s. condiment",
+                "definition_en": "grains of paradise; Madagascar cardamum",
+                "examples": []
+            },
+            {
+                "definition_fr": "esp. plante",
+                "definition_en": "sp. plant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ndèndʉ́m legǐ",
+        "pronounciation": "ǹ̩dȅɳɖɯ́m lèɣǐ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "amome de madagascar",
+                "definition_en": "Cameroon cardamon; Madagascar cardamon",
+                "examples": []
+            }
+        ]
+    }
+]

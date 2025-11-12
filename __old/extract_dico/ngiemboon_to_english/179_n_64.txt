@@ -1,0 +1,424 @@
+[
+    {
+        "noun": "ntsèen",
+        "pronounciation": "ǹ̩tsẽ̏ː",
+        "synonym": [
+            "nzìʼi nyìŋ",
+            " ntsyèen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "facilitateur ; entraîneur ; enseignant ; maître",
+                "definition_en": "facilitator; coach; teacher; primary school teacher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtseen",
+        "pronounciation": "ń̩tsẽ̀ː",
+        "synonym": [
+            "ńtsyeen"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entraîner (marche) ; faciliter ; diriger",
+                "definition_en": "lead (walk); facilitate; manage",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsège",
+        "pronounciation": "ǹ̩tsə̀ʁȅ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "émouleur ; aiguiseur",
+                "definition_en": "grinder; sharpener",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsege",
+        "pronounciation": "ń̩tsə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "accompagner",
+                "definition_en": "accompany",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsege",
+        "pronounciation": "ń̩tsə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "laisser-aller ; céder le passage",
+                "definition_en": "let go; give way; yield",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsege",
+        "pronounciation": "ń̩tsə̀ʁè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limer",
+                "definition_en": "file",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsège mezàʼ",
+        "pronounciation": "ǹ̩tsə̀ʁȅ mèzȁʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "dépassé ; livreur inutile",
+                "definition_en": "outmoded; useless delivery man",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsem",
+        "pronounciation": "ǹ̩tsə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aparté",
+                "definition_en": "aside",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsèm",
+        "pronounciation": "ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "adj.qual",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tous; tout ; tous (qualifie les noms de toutes les classes sauf la classe 2)",
+                "definition_en": "all (qualifies nouns of all classes except class 2)",
+                "examples": [
+                    {
+                        "dialect": "À jǔ ngesáŋ ntsèm.",
+                        "fr": "Il a acheté tout le maïs.",
+                        "en": "He bought all the corn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsem",
+        "pronounciation": "ń̩tsə̀m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "torturer",
+                "definition_en": "torturer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsém",
+        "pronounciation": "ń̩tsə́m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "prendre du poids",
+                "definition_en": "gain weight",
+                "examples": [
+                    {
+                        "dialect": "Kúnɔ̀ɔn we tsěm fʉ̀ʼɔɔn tɛ́ʼ.",
+                        "fr": "Maintenant, son porc a pris beaucoup de poids.",
+                        "en": "Now his pig has gained a lot of weight."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ntsèm ntsèm",
+        "pronounciation": "ǹ̩tsə̏m ǹ̩tsə̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.adv.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "entièrement ; tout",
+                "definition_en": "entirely; all",
+                "examples": [
+                    {
+                        "dialect": "Ná nkáb yɔ̀ɔn pɔ́ ntsèm ntsèm.",
+                        "fr": "Donne tout mon argent.",
+                        "en": "Give all my money."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtseme",
+        "pronounciation": "ń̩tsə̀mè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "supporter",
+                "definition_en": "support; bear",
+                "examples": [
+                    {
+                        "dialect": "Anò ne ńgyáŋa mámbàŋa, á kwé pɔ́ ńtseme tseme.",
+                        "fr": "Quand l’homme est fâché, il meurt en supportant.",
+                        "en": "When a man is angry, he dies while enduring it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsemte",
+        "pronounciation": "ń̩tsə̀mtè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "se concerter ; s’entretenir en intimité ; causer avec quelqu’un",
+                "definition_en": "consult each other; intimately converse with someone; chat; talk with someone",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsentsɔɔn",
+        "pronounciation": "ǹ̩tsèntsɔ̃̀ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.réd",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "idiot ; imbécile",
+                "definition_en": "idiot; imbecile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtseŋe",
+        "pronounciation": "ń̩tsə̃̀ŋè",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "emmerder ; ennuyer",
+                "definition_en": "bug; bother",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtséʼe",
+        "pronounciation": "ń̩tsə́ʔé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ne pas vouloir rester ; chercher à vite partir ; s’empresser",
+                "definition_en": "not want to stay; look to quickly leave; eagerly do",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɛ",
+        "pronounciation": "ń̩tsɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "faire de la balançoire",
+                "definition_en": "swing on a swing; play on a seesaw",
+                "examples": [
+                    {
+                        "dialect": "À ne ńtsɛɛ málʉŋ.",
+                        "fr": "Il joue à la balançoire.",
+                        "en": "He plays on the swing."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "faire de la balançoire",
+                "definition_en": "go on a swing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɛ",
+        "pronounciation": "ń̩tsɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "presser ; charger en serrant",
+                "definition_en": "overload; load by squeezing in",
+                "examples": [
+                    {
+                        "dialect": "Tsɛ nzab tsɛ̀ɛ pɔ̀ɔn.",
+                        "fr": "Presse le légume dans le sac.",
+                        "en": "Squeeze the vegetable into the bag."
+                    }
+                ]
+            },
+            {
+                "definition_fr": "renforcer",
+                "definition_en": "reinforce",
+                "examples": []
+            },
+            {
+                "definition_fr": "surcharger",
+                "definition_en": "overload",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɛ",
+        "pronounciation": "ń̩tsɛ̀",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.aux",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tout de même ; quand même",
+                "definition_en": "all the same; still; however; nevertheless; even so",
+                "examples": [
+                    {
+                        "dialect": "Mèŋ n ne ńnguɔ táʼ, n ge tsɛ gʉa pɔ́ nkáʼ.",
+                        "fr": "Je suis malade mais, je partirai tout de même au champ.",
+                        "en": "I'm sick but I'll still go to the field."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "noun": "ńtsɛ́",
+        "pronounciation": "ń̩tsɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "fermer ; combler",
+                "definition_en": "close; fill",
+                "examples": []
+            },
+            {
+                "definition_fr": "boucher les trous ; combler",
+                "definition_en": "plug the holes; to fill in",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsɛ̀ɛ",
+        "pronounciation": "ǹ̩tsɛ̏ː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "colleur",
+                "definition_en": "billsticker; wallpaperer",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsi",
+        "pronounciation": "ń̩tsì",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.i",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "uriner",
+                "definition_en": "urinate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ntsìb",
+        "pronounciation": "ǹ̩tsȉp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "celui qui retire du feu ou de la marmite",
+                "definition_en": "one who takes something out of a fire or out of a pot",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ńtsíb",
+        "pronounciation": "ń̩tsíp̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "v.t",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "enlever",
+                "definition_en": "remove",
+                "examples": []
+            },
+            {
+                "definition_fr": "retirer de la marmite ; retirer du feu",
+                "definition_en": "withdraw from the pot; withdraw from the fire",
+                "examples": []
+            }
+        ]
+    }
+]

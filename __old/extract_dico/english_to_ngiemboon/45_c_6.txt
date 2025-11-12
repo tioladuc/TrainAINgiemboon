@@ -1,0 +1,422 @@
+[
+    {
+        "noun": "caterpillar, furry",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánènẅèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mambǎ saŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánẅìnẅì",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mámbàŋa tẅɛ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cÿɔ̀gɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar, kola",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "saŋngalé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar, large sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèm mvfó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar, rush",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkwɛte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "cʉ̀cÿɔ̀gɔ ngesáŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máletsyɛ̀ mbʉ̀ŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ndye múɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "caterpillar that stings",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mánènẅèen",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mánẅìnẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cat, feral",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "vɛ̀",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "catfish (generic)",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ssé twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Catholic",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kàtolé",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cat, meow",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mí gyeen guu",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cause",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "éséʼe",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtág",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtágte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cause of death",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "twó légwe",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cautious",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndÿɔ̀ʼɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cavity, dental",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngí",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Cayman",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngʉ̀ ntse",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nnú ngém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cease",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzáʼa",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceiling",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "káa pàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tàankém",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceiling, bamboo",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ceiling, smoke",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋwɛ̌",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "celebrate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńjÿó línɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅɛʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "celibacy",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅì",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cellar",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndamvwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cement",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "semâg",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńcÿo",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "semíd",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "cement, volcanic rock",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "njúngù",
+                "examples": []
+            }
+        ]
+    }
+]

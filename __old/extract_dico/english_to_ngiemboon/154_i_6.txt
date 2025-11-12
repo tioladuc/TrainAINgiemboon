@@ -1,0 +1,452 @@
+[
+    {
+        "noun": "insert",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅi",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅite",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insert oneself",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńnɔ́ge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inside",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ wó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsetsoló",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsoló",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "tsɛ̀ɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insignificant",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mentsɔgɔ́",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pile",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insist",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńkẅite",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insistence, shows",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mbɔ́ɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insist on doing",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtʉʉ twó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insolvent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kùkwò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inspect",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ésíɛ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "inspector",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ntsàʼa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sìɛ nÿɔ́g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instead of",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legwɔ́ gie",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instigator",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "lyɛ̀bte ncù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instinct",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tèlepyè",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instructor",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzìʼi nyìŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instrument, k. dance",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kwàlànjà",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nně zíŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instrument, k. musical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kẅìŋ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pímte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "gwɔ́gɔ mbɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "métsàʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "instrument, musical",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shúm leluŋó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insult",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́bte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtság",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "nzòon",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtyɛ́b",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńzoonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńníagte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "zòonte",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ńtsyág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insult each other",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtwó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insult, k.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "metuŋó vɔ̀g",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insults, one who",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tyɛ́b",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "insult, take revenge for an",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ésẅag shʉ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intelligence",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "legye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intelligent",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nzsè nò",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "intelligent, be",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgye",
+                "examples": []
+            }
+        ]
+    }
+]

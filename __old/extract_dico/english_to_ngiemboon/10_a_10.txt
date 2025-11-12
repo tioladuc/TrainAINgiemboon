@@ -1,0 +1,437 @@
+[
+    {
+        "noun": "another, one",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "pi né pi",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "antagonize",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńgág",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, black and poisonous sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅɛ́ɛ nèm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, brown and small sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "shÿɔ́ʼ ngwɔ̌ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "antelope grass",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "laʼá ndÿɔgɔ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "antelope, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ngáb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "antenna",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nŋaŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anterior future",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tǎ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant (gilded black), sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "nkʉ́nkʉʼʉ́",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anthill",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "gÿàŋa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "foffó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "fʉ̀ŋe sɔ̀ɔn",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "leffo",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anticipate",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńtíʼte",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "antler",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndóŋ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant lion",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mángɔɔn lekye",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, mushroom",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tákwè tÿɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, poisonous sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mákěm nkwàʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "malélúm ntsẅɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, smelly sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "matÿɔ́ʼ ntsɔɔn",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅɛ́ɛ pwɔʼ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "lÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mvòm lÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "málémngʉ̀a",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mpfémpfɛ̌",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "pfóm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "kíshʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "máshúa",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "sẅísẅɛ́ɛ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "késhʉ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "ffó",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "ant, yellow and small sp.",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "jʉ́jÿó pwɔʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anus",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ncÿó",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "múɔ ntsẅɛ̀ʼ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anus, discharge water",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńzíge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anvil",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ndù",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anxiety",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "tse",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anyone",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "mâwɔ̌wɔ́ɔ",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "mânyìŋ ntsèm",
+                "examples": []
+            },
+            {
+                "definition_fr": "",
+                "definition_en": "wɔ̌wɔ́ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "anything",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "kɔ̀ɔkɔ́ɔ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "apart from",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "",
+                "definition_en": "ńdíndaʼ",
+                "examples": []
+            }
+        ]
+    }
+]

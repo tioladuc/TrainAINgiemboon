@@ -1,0 +1,385 @@
+[
+    {
+        "noun": "lèŋe lefùɔ",
+        "pronounciation": "lə̃̀ŋè lèfùɔ̏",
+        "synonym": [
+            "lʉ̀ŋe lefùɔ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mante (gén.)",
+                "definition_en": "mantis (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lèŋte",
+        "pronounciation": "lə̃̀ŋtȅ",
+        "synonym": [
+            "lʉ̀ŋte"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "imitation",
+                "definition_en": "imitation",
+                "examples": []
+            },
+            {
+                "definition_fr": "test ; composition ; examen",
+                "definition_en": "test; exam; examination",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "leŋwɔʼɔ́",
+        "pronounciation": "lèŋwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "virage ; tournant",
+                "definition_en": "turn; bend",
+                "examples": []
+            },
+            {
+                "definition_fr": "courbe",
+                "definition_en": "curve",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepàa",
+        "pronounciation": "lèpȁː",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "limite",
+                "definition_en": "boundary; limit",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepàa nkáʼ",
+        "pronounciation": "lèpȁː ŋ̩̀káʔ",
+        "synonym": [
+            "tʉ̂a nkáʼ"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "haie",
+                "definition_en": "hedge",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepab",
+        "pronounciation": "lèpàp̚",
+        "synonym": [
+            "lyagá"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "aile",
+                "definition_en": "wing",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepagá",
+        "pronounciation": "lèpàʁá",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "teigne (gén.)",
+                "definition_en": "moth (generic)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepàŋndâŋ",
+        "pronounciation": "lèpã̏ŋndã̂ŋ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n.c",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "indépendance",
+                "definition_en": "independence",
+                "examples": []
+            },
+            {
+                "definition_fr": "s. danse culturelle",
+                "definition_en": "k. cultural dance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepáʼ",
+        "pronounciation": "lèpáʔ",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "coussin",
+                "definition_en": "cushion",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "Lepfá",
+        "pronounciation": "",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": []
+    },
+    {
+        "noun": "lepfɛ́",
+        "pronounciation": "lèpfɛ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "tas d’ordure",
+                "definition_en": "pile of filth",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfo",
+        "pronounciation": "lèpfò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "kola",
+                "definition_en": "kola nut",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfó",
+        "pronounciation": "lèpfó",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "quartier d’un village",
+                "definition_en": "neighbourhood of a village",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfòm",
+        "pronounciation": "lèpfɤ̏m",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ventre",
+                "definition_en": "stomach; belly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfòm ndàŋa lìi",
+        "pronounciation": "lèpfɤ̏m ǹ̩dã̀ŋȁ lȉ:",
+        "synonym": [
+            "lepfòm ndʉ̀ŋe lìi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ventre ballonné",
+                "definition_en": "bloated stomach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfòm ndǔm",
+        "pronounciation": "lèpfɤ̏m ɳ̩̀ɖǔm",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mal de ventre ; colique",
+                "definition_en": "sick stomach; colic",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfòm ndʉ̀ŋe lìi",
+        "pronounciation": "lèpfɤ̏m ǹ̩dɯ̃̀ŋȅ lȉ:",
+        "synonym": [
+            "lepfòm ndàŋa lìi"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ventre ballonné",
+                "definition_en": "bloated stomach",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfòm nkwo",
+        "pronounciation": "lèpfɤ̏m ŋ̩̀kxwò",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "synt.n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "diarrhée",
+                "definition_en": "diarrhoea",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfɔb",
+        "pronounciation": "lèpfɔ̀p̚",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "ampoule",
+                "definition_en": "bulb",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfwɔʼ",
+        "pronounciation": "lèpfwɔ̀ʔ",
+        "synonym": [
+            "kùkwóon"
+        ],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "mortier",
+                "definition_en": "mortar",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepfwɔʼɔ́",
+        "pronounciation": "lèpfwɔ̀ʔɔ́",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "num.card",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "neuf",
+                "definition_en": "nine",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepí",
+        "pronounciation": "lèpí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "chute",
+                "definition_en": "fall",
+                "examples": []
+            },
+            {
+                "definition_fr": "gouttière",
+                "definition_en": "gutter",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepí",
+        "pronounciation": "lèpí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "grand bruit",
+                "definition_en": "loud noise",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepigé",
+        "pronounciation": "lèpìʁé",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "consultation ; concertation",
+                "definition_en": "consultation; meeting",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "noun": "lepiʼí",
+        "pronounciation": "lèpìʔí",
+        "synonym": [],
+        "sharedgrammaticalinfo_partofspeech": "n",
+        "sharedgrammaticalinfo_morphtypes": "",
+        "sensecontents": [
+            {
+                "definition_fr": "nichoir",
+                "definition_en": "birdhouse",
+                "examples": []
+            },
+            {
+                "definition_fr": "berceau",
+                "definition_en": "cradle; crib",
+                "examples": []
+            }
+        ]
+    }
+]
